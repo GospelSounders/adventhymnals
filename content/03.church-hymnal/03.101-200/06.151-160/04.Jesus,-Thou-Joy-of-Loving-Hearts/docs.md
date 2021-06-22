@@ -1,0 +1,89 @@
+---
+title: 154. Jesus, Thou Joy of Loving Hearts
+metadata:
+    description: 
+    keywords: Church Hymnal, Jesus, Thou Joy of Loving Hearts, Jesus, Thou joy of loving hearts!, 
+    author: Brian Onang'o
+---
+
+
+## 154. JESUS, THOU JOY OF LOVING HEARTS
+
+```txt
+1.
+Jesus, Thou joy of loving hearts! 
+Thou fount of life! Thou light of men! 
+From the best bliss that earth imparts, 
+We turn unfilled to Thee again. 
+
+2.
+Thy truth unchanged has ever stood; 
+Thou savest those that on Thee call; 
+To them that seek Thee, Thou art good, 
+To them that find Thee, all in all. 
+
+3.
+We taste Thee, O Thou living Bread, 
+And long to feast upon Thee still; 
+We drink of Thee, the Fountainhead, 
+And thirst our souls from Thee to fill! 
+
+4.
+Our restless spirits yearn for Thee, 
+Where-e'r our changeful lot is cast; 
+Glad, when Thy gracious smile we see, 
+Blest, when our faith can hold Thee fast. 
+
+5.
+O Jesus, ever with us stay; 
+Make all our moments calm and bright; 
+Chase the dark night of sin away, 
+Shed o'r the world Thy holy light!
+
+```
+
+- |   -  |
+-------------|------------|
+Title | Jesus, Thou Joy of Loving Hearts |
+Key | A Major |
+Titles |  |
+First Line | Jesus, Thou joy of loving hearts! |
+Author | Bernard of Clairvaux (1091-1153)
+Year | 1941
+Composer| Lowell Mason (1792-1872) |
+Hymnal|  - |
+Tune| MIGDOL |
+Metrical pattern | |
+# Stanzas | 5 |
+Chorus | No |
+Chorus Type | - |
+Subjects | Jesus Christ: His Glory and Praise |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalized | unvocalized music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
+-------------|------------|------------|------------|------------|------------|------------|
+pdf | | | | | |
+pdf(x8) | | | | | |
+midi | | | | | |
+vocalized | | | | | |
+unvocalized | | | | | |
+singing file | | | | | |
+Lilypond file | | | | | |
+Lilypond (x8) | | | | | |
+  

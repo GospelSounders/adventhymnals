@@ -1,0 +1,43 @@
+{
+  "name": "node-familyfe",
+  "version": "1.0.0",
+  "description": "An implementation of familyfe v1.0 in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csybersystems/node-familyfe.git"
+  },
+  "keywords": [
+    "familyfe",
+    "node-familyfe",
+    "user",
+    "management",
+    "user",
+    "account",
+    "management",
+    "node",
+    "user",
+    "management"
+  ],
+  "author": "Brian Onang'o",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csybersystems/node-familyfe/issues"
+  },
+  "homepage": "https://github.com/csybersystems/node-familyfe#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "dependencies": {
+    "confidence": "^3.0.2",
+    "dotenv": "^4.0.0",
+    "mysql": "^2.14.1"
+  }
+}

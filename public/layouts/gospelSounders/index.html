@@ -1,0 +1,1201 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{#meta.title}}{{meta.title}} - {{/meta.title}}{{config.site_title}}</title>
+    {{#meta.metadata.description}}<meta name="description" content="{{meta.metadata.description}}">{{/meta.metadata.description}}
+    <link rel="shortcut icon" href="{{config.base_url}}/sites/gsSite1/icon.png">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width"/>
+        <script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9:all.js"></script>
+        <link rel="stylesheet" href="sites/gsSite1/assets/style/master.css">
+        <link rel="stylesheet" href="sites/gsSite1/assets/style/gospelSounders.css">
+        <script src="assets/js/snap.svg-min.js?v=1"></script>
+        <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
+<script src="//cdnjs.cloudflare.com/ajax/libs/snap.svg/0.3.0/snap.svg-min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js"></script>
+
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-44948757-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+            function trackOutboundLink(link, category, action) {
+                try {
+                _gaq.push(['_trackEvent', category , action]);
+                } catch(err){}
+
+                setTimeout(function() {
+                document.location.href = link.href;
+                }, 100);
+            }
+        </script>
+        <style>
+            .container {
+  margin: 0 auto;
+  width: 250px;
+  height: 200px;
+  /* position: relative; */
+  perspective: 1000px;
+}
+
+.carousel {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  transform-style: preserve-3d;
+  transition: transform 1s;
+}
+
+.item {
+  display: block;
+  position: absolute;
+  background: #000;
+  width: 250px;
+  height: 200px;
+  line-height: 200px;
+  /* font-size: 5em; */
+  text-align: center;
+  color: #FFF;
+  /* opacity: 0.95; */
+  border-radius: 10px;
+/* 
+  opacity: 0.5;
+  filter: alpha(opacity=50); For IE8 and earlier */
+}
+
+
+.item:hover {
+  opacity: 1.0;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+.a {
+  transform: rotateY(0deg) translateZ(250px);
+  background: #ed1c24;
+}
+.b {
+  transform: rotateY(60deg) translateZ(250px);
+  background: #0072bc;
+}
+.c {
+  transform: rotateY(120deg) translateZ(250px);
+  background: #39b54a;
+}
+.d {
+  transform: rotateY(180deg) translateZ(250px);
+  background: #f26522;
+}
+.e {
+  transform: rotateY(240deg) translateZ(250px);
+  background: #630460;
+} 
+.f {
+  transform: rotateY(300deg) translateZ(250px);
+  background: #8c6239;
+}
+
+.next, .prev {
+  color: #444;
+  position: absolute;
+  top: 100px;
+  padding: 1em 2em;
+  cursor: pointer;
+  background: #CCC;
+  border-radius: 5px;
+  border-top: 1px solid #FFF;
+  box-shadow: 0 5px 0 #999;
+  transition: box-shadow 0.1s, top 0.1s;
+}
+.next:hover, .prev:hover { color: #000; }
+.next:active, .prev:active {
+  top: 104px;
+  box-shadow: 0 1px 0 #999;
+}
+.next { right: 5em; }
+.prev { left: 5em; }
+
+
+
+/* .container {
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center; } */
+
+.machine {
+  width: 60vmin;
+  fill: #3eb049; }
+
+.small-shadow, .medium-shadow, .large-shadow {
+  fill: rgba(0, 0, 0, 0.05); }
+
+.smallS {
+  -webkit-animation: counter-rotation 2.5s infinite linear;
+	   -moz-animation: counter-rotation 2.5s infinite linear;
+	     -o-animation: counter-rotation 2.5s infinite linear;
+	        animation: counter-rotation 2.5s infinite linear;
+  -webkit-transform-origin: 100.136px 225.345px;
+      -ms-transform-origin: 100.136px 225.345px;
+          transform-origin: 100.136px 225.345px; }
+
+.small-shadow {
+  -webkit-animation: counter-rotation 2.5s infinite linear;
+	   -moz-animation: counter-rotation 2.5s infinite linear;
+	     -o-animation: counter-rotation 2.5s infinite linear;
+	        animation: counter-rotation 2.5s infinite linear;
+  -webkit-transform-origin: 110.136px 235.345px;
+      -ms-transform-origin: 110.136px 235.345px;
+          transform-origin: 110.136px 235.345px; }
+
+.mediumS {
+  -webkit-animation: rotation 3.75s infinite linear;
+	   -moz-animation: rotation 3.75s infinite linear;
+	     -o-animation: rotation 3.75s infinite linear;
+	        animation: rotation 3.75s infinite linear;
+  -webkit-transform-origin: 254.675px 379.447px;
+      -ms-transform-origin: 254.675px 379.447px;
+          transform-origin: 254.675px 379.447px; }
+
+.medium-shadow {
+  -webkit-animation: rotation 3.75s infinite linear;
+	   -moz-animation: rotation 3.75s infinite linear;
+	     -o-animation: rotation 3.75s infinite linear;
+	        animation: rotation 3.75s infinite linear;
+  -webkit-transform-origin: 264.675px 389.447px;
+      -ms-transform-origin: 264.675px 389.447px;
+          transform-origin: 264.675px 389.447px; }
+
+.largeS {
+  -webkit-animation: counter-rotation 5s infinite linear;
+     -moz-animation: counter-rotation 5s infinite linear;
+	     -o-animation: counter-rotation 5s infinite linear;
+        	animation: counter-rotation 5s infinite linear;
+  -webkit-transform-origin: 461.37px 173.694px;
+      -ms-transform-origin: 461.37px 173.694px;
+          transform-origin: 461.37px 173.694px; }
+
+.large-shadow {  
+  -webkit-animation: counter-rotation 5s infinite linear;
+	   -moz-animation: counter-rotation 5s infinite linear;
+	     -o-animation: counter-rotation 5s infinite linear;
+	        animation: counter-rotation 5s infinite linear;
+  -webkit-transform-origin: 471.37px 183.694px;
+      -ms-transform-origin: 471.37px 183.694px;
+          transform-origin: 471.37px 183.694px; }
+
+@-webkit-keyframes rotation {
+    from {-webkit-transform: rotate(0deg);}
+    to   {-webkit-transform: rotate(359deg);}
+}
+@-moz-keyframes rotation {
+    from {-moz-transform: rotate(0deg);}
+    to   {-moz-transform: rotate(359deg);}
+}
+@-o-keyframes rotation {
+    from {-o-transform: rotate(0deg);}
+    to   {-o-transform: rotate(359deg);}
+}
+@keyframes rotation {
+    from {transform: rotate(0deg);}
+    to   {transform: rotate(359deg);}
+}
+
+@-webkit-keyframes counter-rotation {
+    from {-webkit-transform: rotate(359deg);}
+    to   {-webkit-transform: rotate(0deg);}
+}
+@-moz-keyframes counter-rotation {
+    from {-moz-transform: rotate(359deg);}
+    to   {-moz-transform: rotate(0deg);}
+}
+@-o-keyframes counter-rotation {
+    from {-o-transform: rotate(359deg);}
+    to   {-o-transform: rotate(0deg);}
+}
+@keyframes counter-rotation {
+    from {transform: rotate(359deg);}
+    to   {transform: rotate(0deg);}
+}
+
+
+
+/* student */
+.student{
+    width: 400px;
+    margin: 4% auto;
+    position: relative;
+}
+.srvc_icon{
+    width: 29px;
+    position: absolute;
+}
+.openBookIcon{
+    top: 20%;
+    right: 0;
+}
+        </style>
+
+<script>
+        var looper;
+        var degrees = 0;
+        function rotateAnimation(el,speed){
+            var elem = document.getElementById(el);
+            if(navigator.userAgent.match("Chrome")){
+                elem.style.WebkitTransform = "rotate("+degrees+"deg)";
+            } else if(navigator.userAgent.match("Firefox")){
+                elem.style.MozTransform = "rotate("+degrees+"deg)";
+            } else if(navigator.userAgent.match("MSIE")){
+                elem.style.msTransform = "rotate("+degrees+"deg)";
+            } else if(navigator.userAgent.match("Opera")){
+                elem.style.OTransform = "rotate("+degrees+"deg)";
+            } else {
+                elem.style.transform = "rotate("+degrees+"deg)";
+            }
+            looper = setTimeout('rotateAnimation(\''+el+'\','+speed+')',speed);
+            degrees++;
+            if(degrees > 359){
+                degrees = 1;
+            }
+        }
+
+
+        
+
+
+       
+
+
+        </script>
+
+    </head>
+    <body>
+
+
+        <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://d3js.org/topojson.v1.min.js"></script>
+<header id="header">
+    <div class="wrap">
+        <a href="/" class="logo">
+            <img src="sites/gsSite1/assets/images/GOSPEL SOUNDERS-01-1.svg" alt="Logo"/>
+            <!-- <img src="sites/gsSite1/assets/images/GOSPEL SOUNDERS-01.svg" alt="Logo"/> -->
+            <!-- <img src="sites/gsSite1/assets/images/image2vector.svg" alt="Logo"/> -->
+<!--             
+<section id="turnglobe">
+  
+<div id="worldmap"></div>
+<p id="globesarecool">Because Globes are cool!</p>
+  
+</section> -->
+
+
+</script>
+
+
+
+            <span class="header" style="color:#8A5E3B; text-align:center; margin-top:-30px;">
+                <!-- <img src="sites/gsSite1/assets/images/GOSPEL SOUNDERS-01-2.svg" alt="Logo"/> -->
+
+                <!-- <span style="background: 	#3A2313; color:#fff; margin-top:-30px;">GOSPEL SOUNDERS</span><br> -->
+                <span style="background: 	#362419; color:#fff; margin-top:-30px;">GOSPEL SOUNDERS</span><br>
+                    <h1 style="font-size: 0.5em; margin-top:-10px; letter-spacing: 0.2em;">Rekindling Reformation</h1>
+            </span>
+        </a>
+        <nav>
+                {{#pages}}
+                <a href="{{slug}}" {{#active}} class=" selected" {{/active}} >{{title}}</a>
+                {{/pages}}
+
+            <!-- <a href="/" class=" selected">Home</a>
+
+            <a href="/about/" class="">About</a>
+
+            <a href="/start/" class="mobile-hide ">Products</a>
+
+            <a href="/docs/" class="mobile-hide ">Services</a>
+
+            <a href="/support/" class="">Projects</a>
+
+            <a href="/support/" class="">About Us</a>
+
+            <a href="/demos/" class="mobile-hide ">Contact Us</a> -->
+
+        </nav>
+    </div>
+</header>
+
+        <article>
+            <section id="hero" class="primary">
+    <div class="wrap saw">
+        <h1>Gospel Sounders</h1>
+
+        <p>
+                All who receive the gospel message into the heart will long to proclaim it. The heaven-born love of Christ must find expression. Those who have put on Christ will relate their experience, tracing step by step the leadings of the Holy Spirit—their hungering and thirsting for the knowledge of God and of Jesus Christ whom He has sent, the results of their searching of the Scriptures, their prayers, their soul agony, and the words of Christ to them, “Thy sins be forgiven thee.” It is unnatural for any to keep these things secret, and those who are filled with the love of Christ will not do so. In proportion as the Lord has made them the depositaries of sacred truth will be their desire that others shall receive the same blessing. And as they make known the rich treasures of God's grace, more and still more of the grace of Christ will be imparted to them. They will have the heart of a little child in its simplicity and unreserved obedience. Their souls will pant after holiness, and more and more of the treasures of truth and grace will be revealed to them to be given to the world. 
+
+        </p>
+<!--         
+        <div id="typed-strings">
+            <p>And I saw another angel fly in the midst of heaven. Having the everlasting gospel to preach unto them that dwell on the earth...</p>
+        </div>
+   
+        <span id="typed"></span> -->
+
+        
+        <!-- <svg class="insert machine"xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 645 526">
+            <defs/>
+            <g>
+              <path  x="-173,694" y="-173,694" class="large-shadow" d="M645 194v-21l-29-4c-1-10-3-19-6-28l25-14 -8-19 -28 7c-5-8-10-16-16-24L602 68l-15-15 -23 17c-7-6-15-11-24-16l7-28 -19-8 -14 25c-9-3-18-5-28-6L482 10h-21l-4 29c-10 1-19 3-28 6l-14-25 -19 8 7 28c-8 5-16 10-24 16l-23-17L341 68l17 23c-6 7-11 15-16 24l-28-7 -8 19 25 14c-3 9-5 18-6 28l-29 4v21l29 4c1 10 3 19 6 28l-25 14 8 19 28-7c5 8 10 16 16 24l-17 23 15 15 23-17c7 6 15 11 24 16l-7 28 19 8 14-25c9 3 18 5 28 6l4 29h21l4-29c10-1 19-3 28-6l14 25 19-8 -7-28c8-5 16-10 24-16l23 17 15-15 -17-23c6-7 11-15 16-24l28 7 8-19 -25-14c3-9 5-18 6-28L645 194zM471 294c-61 0-110-49-110-110S411 74 471 74s110 49 110 110S532 294 471 294z"/>
+            </g>
+            <g>
+              <path x="-136,996" y="-136,996" class="medium-shadow" d="M402 400v-21l-28-4c-1-10-4-19-7-28l23-17 -11-18L352 323c-6-8-13-14-20-20l11-26 -18-11 -17 23c-9-4-18-6-28-7l-4-28h-21l-4 28c-10 1-19 4-28 7l-17-23 -18 11 11 26c-8 6-14 13-20 20l-26-11 -11 18 23 17c-4 9-6 18-7 28l-28 4v21l28 4c1 10 4 19 7 28l-23 17 11 18 26-11c6 8 13 14 20 20l-11 26 18 11 17-23c9 4 18 6 28 7l4 28h21l4-28c10-1 19-4 28-7l17 23 18-11 -11-26c8-6 14-13 20-20l26 11 11-18 -23-17c4-9 6-18 7-28L402 400zM265 463c-41 0-74-33-74-74 0-41 33-74 74-74 41 0 74 33 74 74C338 430 305 463 265 463z"/>
+            </g>
+            <g >
+              <path x="-100,136" y="-100,136" class="small-shadow" d="M210 246v-21l-29-4c-2-10-6-18-11-26l18-23 -15-15 -23 18c-8-5-17-9-26-11l-4-29H100l-4 29c-10 2-18 6-26 11l-23-18 -15 15 18 23c-5 8-9 17-11 26L10 225v21l29 4c2 10 6 18 11 26l-18 23 15 15 23-18c8 5 17 9 26 11l4 29h21l4-29c10-2 18-6 26-11l23 18 15-15 -18-23c5-8 9-17 11-26L210 246zM110 272c-20 0-37-17-37-37s17-37 37-37c20 0 37 17 37 37S131 272 110 272z"/>
+            </g>
+            <g>
+              <path x="-100,136" y="-100,136" class="smallS" d="M200 236v-21l-29-4c-2-10-6-18-11-26l18-23 -15-15 -23 18c-8-5-17-9-26-11l-4-29H90l-4 29c-10 2-18 6-26 11l-23-18 -15 15 18 23c-5 8-9 17-11 26L0 215v21l29 4c2 10 6 18 11 26l-18 23 15 15 23-18c8 5 17 9 26 11l4 29h21l4-29c10-2 18-6 26-11l23 18 15-15 -18-23c5-8 9-17 11-26L200 236zM100 262c-20 0-37-17-37-37s17-37 37-37c20 0 37 17 37 37S121 262 100 262z"/>
+            </g>
+            <g>
+              <path x="-173,694" y="-173,694" class="largeS" d="M635 184v-21l-29-4c-1-10-3-19-6-28l25-14 -8-19 -28 7c-5-8-10-16-16-24L592 58l-15-15 -23 17c-7-6-15-11-24-16l7-28 -19-8 -14 25c-9-3-18-5-28-6L472 0h-21l-4 29c-10 1-19 3-28 6L405 9l-19 8 7 28c-8 5-16 10-24 16l-23-17L331 58l17 23c-6 7-11 15-16 24l-28-7 -8 19 25 14c-3 9-5 18-6 28l-29 4v21l29 4c1 10 3 19 6 28l-25 14 8 19 28-7c5 8 10 16 16 24l-17 23 15 15 23-17c7 6 15 11 24 16l-7 28 19 8 14-25c9 3 18 5 28 6l4 29h21l4-29c10-1 19-3 28-6l14 25 19-8 -7-28c8-5 16-10 24-16l23 17 15-15 -17-23c6-7 11-15 16-24l28 7 8-19 -25-14c3-9 5-18 6-28L635 184zM461 284c-61 0-110-49-110-110S401 64 461 64s110 49 110 110S522 284 461 284z"/>
+            </g>
+            <g>
+              <path x="-136,996" y="-136,996" class="mediumS" d="M392 390v-21l-28-4c-1-10-4-19-7-28l23-17 -11-18L342 313c-6-8-13-14-20-20l11-26 -18-11 -17 23c-9-4-18-6-28-7l-4-28h-21l-4 28c-10 1-19 4-28 7l-17-23 -18 11 11 26c-8 6-14 13-20 20l-26-11 -11 18 23 17c-4 9-6 18-7 28l-28 4v21l28 4c1 10 4 19 7 28l-23 17 11 18 26-11c6 8 13 14 20 20l-11 26 18 11 17-23c9 4 18 6 28 7l4 28h21l4-28c10-1 19-4 28-7l17 23 18-11 -11-26c8-6 14-13 20-20l26 11 11-18 -23-17c4-9 6-18 7-28L392 390zM255 453c-41 0-74-33-74-74 0-41 33-74 74-74 41 0 74 33 74 74C328 420 295 453 255 453z"/>
+            </g>
+          </svg> -->
+
+
+<!-- <div  id="img1" id="snap-logo" class="insert container">
+        <div class="carousel">
+          <div class="item a">CSECO</div>
+          <div class="item b">CSENSUS</div>
+          <div class="item c">CSYMAPP</div>
+          <div class="item d">ROPEBOT</div>
+          <div class="item e">E</div>
+          <div class="item f">F</div>
+        </div>
+      </div> -->
+      <!-- <div class="next">Next</div>
+      <div class="prev">Prev</div> -->
+
+      <!-- <script>rotateAnimation("img1",30);</script>    </div> -->
+</section>
+
+<section class="">
+    <div class="wrap saw reverse">
+                    <svg id="student" version="1.1" id="crocodile" class="insert large" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                     viewBox="0 0 400 385" enable-background="new 0 0 260 250" xml:space="preserve">
+                      <circle class="circle" style="display:none;" id="BG" opacity="0.2" cx="200.011" cy="208" r="157.657"/>
+                      <circle class="circle" style="display:none;" id="dashed" opacity="0.15" fill="none" stroke="#FFFFFF" stroke-width="1.9028" stroke-miterlimit="10" stroke-dasharray="6.5548" cx="200.333" cy="208" r="176.666"/>
+                      <g id="stud_whole" style="display:none;">
+                        <g id="stud_body">
+                          <path fill="#FFFFFF" d="M300,323v-9.401C300,268.536,255.131,232,200.241,232h-1.482
+                                                  C143.869,232,99,268.536,99,313.599V323H300z"/>
+                          <path fill="#C99877" d="M251.2,240.3l-46.504,46.501c-2.868,2.869-7.521,2.869-10.391,0
+                                                  L147.803,240.3C115.768,254.945,94,282.958,94,315.111V326h211v-10.889C305,282.958,283.232,254.945,251.2,240.3z"/>
+                          <path opacity="0.2" d="M251.2,240.3l-46.504,46.501c-2.868,2.869-7.521,2.869-10.391,0
+                                                 L147.803,240.3C115.768,254.945,94,282.958,94,315.111V326l0,0c0-31.997,21.801-60.071,53.8-74.7l46.503,46.498
+                                                 c2.869,2.872,7.522,2.872,10.392,0.001l46.505-46.499C283.197,265.93,305,294.003,305,326l0,0v-10.889
+                                                 C305,282.958,283.232,254.945,251.2,240.3z"/>
+                        </g>
+                        <g id="stud_head">
+                          <path fill="#DDA37C" d="M135.934,194.953c-5.481,0-9.926-5.162-9.926-11.53s4.444-11.529,9.926-11.529"/>
+                          <path opacity="0.1" d="M261,190.046c0,36.915-27.145,66.838-61.5,66.838l0,0c-34.356,0-61.5-29.923-61.5-66.838v-23.247
+                                                 c0-36.916,27.144-66.838,61.5-66.838l0,0c34.355,0,61.5,29.922,61.5,66.838V190.046z"/>
+                          <path fill="#FBD099" d="M266,185.046c0,36.915-29.589,66.838-66.5,66.838l0,0c-36.912,0-66.5-29.923-66.5-66.838v-23.247
+                                                  c0-36.916,29.588-66.838,66.5-66.838l0,0c36.911,0,66.5,29.922,66.5,66.838V185.046z"/>
+                          <path fill="#F2C38F" d="M200.777,94.961c-1.348,0-2.754,0.052-4.08,0.13C224.17,105.823,243,131.293,243,161.013v24.819
+                                                  c0,29.719-18.879,55.189-46.352,65.921c1.326,0.079,2.77,0.131,4.117,0.131c36.91,0,66.234-29.923,66.234-66.838v-23.247
+                                                  C267,124.883,237.688,94.961,200.777,94.961z"/>
+                          <path fill="#DDA37C" d="M275.367,183.423c0-5.789-4.367-10.567-8.367-11.391v-10.233c0-36.916-29.312-66.838-66.223-66.838
+                                                  c-1.467,0-3.011,0.063-4.451,0.157C231.151,97.365,258,126.349,258,161.799v23.247c0,35.449-26.896,64.434-61.723,66.681
+                                                  c1.441,0.093,2.913,0.157,4.38,0.157c33.56,0,60.81-24.737,65.473-56.975C271.26,194.463,275.367,189.498,275.367,183.423z"/>
+                          <path fill="#99492C" d="M219.818,211.524c0,11.122-9.018,20.14-20.143,20.14c-11.124,0-20.143-9.018-20.143-20.14"/>
+                          <path fill="#FFFFFF" d="M219.818,211.285c0,1.709-0.213,3.715-0.613,4.715h-39.158c-0.289-1-0.514-3.003-0.514-4.832"/>
+                  
+                          <g class="eye">
+                            <circle fill="#FFFFFF" cx="230.19" cy="178.929" r="9.551"/>
+                            <path d="M230.19,173.222c-0.481,0-0.949,0.06-1.398,0.171c0.258,0.405,0.406,0.885,0.406,1.4c0,1.447-1.172,2.619-2.619,2.619
+                                     c-0.654,0-1.253-0.241-1.714-0.638c-0.283,0.681-0.44,1.429-0.44,2.214c0,3.184,2.581,5.764,5.766,5.764s5.766-2.58,5.766-5.764
+                                     C235.956,175.803,233.375,173.222,230.19,173.222z"/>
+                          </g>
+                          <g class="eye">
+                            <circle fill="#FFFFFF" cx="170.802" cy="178.929" r="9.552"/>
+                            <path d="M170.802,173.222c-0.482,0-0.949,0.06-1.398,0.171c0.257,0.405,0.407,0.885,0.407,1.4c0,1.447-1.174,2.619-2.62,2.619
+                                     c-0.655,0-1.254-0.241-1.714-0.638c-0.283,0.681-0.44,1.429-0.44,2.214c0,3.184,2.581,5.764,5.766,5.764s5.766-2.58,5.766-5.764
+                                     C176.567,175.803,173.986,173.222,170.802,173.222z"/>
+                          </g>
+                          <g>
+                            <path fill-rule="evenodd" clip-rule="evenodd" fill="#6B3815" d="M258,136v30.774c7-0.883,12-5.43,12-10.922V126H258z"/>
+                            <path fill-rule="evenodd" clip-rule="evenodd" fill="#6B3815" d="M147.109,164.33c-7.143,5.105-18.449,1.699-19.795-9.419
+                                                                                            c-10.266-58.371,21.152-60.824,21.152-60.824s-2.678-1.742-4.252-2.767c6.418-3.438,13.241-2.234,19.043,1.522
+                                                                                            C187.104,107.034,166.324,151.184,147.109,164.33z"/>
+                            <path fill-rule="evenodd" clip-rule="evenodd" fill="#4F260B" d="M166.006,96.921l-4.389,10.162
+                                                                                            c9.484,31.142-10.533,54.303-10.533,54.303C162.5,151.977,184.316,119.742,166.006,96.921z"/>
+                            <g id="hair">
+                              <path fill-rule="evenodd" clip-rule="evenodd" fill="#6B3815" d="M201.883,146.219c1.371,2.254,2.523,4.146,4.095,6.729
+                                                                                              c-59.673-18.631-46.111-60.226-41.876-66.788c4.234-6.563,11.658-12.6,20.608-16.324c-0.481,1.902-0.858,3.393-1.235,4.888
+                                                                                              c22.131-7.764,49.002-0.148,63.532,10.733c4.941,3.701,9.703,7.613,14.57,11.401c8.224,6.396,17.896,9.472,28.993,10.778
+                                                                                              c-5.158,7.781-17.902,14.202-17.902,14.202s7.69,3.34,12.366,5.37C285.034,127.208,254.983,157.615,201.883,146.219z"/>
+                              <path fill-rule="evenodd" clip-rule="evenodd" fill="#4F260B" d="M256.379,104.706c0,0,16.915,9.361,33.83,3.449
+                                                                                              c0,0-4.816,6.628-17.347,14.047C272.862,122.201,260.942,116.496,256.379,104.706z"/>
+                              <path fill-rule="evenodd" clip-rule="evenodd" fill="#4F260B" d="M193.809,123.123c0,0,23.333,28.178,56.271,22.617
+                                                                                              c0,0-27.564,7.207-48.49,0.195C201.59,145.936,193.254,133.809,193.809,123.123z"/>
+                              <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" fill="#4F260B" d="M170.264,132.057
+                                                                                                            c-4.944,13.301-14.129,26.021-23.009,32.167c0.385-0.181,0.765-0.378,1.132-0.599c8.695-4.995,17.765-15.334,22.678-25.838
+                                                                                                            c6.094,6.406,16.153,12.604,32.137,17.391c-1.082-1.578-1.949-2.84-2.838-4.135C186.019,145.805,176.47,139.134,170.264,132.057z"
+                                    />
+                              <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" fill="#4F260B" d="M250.08,145.74c0,0-25.727,6.724-46.34,0.857
+                                                                                                            c-0.617-0.123-1.234-0.245-1.857-0.379c0.924,1.518,1.75,2.876,2.67,4.388c38.78,6.563,60.551-8.702,65.84-13.063
+                                                                                                            c-5.628,3.07-12.816,6.19-21.48,8.359C249.303,145.846,249.688,145.807,250.08,145.74z"/>
+                            </g>
+                          </g>
+                          <g id="glasses">
+                            <path opacity="0.25" fill="#4F260B" d="M247.237,159h-27.354c-7.833,0-13.884,5.873-13.884,13.706v1.214
+                                                                   c-3.499-1.489-7.455-1.561-11-0.22v-0.994c0-7.833-5.929-13.706-13.763-13.706h-27.354c-7.833,0-13.884,5.873-13.884,13.706v15.78
+                                                                   c0,7.833,6.051,14.514,13.884,14.514h27.354c7.834,0,13.763-6.681,13.763-14.514v-8.007c3.274-2.459,7.891-2.309,11,0.452v7.555
+                                                                   c0,7.833,6.051,14.514,13.884,14.514h27.354c7.834,0,13.763-6.681,13.763-14.514v-15.78C261,164.873,255.071,159,247.237,159z
+                                                                   M189,188.486c0,4.532-3.23,8.514-7.763,8.514h-27.354c-4.531,0-7.884-3.981-7.884-8.514v-15.78c0-4.532,3.353-7.706,7.884-7.706
+                                                                   H181h0.237c4.532,0,7.763,3.174,7.763,7.706V188.486z M255,188.486c0,4.532-3.23,8.514-7.763,8.514h-27.354
+                                                                   c-4.531,0-7.884-3.981-7.884-8.514v-15.78c0-4.532,3.353-7.706,7.884-7.706H247h0.237c4.532,0,7.763,3.174,7.763,7.706V188.486z"/>
+                            <path fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" d="M208.506,176.158
+                                                                                                          c-4.578-4.577-11.986-4.577-16.563,0"/>
+                            <path d="M247.237,162c4.532,0,7.763,3.174,7.763,7.706v15.78c0,4.532-3.23,8.514-7.763,8.514h-27.354
+                                     c-4.531,0-7.884-3.981-7.884-8.514v-15.78c0-4.532,3.353-7.706,7.884-7.706H247 M247.237,156h-27.354
+                                     c-7.833,0-13.884,5.873-13.884,13.706v15.78c0,7.833,6.051,14.514,13.884,14.514h27.354c7.834,0,13.763-6.681,13.763-14.514
+                                     v-15.78C261,161.873,255.071,156,247.237,156L247.237,156z"/>
+                            <path opacity="0.3" fill="#FFFFFF" d="M257,168.327c0-4.599-3.729-8.327-8.329-8.327h-30.342c-4.6,0-8.329,3.728-8.329,8.327
+                                                                  v19.346c0,4.599,3.729,8.327,8.329,8.327h30.342c4.6,0,8.329-3.728,8.329-8.327V168.327z"/>
+                  
+                            <path class="reflection" opacity=".3" fill="#FFFFFF" d="M226.629,160l-13.033,34.105c1.407,1.09,3.168,1.895,5.086,1.895h11.383l13.703-36H226.629z"/>
+                  
+                            <path d="M181.237,162c4.532,0,7.763,3.174,7.763,7.706v15.78c0,4.532-3.23,8.514-7.763,8.514h-27.354
+                                     c-4.531,0-7.884-3.981-7.884-8.514v-15.78c0-4.532,3.353-7.706,7.884-7.706H181 M181.237,156h-27.354
+                                     c-7.833,0-13.884,5.873-13.884,13.706v15.78c0,7.833,6.051,14.514,13.884,14.514h27.354c7.834,0,13.763-6.681,13.763-14.514
+                                     v-15.78C195,161.873,189.071,156,181.237,156L181.237,156z"/>
+                            <path opacity="0.35" fill="#FFFFFF" d="M191,168.327c0-4.599-3.729-8.327-8.329-8.327h-30.342c-4.6,0-8.329,3.728-8.329,8.327
+                                                                   v19.346c0,4.599,3.729,8.327,8.329,8.327h30.342c4.6,0,8.329-3.728,8.329-8.327V168.327z"/>
+                  
+                            <path class="reflection" opacity="0.3" fill="#FFFFFF" d="M160.629,160l-13.033,34.105c1.407,1.09,3.168,1.895,5.086,1.895h11.383l13.703-36H160.629z"/>
+                          </g>
+                        </g>
+                      </g>
+                      <rect id="clip" x="11" y="344" fill="#192B40" width="372" height="54"/>
+                      <g id="book" >
+                        <path id="bk_bdy" fill="#31A7DB" d=""/>
+                        <path id="bk_edg" fill="none" stroke="#037391" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10" d=""/>
+                        <polygon id="btm_pgs" fill="#D3D3D3"/>
+                        <polygon id="btm_r" fill="#F2F2F2" points=""/>
+                        <polygon id="btm_l" fill="#f0f0f0" points=""/>
+                        <polygon id="line" opacity="0" fill="#D3D3D3" points="201,326 198,326 199,299 200,299"/>
+                        <path opacity="0" id="pgFld" fill="#f2f2f2" d="M199.235,299c0,0,55.694-1,102-1L354,325   c-85.08,0-153.765,1-153.765,1L199.235,299z"></path>
+                        <animate
+                                 xlink:href="#pgFld" attributeName="d" begin="4s" dur="5s" repeatCount="indefinite"
+                                 keyTimes="0;
+                                           .03;
+                                           .06;
+                                           .1;
+                                           .15;
+                                           1"
+                                 values="
+                                         M199,299c0,0-55.695-1-102-1l-52.765,27   c85.08,0,153.765,1,153.765,1L199,299z;
+                                         M199,299c0,0-15.446-45.394-71.818-42.365L99,271   c68.5-11.504,99,54.5,99,54.5L199,299z;
+                                         M199,299c0,0-1-30-2.352-74.5l-0.371,4.5   c5.578,43.393,1.723,97,1.723,97L199,299z;
+                                         M199,299c0,0,51.08,6,58.769-47.116l15.36,12.779   C273.129,323,198,326,198,326L199,299z;
+                                         M199.235,299c0,0,55.694-1,102-1L354,325   c-85.08,0-153.765,1-153.765,1L199.235,299z;
+                                         M199.235,299c0,0,55.694-1,102-1L354,325   c-85.08,0-153.765,1-153.765,1L199.235,299z
+                                         "/>
+                      </g>
+                      <g  opacity="0.3">
+                        <path style="display:none;" class="stars" fill="#FFFFFF" d="M280.252,56.796c0.255-0.466,0.673-0.466,0.928,0l1.214,2.22
+                                                              c0.255,0.466,0.846,1.056,1.312,1.312l2.219,1.213c0.466,0.255,0.466,0.672,0,0.927l-2.219,1.214
+                                                              c-0.466,0.255-1.057,0.845-1.312,1.311l-1.214,2.22c-0.255,0.466-0.673,0.466-0.928,0l-1.213-2.22
+                                                              c-0.255-0.466-0.846-1.056-1.312-1.311l-2.22-1.214c-0.466-0.255-0.466-0.672,0-0.927l2.22-1.214
+                                                              c0.466-0.255,1.057-0.845,1.312-1.311L280.252,56.796z"/>
+                        <path style="display:none;" class="stars" fill="#FFFFFF" d="M196.203,37.407c0.219-0.401,0.579-0.401,0.798,0l1.046,1.911
+                                                              c0.219,0.401,0.727,0.909,1.128,1.128l1.909,1.045c0.401,0.219,0.401,0.579,0,0.798l-1.909,1.044
+                                                              c-0.401,0.219-0.909,0.727-1.128,1.128L197,46.374c-0.219,0.401-0.579,0.401-0.798,0l-1.045-1.911
+                                                              c-0.219-0.401-0.727-0.909-1.128-1.128l-1.91-1.044c-0.401-0.219-0.401-0.579,0-0.798l1.91-1.045
+                                                              c0.401-0.219,0.909-0.727,1.128-1.128L196.203,37.407z"/>
+                        <path style="display:none;" class="stars" fill="#FFFFFF" d="M44.003,195.166c0.329-0.602,0.868-0.602,1.197,0l1.568,2.867
+                                                              c0.329,0.602,1.091,1.364,1.693,1.693l2.864,1.567c0.602,0.329,0.602,0.868,0,1.197l-2.864,1.566
+                                                              c-0.602,0.329-1.364,1.091-1.693,1.693l-1.568,2.865c-0.329,0.603-0.868,0.603-1.197,0l-1.566-2.865
+                                                              c-0.329-0.603-1.091-1.364-1.693-1.693l-2.865-1.566c-0.602-0.329-0.602-0.868,0-1.197l2.866-1.567
+                                                              c0.602-0.329,1.363-1.091,1.692-1.693L44.003,195.166z"/>
+                        <path style="display:none;" class="stars" fill="#FFFFFF" d="M91.01,119.478c0.151-0.277,0.399-0.277,0.551,0l0.722,1.32
+                                                              c0.152,0.277,0.502,0.628,0.78,0.78l1.318,0.721c0.277,0.152,0.277,0.4,0,0.552l-1.318,0.721c-0.277,0.152-0.628,0.502-0.78,0.78
+                                                              l-0.722,1.32c-0.152,0.277-0.4,0.277-0.551,0l-0.722-1.32c-0.151-0.277-0.502-0.628-0.779-0.779l-1.319-0.722
+                                                              c-0.277-0.151-0.277-0.399,0-0.551l1.319-0.722c0.277-0.152,0.628-0.502,0.779-0.78L91.01,119.478z"/>
+                        <path style="display:none;" class="stars" fill="#FFFFFF" d="M344.458,162.397c0.18-0.329,0.475-0.33,0.654,0l0.857,1.567
+                                                              c0.18,0.33,0.597,0.746,0.926,0.926l1.565,0.856c0.329,0.18,0.329,0.475,0,0.655l-1.565,0.857
+                                                              c-0.329,0.18-0.746,0.596-0.926,0.926l-0.857,1.567c-0.18,0.33-0.475,0.329-0.654,0l-0.856-1.567
+                                                              c-0.18-0.329-0.597-0.746-0.926-0.926l-1.566-0.857c-0.329-0.18-0.329-0.475,0-0.654l1.566-0.857
+                                                              c0.329-0.18,0.746-0.597,0.926-0.926L344.458,162.397z"/>
+                      </g>
+                    </svg>
+                  <!-- </div> -->
+        <h2>Literature</h2>
+        <p>SVG is an excellent way to create interactive, resolution-independent vector graphics that will look great on any size screen. And the Snap.svg JavaScript library makes working with your SVG assets as easy as jQuery makes working with the DOM.
+        <a class="bt large" href="https://github.com/adobe-webplatform/Snap.svg/archive/v0.5.1.zip" onclick="trackOutboundLink(this, 'Download', '0.5.1');return false;">
+            <span class="sub-text">Version 0.5.1</span>
+        </a>
+
+        </p>
+        <h2>Modern features for modern browsers</h2>
+        <p>Snap.svg is designed for modern browsers and therefore supports the newest SVG features like masking, clipping, patterns, full gradients, groups, and more.</p>
+        
+    </div>
+</section>
+
+<section class="secondary">
+    <div class="wrap saw">
+        <h2>Magazine</h2>
+        <p>With a rich animation library and easy event handing, Snap.svg lets you bring your SVG to life.</p>
+        <br>
+        <h2>Source agnostic</h2>
+        <p>Of course you can generate SVG with Snap, but you can also use Snap to work with SVG generated from tools like Adobe Illustrator, Inkscape, or Sketch. You can even load strings of SVG asynchronously and query out the pieces you need in order to turn SVG files into sprite sheets.
+</p>
+        <br>
+        <h2>Open-source and free</h2>
+        <p>Snap.svg is available under an Apache 2 license which means it’s completely open-source, and completely free.</p>
+        <svg version="1.1" id="crocodile-2" class="insert large" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="500px" height="500px" viewBox="0 0 375 375" enable-background="new 0 0 375 375" xml:space="preserve">
+            <g id="croc">
+
+        <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-174.9653" y1="-717.4093" x2="-174.9653" y2="-816.3333" gradientTransform="matrix(-0.75 0 0 -0.75 68.75 -247.25)">
+        <stop  offset="0" style="stop-color:#000000;stop-opacity:0.25"/>
+        <stop  offset="0.7074" style="stop-color:#000000;stop-opacity:0"/>
+    </linearGradient>
+    <polygon fill="url(#SVGID_1_)" points="375,365 375,308.629 318.629,290.807 24.948,310.901 79.047,365    "/>
+    <polygon fill="#00A99D" points="375.275,266.076 318.629,256.801 272.259,256.801 247.528,262.984 204.248,266.076
+        191.883,262.984 164.06,269.167 148.604,269.167 126.964,275.349 126.765,275.396 126.538,275.349 112.774,272.259 99.023,272.259
+        90.521,281.401 37.229,297.354 29.672,295.604 24.948,300.081 24.948,310.56 27.903,310.51 32.468,315.871 54.664,317.25
+        68.536,318.629 103.215,318.023 115.326,318.023 120.781,318.629 157.877,318.629 148.604,327.904 179.517,327.904 185.7,324.812
+        188.792,318.629 207.34,318.629 244.436,321.721 285.984,318.753 281.533,321.721 272.259,327.904 312.447,327.904
+        318.629,324.812 322.751,318.629 330.995,318.629 375,315.537     "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="259.893,272.259 247.528,262.984 272.259,256.801  "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="375.275,266.076 324.812,266.076 318.629,256.801  "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="375,284.624 324.812,266.076 272.259,256.801
+        318.629,256.801 375.275,266.076     "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="375,284.624 331.72,275.349 315.538,284.624
+        259.893,272.259 204.248,266.076 247.528,262.984 272.259,256.801 318.629,256.801 375.275,266.076     "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="324.812,266.076 315.538,284.624 259.893,272.259
+        232.071,287.716 204.248,275.349 191.883,262.984 204.248,266.076 247.528,262.984 272.259,256.801 318.629,256.801
+        375.275,266.076     "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="204.248,266.076 204.248,275.349 164.06,269.167
+        191.883,262.984     "/>
+    <polygon opacity="0.2" fill="#FFFFFF" enable-background="new    " points="90.521,281.401 92.345,292.569 37.229,297.354  "/>
+    <polyline opacity="0.2" fill="#FFFFFF" enable-background="new    " points="37.229,297.354 46.757,302.426 90.521,281.401     "/>
+    <polygon opacity="0.2" fill="#FFFFFF" enable-background="new    " points="90.521,281.401 90.521,281.401 92.345,292.569
+        99.023,272.259  "/>
+    <polygon opacity="0.2" fill="#FFFFFF" enable-background="new    " points="112.774,272.259 92.345,292.569 90.521,281.401
+        99.023,272.259  "/>
+    <polygon fill="#FFFFFF" points="106.213,278.854 103.121,281.945 109.304,281.945 112.396,280.007     "/>
+    <polygon opacity="0.2" fill="#FFFFFF" enable-background="new    " points="112.774,272.259 126.538,275.482 89.933,281.533
+        99.023,272.259  "/>
+    <polygon opacity="0.2" fill="#FFFFFF" enable-background="new    " points="37.229,297.354 24.948,300.081 29.672,295.604  "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="120.781,312.447 105.324,303.172 80.593,303.172
+        92.959,300.081 108.415,300.081  "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="108.415,300.081 92.959,300.081 105.324,303.172   "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="191.883,262.984 164.06,269.167 164.06,275.349
+        148.604,269.167 164.06,269.167  "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="164.06,269.167 164.06,275.349 126.964,281.533
+        99.449,272.259 114.599,272.259 126.964,275.349 148.604,269.167  "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="247.528,262.984 204.248,275.349 185.7,287.716
+        164.06,275.349 126.964,290.807 126.964,275.349 148.604,269.167 164.06,269.167 191.883,262.984 204.248,266.076   "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="194.975,287.716 185.7,296.989 176.426,293.898    "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="210.431,293.898 185.7,296.989 170.243,315.537
+        176.426,293.898 194.975,287.716     "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="157.877,318.629 154.786,327.904 148.604,327.904  "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="170.243,315.537 176.426,318.629 157.877,318.629  "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="216.614,303.172 210.431,293.898 194.975,287.716
+        176.426,293.898 185.7,296.989 194.975,287.716   "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="176.426,293.898 176.426,318.629 164.06,327.904
+        154.786,327.904 148.604,327.904 157.877,318.629 170.243,315.537     "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="349.544,281.533 334.087,293.898 324.812,287.716  "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="315.538,293.898 334.087,293.898 365,293.898
+        349.544,281.533 324.812,287.716     "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="303.173,312.447 334.087,293.898 349.544,281.533
+        324.812,287.716 315.538,293.898     "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="290.807,315.537 312.447,318.629 303.173,312.447  "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="284.624,327.904 281.533,321.721 272.259,327.904  "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="290.807,315.537 284.624,327.904 272.259,327.904
+        281.533,321.721     "/>
+    <polygon opacity="0.15" fill="#FFFFFF" enable-background="new    " points="312.447,318.629 284.624,327.904 272.259,327.904
+        281.533,321.721 290.807,315.537 303.173,312.447 315.538,293.898     "/>
+</g>
+<polyline id="path-eye" opacity="0.25" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" enable-background="new    " points="
+    91.285,264.176 49.82,223.604 49.82,190.623 "/>
+<polyline id="path-pie" opacity="0.25" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" enable-background="new    " points="
+    204.052,256.676 170.087,223.604 170.087,195.123 "/>
+<polyline id="path-map" opacity="0.25" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" enable-background="new    " points="
+    309.052,249.176 282.587,223.604 282.587,187.623 "/>
+<g id="diagram-eye">
+
+        <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="566.1498" y1="-516.0908" x2="647.7148" y2="-597.6558" gradientTransform="matrix(0.75 0 0 -0.75 -373.75 -247.25)">
+        <stop  offset="0" style="stop-color:#000000;stop-opacity:0.15"/>
+        <stop  offset="0.9331" style="stop-color:#000000;stop-opacity:0"/>
+    </linearGradient>
+    <polygon fill="url(#SVGID_2_)" points="68.886,244.141 7.712,182.968 94.012,96.668 155.186,157.842   "/>
+    <rect x="7.5" y="96.88" fill="#00A99D" width="86.512" height="86.512"/>
+    <g>
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <defs>
+                                <rect id="SVGID_3_" x="7.5" y="96.88" width="86.512" height="86.512"/>
+                            </defs>
+                            <clipPath id="SVGID_4_">
+                                <use xlink:href="#SVGID_3_"  overflow="visible"/>
+                            </clipPath>
+
+                                <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="82.0346" y1="-488.9386" x2="164.9218" y2="-571.8256" gradientTransform="matrix(0.4267 0.1465 -0.1465 -0.4267 -57.8958 -82.5156)">
+                                <stop  offset="0" style="stop-color:#000000;stop-opacity:0.25"/>
+                                <stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+                            </linearGradient>
+                            <polygon clip-path="url(#SVGID_4_)" fill="url(#SVGID_5_)" points="79.806,200.695 33.051,153.834 72.384,130.224
+                                112.036,169.875                             "/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <path fill="#60C6BA" d="M21.017,140.137c0,0,13.517-21.628,29.739-21.628s29.739,21.628,29.739,21.628
+        s-13.517,21.628-29.739,21.628S21.017,140.137,21.017,140.137z"/>
+    <g>
+        <circle fill="#9BEADF" cx="50.756" cy="140.137" r="18.023"/>
+    </g>
+    <path fill="#00A99D" d="M50.756,127.263c0,0,2.575,5.149,2.575,12.874c0,7.724-2.575,12.874-2.575,12.874s-2.575-5.15-2.575-12.874
+        C48.182,132.412,50.756,127.263,50.756,127.263z"/>
+    <circle opacity="0.5" fill="#FFFFFF" enable-background="new    " cx="43.441" cy="129.11" r="3.604"/>
+    <circle opacity="0.5" fill="#FFFFFF" enable-background="new    " cx="38.034" cy="134.517" r="1.802"/>
+</g>
+<g id="diagram-pie">
+
+        <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="727.386" y1="-520.8985" x2="800.3596" y2="-593.8723" gradientTransform="matrix(0.75 0 0 -0.75 -373.75 -247.25)">
+        <stop  offset="0" style="stop-color:#000000;stop-opacity:0.25"/>
+        <stop  offset="0.9" style="stop-color:#000000;stop-opacity:0"/>
+    </linearGradient>
+    <path fill="url(#SVGID_6_)" d="M204.263,110.95l-64.947,64.948l54.73,54.73l64.947-64.947L204.263,110.95z"/>
+    <circle fill="#60C6BA" cx="170.23" cy="140.978" r="46.371"/>
+    <path fill="#00A99D" d="M148.295,181.838c6.531,3.513,13.999,5.51,21.934,5.51c25.61,0,46.371-20.761,46.371-46.371
+        S195.84,94.606,170.23,94.606v44.825L148.295,181.838z"/>
+    <g>
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <defs>
+                                <circle id="SVGID_7_" cx="170.23" cy="140.978" r="46.371"/>
+                            </defs>
+                            <clipPath id="SVGID_8_">
+                                <use xlink:href="#SVGID_7_"  overflow="visible"/>
+                            </clipPath>
+
+                                <linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="725.0172" y1="-516.1673" x2="772.1165" y2="-563.2664" gradientTransform="matrix(0.75 0 0 -0.75 -373.75 -247.25)">
+                                <stop  offset="0" style="stop-color:#000000;stop-opacity:0.25"/>
+                                <stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+                            </linearGradient>
+                            <path clip-path="url(#SVGID_8_)" fill="url(#SVGID_9_)" d="M193.642,116.247l-3.545,3.545
+                                c5.14,5.14,8.319,12.241,8.319,20.084c0,15.687-12.716,28.403-28.403,28.403c-7.844,0-14.945-3.179-20.084-8.319
+                                l-3.544,3.544l35.324,35.324l47.257-47.257L193.642,116.247z"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <path fill="#9BEADF" d="M170.23,140.978V94.607c-7.189,0-13.997,1.637-20.07,4.558L170.23,140.978z"/>
+    <circle fill="#60C6BA" cx="170.23" cy="140.978" r="34.005"/>
+    <path fill="#00A99D" d="M204.235,140.978c0-18.781-15.225-34.005-34.005-34.005v68.011
+        C189.01,174.983,204.235,159.759,204.235,140.978z"/>
+    <path fill="#9BEADF" d="M138.122,129.777l32.108,11.201v-34.005C155.374,106.972,142.753,116.502,138.122,129.777z"/>
+</g>
+<g id="diagram-map">
+
+        <linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="832.9771" y1="-467.6346" x2="936.0236" y2="-570.6811" gradientTransform="matrix(0.75 0 0 -0.75 -373.75 -247.25)">
+        <stop  offset="0" style="stop-color:#000000;stop-opacity:0.25"/>
+        <stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+    </linearGradient>
+    <polygon fill="url(#SVGID_10_)" points="290.328,218.701 248.173,176.545 250.983,103.476 324.052,100.665 366.207,142.821     "/>
+    <path fill="#60C6BA" d="M326.862,166.709c0,6.985-5.662,12.646-12.646,12.646h-59.018c-6.985,0-12.646-5.662-12.646-12.646v-59.018
+        c0-6.985,5.662-12.646,12.646-12.646h59.018c6.985,0,12.646,5.662,12.646,12.646V166.709z"/>
+    <g>
+        <path fill="#00A99D" d="M309.656,154.656c-0.13,1.219-0.362,1.466,1.214,1.385C310.919,155.266,310.517,154.598,309.656,154.656
+            C309.616,155.028,310.562,154.595,309.656,154.656z M318.84,167.649c0.652-1.198-2.374-1.255-2.945-1.386
+            c0.601-1.73-0.569-1.084-1.726-1.458c-0.736-0.238-2.063-1.571-2.79-2.122c-0.84-0.637-1.871-0.469-2.771-0.872
+            c-1.229-0.551-1.2-1.684-2.746-2.113c-0.863-0.239-3.128,0.079-3.467-0.34c-0.606-0.747-2.014-0.429-2.773-0.191
+            c-0.903,0.282-1.854,0.772-2.427,1.551c-0.312,0.424-0.945,1.769-0.876,1.909c0.582-0.129,6.064-3.948,6.064-1.906
+            c0,1.077,3.04,0.857,3.246,1.581c0.41,1.44,2.681,1.454,3.858,1.364c-0.421,1.818,1.575,2.709,2.945,3.118
+            c-0.119,0.714-1.124,1.321-0.867,2.078C313.337,168.665,317.608,169.054,318.84,167.649
+            C319.468,166.496,318.484,168.055,318.84,167.649z M296.838,139.23c1.882,0.052,0.995,2.001,2.404,2.33
+            c1.451,0.34-0.419,3.755,0.714,4.598c0.279-0.618,0.259-1.01,1.039-0.866c-0.035,1.142-1.411,2.125-0.173,3.118
+            c0.223,0.369,0.866,0.28,0.866,0.866c0,1.154,1.551,3.685,2.945,4.157c0.431-1.727,0.866-3.514,0.866-4.774
+            c0-0.907-0.4-3.135-1.213-3.542c0.176-0.876,0.176-0.685,0-1.213c-0.771-0.518-0.394-1.016-0.519-1.733
+            c-0.116-0.66-0.694-1.569-0.694-2.701c0-0.541-0.944-1.023-0.743-1.573c0.286-0.785,0.551-0.564,0.398-1.79
+            c-0.002,0.006,0.791-1.585,0.866-1.732c-0.384-1.148,1.523-1.702,1.732-2.945c1.273,0.424,1.241-1.214,1.906-1.214
+            c0.591,0,0.563-0.858,0.693-1.386c1.04,0.26,0.99-0.284,1.906-0.693c0.956-0.488,1.651-2.177,2.772-2.425
+            c-0.102-0.434-0.275-0.839-0.519-1.213c0.641,0.011,0.89-0.069,1.213-0.347c-0.113-0.446-0.626-0.966-0.866-1.213
+            c0.427,0.118,0.832,0.06,1.213-0.173c0.305,0.915,1.121,0.688,1.559,0.001c-0.441-0.338-0.31-0.177-0.692-0.693
+            c-2.03-0.387-0.991-0.496,0.173-1.212c-0.381-1.143-0.069-1.194-1.343-1.819c-0.36-0.177-0.742-0.977-0.909-1.298
+            c0.462-0.058,0.924-0.116,1.386-0.173c-0.116-0.555-0.695-1.127-1.04-1.386c0.173,0,0.347,0,0.521,0
+            c-0.204-0.641-1.032-0.869-1.213-1.559c0.173,0,0.346,0,0.519,0c-0.189-1.322,0.209-1.369,0.52-2.772
+            c0.532,0.057,0.532-0.347,0-1.213c1.229-0.246,0.664-0.594,1.906-0.347c0.161-0.469-0.047-0.4,0.347-0.692
+            c0.65,0.851-0.959,1.663-1.213,2.424c0.115,0,0.231,0,0.346,0c-0.857,0.411-0.981,2.768-0.519,3.118
+            c0.355,0.269,1.685-0.796,1.212,0.866c1.239-0.661,1.079-0.355,1.386-1.386c0.118-0.4,0.276-0.506,0.346-1.04
+            c0.077-0.614-0.773-1.721-0.693-2.945c0.571,0.254,1.369,1.007,2.08,0.692c0.898-0.435,0.242-1.941,1.386-1.559
+            c0.299-0.997,0.232-3.291-0.001-3.291c0.442,0,1.115-1.622,1.559-1.906c0.675-0.432,1.933-0.093,2.252-1.04
+            c0.898-0.04,1.539,0.416,1.905,0.173h0.173c0.148-0.386-0.286-0.431-0.346-0.693h0.173c0.113-0.26,0.139-0.283,0.173-0.692
+            c0.021,0.005,0.043,0.008,0.064,0.013c-2.017-4.305-6.376-7.294-11.446-7.294h-59.017c-6.985,0-12.647,5.662-12.647,12.646v46.058
+            c0.344,0.689,0.898,1.619,1.108,1.773c1.261,0.096,1.606,2.455,2.599,3.118c0.433,0.8,0.581,1.538,1.213,2.425
+            c1.025,0.516,1.753,5.717,0.865,5.717c-0.794,0,0.84,4.504,2.253,4.504c0.39,0,1.684,1.196,2.077,1.558
+            c0.557,0.433,0.523,1.107,1.213,1.56c0.237,0.153,1.016,0.424,1.385,0.52c2.614,0.676,5.08,4.075,8.143,3.464
+            c0.058,0.173,0.116,0.346,0.173,0.52c0.746,0.04,0.587,0.106,1.039,0.346v0.101h22.196c0.157-0.347-0.01-0.691,0.149-1.143
+            c0.223-0.207,1.352-4.189-0.172-4.331c0.222-0.483,0.652-1.14,0.866-1.386c0.084,0.374,0.026,0.72-0.173,1.04
+            c2.102,0.518,0.095-0.011,0.693,0.519c0.115,0,0.23,0,0.346,0c-0.241-1.713,0.891-3.58,0.491-4.976
+            c-0.251-0.876,0.896-1.978,0.896-2.646c0-1.3,0.612-1.706-0.693-2.425c-0.521-0.286-1.461-0.545-2.426,0
+            c-1.713,2.277-4.331,0.533-4.331,4.554c0,1.329-1.606,4.361-2.945,4.625c-0.25-0.2-0.432-0.426-0.52-0.692
+            c-0.406,0.136-1.353,0.163-1.678,0.395c-0.183,0.13-0.693,0.966-0.747,0.991c-0.69-0.34-1.912,0.251-2.664,0.306
+            c-1.304,0.094-1.052-1.519-2.273-1.519c-1.559,0-1.414-0.37-2.17-1.871c-0.541-1.074-0.427-1.636-1.556-2.287
+            c-0.193-0.193-0.19-0.45-0.346-0.693c-0.425-0.666-1.498-2.158-1.559-3.117c-0.148,0.095-0.426,0.27-0.519,0.347
+            c0.237-1.426,0.52-3.104,0.519-4.331c0-0.747-0.71-2.076-0.508-2.678c0.244-0.729-0.059-2.052-0.011-2.518
+            c-0.238-1.431,0.37-0.959,0.519-2.253c0.159-0.277,0.821-0.205,1.1-1.052c0.242-0.735,0.101-0.73-0.408-0.854
+            c0.384-1.148-0.466-1.272-0.693-2.251c-0.205-0.886-0.659-2.762,0.346-2.426c0.299-0.782,0.319-2.251,1.387-2.251
+            c0.832,0,1.223-0.486,1.039-1.213c0.793-0.508,1.987-0.399,2.598-0.866c0.049-1.091,1.031-1.148,0.694-2.252
+            c0.214,0.071,0.989,0.527,1.039,0.52c0.529-0.08,1.725-0.443,1.559-1.213c0.721,0.364,0.835-0.105,1.386,0
+            c0.004,0,1.745,0.58,1.386,0.52c0.345,0.078,0.657-0.203,1.213-0.347c-0.158,1.361,1.062,1.182,1.906,0.692
+            c0,0.116,0,0.231,0,0.346c-1.939,0.955,1.538,0.947,1.905,1.039c-0.19-0.701-0.52-1.113,0.173-1.732
+            c0.471,0.13,2.599,1.601,2.599,1.731c0,0.544,0.37,0.415,0.693,0.174c-0.146-0.73-1.909-1.605-0.173-1.906
+            c-0.035-0.131-0.325-0.767-0.52-0.694c-0.827,0.374-0.419-0.604-1.559-0.173c-0.119-0.122-0.346-0.458-0.519-0.692
+            c0.577-0.078,1.154-0.078,1.732,0c-0.04-0.359,0.081-0.551,0.363-0.574c0.305-0.087,1.066-0.125,1.023-0.119
+            c0.613-0.083,1.915,1.324,1.732-0.346c0.116,0,0.231,0,0.346,0c0.265,1.607,1.244,1.034,1.559,0.001
+            c0.438,1.163,1.351,0.196,2.253,0.346c-0.372,1.234,1.478,1.011,1.906,2.079c0.599,0.261,0.832,0.527,1.559,0.346
+            c-0.286,0.039,2.135-0.991,2-0.743C297.539,139.51,296.696,139.49,296.838,139.23C298.732,139.282,296.593,139.679,296.838,139.23
+            z M321.263,165.223c0.018-0.228-0.142-0.233-0.346-0.173C321.114,165.243,320.916,165.124,321.263,165.223z M299.608,162.797
+            c0.585,0.234,0.225,0.854-0.346,1.214C301.985,165.298,299.839,160.109,299.608,162.797z M326.118,169.035
+            c-0.335-0.141-0.778,0.018-1.039,0.346c-1.42,0.52-1.885-0.811-3.293-0.52c1.109,1.022,0.565,0.797,1.039,2.079
+            c0.066,0.112,1.009,1.593,0.532,1.609c-0.736,0.026-2.144-0.252-2.884-0.448c-1.304-0.345-2.518,0.917-1.043,1.035
+            c1.853,0.148,3.643,0.228,5.525,0.228c0.827-1.331,1.413-2.821,1.699-4.42C326.474,168.975,326.297,169.006,326.118,169.035
+            C325.783,168.895,326.297,169.006,326.118,169.035z M313.641,172.845c-0.458-0.911-3.529-1.085-4.085-0.14
+            c-0.272,0.462,3.892,2.515,5.068,1.25C314.909,173.65,313.598,172.811,313.641,172.845
+            C313.393,172.351,313.894,173.044,313.641,172.845z"/>
+    </g>
+
+        <linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="875.9711" y1="-482.7735" x2="924.1966" y2="-530.9991" gradientTransform="matrix(0.75 0 0 -0.75 -373.75 -247.25)">
+        <stop  offset="0" style="stop-color:#000000;stop-opacity:0.25"/>
+        <stop  offset="0.7305" style="stop-color:#000000;stop-opacity:0.0245"/>
+        <stop  offset="0.9282" style="stop-color:#000000;stop-opacity:0"/>
+    </linearGradient>
+    <polygon fill="url(#SVGID_11_)" points="310.432,159.964 283.383,132.142 292.193,105.865 325.889,141.416     "/>
+    <path fill="#9BEADF" d="M293.473,114.967h-0.127c0.381-1.076,0.599-2.228,0.599-3.435c0-5.691-4.613-10.304-10.304-10.304
+        s-10.304,4.613-10.304,10.304c0,1.206,0.218,2.359,0.599,3.435h-0.127l0.378,0.66c0.296,0.683,0.669,1.323,1.1,1.92l8.355,14.594
+        l8.355-14.594c0.43-0.597,0.803-1.237,1.099-1.92L293.473,114.967z M280.205,111.532c0-1.897,1.538-3.435,3.435-3.435
+        c1.897,0,3.435,1.538,3.435,3.435c0,1.897-1.538,3.435-3.435,3.435C281.743,114.967,280.205,113.429,280.205,111.532z"/>
+</g>
+<rect id="hit-eye" x="4.875" y="95.046" fill="#FF0000" fill-opacity="0" width="92" height="92.303"/>
+<rect id="hit-pie" x="124.243" y="95.046" fill="#FF0000" fill-opacity="0" width="92" height="92.303"/>
+<rect id="hit-map" x="237.641" y="95.046" fill="#FF0000" fill-opacity="0" width="92" height="92.303"/>
+</svg>
+
+    </div>
+</section>
+
+<section class="video-container">
+    <h2>Media</h2>
+    <br>
+    <iframe class="youtube-video" src="https://www.youtube.com/embed/LEpa2Y4meGQ?rel=0&autohide=1&theme=light&showinfo=0" frameborder="0" allowfullscreen></iframe>
+    <p>Got questions? Please email them to media@gospelsounders.org.</p>
+</section>
+
+<section id="get-snap">
+    <div class="wrap  full center">
+        <h2>Get Snap now</h2>
+        <a class="bt large" href="https://github.com/adobe-webplatform/Snap.svg/archive/v0.5.1.zip" onclick="trackOutboundLink(this, 'Download', '0.5.1');return false;">
+            Download
+            <span class="sub-text">Version 0.5.1</span>
+        </a>
+        <p>You can also clone Snap from <a onclick="trackOutboundLink(this, 'GitHub', '0.5.1');return false;" href="https://github.com/adobe-webplatform/Snap.svg">GitHub.</a></p>
+    </div>
+</section>
+
+<script>
+    var logo = Snap.select("#snap-logo").attr({opacity:0});
+    window.onload = function () {
+
+        var parts = [
+                ['top', 0, 20],
+                ['left', 20, 0],
+                ['bottom', 0, -20],
+                ['right', -20, 0]
+            ],
+            components = [],
+            i = 0,
+            k = 0,
+            isLogoAnimated = false,
+            isCrocAnimated = false,
+            isCroc2Animated = false;
+
+        for (i = 0; i < parts.length; i++) {
+            var el = parts[i]
+                elid = el[0];
+                element = logo.select("#" + elid);
+            element.attr({opacity:0, transform: "t" + (el[1]) + "," + (el[2])});
+            components.push(element);
+        }
+
+        function animateEach() {
+            if (!components[k]) return;
+            components[k].animate({
+                transform: "t" + (0) + "," + (0),
+                opacity: 1
+            }, 250, mina.easeout);
+            setTimeout(animateEach, 150);
+            k++;
+        };
+
+
+        // crocodile
+
+        var croc = Snap.select("#crocodile"),
+            head = croc.select("#upper-head"),
+            jaw = croc.select("#upper-jaw"),
+            symbol = croc.select("#symbol"),
+            clearId = [],
+            scrollTop = 0;
+
+        var pivots = [
+            [44, 147],
+            [92, 126]
+        ];
+
+        function clearTimer() {
+            for (var i = 0; i < clearId.length; i++) {
+                clearTimeout(clearId[i]);
+            }
+            clearId = [];
+        }
+
+        function close() {
+            clearTimer();
+
+            head.animate({
+                transform: "r" + [8, pivots[0][0], pivots[0][1]]
+            }, 500, mina.backin);
+
+            jaw.animate({
+                transform: "r" + [37, pivots[1][0], pivots[1][1]]
+            }, 500, mina.backin);
+
+            clearId.push( setTimeout(function() {
+                symbol.animate({
+                    transform: "t" + (-70) + "," + (40) + "r" + (40)
+                }, 100);
+            }, 400));
+        }
+
+        function open() {
+            clearTimer();
+
+            head.animate({
+                transform: "r" + [0, pivots[0][0], pivots[0][1]]
+            }, 700, mina.elastic);
+
+            jaw.animate({
+                transform: "r" + [0, pivots[1][0], pivots[1][1]]
+            }, 700, mina.elastic);
+
+            symbol.animate({
+                transform: "t" + (0) + "," + (0) + "r" + (0)
+            }, 500, mina.elastic);
+        }
+
+
+        croc.hover(open,
+            function() {
+                clearId.push(setTimeout(close, 200));
+        });
+
+
+        // crocodile-2
+
+        var diagramgroup = Snap.select("#crocodile-2"),
+            elements = {},
+            elementkeys = ['map', 'pie', 'eye'],
+            diagramtimer = [],
+            animating = {},
+            cleartimers = {},
+            i = 0, j = 0;
+
+        function show(key) {
+            if (animating[key]) return;
+            clearTimeout(cleartimers[key]);
+            animating[key] = true;
+            var element = elements[key],
+            x = element[0].getBBox().x,
+            offset = x/2 + 25;
+            element[0].attr({
+                transform: "t"+offset+",80s0.5,0.5,0,0"
+            });
+            setTimeout(function() {
+                    element[0].animate({opacity:1,transform:"t0,0s1,1,0,0"}, 500, mina.elastic);
+            }, 50);
+            element[1].animate({opacity:0.25}, 400);
+            setTimeout(function(){animating[key] = false}, 550);
+        }
+
+        function showAll() {
+            j = 0;
+            function cycle() {
+                show(elementkeys[j]);
+                j++;
+                if (j < elementkeys.length) setTimeout(cycle, 200);
+            }
+            cycle();
+        }
+
+        function hoverIn() {
+            show( this.node.id.replace('hit-', '') );
+        }
+
+
+        for (i = 0; i < elementkeys.length; i++) {
+            var key = elementkeys[i],
+            diagram = diagramgroup.select("#diagram-" + key).attr({opacity:0}),
+            path = diagramgroup.select("#path-" + key).attr({opacity:0}),
+            hitarea = diagramgroup.select("#hit-" + key);
+            hitarea.hover(hoverIn);
+            elements[key] = [diagram, path];
+        }
+
+
+        // scroll events
+
+        function checkScroll(e) {
+            // alert(window.scrollY);
+            if (isLogoAnimated && isCrocAnimated && isCroc2Animated) return;
+            var scrollY = window.scrollY || window.pageYOffset;
+            if (scrollY > 250 && scrollY < 600 && !isCrocAnimated) {
+                clearId.push( setTimeout(close, 200) );
+                isCrocAnimated = true;
+            }
+
+            if (scrollY < 200 && !isLogoAnimated) {
+                logo.attr({opacity:1});
+                setTimeout(animateEach, 100);
+                isLogoAnimated = true;
+            }
+
+            if (scrollY > 800 && scrollY < 1100 && !isCroc2Animated) {
+                setTimeout(showAll, 100);
+                isCroc2Animated = true;
+            }
+        };
+
+        window.onscroll = checkScroll;
+        setTimeout(checkScroll, 50);
+
+    };
+    </script>
+
+        </article>
+
+        <footer>
+            <div class="wrap">
+                <nav>
+                    <a class="twitter-logo" href="https://twitter.com/Snapsvg"></a>
+                    <a class="github-logo" onclick="trackOutboundLink(this, 'GitHub', '0.5.1');return false;" href="https://github.com/adobe-webplatform/Snap.svg"></a>
+                    <a class="google-groups-logo" href="https://groups.google.com/forum/#!forum/snapsvg"></a>
+                    <a class="slack-logo" href="https://snapsvg.slack.com"></a>
+                    <a class="adobe-logo" href="http://adobe.com/"></a>
+                </nav>
+            </div>
+        </footer>
+
+        <script>
+//             var typed = new Typed('#typed', {
+//               stringsElement: '#typed-strings'
+//               ,typeSpeed: 50
+//               ,smartBackspace: true
+//               ,loop: true
+//               ,loopCount: Infinity
+//               ,showCursor: true
+//   ,cursorChar: '|'
+//   ,autoInsertCss: true
+//   ,backDelay: 700
+//   ,fadeOut: false
+//   ,fadeOutClass: 'typed-fade-out'
+//   ,fadeOutDelay: 500
+// ,onStringTyped: (arrayPos, self) => {rotate("n")}
+//             });
+
+
+
+            var carousel = $(".carousel"),
+    currdeg  = 0;
+
+$(".next").on("click", { d: "n" }, rotate);
+$(".prev").on("click", { d: "p" }, rotate);
+
+// setInterval(()=>{  rotate("n")}, 5000)
+
+function rotate(e){
+  if(e=="n"){
+    currdeg = currdeg - 60;
+  }
+  if(e=="p"){
+    currdeg = currdeg + 60;
+  }
+  
+console.log(currdeg)
+  carousel.css({
+    "-webkit-transform": "rotateY("+currdeg+"deg)",
+    "-moz-transform": "rotateY("+currdeg+"deg)",
+    "-o-transform": "rotateY("+currdeg+"deg)",
+    "transform": "rotateY("+currdeg+"deg)",
+  });
+}
+
+
+
+// student
+var master = new TimelineMax({delay:1.5}),
+    student = $("#student"),
+    studentWhole = $('#stud_whole'),
+    head = $('#stud_head'),
+    eyes = $('.eye'),
+    reflection = $('.reflection'),
+    hair = $('#hair'),
+    body = $('#stud_body'),
+    pgFld = $("#pgFld"),
+    stars = $(".stars"),
+    circle = $(".circle"),
+    dashed = $("#dashed"),
+    servicesIcons = $(".srvc_icon"),
+    pageFold = $("#pgFld");
+
+//book snap variables
+var s = Snap("#student");
+    bottomPages = s.select("#btm_pgs"),
+    bottomEdge = s.select("#bk_edg"),
+    bottomBody = s.select("#bk_bdy"),
+    bottomRight = s.select("#btm_r"),
+    bottomLeft = s.select("#btm_l"),
+    line = s.select("#line");
+
+
+bottomPages.attr({points:"199.827,333.441 200.188,334 198.801,334 198.14,333.344 190.077,333.696 190,333 209,333 208.487,333.463"});
+bottomEdge.attr({ d:"M184.5,332l0.5,9.5c0,0,5.635,7,14.661,7s14.839-7,14.839-7V332"});
+bottomBody.attr({ d:"M205.94,333H200h-7.524l-8.602,0.26l0.639,4.74 c0,0,0.044,0.473,0.138,0.637c0.779,1.371,4.964,7.938,15.35,7.938c10.182,0,14.449-6.029,15.356-7.561 c0.13-0.219,0.191-0.299,0.191-0.299l0.664-5.716H205.94z"});
+bottomRight.attr({ points:"199,326 199.016,326 199.7,326 199,326"});
+bottomLeft.attr({ points:"199,326 199.016,326 198.359,325.984 199,326"});
+
+function bookIn() {
+    bottomPages.animate({ points:"199,174 200,305 200,304 199,174 190,174 190,333 209,333 209,174"}, 350,mina.easeInOut,function(){
+        setTimeout(function(){
+            bottomPages.animate({ points:"313.061,304.975 200.188,305 198.801,305 85.44,304.975 30.5,333 190,333 209,333 370,333"}, 1000, mina.bounce);
+        },350)
+    });
+
+    bottomEdge.animate({ d:"M184.5,169l0.5,172.5c0,0,5.635,7,14.661,7s14.839-7,14.839-7V169"}, 350,mina.easeInOut,function(){
+        setTimeout(function(){
+            bottomEdge.animate({ d:"M13,341.5h172.224c0,0,5.973,7,15,7s14.776-7,14.776-7h172"}, 1000,mina.bounce);
+        },350)
+    });
+
+    bottomBody.animate({ d:"M205.94,174L200,307l-7.524-133l-8.602,0.26L184.512,338 	c0,0,0.044,0.473,0.138,0.637c0.779,1.371,4.964,7.938,15.35,7.938c10.182,0,14.449-6.029,15.356-7.561 c0.13-0.219,0.191-0.299,0.191-0.299L216.212,174H205.94z"}, 350,mina.easeInOut,function(){
+        setTimeout(function(){
+            bottomBody.animate({ d:"M328.178,308.28L200,307.238L72.591,308.28 l-60.046,30.913l171.995-0.196c0,0,0.016,0.49,0.11,0.654c0.779,1.371,4.964,6.932,15.35,6.932 c10.182,0,14.449-6.033,15.356-7.564c0.13-0.219,0.191-0.063,0.191-0.063L387.241,339L328.178,308.28z"}, 1000,mina.bounce);
+        },350)
+    });
+
+    bottomRight.animate({ points:"199,299 199.016,174 199.7,174 199,326"}, 350,mina.easeInOut,function(){
+        setTimeout(function(){
+            bottomRight.animate({ points:"199,299 300.647,299 355.376,326 199,326"}, 1000,mina.bounce);
+        },350)
+    });
+
+    bottomLeft.animate({ points:"199,299 199.016,174 198.359,173.984 199,326"}, 350,mina.easeInOut,function(){
+        setTimeout(function(){
+            line.attr({opacity:1});
+            bottomLeft.animate({ points:"199,299 96,299 44,326 199,326"}, 1000,mina.bounce);
+
+        },350)
+
+    });
+}
+
+master.set([studentWhole,stars,circle],{css:{display:'block'}})
+    .add( circleScale())
+    .add('circleEnd')
+    .add(bodyRotateIn(),'circleEnd -= 1.25')
+    .add( repeatAnim(),'circleEnd -= 1')
+    .call(bookIn())
+
+
+//circles scale in
+function circleScale(){
+    var tl = new TimelineMax();
+    tl.staggerFrom(circle,.7, {transformOrigin:"50% 100%",scale:0,ease:Back.easeOut},0.2, 'cirlceIn')
+      .staggerFrom(stars,1, {transformOrigin:"50% 50%",scale:0,opacity:0,ease:Elastic.easeOut},0.1,'cirlceIn+=.5')
+    return tl;
+}
+
+//body rotate in animation
+function bodyRotateIn (){
+    var tl = new TimelineMax();
+    tl.from(studentWhole,.5, {rotation:90, transformOrigin:"106 260",scale:0, fillOpacity:.5},'bodyRotation')
+      .from(head,.5,{rotation:45, transformOrigin:"85 180",ease:Back.easeOut},"bodyRotation+=.35")
+      .from(hair,2,{rotation:15, transformOrigin:"10 50%",ease:Elastic.easeOut},"bodyRotation+=.37");
+    tl.set(pageFold, {opacity:1});
+      tl.timeScale(1.5);
+    return tl;
+}
+
+// reapeated animations
+function repeatAnim (){
+    var tl = new TimelineMax({repeat:-1});
+    tl.to(eyes,.1, {rotationX:90,transformOrigin:"50% 50%"},'repeatStart')
+      .to(eyes,.1, {rotationX:0})
+      .to(eyes,3, {rotationX:0})
+      .to(eyes,.1, {rotationX:90,transformOrigin:"50% 50%"})
+      .to(eyes,.1, {rotationX:0})
+      .to(eyes,.1, {rotationX:90,transformOrigin:"50% 50%"})
+      .to(eyes,.1, {rotationX:0})
+      .to(eyes,4, {rotationX:0})
+      .to(eyes,.1, {rotationX:90,transformOrigin:"50% 50%"})
+      .to(eyes,.1, {rotationX:0})
+      .to(eyes,3, {rotationX:0})
+      .to(reflection,1.5,{x:12,opacity:.15},1,'repeatStart')
+      .to(reflection,4,{x:12,opacity:.35},2.5)
+      .to(reflection,1,{x:0,opacity:.1},4)
+      .to(reflection,4,{x:0,opacity:.15})
+      .to(dashed,15,{rotation:180,transformOrigin:"50% 50%", ease:Linear.easeNone},'repeatStart')
+
+
+    return tl;
+}
+
+            
+          </script>
+
+    </body>
+</html>

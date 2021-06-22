@@ -1,0 +1,38 @@
+
+<div class="row">
+  
+  <div class="col-sm-9">
+
+    <section class="content">
+        
+
+      {{#canEdit}}
+        <div class="btn-group btn-group-sm float-right">
+          <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+            {{lang.page.actions}} <span class="caret"></span>
+          </button>
+          <ul class="dropdown-menu" role="menu">
+            <li class="dropdown-item"><a class="goto-edit">{{lang.page.editPage}}</a></li>
+            <li class="dropdown-item"><a data-toggle="modal" data-target="#deleteModal">{{lang.page.deletePage}}</a></li>
+          </ul>
+        </div>
+      {{/canEdit}}
+
+
+      {{{content}}}
+
+      <div class="page-meta clearfix">
+        {{#config.support_email}}
+          <div class="contact-support float-left">
+            <span class="glyphicon glyphicon-envelope"></span> {{lang.page.needHelp}} <a href="mailto:{{config.support_email}}">{{lang.page.getInTouch}}</a>
+          </div>
+        {{/config.support_email}}
+        <div class="last-updated float-right">
+          {{lang.global.lastUpdated}} {{last_modified}} {{#author}} by {{author}}{{/author}}
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+</div>

@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="{{config.locale}}">
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{#meta.title}}{{meta.title}} - {{/meta.title}}{{config.site_title}}</title>
+  {{#meta.description}}<meta name="description" content="{{meta.description}}">{{/meta.description}}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="shortcut icon" href="{{config.base_url}}/favicon.ico">
+  <!-- <link rel="stylesheet" href="{{config.base_url}}/lib/bootstrap/dist/css/bootstrap.min.css"> -->
+  <!-- <link rel="stylesheet" href="{{config.base_url}}/lib/highlightjs/styles/solarized_light.css"> -->
+  <!-- Our Custom CSS -->
+  <!-- <link rel="stylesheet" href="{{config.base_url}}/styles/style.css"> -->
+  <link rel="stylesheet" href="{{config.base_url}}/styles/uf_style.css">
+  <!-- <link rel="stylesheet" href="{{config.base_url}}/styles/raneto.css"> -->
+  <link rel="stylesheet" href="{{config.base_url}}/styles/cstyle.css"> 
+  <!-- <link rel="stylesheet" href="{{config.base_url}}/styles/ghostdown.css"> -->
+  {{#config.rtl_layout}}
+  <link rel="stylesheet" href="{{config.base_url}}/lib/bootstrap-rtl/dist/css/bootstrap-rtl.min.css">
+  <link rel="stylesheet" href="{{config.base_url}}/styles/raneto.rtl.css">
+  
+  {{/config.rtl_layout}}
+
+  {{{config.analytics}}}
+
+</head>
+<!-- <body class="{{body_class}}"> -->
+<body class="searchbox-hidden">
+  <div class="wrapper">
+      <div class="navbar-fixed" id="nav-main">
+          <nav class="custom">
+              <div class="nav-wrapper">
+                  <a href="{{config.base_url}}/" class="brand-logo" style="padding-left: 2rem; text-transform: uppercase">{{config.site_title}}</a>
+                  <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+                  <ul class="right hide-on-med-and-down">
+                      <li><a href="https://www.userfrosting.com/features">Features</a></li>
+                      <li><a href="https://demo.userfrosting.com/" target="_blank">Demo</a></li>
+                      <li>
+                          <a class="dropdown-button" href="#!" data-activates="dropdown1">
+                              Get Started
+                          </a>
+                          <ul id="dropdown1" class="dropdown-content">
+              <li><a href="https://learn.userfrosting.com/">Install</a></li>
+              <li><a href="https://learn.userfrosting.com/">Docs</a></li>
+              <li><a href="https://learn.userfrosting.com/recipes">Recipes</a></li>
+                          </ul>
+              </li>
+                      <li><a href="https://forums.userfrosting.com" target="_blank">Forums</a></li>
+                      <li><a href="https://chat.userfrosting.com" target="_blank">Chat</a></li>
+                      <span id="nav-social">
+                          <li class="fa-stack"><a href="https://github.com/userfrosting/UserFrosting" target="_blank"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-github fa-stack-1x"></i></a></li>
+                          <li class="fa-stack"><a href="https://twitter.com/userfrosting" target="_blank"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></a></li>
+                      </span>
+                      <li><a class="btn" href="https://www.userfrosting.com/donate">Donate</a></li>
+                  </ul>
+              </div>
+          </nav>
+      </div>
+
+      <nav id="sidebar">
+        <div id="header-wrapper">
+            <div id="header">
+                <a id="logo" href="https://www.userfrosting.com"><span class="logo-title"> {{config.site_title}}</span>
+</a>
+                    <form class="searchbox" action="{{config.base_url}}/">
+                          <label for="search-by"><i class="fa fa-search"></i></label>
+                          <input type="search"  search name="search" id="search" value="{{search}}" placeholder="{{lang.global.search}}">
+                          <span data-search-clear><i class="fa fa-close"></i></span>
+                      </form>
+				<div id="mobile-nav">
+					<a href="https://www.userfrosting.com">Home</a> <a href="">Docs</a> <a href="https://forums.userfrosting.com/">Forums</a><a href="https://chat.userfrosting.com"/>Chat</a>
+				</div>
+            </div>
+        </div>
+        
+
+<div class="scrollbar-inner">
+    <div class="highlightable">
+        <ul class="topics">
+            {{#pages}}
+                {{#is_index}}
+                    <li class="dd-item {{#active}} active{{/active}}" data-nav-id="/">
+                        <a href="{{slug}}">
+                            <i class="fa fa-check read-icon"></i>
+                            <span>{{#chapterNum}}<b>{{chapterNum}}. </b>{{/chapterNum}}{{title}}</span>
+                            
+                         </a>
+                    </li>
+                {{/is_index}}
+                {{^is_index}}
+
+                    <li class="dd-item {{#parent}} parent{{/parent}} {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
+                        <!-- <a href="{{config.base_url}}/{{slug}}"> -->
+                        <a href="{{slug}}">
+                            <i class="fa fa-check read-icon"></i>
+                            <span>{{#chapterNum}}<b>{{chapterNum}}. </b>{{/chapterNum}}{{title}}</span>
+                        </a>
+                        <ul>
+                        {{#files}}
+                        <li class="dd-item {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
+                            <!-- <a href="{{config.base_url}}/{{slug}}"> -->
+                            <a href="{{slug}}">
+                                <i class="fa fa-check read-icon"></i>
+                                <span>{{title}}</span>
+                            </a>
+                            <ul>
+                            {{#files}}
+                                <li class="dd-item {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
+                                    <!-- <a href="{{config.base_url}}/{{slug}}"> -->
+                                    <a href="{{slug}}">
+                                        <i class="fa fa-check read-icon"></i>
+                                        <span>{{title}}</span>
+                                    </a>
+                                </li>
+                            {{/files}}
+                            </ul>
+                        </li>
+                        {{/files}}
+                    </ul>
+                </li>
+                {{/is_index}}
+            {{/pages}}
+
+            
+
+            
+    
+        </ul>
+                <hr/>
+
+        <a class="padding" href="#" data-clear-history-toggle><i class="fa fa-fw fa-history"></i> Clear History</a><br/>
+
+        <section id="footer">
+            <p>Built with <a href="http://getgrav.org">csyms</a> - A Flat File CMS for node</p>
+            <p>
+                    {{#config.copyright}}
+                      <p>{{{config.copyright}}}</p>
+                    {{/config.copyright}}
+            </p>
+        </section>
+    </div>
+</div>
+    </nav>
+
+
+    <section id="body">
+        <div id="overlay"></div>
+
+        <div class="padding highlightable">
+            <!-- <a href="#" id="sidebarCollapse" data-sidebar-toggle><i class="fa fa-2x fa-bars"></i></a> -->
+            <a href="#" id="sidebar-toggle" data-sidebar-toggle><i class="fa fa-2x fa-bars"></i></a>
+            <div id="top-bar">
+                        <div id="top-github-link">
+                <a class="github-link" href="https://github.com/userfrosting/learn/blob/hotfix/pages/02.background/01.introduction/docs.md" target="_blank"><i class="fa fa-github-square"></i> edit this page</a>
+                </div>
+                
+                					
+            <div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                {{#breadCrumbs}}
+                <a href="{{slug}}" itemprop="url"><span itemprop="title">{{title}}</span></a>
+                    {{^isEnd}}
+                    {{#breadCrumbs}}
+                    <i class="fa fa-angle-right"></i>
+                    <a href="{{slug}}" itemprop="url"><span itemprop="title">{{title}}</span></a>
+                        {{^isEnd}}
+                        {{#breadCrumbs}}
+                        <i class="fa fa-angle-right"></i>
+                        <span itemprop="title">{{title}}</span>
+                        {{/breadCrumbs}} 
+                        {{/isEnd}} 
+                    {{/breadCrumbs}}  
+                    {{/isEnd}}
+                {{/breadCrumbs}}
+                {{^breadCrumbs}}
+                    <br>
+                {{/breadCrumbs}}
+            </div>
+							    
+				<div class="toc">
+					<ol data-toc="body" data-toc-headings="h2, h3"></ol>
+				</div>
+			</div>
+            {{{yield}}}
+                <!-- <div id="body-inner">
+                    {{{yield}}}
+</div> -->
+
+                                        
+        </div>
+        	<div id="navigation">
+                    {{#navSlugs.prev}}<a class="nav nav-prev" href={{navSlugs.prev}}> <i class="fa fa-chevron-left"></i></a>{{/navSlugs.prev}}
+	
+                    {{#navSlugs.next}}<a class="nav nav-next" href={{navSlugs.next}}><i class="fa fa-chevron-right"></i></a>{{/navSlugs.next}}
+		</div>
+    </section>
+
+
+    <!-- end of sidebar -->
+
+      <!-- <nav id="sidebar">
+          <div class="sidebar-header">
+              <h3>Bootstrap Sidebar</h3>
+          </div>
+  
+          <ul class="list-unstyled components">
+              <p>Dummy Heading</p>
+              <li class="active">
+                  <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Home</a>
+                  <ul class="collapse list-unstyled" id="homeSubmenu">
+                      <li>
+                          <a href="#">Home 1</a>
+              </li>
+                      <li>
+                          <a href="#">Home 2</a>
+              </li>
+                      <li>
+                          <a href="#">Home 3</a>
+              </li>
+                  </ul>
+      </li>
+              <li>
+                  <a href="#">About</a>
+      </li>
+              <li>
+                  <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Pages</a>
+                  <ul class="collapse list-unstyled" id="pageSubmenu">
+                      <li>
+                          <a href="#">Page 1</a>
+              </li>
+                      <li>
+                          <a href="#">Page 2</a>
+              </li>
+                      <li>
+                          <a href="#">Page 3</a>
+              </li>
+                  </ul>
+      </li>
+              <li>
+                  <a href="#">Portfolio</a>
+      </li>
+              <li>
+                  <a href="#">Contact</a>
+      </li>
+          </ul>
+      </nav> -->
+
+  <!-- Header -->
+   <!-- Page Content  -->
+   
+  
+
+  <div id="content">
+  
+    <!-- Sidebar -->
+    
+
+<!-- </div> -->
+
+  <!-- Main -->
+  <div class="container-fluid">
+      <!-- <header class="header">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-sm-6">
+                <a href="{{config.base_url}}/" class="logo">{{config.site_title}}</a>
+              </div>
+              <div class="col-sm-6">
+                {{#config.googleoauth}}
+                <form class="form-inline float-right">
+                  {{#config.authentication}} {{#loggedIn}} &nbsp;
+                  <span>{{profile.displayName}}</span> &nbsp;
+                  <a href="{{config.base_url}}/auth/logout" class="btn btn-info">{{lang.login.logout}}</a> {{/loggedIn}} {{^loggedIn}} &nbsp;
+                  <a href="{{config.base_url}}/auth/login" class="btn btn-info">{{lang.login.login}}</a> {{/loggedIn}} {{/config.authentication}}
+                </form>
+                {{/config.googleoauth}}
+      
+                {{^config.googleoauth}}
+                <form class="form-inline float-right">
+                  {{#config.authentication}}
+                    {{#loggedIn}}
+                      <div class="dropdown">
+                        <button class="btn btn-info dropdown-toggle" type="button" id="userDropDown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                          {{username}}
+                          <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropDown">
+                          <li class="dropdown-item"><a href="{{config.base_url}}/logout" class="btn btn-info">{{lang.login.logout}}</a></li>
+                        </ul>
+                      </div>
+                    {{/loggedIn}}
+                    {{^loggedIn}}
+                      &nbsp;<a href="{{config.base_url}}/login" class="btn btn-info">{{lang.login.login}}</a>
+                    {{/loggedIn}}
+                  {{/config.authentication}}
+                </form>
+                {{/config.googleoauth}}
+                
+                <form class="search-form form-inline float-right" action="{{config.base_url}}/">
+                  <div class="form-group">
+                    <label class="sr-only" for="search">{{lang.global.search}}</label>
+                    <input type="search" class="form-control" name="search" id="search" size="30" value="{{search}}" placeholder="{{lang.global.search}}">
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </header> -->
+
+      <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <div class="container-fluid">
+
+              <button type="button" id="sidebarCollapse" class="btn btn-info">
+                  <i class="fas fa-align-left"></i>
+                  <span>Toggle Sidebar</span>
+              </button>
+              <button class="btn btn-dark d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <i class="fas fa-align-justify"></i>
+              </button>
+
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="nav navbar-nav ml-auto">
+                      <li class="nav-item active">
+                          <a class="nav-link" href="#">Page</a>
+              </li>
+                      <li class="nav-item">
+                          <a class="nav-link" href="#">Page</a>
+              </li>
+                      <li class="nav-item">
+                          <a class="nav-link" href="#">Page</a>
+              </li>
+                      <li class="nav-item">
+                          <a class="nav-link" href="#">Page</a>
+              </li>
+                  </ul>
+              </div>
+          </div>
+      </nav> -->
+
+    <!-- {{{yield}}} -->
+  </div>
+
+  {{#config.allow_editing}}
+  {{#loggedIn}}
+
+    <!-- Modal: Add Page -->
+    <div class="modal fade" id="addModal" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="{{lang.global.close}}">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            <h4 class="modal-title">{{lang.global.addPage}}</h4>
+          </div>
+          <div class="modal-body">
+            <div class="form-group">
+              <label for="page-name" class="col-form-label">{{lang.global.pageName}}:</label>
+              <input type="text" class="form-control" id="page-name">
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button class="btn btn-secondary" data-dismiss="modal" type="button">{{lang.global.cancel}}</button>
+            <button class="btn btn-primary" id="add-page-confirm" type="button">{{lang.global.save}}</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal: Delete Page -->
+    <div class="modal fade" id="deleteModal" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-body">
+            <h4 class="modal-title" id="myModalLabel">{{lang.global.reallyDeletePage}}</h4>
+          </div>
+          <div class="modal-footer">
+            <button class="btn btn-secondary" data-dismiss="modal" type="button">{{lang.global.no}}</button>
+            <button class="btn btn-primary" id="delete-page-confirm" type="button">{{lang.global.yes}}</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  {{/loggedIn}}
+  {{/config.allow_editing}}
+  <!-- End of content -->
+  </div>
+  </div>
+
+  <!-- JavaScript -->
+  <script src="{{config.base_url}}/lib/jquery/dist/jquery.min.js"></script>
+  <script src="{{config.base_url}}/lib/popper.js/dist/umd/popper.min.js"></script>
+  <script src="{{config.base_url}}/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script src="{{config.base_url}}/lib/highlightjs/highlight.pack.min.js"></script>
+  <script src="{{config.base_url}}/lib/fitvids/fitvids.min.js"></script>
+  <script src="{{config.base_url}}/lib/masonry-layout/dist/masonry.pkgd.min.js"></script>
+  <script src="{{config.base_url}}/scripts/ghostdown.js"></script>
+  <script src="{{config.base_url}}/scripts/raneto.js"></script>
+  <script src="{{config.base_url}}/scripts/uf.js"></script>
+
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script> -->
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+                $('body').toggleClass('sidebar-hidden');
+                $(this).toggleClass('active');
+            });
+            $('#sidebarCollapse').on('click', function () {
+                $('body').toggleClass('sidebar-hidden');
+            });
+            $('[data-search-clear]').on('click',function(){
+                $('[search]').val('').trigger('input');sessionStorage.removeItem('search-input');
+            });
+            $('#data-search-clear').on('click',function(){
+                $('[search]').val('').trigger('input');sessionStorage.removeItem('search-input');
+            });
+        });
+    </script>
+
+</body>
+</html>

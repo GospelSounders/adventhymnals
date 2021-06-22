@@ -1,0 +1,34 @@
+
+<div class="row">
+  <div class="col-sm-9">
+
+    <section class="content search">
+      <h3 class="title">{{lang.search.resultsFor}}: {{search}}</h3>
+      {{#searchResults.length}}
+        {{#searchResults}}
+          <div class="paged">
+            <h2 >
+              {{#Oslug}}
+                <a href="{{Oslug}}">
+                  {{title}} 
+                  {{#category}}<span style="color: #DDD;">({{category}})</span>{{/category}}
+                </a>
+              {{/Oslug}}
+              {{^Oslug}}
+              <a href="{{config.base_url}}/{{slug}}">
+                {{title}} 
+                {{#category}}<span style="color: #DDD;">({{category}})</span>{{/category}}
+              </a>
+              {{/Oslug}}
+            </h2>
+            <div class="page-excerpt">{{{excerpt}}}</div>
+          </div>
+        {{/searchResults}}
+      {{/searchResults.length}}
+      {{^searchResults.length}}
+        <p class="nothing-found">{{lang.search.noResultsFor}} "{{search}}"</p>
+      {{/searchResults.length}}
+    </section>
+
+  </div>
+</div>

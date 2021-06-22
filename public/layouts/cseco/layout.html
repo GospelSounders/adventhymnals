@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="{{config.locale}}">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{#meta.title}}{{meta.title}} - {{/meta.title}}{{config.site_title}}</title>
+    {{#meta.metadata.description}}<meta name="description" content="{{meta.metadata.description}}">{{/meta.metadata.description}}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="shortcut icon" href="{{config.base_url}}/icon.png">
+    <link rel="stylesheet" href="{{config.base_url}}/themes/default/styles/uf_style.css">
+    <link rel="stylesheet" href="{{config.base_url}}/themes/default/styles/cstyle.css">
+    {{#config.rtl_layout}}
+    <link rel="stylesheet" href="{{config.base_url}}/themes/default/lib/bootstrap-rtl/dist/css/bootstrap-rtl.min.css">
+    <link rel="stylesheet" href="{{config.base_url}}/themes/default/styles/raneto.rtl.css">
+
+    {{/config.rtl_layout}}
+
+    {{{config.analytics}}}
+
+</head>
+
+<body class="searchbox-hidden">
+    <div class="wrapper">
+        <div class="navbar-fixed" id="nav-main">
+            <nav class="custom">
+                <div class="nav-wrapper">
+                    <a href="{{config.base_url}}/" class="brand-logo" style="padding-left: 2rem; text-transform: uppercase">{{config.site_title}}</a>
+                    <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+                    <ul class="right hide-on-med-and-down">
+                        <span id="nav-social">
+                            <li class="fa-stack"><a href="https://github.com/csymapp/csycms" target="_blank"><i
+                                class="fa fa-circle fa-stack-2x"></i><i class="fa fa-github fa-stack-1x"></i></a></li>
+                        </span>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+
+        <nav id="sidebar">
+            <div id="header-wrapper">
+                <div id="header">
+                    <a id="logo" href="#"><span class="logo-title"> {{config.site_title}}</span>
+                    </a>
+                    <form class="searchbox" action="{{config.base_url}}/">
+                        <label for="search-by"><i class="fa fa-search"></i></label>
+                        <input type="search" search name="search" id="search" value="{{search}}" placeholder="{{lang.global.search}}">
+                        <span data-search-clear><i class="fa fa-close"></i></span>
+                    </form>
+                    <div id="mobile-nav">
+                        <a href="https://github.com/csymapp/csycms">Github</a> 
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="scrollbar-inner">
+                <div class="highlightable">
+                    <ul class="topics">
+                        {{#pages}}
+                        {{#is_index}}
+                        <li class="dd-item {{#active}} active{{/active}}" data-nav-id="/">
+                            <a href="{{slug}}">
+                                <i class="fa fa-check read-icon"></i>
+                                <span>{{#chapterNum}}<b>{{chapterNum}}. </b>{{/chapterNum}}{{title}}</span>
+
+                            </a>
+                        </li>
+                        {{/is_index}}
+                        {{^is_index}}
+
+                        <li class="dd-item {{#parent}} parent{{/parent}} {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
+                            <a href="{{slug}}">
+                                <i class="fa fa-check read-icon"></i>
+                                <span>{{#chapterNum}}<b>{{chapterNum}}. </b>{{/chapterNum}}{{title}}</span>
+                            </a>
+                            <ul>
+                                {{#files}}
+                                <li class="dd-item {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
+                                    <a href="{{slug}}">
+                                        <i class="fa fa-check read-icon"></i>
+                                        <span>{{title}}</span>
+                                    </a>
+                                    <ul>
+                                        {{#files}}
+                                        <li class="dd-item {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
+                                            <a href="{{slug}}">
+                                                <i class="fa fa-check read-icon"></i>
+                                                <span>{{title}}</span>
+                                            </a>
+                                        </li>
+                                        <ul>
+                                            {{#files}}
+                                            <li class="dd-item {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
+                                                <a href="{{slug}}">
+                                                    <i class="fa fa-check read-icon"></i>
+                                                    <span>{{title}}</span>
+                                                </a>
+                                            </li>
+                                            {{/files}}
+                                        </ul>
+                                        {{/files}}
+                                    </ul>
+                                </li>
+                                {{/files}}
+                            </ul>
+                        </li>
+                        {{/is_index}}
+                        {{/pages}}
+
+
+
+
+
+                    </ul>
+                    <hr />
+
+                    <a class="padding" href="#" data-clear-history-toggle><i class="fa fa-fw fa-history"></i> Clear
+                        History</a><br />
+
+                    <section id="footer">
+                        <p>Built with <a href="http://csycms.csymapp.com">csyms</a> - A Flat File CMS for node</p>
+                        <p>
+                            {{#config.copyright}}
+                            <p>{{{config.copyright}}}</p>
+                            {{/config.copyright}}
+                        </p>
+                    </section>
+                </div>
+            </div>
+        </nav>
+
+
+        <section id="body">
+            <div id="overlay"></div>
+
+            <div class="padding highlightable">
+                <a href="#" id="sidebar-toggle" data-sidebar-toggle><i class="fa fa-2x fa-bars"></i></a>
+                <div id="top-bar">
+
+
+                    <div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                        {{#breadCrumbs}}
+                        <a href="{{slug}}" itemprop="url"><span itemprop="title">{{title}}</span></a>
+                        {{^isEnd}}
+                        {{#breadCrumbs}}
+                        <i class="fa fa-angle-right"></i>
+                        <a href="{{slug}}" itemprop="url"><span itemprop="title">{{title}}</span></a>
+                        {{^isEnd}}
+                        {{#breadCrumbs}}
+                        <i class="fa fa-angle-right"></i>
+                        <span itemprop="title">{{title}}</span>
+                        {{/breadCrumbs}}
+                        {{/isEnd}}
+                        {{/breadCrumbs}}
+                        {{/isEnd}}
+                        {{/breadCrumbs}}
+                        {{^breadCrumbs}}
+                        <br>
+                        {{/breadCrumbs}}
+                    </div>
+
+                    <div class="toc">
+                        <ol data-toc="body" data-toc-headings="h2, h3"></ol>
+                    </div>
+                </div>
+                {{{yield}}}
+
+
+            </div>
+            <div id="navigation">
+                {{#navSlugs.prev}}<a class="nav nav-prev" href={{navSlugs.prev}}> <i class="fa fa-chevron-left"></i></a>{{/navSlugs.prev}}
+
+                {{#navSlugs.next}}<a class="nav nav-next" href={{navSlugs.next}}><i class="fa fa-chevron-right"></i></a>{{/navSlugs.next}}
+            </div>
+        </section>
+
+
+        <div id="content">
+            {{#config.allow_editing}}
+            {{#loggedIn}}
+
+            <!-- Modal: Add Page -->
+            <div class="modal fade" id="addModal" tabindex="-1">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="{{lang.global.close}}">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                            <h4 class="modal-title">{{lang.global.addPage}}</h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class="form-group">
+                                <label for="page-name" class="col-form-label">{{lang.global.pageName}}:</label>
+                                <input type="text" class="form-control" id="page-name">
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-secondary" data-dismiss="modal" type="button">{{lang.global.cancel}}</button>
+                            <button class="btn btn-primary" id="add-page-confirm" type="button">{{lang.global.save}}</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Modal: Delete Page -->
+            <div class="modal fade" id="deleteModal" tabindex="-1">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <h4 class="modal-title" id="myModalLabel">{{lang.global.reallyDeletePage}}</h4>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-secondary" data-dismiss="modal" type="button">{{lang.global.no}}</button>
+                            <button class="btn btn-primary" id="delete-page-confirm" type="button">{{lang.global.yes}}</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {{/loggedIn}}
+            {{/config.allow_editing}}
+            <!-- End of content -->
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="{{config.base_url}}/themes/default/lib/jquery/dist/jquery.min.js"></script>
+    <script src="{{config.base_url}}/themes/default/lib/popper.js/dist/umd/popper.min.js"></script>
+    <script src="{{config.base_url}}/themes/default/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="{{config.base_url}}/themes/default/lib/highlightjs/highlight.pack.min.js"></script>
+    <script src="{{config.base_url}}/themes/default/lib/fitvids/fitvids.min.js"></script>
+    <script src="{{config.base_url}}/themes/default/lib/masonry-layout/dist/masonry.pkgd.min.js"></script>
+    <script src="{{config.base_url}}/themes/default/scripts/ghostdown.js"></script>
+    <script src="{{config.base_url}}/themes/default/scripts/raneto.js"></script>
+    <script src="{{config.base_url}}/themes/default/scripts/uf.js"></script>
+
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ"
+        crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+                $('body').toggleClass('sidebar-hidden');
+                $(this).toggleClass('active');
+            });
+            $('#sidebarCollapse').on('click', function () {
+                $('body').toggleClass('sidebar-hidden');
+            });
+            $('[data-search-clear]').on('click', function () {
+                $('[search]').val('').trigger('input'); sessionStorage.removeItem('search-input');
+            });
+            $('#data-search-clear').on('click', function () {
+                $('[search]').val('').trigger('input'); sessionStorage.removeItem('search-input');
+            });
+        });
+    </script>
+
+</body>
+
+</html>
