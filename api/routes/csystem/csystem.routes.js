@@ -19,7 +19,7 @@ class csystemroutes
 		 * common query string
 		 * middleware function to set_defaults_
 		 */
-		app.use('/:app?/:method?/:v1?/:v2?/:v3?/:v4?/:v5?/:v6?/:v7?/:v8?/:v9?/', 
+		app.use('/api/:method?/:v1?/:v2?/:v3?/:v4?/:v5?/:v6?/:v7?/:v8?/:v9?/', 
 			router.defaults,
 			function (req, res) {
 				for(let i in req.query) 

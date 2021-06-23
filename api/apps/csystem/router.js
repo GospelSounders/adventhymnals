@@ -8,6 +8,7 @@ class router {
 	}
 
 	defaults(req, res, next) {
+		req.params.app = 'api'
 		req.params.app === undefined ? req.params.app = "csystem" : false;
 		req.params.method === undefined ? req.params.method = "main" : false;
 		next();
