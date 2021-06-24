@@ -8,13 +8,14 @@ class router {
 	}
 
 	defaults(req, res, next) {
-		req.params.app = 'api'
+		if(req.params.app !== 'api')throw "..."
 		req.params.app === undefined ? req.params.app = "csystem" : false;
 		req.params.method === undefined ? req.params.method = "main" : false;
 		next();
 	}
 
 	async loadpage(config_, req, res, next) {
+		// req.params.app = 'api'
 		let config = config_.siteapi
 		config.extras = config_
 		let self = this;
