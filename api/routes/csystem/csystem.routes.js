@@ -19,7 +19,8 @@ class csystemroutes {
 		 */
 		app.use('/:app/:method?/:v1?/:v2?/:v3?/:v4?/:v5?/:v6?/:v7?/:v8?/:v9?/', 
 			router.defaults,
-			function (req, res) {
+			function (req, res, next) {
+		if(req.params.app !== 'api')return next();
 				for (let i in req.query)
 					req.body[i] = req.query[i]
 				router.loadpage(config, req, res, function (err, results) {
