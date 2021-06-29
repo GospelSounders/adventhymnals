@@ -1,3 +1,3 @@
-# Sample-Site
+# Advent Hymnals Site
 
-Site template for creating sites using [csycms](https://github.com/csymapp/csycms).
+Advent Hymnals Site created using [csycms](https://github.com/csymapp/csycms).
