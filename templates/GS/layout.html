@@ -5,8 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title> {{#meta.title}}{{meta.title}} - {{/meta.title}}{{config.site.title}}</title>
+    <meta property="og:title" content="{{#meta.title}}{{meta.title}} - {{/meta.title}}{{config.site.title}}" />
     {{#meta.metadata.description}}
-    <meta name="description" content="{{meta.metadata.description}}" />{{/meta.metadata.description}}
+    <meta name="description" content="{{meta.metadata.description}}" />
+    {{/meta.metadata.description}}
     {{#meta.metadata.refresh}}
     <meta http-equiv="refresh" content="{{meta.metadata.refresh}}" />{{/meta.metadata.refresh}}
     {{#meta.metadata.keywords}}
@@ -16,6 +18,12 @@
     {{#meta.metadata.robots}}
     <meta name="robots" content="{{meta.metadata.robots}}" />{{/meta.metadata.robots}}
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="Generator" content="Csycms (http://csycms.csymapp.com)" />
+    <meta property="og:type" content="song" />
+
+    <meta property="og:image" content="{{config.base_url}}/charles-wesley-hymn-690x385.jpg" />
+    <meta property="og:url" content="{{url}}" />
+    <meta property="og:site_name" content="{{config.site.title}}" />
 
     <link rel="shortcut icon" href="{{config.base_url}}/favicon.ico">
     <link rel="stylesheet" href="{{config.base_url}}/styles/uf_style.css">
@@ -611,6 +619,10 @@
             },
             created() {
                 this.getLocalHymnals();
+                this.$q.notify({
+                    type: "negative",
+                    message: "This site is under heavy maintenance as the result of which some songs will be unavailable. Please check back in a few hours",
+                })
             },
             computed: {
                 rightSideBarSize() {
@@ -724,13 +736,14 @@
                 },
                 openSong() { // from url or given hymnal and song
                     let urlParts = window.location.href.split(this.root)[1].match(/\/([0-9a-zA-Z\-]+)\/([0-9\-]+)\/([0-9\-]+)\/(.+)\/*/)
-                    console.log(urlParts)
+                    // console.log(urlParts)
                     let link = urlParts[1]
                     let title = urlParts[4]
                     let hymnal = this.allHymnals.filter(item => item.link === link)[0]
-                    console.log(hymnal); //search the song
-                    let song = hymnal.indices.filter(item => item.title.replace(/ /g, "-") === title)[0]
-                    console.log(song)
+                    // console.log(hymnal); //search the song
+                    let song = hymnal.indices.filter(item => {let ret = false; try { ret = item.title.replace(/ /g, "-") === title } catch (error) { }; return ret })[0]
+                    // console.log(song)
+                    // return
                     this.selectSong(hymnal, song)
                     // if (hymnal && song) {
                     //     link = hymnal.link
