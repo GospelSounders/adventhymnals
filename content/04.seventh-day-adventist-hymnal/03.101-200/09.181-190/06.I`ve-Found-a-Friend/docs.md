@@ -1,8 +1,10 @@
 ---
 title: 186. I`ve Found a Friend - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 186. I`ve Found a Friend. 1. I’ve found a Friend; oh, such a Friend! He loved me ere I knew Him; He drew me with the cords of love, And thus He bound me to Him. And ’round my heart still closely twine Those ties which nought can sever, For I am His, and He is mine, Forever and forever.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`ve Found a Friend, I’ve found a Friend; oh, such a Friend! 
+    description: |
+      SDAH 186. I`ve Found a Friend. 1. I’ve found a Friend; oh, such a Friend! He loved me ere I knew Him; He drew me with the cords of love, And thus He bound me to Him. And ’round my heart still closely twine Those ties which nought can sever, For I am His, and He is mine, Forever and forever.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`ve Found a Friend, I’ve found a Friend; oh, such a Friend! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ From Him, who loveth me so well,
 What power my soul can sever?
 Shall life or death, or earth, or hell?
 No; I am His forever.
+
 
 
 ```

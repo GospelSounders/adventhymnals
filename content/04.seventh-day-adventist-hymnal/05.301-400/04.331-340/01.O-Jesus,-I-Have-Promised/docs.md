@@ -1,8 +1,10 @@
 ---
 title: 331. O Jesus, I Have Promised - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 331. O Jesus, I Have Promised. 1. O Jesus, I have promised to serve thee to the end; be thou forever near me, my Master and my friend. I shall not fear the battle if thou art by my side, nor wander from the pathway if thou wilt be my guide.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Jesus, I Have Promised, O Jesus, I have promised 
+    description: |
+      SDAH 331. O Jesus, I Have Promised. 1. O Jesus, I have promised to serve thee to the end; be thou forever near me, my Master and my friend. I shall not fear the battle if thou art by my side, nor wander from the pathway if thou wilt be my guide.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Jesus, I Have Promised, O Jesus, I have promised 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ And Jesus, I have promised
 to serve thee to the end;
 O give me grace to follow,
 my Master and my Friend.
+
 
 
 ```

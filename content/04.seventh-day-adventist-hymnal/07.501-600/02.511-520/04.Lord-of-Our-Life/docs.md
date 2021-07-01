@@ -1,8 +1,10 @@
 ---
 title: 514. Lord of Our Life - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 514. Lord of Our Life. 1. Lord of our life, and God of our salvation, Star of our night, and hope of every nation, Hear and receive Thy church’s supplication, Lord God Almighty.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of Our Life, Lord of our life, and God of our salvation, 
+    description: |
+      SDAH 514. Lord of Our Life. 1. Lord of our life, and God of our salvation, Star of our night, and hope of every nation, Hear and receive Thy church’s supplication, Lord God Almighty.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of Our Life, Lord of our life, and God of our salvation, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Grant us Thy help till foes are backward driven;
 Grant them Thy truth that they may be forgiven;
 Grant peace on earth, and, after we have striven,
 Peace in Thy heaven.
+
 
 
 ```

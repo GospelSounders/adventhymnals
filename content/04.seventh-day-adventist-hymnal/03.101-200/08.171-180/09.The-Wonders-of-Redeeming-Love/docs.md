@@ -1,8 +1,10 @@
 ---
 title: 179. The Wonders of Redeeming Love - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 179. The Wonders of Redeeming Love. 1. The wonders of redeeming love Our highest thoughts exceed; The Son of God comes from above For sinful man to bleed.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Wonders of Redeeming Love, The wonders of redeeming love 
+    description: |
+      SDAH 179. The Wonders of Redeeming Love. 1. The wonders of redeeming love Our highest thoughts exceed; The Son of God comes from above For sinful man to bleed.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Wonders of Redeeming Love, The wonders of redeeming love 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ The faithful ones for whom He died
 From sin forever free.
 Posted by HYMNS at 05:34 0 comments
 Labels: The Wonders of Redeeming Love
+
 
 
 ```

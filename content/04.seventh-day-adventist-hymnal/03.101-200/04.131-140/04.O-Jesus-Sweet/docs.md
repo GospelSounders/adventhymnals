@@ -1,8 +1,10 @@
 ---
 title: 134. O Jesus Sweet - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 134. O Jesus Sweet. 1. O Jesus sweet, O Jesus mild, Thy Father’s will hast Thou fulfilled; For Thou hast left Thy heavenly throne Our lowly state to make Thine own. O Jesus sweet, O Jesus mild.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Jesus Sweet, O Jesus sweet, O Jesus mild, 
+    description: |
+      SDAH 134. O Jesus Sweet. 1. O Jesus sweet, O Jesus mild, Thy Father’s will hast Thou fulfilled; For Thou hast left Thy heavenly throne Our lowly state to make Thine own. O Jesus sweet, O Jesus mild.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Jesus Sweet, O Jesus sweet, O Jesus mild, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ Help us to do as Thou hast willed.
 What’er we have belongs to Thee:
 O may we ever faithful be.
 O Jesus sweet, O Jesus mild.
+
 
 
 ```

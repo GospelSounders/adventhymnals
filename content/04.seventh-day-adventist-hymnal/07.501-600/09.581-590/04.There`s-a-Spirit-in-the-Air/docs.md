@@ -1,8 +1,10 @@
 ---
 title: 584. There`s a Spirit in the Air - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 584. There`s a Spirit in the Air. 1. There’s a Spirit in the air, telling Christians everywhere “Praise the love that Christ revealed, living, working in our world.”
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`s a Spirit in the Air, There’s a Spirit in the air, telling Christians everywhere 
+    description: |
+      SDAH 584. There`s a Spirit in the Air. 1. There’s a Spirit in the air, telling Christians everywhere “Praise the love that Christ revealed, living, working in our world.”
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`s a Spirit in the Air, There’s a Spirit in the air, telling Christians everywhere 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ God in Christ has come to stay, we can see His power today.
 7.
 There’s a Spirit in the air, calling people everywhere;
 Praise the love that Christ revealed: living, working in our world.
+
 
 
 ```

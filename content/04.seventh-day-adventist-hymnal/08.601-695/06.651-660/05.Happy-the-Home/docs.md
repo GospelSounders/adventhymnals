@@ -1,8 +1,10 @@
 ---
 title: 655. Happy the Home - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 655. Happy the Home. 1. Happy the home when God is there, and love fills every breast; when one their wish, and one their prayer, and one their heavenly rest.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Happy the Home, Happy the home when God is there, 
+    description: |
+      SDAH 655. Happy the Home. 1. Happy the home when God is there, and love fills every breast; when one their wish, and one their prayer, and one their heavenly rest.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Happy the Home, Happy the home when God is there, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Lord, let us in our homes agree
 this blessed peace to gain;
 unite our hearts in love to thee,
 and love to all will reign.
+
 
 
 ```

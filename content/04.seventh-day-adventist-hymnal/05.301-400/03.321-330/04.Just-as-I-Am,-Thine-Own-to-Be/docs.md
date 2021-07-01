@@ -1,8 +1,10 @@
 ---
 title: 324. Just as I Am, Thine Own to Be - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 324. Just as I Am, Thine Own to Be. 1. Just as I am, Thine own to be, Friend of the young, who lovest me, To consecrate myself to Thee, O Jesus Christ, I come.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Just as I Am, Thine Own to Be, Just as I am, Thine own to be, 
+    description: |
+      SDAH 324. Just as I Am, Thine Own to Be. 1. Just as I am, Thine own to be, Friend of the young, who lovest me, To consecrate myself to Thee, O Jesus Christ, I come.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Just as I Am, Thine Own to Be, Just as I am, Thine own to be, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Just as I am, young, strong, and free,
 To be the best that I can be
 For truth, and righteousness, and Thee,
 Lord of my life, I come.
+
 
 
 ```

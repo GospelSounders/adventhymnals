@@ -1,8 +1,10 @@
 ---
 title: 224. Seek Ye First the Kingdom - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 224. Seek Ye First the Kingdom. 1. Seek ye first the kingdom, ‘Tis your Father’s will. So the voice of Jesus bids us follow still. Saviour, we would hear Thee, Follow, find, and see; And in life’s adventure Thy disciples be.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Seek Ye First the Kingdom, Seek ye first the kingdom, 
+    description: |
+      SDAH 224. Seek Ye First the Kingdom. 1. Seek ye first the kingdom, ‘Tis your Father’s will. So the voice of Jesus bids us follow still. Saviour, we would hear Thee, Follow, find, and see; And in life’s adventure Thy disciples be.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Seek Ye First the Kingdom, Seek ye first the kingdom, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -54,6 +57,7 @@ born through Thee again;
 Eager hearts arrive there on the
 pilgrim’s road,
 Hail! The kingdom glorious of the living God!
+
 
 
 ```

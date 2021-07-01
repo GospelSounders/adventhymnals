@@ -1,8 +1,10 @@
 ---
 title: 52. Now the Day Is Over - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 52. Now the Day Is Over. 1. Now the day is over, night is drawing nigh, Shadows of the evening steal across the sky.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now the Day Is Over, Now the day is over, 
+    description: |
+      SDAH 52. Now the Day Is Over. 1. Now the day is over, night is drawing nigh, Shadows of the evening steal across the sky.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now the Day Is Over, Now the day is over, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Through the long night watches,
 may thine angels spread
 Their white wings above me,
 watching round my bed.
+
 
 
 ```

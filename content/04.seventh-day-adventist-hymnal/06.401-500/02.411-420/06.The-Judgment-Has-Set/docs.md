@@ -1,8 +1,10 @@
 ---
 title: 416. The Judgment Has Set - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 416. The Judgment Has Set. 1. The judgment has set, the books have been opened; How shall we stand in that great day, When every thought, and word, and action, God, the righteous Judge, shall weigh? 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Judgment Has Set, The judgment has set, the books have been opened; ,How shall we stand in that great day?
+    description: |
+      SDAH 416. The Judgment Has Set. 1. The judgment has set, the books have been opened; How shall we stand in that great day, When every thought, and word, and action, God, the righteous Judge, shall weigh? 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Judgment Has Set, The judgment has set, the books have been opened; ,How shall we stand in that great day?
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ How shall we stand in that great day?
 How shall we stand in that great day?
 Shall we be found before Him wanting?
 Or with our sins all washed away?
+
 
 
 

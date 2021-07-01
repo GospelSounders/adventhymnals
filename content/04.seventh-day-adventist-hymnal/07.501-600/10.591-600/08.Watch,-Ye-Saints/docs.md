@@ -1,8 +1,10 @@
 ---
 title: 598. Watch, Ye Saints - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 598. Watch, Ye Saints. 1. Watch, ye saints, with eyelids waking; Lo! The powers of heaven are shaking; Keep your lamps all trimmed an burning, Ready for your Lord’s returning. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Watch, Ye Saints, Watch, ye saints, with eyelids waking; ,Lo! He comes, lo! Jesus comes;
+    description: |
+      SDAH 598. Watch, Ye Saints. 1. Watch, ye saints, with eyelids waking; Lo! The powers of heaven are shaking; Keep your lamps all trimmed an burning, Ready for your Lord’s returning. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Watch, Ye Saints, Watch, ye saints, with eyelids waking; ,Lo! He comes, lo! Jesus comes;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -77,6 +80,7 @@ Lo! He comes, lo! Jesus comes;
 Lo! He come, He comes all glorious!
 Jesus comes to reign victorious,
 Lo! He comes, yes, Jesus comes.
+
 
 
 

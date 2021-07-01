@@ -1,8 +1,10 @@
 ---
 title: 475. Balm in Gilead - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 475. Balm in Gilead. 1. There is a balm in Gilead To make the wounded whole; There is a balm in Gilead To heal the sin-sick soul.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Balm in Gilead, There is a balm in Gilead 
+    description: |
+      SDAH 475. Balm in Gilead. 1. There is a balm in Gilead To make the wounded whole; There is a balm in Gilead To heal the sin-sick soul.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Balm in Gilead, There is a balm in Gilead 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ If you can not preach like Peter,
 If you can not pray like Paul,
 You can tell the love of Jesus,
 And say He died for all.
+
 
 
 ```

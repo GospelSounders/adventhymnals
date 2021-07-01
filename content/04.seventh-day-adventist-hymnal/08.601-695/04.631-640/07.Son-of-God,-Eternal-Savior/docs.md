@@ -1,8 +1,10 @@
 ---
 title: 637. Son of God, Eternal Savior - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 637. Son of God, Eternal Savior. 1. Son of God, eternal Savior, Source of life and truth and grace, Work made flesh, whose birth among us Hallows all our human race, You our head, who throned in glory, For Your own will ever plead: Fill us with Your love and pity, Heal our wrongs, and help our need.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Son of God, Eternal Savior, Son of God, eternal Savior, 
+    description: |
+      SDAH 637. Son of God, Eternal Savior. 1. Son of God, eternal Savior, Source of life and truth and grace, Work made flesh, whose birth among us Hallows all our human race, You our head, who throned in glory, For Your own will ever plead: Fill us with Your love and pity, Heal our wrongs, and help our need.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Son of God, Eternal Savior, Son of God, eternal Savior, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -62,6 +65,7 @@ By Your praying, by Your willing
 That Your people should be one,
 Grant, oh, grant our hope’s fruition:
 Here on earth Your will be done.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 6. O Worship the Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 6. O Worship the Lord. 1. O worship the Lord in the beauty of holiness, Bow down before Him, His glory proclaim; With gold of obedience, and incense of lowliness, Kneel and adore Him: the Lord is His name.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Worship the Lord, O worship the Lord in the beauty of holiness, 
+    description: |
+      SDAH 6. O Worship the Lord. 1. O worship the Lord in the beauty of holiness, Bow down before Him, His glory proclaim; With gold of obedience, and incense of lowliness, Kneel and adore Him: the Lord is His name.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Worship the Lord, O worship the Lord in the beauty of holiness, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ These, though we bring them in trembling and fearfulness,
 He will accept for the name that is dear;
 Mornings of joy give for evenings of tearfulness,
 Trust for our trembling, and hope for our fear.
+
 
 
 ```

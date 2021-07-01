@@ -1,8 +1,10 @@
 ---
 title: 491. In the Hour of Trial - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 491. In the Hour of Trial. 1. In the hour of trial, Jesus, plead for me, Lest by base denial I depart from Thee; When Thou see’st me waver, with a look recall, Nor, for fear or favor, suffer me to fall.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In the Hour of Trial, In the hour of trial, Jesus, plead for me, 
+    description: |
+      SDAH 491. In the Hour of Trial. 1. In the hour of trial, Jesus, plead for me, Lest by base denial I depart from Thee; When Thou see’st me waver, with a look recall, Nor, for fear or favor, suffer me to fall.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In the Hour of Trial, In the hour of trial, Jesus, plead for me, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Should Thy mercy send me sorrow, toil, and woe,
 Or should pain attend me on my path below,
 Grant that I may never fail Thy hand to see;
 Grant that I may ever cast my care on Thee.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 378. Go, Preach My Gospel - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 378. Go, Preach My Gospel. 1. “Go, preach My gospel,” saith the Lord; “Bid the whole world My grace receive; He shall be saved who trusts My word, And they condemned who disbelieve.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Go, Preach My Gospel, “Go, preach My gospel,” saith the Lord; 
+    description: |
+      SDAH 378. Go, Preach My Gospel. 1. “Go, preach My gospel,” saith the Lord; “Bid the whole world My grace receive; He shall be saved who trusts My word, And they condemned who disbelieve.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Go, Preach My Gospel, “Go, preach My gospel,” saith the Lord; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ He spake, and light shone round His head;
 On a bright cloud to heaven He rode;
 They to the farthest nations spread
 The grace of their ascended Lord.
+
 
 
 ```

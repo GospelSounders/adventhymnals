@@ -1,8 +1,10 @@
 ---
 title: 400. I Come With Joy - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 400. I Come With Joy. 1. I come with joy to meet my Lord, Forgiven, loved and free, In awe and wonder to recall His life laid down for me, His life laid down for me.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Come With Joy, I come with joy to meet my Lord, 
+    description: |
+      SDAH 400. I Come With Joy. 1. I come with joy to meet my Lord, Forgiven, loved and free, In awe and wonder to recall His life laid down for me, His life laid down for me.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Come With Joy, I come with joy to meet my Lord, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -47,6 +50,7 @@ We’ll go our diff’rent ways,
 And as His people in the world,
 We’ll live and speak His praise,
 We’ll live and speak His praise.
+
 
 
 ```

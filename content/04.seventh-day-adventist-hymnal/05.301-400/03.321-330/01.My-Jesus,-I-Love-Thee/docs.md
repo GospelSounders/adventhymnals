@@ -1,8 +1,10 @@
 ---
 title: 321. My Jesus, I Love Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 321. My Jesus, I Love Thee. 1. My Jesus, I love thee, I know thou art mine; for thee all the follies of sin I resign. My gracious Redeemer, my Savior art thou; if ever I loved thee, my Jesus, ’tis now.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Jesus, I Love Thee, My Jesus, I love thee, I know thou art mine; 
+    description: |
+      SDAH 321. My Jesus, I Love Thee. 1. My Jesus, I love thee, I know thou art mine; for thee all the follies of sin I resign. My gracious Redeemer, my Savior art thou; if ever I loved thee, my Jesus, ’tis now.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Jesus, I Love Thee, My Jesus, I love thee, I know thou art mine; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ In mansions of glory and endless delight;
 I’ll ever adore thee in heaven so bright;
 I’ll sing with the glittering crown on my brow;
 if ever I loved thee, my Jesus, ’tis now.
+
 
 
 ```

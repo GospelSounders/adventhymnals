@@ -1,8 +1,10 @@
 ---
 title: 116. Of the Father`s Love Begotten - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 116. Of the Father`s Love Begotten. 1. Of the Father’s love begotten, Ere the worlds began to be, He is Alpha and Omega, He the source, the ending He, Of the things that are, that have been, And that future years shall see, Evermore and evermore! Amen.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Of the Father`s Love Begotten, Of the Father’s love begotten, 
+    description: |
+      SDAH 116. Of the Father`s Love Begotten. 1. Of the Father’s love begotten, Ere the worlds began to be, He is Alpha and Omega, He the source, the ending He, Of the things that are, that have been, And that future years shall see, Evermore and evermore! Amen.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Of the Father`s Love Begotten, Of the Father’s love begotten, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -39,6 +42,7 @@ And unwearied praises be.
 Honor, glory, and dominion,
 And eternal victory,
 Evermore and evermore! Amen.
+
 
 
 ```

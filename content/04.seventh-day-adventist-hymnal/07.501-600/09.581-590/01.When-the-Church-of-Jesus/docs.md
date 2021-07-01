@@ -1,8 +1,10 @@
 ---
 title: 581. When the Church of Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 581. When the Church of Jesus. 1. When the church of Jesus shuts its outer door, Lest the roar of traffic drown the voice of prayer: May our prayers, Lord make up ten times more aware That the world we banish is our Christian care.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When the Church of Jesus, When the church of Jesus shuts its outer door, 
+    description: |
+      SDAH 581. When the Church of Jesus. 1. When the church of Jesus shuts its outer door, Lest the roar of traffic drown the voice of prayer: May our prayers, Lord make up ten times more aware That the world we banish is our Christian care.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When the Church of Jesus, When the church of Jesus shuts its outer door, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Lest the gifts we offer, money, talents, time,
 Serve to salve our conscience to our secret shame:
 Lord, reprove, inspire us by the way you give;
 Teach us, dying Savior, how true Christians live.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 48. Softly Now the Light of Day - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 48. Softly Now the Light of Day. 1. Softly now the light of day Fades upon out sight away: Free from care, from labor free, Lord, we would commune with Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Softly Now the Light of Day, Softly now the light of day 
+    description: |
+      SDAH 48. Softly Now the Light of Day. 1. Softly now the light of day Fades upon out sight away: Free from care, from labor free, Lord, we would commune with Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Softly Now the Light of Day, Softly now the light of day 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Soon from us the light of day
 Shall forever pass away;
 Then, from sin and sorrow free,
 Take us, Lord, to dwell with Thee.
+
 
 
 ```

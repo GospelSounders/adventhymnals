@@ -1,8 +1,10 @@
 ---
 title: 351. Thy Hand, O God Has Guided - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 351. Thy Hand, O God Has Guided. 1. Thy hand, O God, has guided Thy flock from age to age; The wondrous tale is written Full clear on every page; Our fathers owned Thy goodness, And we their deeds record; And both of this bear witness, One church, one faith, one Lord.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thy Hand, O God Has Guided, Thy hand, O God, has guided 
+    description: |
+      SDAH 351. Thy Hand, O God Has Guided. 1. Thy hand, O God, has guided Thy flock from age to age; The wondrous tale is written Full clear on every page; Our fathers owned Thy goodness, And we their deeds record; And both of this bear witness, One church, one faith, one Lord.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thy Hand, O God Has Guided, Thy hand, O God, has guided 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ And then by men and angels
 Thy name shall be adored,
 And this shall be their anthem:
 One church, one faith, one Lord.
+
 
 
 ```

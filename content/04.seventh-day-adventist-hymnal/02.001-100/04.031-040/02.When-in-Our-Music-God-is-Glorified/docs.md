@@ -1,8 +1,10 @@
 ---
 title: 32. When in Our Music God is Glorified - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 32. When in Our Music God is Glorified. 1. When in our music God is glorified, And adoration leaves no room for pride, It is as though the whole creation cried: Alleluia!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When in Our Music God is Glorified, When in our music God is glorified, 
+    description: |
+      SDAH 32. When in Our Music God is Glorified. 1. When in our music God is glorified, And adoration leaves no room for pride, It is as though the whole creation cried: Alleluia!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When in Our Music God is Glorified, When in our music God is glorified, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Let every instrument be used for praise;
 Let all rejoice who have a voice to raise;
 And may God give us faith to sing always:
 Alleluia!
+
 
 
 ```

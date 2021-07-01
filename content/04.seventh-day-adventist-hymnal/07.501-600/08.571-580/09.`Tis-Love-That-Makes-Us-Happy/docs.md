@@ -1,8 +1,10 @@
 ---
 title: 579. `Tis Love That Makes Us Happy - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 579. `Tis Love That Makes Us Happy. 1. 'Tis love that makes us happy, 'Tis love that smooths the way; It helps us "mind," it makes us kind To others ev'ry day. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, `Tis Love That Makes Us Happy, 'Tis love that makes us happy, ,God is love; we're his little children.
+    description: |
+      SDAH 579. `Tis Love That Makes Us Happy. 1. 'Tis love that makes us happy, 'Tis love that smooths the way; It helps us "mind," it makes us kind To others ev'ry day. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, `Tis Love That Makes Us Happy, 'Tis love that makes us happy, ,God is love; we're his little children.
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -55,6 +58,7 @@ God is love; we would be like him.
 'Tis love that smooths the way;
 It helps us "mind," it makes us kind
 To others ev'ry day.
+
 
 
 ```

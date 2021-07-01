@@ -1,8 +1,10 @@
 ---
 title: 538. Guide Me, O Thou Great Jehovah - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 538. Guide Me, O Thou Great Jehovah. 1. Guide me, O thou great Jehovah, pilgrim through this barren land. I am weak, but thou art mighty; hold me with thy powerful hand. Bread of heaven, bread of heaven, feed me till I want no more; feed me till I want no more.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Guide Me, O Thou Great Jehovah, Guide me, O thou great Jehovah, 
+    description: |
+      SDAH 538. Guide Me, O Thou Great Jehovah. 1. Guide me, O thou great Jehovah, pilgrim through this barren land. I am weak, but thou art mighty; hold me with thy powerful hand. Bread of heaven, bread of heaven, feed me till I want no more; feed me till I want no more.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Guide Me, O Thou Great Jehovah, Guide me, O thou great Jehovah, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -39,6 +42,7 @@ land me safe on Canaan’s side.
 Songs of praises, songs of praises,
 I will ever give to thee;
 I will ever give to thee.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 602. O Brother, Be Faithful - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 602. O Brother, Be Faithful. 1. O brother be faithful! soon Jesus will come, For whom we have waited so long; O, soon we shall enter our glorious home, And join in the conqueror’s song. O brother be faithful! for why should we prove Unfaithful to Him who had shown Such deep, such unbounded and infinite love Who died to redeem us His own.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Brother, Be Faithful, O brother be faithful! soon Jesus will come, 
+    description: |
+      SDAH 602. O Brother, Be Faithful. 1. O brother be faithful! soon Jesus will come, For whom we have waited so long; O, soon we shall enter our glorious home, And join in the conqueror’s song. O brother be faithful! for why should we prove Unfaithful to Him who had shown Such deep, such unbounded and infinite love Who died to redeem us His own.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Brother, Be Faithful, O brother be faithful! soon Jesus will come, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ O brother be faithful! the promise is sure,
 That waits for the faithful and tried;
 To reign with the ransomed, immortal and pure,
 And ever with Jesus abide.
+
 
 
 ```

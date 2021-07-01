@@ -1,8 +1,10 @@
 ---
 title: 165. Look, You Saints! the Sight Is Glorious - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 165. Look, You Saints! the Sight Is Glorious. 1. Look, you saints, the sight is glorious, See the Man of sorrows now; From the fight returned victorious, Every knee to Him shall bow. Crown Him! Crown Him! Crown Him! Crown Him! Crown Him! Crown Him! Crowns become the victor’s brow. Crowns become the victor’s brow.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Look, You Saints! the Sight Is Glorious, Look, you saints, the sight is glorious, 
+    description: |
+      SDAH 165. Look, You Saints! the Sight Is Glorious. 1. Look, you saints, the sight is glorious, See the Man of sorrows now; From the fight returned victorious, Every knee to Him shall bow. Crown Him! Crown Him! Crown Him! Crown Him! Crown Him! Crown Him! Crowns become the victor’s brow. Crowns become the victor’s brow.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Look, You Saints! the Sight Is Glorious, Look, you saints, the sight is glorious, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Crown Him! Crown Him! Crown Him!
 Crown Him! Crown Him! Crown Him!
 King of kings and Lord of lords!
 King of kings and Lord of lords!
+
 
 
 ```

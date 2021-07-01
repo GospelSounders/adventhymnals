@@ -1,8 +1,10 @@
 ---
 title: 529. Under His Wings - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 529. Under His Wings. 1. Under His wings I am safely abiding; Though the night deepens and tempests are wild, Still I can trust Him; I know He will keep me; he has redeemed me, and I am His child. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Under His Wings, Under His wings I am safely abiding; ,Under His wings, under His wings,
+    description: |
+      SDAH 529. Under His Wings. 1. Under His wings I am safely abiding; Though the night deepens and tempests are wild, Still I can trust Him; I know He will keep me; he has redeemed me, and I am His child. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Under His Wings, Under His wings I am safely abiding; ,Under His wings, under His wings,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Under His wings, under His wings,
 Who from His love can sever?
 Under His wings, my soul shall abide,
 Safely abide forever.
+
 
 
 

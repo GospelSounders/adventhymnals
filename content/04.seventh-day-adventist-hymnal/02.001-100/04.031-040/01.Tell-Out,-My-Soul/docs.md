@@ -1,8 +1,10 @@
 ---
 title: 31. Tell Out, My Soul - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 31. Tell Out, My Soul. 1. Tell out my soul, the greatness of the Lord: Unnumbered blessings, give my spirit voice; Tender to me the promise of His Word; In God my Saviour shall my heart rejoice.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tell Out, My Soul, Tell out my soul, the greatness of the Lord; 
+    description: |
+      SDAH 31. Tell Out, My Soul. 1. Tell out my soul, the greatness of the Lord: Unnumbered blessings, give my spirit voice; Tender to me the promise of His Word; In God my Saviour shall my heart rejoice.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tell Out, My Soul, Tell out my soul, the greatness of the Lord; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Tell out, my soul, the glories of His word:
 Firm is His promise, and His mercy sure.
 Tell out, my soul, the greatness of the Lord
 To children’s children and forevermore.
+
 
 
 ```

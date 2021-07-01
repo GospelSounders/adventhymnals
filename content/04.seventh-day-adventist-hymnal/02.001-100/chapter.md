@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 001-100
 metadata:
-    description: Seventh Day Adventist Hymnal - 001-100
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, 001-100
+    description: |
+      Seventh Day Adventist Hymnal - 001-100
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, 001-100
     author: Brian Onang'o
 ---
 

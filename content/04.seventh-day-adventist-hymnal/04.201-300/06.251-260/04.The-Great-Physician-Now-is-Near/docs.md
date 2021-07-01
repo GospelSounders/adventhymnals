@@ -1,8 +1,10 @@
 ---
 title: 254. The Great Physician Now is Near - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 254. The Great Physician Now is Near. 1. The great Physician now is near, The sympathizing Jesus; He speaks the drooping heart to cheer, Oh! hear the voice of Jesus. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Great Physician Now is Near, The great Physician now is near, ,Sweetest note in seraph song,
+    description: |
+      SDAH 254. The Great Physician Now is Near. 1. The great Physician now is near, The sympathizing Jesus; He speaks the drooping heart to cheer, Oh! hear the voice of Jesus. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Great Physician Now is Near, The great Physician now is near, ,Sweetest note in seraph song,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Sweetest note in seraph song,
 Sweetest name on mortal tongue;
 Sweetest carol ever sung,
 Jesus, blessed Jesus.
+
 
 
 

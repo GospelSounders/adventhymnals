@@ -1,8 +1,10 @@
 ---
 title: 228. A Hymn of Glory Let Us Sing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 228. A Hymn of Glory Let Us Sing. 1. A hymn of glory let us sing; New hymns thro’-out the world shall ring Alleluia! Alleluia! Christ, by a road before untrod, Ascends unto the throne of God. Alleluia! Alleluia! Alleluia, alleluia, alleluia!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, A Hymn of Glory Let Us Sing, A hymn of glory let us sing; 
+    description: |
+      SDAH 228. A Hymn of Glory Let Us Sing. 1. A hymn of glory let us sing; New hymns thro’-out the world shall ring Alleluia! Alleluia! Christ, by a road before untrod, Ascends unto the throne of God. Alleluia! Alleluia! Alleluia, alleluia, alleluia!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, A Hymn of Glory Let Us Sing, A hymn of glory let us sing; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ You are, while endless ages run,
 With Father and with Spirit one.
 Alleluia! Alleluia!
 Alleluia, alleluia, alleluia!
+
 
 
 ```

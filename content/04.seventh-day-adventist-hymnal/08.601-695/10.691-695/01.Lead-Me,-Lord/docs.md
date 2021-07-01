@@ -1,8 +1,10 @@
 ---
 title: 691. Lead Me, Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 691. Lead Me, Lord. 1. Lead me, Lord, lead me in thy righteousness; make thy way plain before my face. For it is thou, Lord, thou, Lord only, that makest me dwell in safety.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lead Me, Lord, Lead me, Lord, lead me in thy righteousness; 
+    description: |
+      SDAH 691. Lead Me, Lord. 1. Lead me, Lord, lead me in thy righteousness; make thy way plain before my face. For it is thou, Lord, thou, Lord only, that makest me dwell in safety.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lead Me, Lord, Lead me, Lord, lead me in thy righteousness; 
     author: Brian Onang'o
 ---
 
@@ -13,11 +15,13 @@ metadata:
 ```txt
 
 
+
 1.
 Lead me, Lord, lead me in thy righteousness;
 make thy way plain before my face.
 For it is thou, Lord, thou, Lord only,
 that makest me dwell in safety.
+
 
 
 ```

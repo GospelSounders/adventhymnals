@@ -1,8 +1,10 @@
 ---
 title: 420. Jerusalem, My Happy Home - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 420. Jerusalem, My Happy Home. 1. Jerusalem, my happy home, O how I long for thee! When will my sorrows have an end, The joys when shall I see?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jerusalem, My Happy Home, Jerusalem, my happy home, 
+    description: |
+      SDAH 420. Jerusalem, My Happy Home. 1. Jerusalem, my happy home, O how I long for thee! When will my sorrows have an end, The joys when shall I see?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jerusalem, My Happy Home, Jerusalem, my happy home, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Lord, help us by Thy mighty grace,
 To keep in view the prize,
 Till Thou dost come to take us home
 To that blessed paradise.
+
 
 
 ```

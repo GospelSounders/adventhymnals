@@ -1,8 +1,10 @@
 ---
 title: 397. An Upper Room - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 397. An Upper Room. 1. An upper room did our Lord prepare For those loved until the end: And His disciples still gather there, To celebrate their risen Friend.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, An Upper Room, An upper room did our Lord prepare 
+    description: |
+      SDAH 397. An Upper Room. 1. An upper room did our Lord prepare For those loved until the end: And His disciples still gather there, To celebrate their risen Friend.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, An Upper Room, An upper room did our Lord prepare 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ No end there is! we depart in peace.
 He loves beyond our uttermost:
 In every room in our Father’s house,
 He will be there, as Lord and host.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 424. For Thee, O Dear, Dear Country - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 424. For Thee, O Dear, Dear Country. 1. For thee, O dear country, Mine eyes their vigils keep; For very love beholding Thy holy name, they weep.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For Thee, O Dear, Dear Country, For thee, O dear country, 
+    description: |
+      SDAH 424. For Thee, O Dear, Dear Country. 1. For thee, O dear country, Mine eyes their vigils keep; For very love beholding Thy holy name, they weep.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For Thee, O Dear, Dear Country, For thee, O dear country, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ O sweet and blessed country,
 The home of God’s elect!
 O sweet and blessed country
 That eager hearts expect!
+
 
 
 ```

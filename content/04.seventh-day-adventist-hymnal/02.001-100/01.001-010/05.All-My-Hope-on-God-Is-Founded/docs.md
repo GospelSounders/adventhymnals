@@ -1,8 +1,10 @@
 ---
 title: 5. All My Hope on God Is Founded - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 5. All My Hope on God Is Founded. 1. All my hope on God is founded; He doth still my trust renew. Me through change and chance He guideth, Only good and only true. God unknown, He alone Calls my heart to be His own.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All My Hope on God Is Founded, All my hope on God is founded; 
+    description: |
+      SDAH 5. All My Hope on God Is Founded. 1. All my hope on God is founded; He doth still my trust renew. Me through change and chance He guideth, Only good and only true. God unknown, He alone Calls my heart to be His own.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All My Hope on God Is Founded, All my hope on God is founded; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ High above all praises praising,
 For the gift of Christ His son.
 Christ doth call one and all:
 Ye who follow shall not fall.
+
 
 
 ```

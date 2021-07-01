@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 561-570
 metadata:
-    description: Seventh Day Adventist Hymnal - 561-570
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 561-570
+    description: |
+      Seventh Day Adventist Hymnal - 561-570
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 561-570
     author: Brian Onang'o
 ---
 

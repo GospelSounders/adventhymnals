@@ -1,8 +1,10 @@
 ---
 title: 615. Rise Up, O Church of God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 615. Rise Up, O Church of God. 1. Rise up, O men of God! His kingdom tarries long. Bring in the day of brotherhood and end the night of wrong.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rise Up, O Church of God, Rise up, O men of God! 
+    description: |
+      SDAH 615. Rise Up, O Church of God. 1. Rise up, O men of God! His kingdom tarries long. Bring in the day of brotherhood and end the night of wrong.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rise Up, O Church of God, Rise up, O men of God! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Lift high the cross of Christ!
 Tread where his feet have trod.
 Disciples of the Son of Man,
 rise up, O church of God!
+
 
 
 ```

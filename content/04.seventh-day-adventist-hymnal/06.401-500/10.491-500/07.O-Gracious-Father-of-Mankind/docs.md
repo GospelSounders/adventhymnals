@@ -1,8 +1,10 @@
 ---
 title: 497. O Gracious Father of Mankind - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 497. O Gracious Father of Mankind. 1. O gracious Father of mankind, Our spirits’ unseen friend; High heaven’s Lord, our hearts’ dear guest, To Thee our prayers ascend.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Gracious Father of Mankind, O gracious Father of mankind, 
+    description: |
+      SDAH 497. O Gracious Father of Mankind. 1. O gracious Father of mankind, Our spirits’ unseen friend; High heaven’s Lord, our hearts’ dear guest, To Thee our prayers ascend.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Gracious Father of Mankind, O gracious Father of mankind, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -60,6 +63,7 @@ No more we seek Thee from afar,
 Nor ask Thee for a sign,
 Content to pray in life and love
 And toil, till all are Thine.
+
 
 
 ```

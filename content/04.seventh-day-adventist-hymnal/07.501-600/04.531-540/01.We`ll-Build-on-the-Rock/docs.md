@@ -1,8 +1,10 @@
 ---
 title: 531. We`ll Build on the Rock - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 531. We`ll Build on the Rock. 1. We’ll build on the Rock, the living Rock, On Jesus, the Rock of Ages; So shall we abide the fearful shock, When loud the tempest rages. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We`ll Build on the Rock, We’ll build on the Rock, the living Rock, ,We’ll build on the Rock,
+    description: |
+      SDAH 531. We`ll Build on the Rock. 1. We’ll build on the Rock, the living Rock, On Jesus, the Rock of Ages; So shall we abide the fearful shock, When loud the tempest rages. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We`ll Build on the Rock, We’ll build on the Rock, the living Rock, ,We’ll build on the Rock,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ We’ll build on the Rock,
 We’ll build on the Rock;
 We’ll build on the Rock, on the solid Rock,
 On Christ, the mighty Rock.
+
 
 
 

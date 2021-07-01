@@ -1,8 +1,10 @@
 ---
 title: 160. Ride On in Majesty - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 160. Ride On in Majesty. 1. Ride on! ride on in majesty! Hark, all the tribes hosanna cry; O Savior meek, pursue Thy road With palms and scattered garments strowed.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Ride On in Majesty, Ride on! ride on in majesty! 
+    description: |
+      SDAH 160. Ride On in Majesty. 1. Ride on! ride on in majesty! Hark, all the tribes hosanna cry; O Savior meek, pursue Thy road With palms and scattered garments strowed.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Ride On in Majesty, Ride on! ride on in majesty! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Ride on! ride on in majesty!
 In lowly pomp ride on to die;
 Bow Thy meek head to mortal pain,
 Then take, O God, Thy power and reign.
+
 
 
 ```

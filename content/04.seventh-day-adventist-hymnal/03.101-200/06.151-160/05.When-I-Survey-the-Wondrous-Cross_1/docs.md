@@ -1,8 +1,10 @@
 ---
 title: 155. When I Survey the Wondrous Cross - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 155. When I Survey the Wondrous Cross. 1. When I survey the wondrous cross On which the Prince of glory died, My richest gain I count but loss, And pour contempt on all my pride.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When I Survey the Wondrous Cross, When I survey the wondrous cross 
+    description: |
+      SDAH 155. When I Survey the Wondrous Cross. 1. When I survey the wondrous cross On which the Prince of glory died, My richest gain I count but loss, And pour contempt on all my pride.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When I Survey the Wondrous Cross, When I survey the wondrous cross 
     author: Brian Onang'o
 ---
 

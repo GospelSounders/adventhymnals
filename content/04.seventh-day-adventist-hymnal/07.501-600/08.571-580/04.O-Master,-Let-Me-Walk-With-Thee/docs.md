@@ -1,8 +1,10 @@
 ---
 title: 574. O Master, Let Me Walk With Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 574. O Master, Let Me Walk With Thee. 1. O Master, let me walk with thee in lowly paths of service free; tell me thy secret; help me bear the strain of toil, the fret of care.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Master, Let Me Walk With Thee, O Master, let me walk with thee 
+    description: |
+      SDAH 574. O Master, Let Me Walk With Thee. 1. O Master, let me walk with thee in lowly paths of service free; tell me thy secret; help me bear the strain of toil, the fret of care.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Master, Let Me Walk With Thee, O Master, let me walk with thee 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ In hope that sends a shining ray
 far down the future’s broadening way,
 in peace that only thou canst give,
 with thee, O Master, let me live.
+
 
 
 ```

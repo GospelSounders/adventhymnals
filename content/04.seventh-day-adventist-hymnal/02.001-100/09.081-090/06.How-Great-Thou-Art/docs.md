@@ -1,8 +1,10 @@
 ---
 title: 86. How Great Thou Art - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 86. How Great Thou Art. 1. O Lord my God When I in awesome wonder Consider all the worlds Thy Hands have made I see the stars I hear the rolling thunder Thy power throughout the universe displayed 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Great Thou Art, O Lord my God ,Then sings my soul
+    description: |
+      SDAH 86. How Great Thou Art. 1. O Lord my God When I in awesome wonder Consider all the worlds Thy Hands have made I see the stars I hear the rolling thunder Thy power throughout the universe displayed 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Great Thou Art, O Lord my God ,Then sings my soul
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -90,6 +93,7 @@ Then sings my soul
 My Saviour God to Thee
 How great Thou art
 How great Thou art
+
 
 
 

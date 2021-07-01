@@ -1,8 +1,10 @@
 ---
 title: 411. The Son of God Proclaim - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 411. The Son of God Proclaim. 1. The Son of God proclaim, The Lord of time and space; The God who bade the light break forth Now shines in Jesus’ face.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Son of God Proclaim, The Son of God proclaim, 
+    description: |
+      SDAH 411. The Son of God Proclaim. 1. The Son of God proclaim, The Lord of time and space; The God who bade the light break forth Now shines in Jesus’ face.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Son of God Proclaim, The Son of God proclaim, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ We take this cup in hope:
 For He, who gladly bore
 The shameful cross, is ris’n again,
 And reigns forevermore.
+
 
 
 ```

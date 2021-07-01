@@ -1,8 +1,10 @@
 ---
 title: 157. Go to Dark Gethsemane - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 157. Go to Dark Gethsemane. 1. Go to dark Gethsemane, Ye who feel the tempter’s power Your Redeemer’s conflict see. Watch with him one bitter hour; Turn not from his griefs away; Learn from Jesus Christ to pray.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Go to Dark Gethsemane, Go to dark Gethsemane, 
+    description: |
+      SDAH 157. Go to Dark Gethsemane. 1. Go to dark Gethsemane, Ye who feel the tempter’s power Your Redeemer’s conflict see. Watch with him one bitter hour; Turn not from his griefs away; Learn from Jesus Christ to pray.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Go to Dark Gethsemane, Go to dark Gethsemane, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Mark that miracle of time,
 God’s own sacrifice complete.
 “It is finished!” hear him cry;
 Learn from Jesus Christ to die.
+
 
 
 ```

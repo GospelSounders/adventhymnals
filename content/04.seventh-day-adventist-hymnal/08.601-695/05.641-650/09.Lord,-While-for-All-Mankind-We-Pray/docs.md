@@ -1,8 +1,10 @@
 ---
 title: 649. Lord, While for All Mankind We Pray - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 649. Lord, While for All Mankind We Pray. 1. Lord, while for all mankind we pray Of every clime and coast, O hear us for our native land, The land we love the most!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, While for All Mankind We Pray, Lord, while for all mankind we pray 
+    description: |
+      SDAH 649. Lord, While for All Mankind We Pray. 1. Lord, while for all mankind we pray Of every clime and coast, O hear us for our native land, The land we love the most!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, While for All Mankind We Pray, Lord, while for all mankind we pray 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Lord of the nations, thus to Thee
 Our country we commend;
 Be Thou her Refuge and her trust,
 Her everlasting friend.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 411-420
 metadata:
-    description: Seventh Day Adventist Hymnal - 411-420
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 411-420
+    description: |
+      Seventh Day Adventist Hymnal - 411-420
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 411-420
     author: Brian Onang'o
 ---
 

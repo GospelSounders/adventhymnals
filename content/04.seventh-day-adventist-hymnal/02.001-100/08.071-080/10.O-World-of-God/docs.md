@@ -1,8 +1,10 @@
 ---
 title: 80. O World of God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 80. O World of God. 1. O world of God, so vast and strange, Profound and wonderful and fair, Beyond the utmost reach of thought, But not beyond a Father’s care! We are not strangers on this earth Whirling amid the suns of space; We are God’s children, this our home, With those of every clime and race.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O World of God, O world of God, so vast and strange, 
+    description: |
+      SDAH 80. O World of God. 1. O world of God, so vast and strange, Profound and wonderful and fair, Beyond the utmost reach of thought, But not beyond a Father’s care! We are not strangers on this earth Whirling amid the suns of space; We are God’s children, this our home, With those of every clime and race.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O World of God, O world of God, so vast and strange, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ In pain and death love’s power was seen,
 The mystery of time revealed,
 The wisdom of the ways of God,
 The grace through which man’s hurt is healed.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 231. Blest Be the King - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 231. Blest Be the King. 1. Blest be the King whose coming Is in the name of God! For Him let doors be opened, No hearts against Him barred! Not robed in royal splendor, In power and pomp comes He; But clad as are the poorest, Such His humility.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Blest Be the King, Blest be the King whose coming 
+    description: |
+      SDAH 231. Blest Be the King. 1. Blest be the King whose coming Is in the name of God! For Him let doors be opened, No hearts against Him barred! Not robed in royal splendor, In power and pomp comes He; But clad as are the poorest, Such His humility.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Blest Be the King, Blest be the King whose coming 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Gentle is He and humble!
 And light his Yoke shall be,
 For He would have us bear it,
 So He can made us free!
+
 
 
 ```

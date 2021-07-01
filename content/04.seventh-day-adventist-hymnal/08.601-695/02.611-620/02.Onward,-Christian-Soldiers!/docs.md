@@ -1,8 +1,10 @@
 ---
 title: 612. Onward, Christian Soldiers! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 612. Onward, Christian Soldiers!. 1. Onward, Christian soldiers, marching as to war, with the cross of Jesus going on before. Christ, the royal Master, leads against the foe; forward into battle see his banners go! 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Onward, Christian Soldiers!, Onward, Christian soldiers, marching as to war, ,Onward, Christian soldiers, marching as to war,
+    description: |
+      SDAH 612. Onward, Christian Soldiers!. 1. Onward, Christian soldiers, marching as to war, with the cross of Jesus going on before. Christ, the royal Master, leads against the foe; forward into battle see his banners go! 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Onward, Christian Soldiers!, Onward, Christian soldiers, marching as to war, ,Onward, Christian soldiers, marching as to war,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -56,6 +59,7 @@ this through countless ages men and angels sing.
 Refrain:
 Onward, Christian soldiers, marching as to war,
 with the cross of Jesus going on before.
+
 
 
 

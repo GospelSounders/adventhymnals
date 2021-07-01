@@ -1,8 +1,10 @@
 ---
 title: 515. The Lord Is My Light - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 515. The Lord Is My Light. 1. The Lord is my light; then why should I fear? By day and by night His presence is near; He is my salvation from sorrow and sin; This blessed persuasion the Spirit brings in. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Lord Is My Light, The Lord is my light; then why should I fear? ,The Lord is my light, my joy, and my song;
+    description: |
+      SDAH 515. The Lord Is My Light. 1. The Lord is my light; then why should I fear? By day and by night His presence is near; He is my salvation from sorrow and sin; This blessed persuasion the Spirit brings in. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Lord Is My Light, The Lord is my light; then why should I fear? ,The Lord is my light, my joy, and my song;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ The Lord is my light, my joy, and my song;
 By day and by night He leads me along;
 The Lord is my light, my joy, and my song;
 By day and by night He leads me along.
+
 
 
 

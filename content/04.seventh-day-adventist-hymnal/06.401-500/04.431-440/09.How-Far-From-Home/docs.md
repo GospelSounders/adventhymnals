@@ -1,8 +1,10 @@
 ---
 title: 439. How Far From Home? - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 439. How Far From Home?. 1. How far from? I asked, as on I bent my steps-the watchman spake: “the long, dark night is almost gone, The morning soon will break. Then weep no more, but speed thy flight, With Hope’s bright star guiding ray, Till thou shalt reach the realms of light, In everlasting days.”
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Far From Home?, How far from? I asked, as on 
+    description: |
+      SDAH 439. How Far From Home?. 1. How far from? I asked, as on I bent my steps-the watchman spake: “the long, dark night is almost gone, The morning soon will break. Then weep no more, but speed thy flight, With Hope’s bright star guiding ray, Till thou shalt reach the realms of light, In everlasting days.”
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Far From Home?, How far from? I asked, as on 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Then weep no more, since we shall meet
 Where weary footsteps never roam-
 Our trails past, our joys complete,
 Safe in our Father’s home.
+
 
 
 ```

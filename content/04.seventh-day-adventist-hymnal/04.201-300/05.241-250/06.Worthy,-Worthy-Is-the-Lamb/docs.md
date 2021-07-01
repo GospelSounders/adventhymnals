@@ -1,8 +1,10 @@
 ---
 title: 246. Worthy, Worthy Is the Lamb - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 246. Worthy, Worthy Is the Lamb. 1. Worthy, worthy is the Lamb, Worthy, worthy is the Lamb, Worthy, worthy is the Lamb, That was slain. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Worthy, Worthy Is the Lamb, Worthy, worthy is the Lamb, ,Glory, hallelujah!
+    description: |
+      SDAH 246. Worthy, Worthy Is the Lamb. 1. Worthy, worthy is the Lamb, Worthy, worthy is the Lamb, Worthy, worthy is the Lamb, That was slain. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Worthy, Worthy Is the Lamb, Worthy, worthy is the Lamb, ,Glory, hallelujah!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -53,6 +56,7 @@ Glory, hallelujah!
 Praise Him, hallelujah!
 Glory, hallelujah!
 To the Lamb!
+
 
 
 

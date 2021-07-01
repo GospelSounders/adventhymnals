@@ -1,8 +1,10 @@
 ---
 title: 634. Come, All Christians, Be Committed - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 634. Come, All Christians, Be Committed. 1. Come, all Christians, be committed To the service of the lord; Make your lives for him more fitted, Tune your hearts with one accord. Come into His courts with gladness, Each his sacred vows renew, Turn away from sin and sadness, Be transformed with life anew.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, All Christians, Be Committed, Come, all Christians, be committed 
+    description: |
+      SDAH 634. Come, All Christians, Be Committed. 1. Come, all Christians, be committed To the service of the lord; Make your lives for him more fitted, Tune your hearts with one accord. Come into His courts with gladness, Each his sacred vows renew, Turn away from sin and sadness, Be transformed with life anew.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, All Christians, Be Committed, Come, all Christians, be committed 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ For His grace give Him the glory,
 For the Spirit and the Word,
 And repeat the gospel story
 Till mankind His name has heard.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 237. In the Cross of Christ I Glory - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 237. In the Cross of Christ I Glory. 1. In the cross of Christ I glory, towering o’er the wrecks of time; all the light of sacred story gathers round its head sublime.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In the Cross of Christ I Glory, In the cross of Christ I glory, 
+    description: |
+      SDAH 237. In the Cross of Christ I Glory. 1. In the cross of Christ I glory, towering o’er the wrecks of time; all the light of sacred story gathers round its head sublime.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In the Cross of Christ I Glory, In the cross of Christ I glory, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Bane and blessing, pain and pleasure,
 by the cross are sanctified;
 peace is there that knows no measure,
 joys that through all time abide.
+
 
 
 ```

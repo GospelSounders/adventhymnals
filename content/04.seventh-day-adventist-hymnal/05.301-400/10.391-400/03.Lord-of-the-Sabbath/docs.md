@@ -1,8 +1,10 @@
 ---
 title: 393. Lord of the Sabbath - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 393. Lord of the Sabbath. 1. Lord of the Sabbath and its light, I hail Thy hallowed day of rest; It is my weary soul’s delight, The solace of my careworn breast, The solace of my careworn breast.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of the Sabbath, Lord of the Sabbath and its light, 
+    description: |
+      SDAH 393. Lord of the Sabbath. 1. Lord of the Sabbath and its light, I hail Thy hallowed day of rest; It is my weary soul’s delight, The solace of my careworn breast, The solace of my careworn breast.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of the Sabbath, Lord of the Sabbath and its light, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ Thy presence with the day of rest;
 Then will Thy servant never fail
 To deem Thy Sabbath doubly blest,
 To deem Thy Sabbath doubly blest.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 293. Heavenly Father, Bless Us Now - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 293. Heavenly Father, Bless Us Now. 1. Heavenly Father, bless us now; At the cross of Christ we bow; Take our guilt and grief away; Hear and heal us now, we pray.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Heavenly Father, Bless Us Now, Heavenly Father, bless us now; 
+    description: |
+      SDAH 293. Heavenly Father, Bless Us Now. 1. Heavenly Father, bless us now; At the cross of Christ we bow; Take our guilt and grief away; Hear and heal us now, we pray.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Heavenly Father, Bless Us Now, Heavenly Father, bless us now; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ O Thou loving, blessed One,
 Rising oér us like the sun,
 Light and life art Thou within:
 Savior, Thou, from every sin!
+
 
 
 ```

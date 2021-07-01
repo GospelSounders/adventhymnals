@@ -1,8 +1,10 @@
 ---
 title: 523. My Faith Has Found a Resting Place - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 523. My Faith Has Found a Resting Place. 1. My faith has found a resting place, Not in a manmade creed; I trust the ever living One, That He for me shall plead. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Faith Has Found a Resting Place, My faith has found a resting place, ,I need no other evidence,
+    description: |
+      SDAH 523. My Faith Has Found a Resting Place. 1. My faith has found a resting place, Not in a manmade creed; I trust the ever living One, That He for me shall plead. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Faith Has Found a Resting Place, My faith has found a resting place, ,I need no other evidence,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ I need no other evidence,
 I need no other plea;
 It is enough that Jesus died,
 And rose again for me.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 208. There`ll Be No Dark Valley - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 208. There`ll Be No Dark Valley. 1. There’ll be no dark valleys when Jesus comes, There’ll be no dark valleys when Jesus comes, There’ll be no dark valleys when Jesus comes, To gather His loved ones home. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`ll Be No Dark Valley, There’ll be no dark valleys when Jesus comes, ,To gather His loved ones home,
+    description: |
+      SDAH 208. There`ll Be No Dark Valley. 1. There’ll be no dark valleys when Jesus comes, There’ll be no dark valleys when Jesus comes, There’ll be no dark valleys when Jesus comes, To gather His loved ones home. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`ll Be No Dark Valley, There’ll be no dark valleys when Jesus comes, ,To gather His loved ones home,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ To gather His loved ones home,
 To gather His loved ones home.
 There’ll be no dark valleys when Jesus comes,
 To gather His loved ones home.
+
 
 
 

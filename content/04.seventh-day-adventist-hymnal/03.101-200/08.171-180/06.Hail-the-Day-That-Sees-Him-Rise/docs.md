@@ -1,8 +1,10 @@
 ---
 title: 176. Hail the Day That Sees Him Rise - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 176. Hail the Day That Sees Him Rise. 1. Hail the day that sees Him rise, Alleluia! Glorious to His native skies; Alleluia! Christ, awhile to mortals giv’n, Alleluia! Enters now the highest heav’n! Alleluia!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hail the Day That Sees Him Rise, Hail the day that sees Him rise, Alleluia! 
+    description: |
+      SDAH 176. Hail the Day That Sees Him Rise. 1. Hail the day that sees Him rise, Alleluia! Glorious to His native skies; Alleluia! Christ, awhile to mortals giv’n, Alleluia! Enters now the highest heav’n! Alleluia!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hail the Day That Sees Him Rise, Hail the day that sees Him rise, Alleluia! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Lord beyond our mortal sight, Alleluia!
 Raise our hearts to reach Thy height, Alleluia!
 There Thy face unclouded see, Alleluia!
 Find our heav’n of heav’ns in Thee. Alleluia!
+
 
 
 ```

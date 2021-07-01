@@ -1,8 +1,10 @@
 ---
 title: 171. Thine Is the Glory - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 171. Thine Is the Glory. 1. Thine is the glory, Risen, conquering Son; Endless is the victory thou o’er death hast won. Angels in bright raiment rolled the stone away, Kept the folded grave-clothes where Thy body lay. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thine Is the Glory, Thine is the glory, ,Thine is the glory,
+    description: |
+      SDAH 171. Thine Is the Glory. 1. Thine is the glory, Risen, conquering Son; Endless is the victory thou o’er death hast won. Angels in bright raiment rolled the stone away, Kept the folded grave-clothes where Thy body lay. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thine Is the Glory, Thine is the glory, ,Thine is the glory,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -54,6 +57,7 @@ Refrain:
 Thine is the glory,
 Risen, conquering Son;
 Endless is the victory Thou o’er death hast won.
+
 
 
 

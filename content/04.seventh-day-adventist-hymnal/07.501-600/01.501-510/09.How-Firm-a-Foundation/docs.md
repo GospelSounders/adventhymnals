@@ -1,8 +1,10 @@
 ---
 title: 509. How Firm a Foundation - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 509. How Firm a Foundation. 1. How firm a foundation, ye saints of the Lord, is laid for your faith in his excellent word! What more can he say than to you he hath said, to you who for refuge to Jesus have fled?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Firm a Foundation, How firm a foundation, ye saints of the Lord, 
+    description: |
+      SDAH 509. How Firm a Foundation. 1. How firm a foundation, ye saints of the Lord, is laid for your faith in his excellent word! What more can he say than to you he hath said, to you who for refuge to Jesus have fled?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Firm a Foundation, How firm a foundation, ye saints of the Lord, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ thy dross to consume, and thy gold to refine.”
 I will not, I will not depart to His foes;
 That soul, though all hell should endeavor to shake,
 I’ll never, no never, no never forsake!”
+
 
 
 ```

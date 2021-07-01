@@ -1,8 +1,10 @@
 ---
 title: 40. The Dawn of God`s Dear Sabbath - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 40. The Dawn of God`s Dear Sabbath. 1. The dawn of God’s dear Sabbath Breaks o’er the earth again, As some sweet summer morning After a night of pain; It comes as cooling showers To some exhausted land, As shade of clustered palm trees ‘Mid weary wastes of sand.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Dawn of God`s Dear Sabbath, The dawn of God’s dear Sabbath 
+    description: |
+      SDAH 40. The Dawn of God`s Dear Sabbath. 1. The dawn of God’s dear Sabbath Breaks o’er the earth again, As some sweet summer morning After a night of pain; It comes as cooling showers To some exhausted land, As shade of clustered palm trees ‘Mid weary wastes of sand.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Dawn of God`s Dear Sabbath, The dawn of God’s dear Sabbath 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ In Thy dear presence finding
 The pardon that we need,
 And then the peace so lasting-
 Celestial peace indeed.
+
 
 
 ```

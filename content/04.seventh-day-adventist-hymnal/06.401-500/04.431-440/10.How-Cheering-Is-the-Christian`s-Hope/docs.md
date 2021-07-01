@@ -1,8 +1,10 @@
 ---
 title: 440. How Cheering Is the Christian`s Hope - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 440. How Cheering Is the Christian`s Hope. 1. How cheering is the Christian’s hope, While toiling here below! It bouys us up while this passing through This wilderness of woe,
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Cheering Is the Christian`s Hope, How cheering is the Christian’s hope, 
+    description: |
+      SDAH 440. How Cheering Is the Christian`s Hope. 1. How cheering is the Christian’s hope, While toiling here below! It bouys us up while this passing through This wilderness of woe,
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Cheering Is the Christian`s Hope, How cheering is the Christian’s hope, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Fly, lingering moments, fly, O, fly,
 Dear Savior, quickly come!
 We long to see Thee as Thou art,
 And reach that blissful home.
+
 
 
 ```

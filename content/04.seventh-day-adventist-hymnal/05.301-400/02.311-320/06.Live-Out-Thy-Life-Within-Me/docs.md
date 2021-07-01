@@ -1,8 +1,10 @@
 ---
 title: 316. Live Out Thy Life Within Me - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 316. Live Out Thy Life Within Me. 1. Live out Thy life within me, O Jesus, King of kings! Be Thou Thyself the answer To all my questionings; Live out Thy life within me, In all things have Thy way! I, the transparent medium Thy glory to display.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Live Out Thy Life Within Me, Live out Thy life within me, O Jesus, King of kings! 
+    description: |
+      SDAH 316. Live Out Thy Life Within Me. 1. Live out Thy life within me, O Jesus, King of kings! Be Thou Thyself the answer To all my questionings; Live out Thy life within me, In all things have Thy way! I, the transparent medium Thy glory to display.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Live Out Thy Life Within Me, Live out Thy life within me, O Jesus, King of kings! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ But restful, calm, and pliant, From bend and bias free,
 Awaiting Thy decision, When Thou hast need of me.
 Live out Thy life within me, O Jesus, King of kings!
 Be Thou the glorious answer To all my questionings.
+
 
 
 ```

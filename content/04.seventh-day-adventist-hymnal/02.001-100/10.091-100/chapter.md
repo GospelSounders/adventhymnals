@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 091-100
 metadata:
-    description: Seventh Day Adventist Hymnal - 091-100
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 091-100
+    description: |
+      Seventh Day Adventist Hymnal - 091-100
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 091-100
     author: Brian Onang'o
 ---
 

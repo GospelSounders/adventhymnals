@@ -1,8 +1,10 @@
 ---
 title: 168. And Have the Bright Immensities - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 168. And Have the Bright Immensities. 1. And have the bright immensities Received our risen Lord, Where light years frame the Pleiades And point Orion’s sword? Do flaming suns His footsteps trace Thro’corridors sublime, The Lord of inter stellar space And conqueror of time?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, And Have the Bright Immensities, And have the bright immensities 
+    description: |
+      SDAH 168. And Have the Bright Immensities. 1. And have the bright immensities Received our risen Lord, Where light years frame the Pleiades And point Orion’s sword? Do flaming suns His footsteps trace Thro’corridors sublime, The Lord of inter stellar space And conqueror of time?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, And Have the Bright Immensities, And have the bright immensities 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ And where His loving people meet
 To share the gift divine,
 There stands He with unhurrying feet;
 There heav’nly splendors shine.
+
 
 
 ```

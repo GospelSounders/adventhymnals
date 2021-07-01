@@ -1,8 +1,10 @@
 ---
 title: 322. Nothing Between - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 322. Nothing Between. 1. Nothing between my soul and my Savior, naught of this world’s delusive dream; I have renounced all sinful pleasure; Jesus is mine, there’s nothing between. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Nothing Between, Nothing between my soul and my Savior, ,Nothing between my soul and my Savior,
+    description: |
+      SDAH 322. Nothing Between. 1. Nothing between my soul and my Savior, naught of this world’s delusive dream; I have renounced all sinful pleasure; Jesus is mine, there’s nothing between. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Nothing Between, Nothing between my soul and my Savior, ,Nothing between my soul and my Savior,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Nothing between my soul and my Savior,
 so that his blessed face may be seen;
 nothing preventing the least of his favor;
 keep the way clear! let nothing between.
+
 
 
 

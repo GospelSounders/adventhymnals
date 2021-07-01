@@ -1,8 +1,10 @@
 ---
 title: 597. Ye Servants of the Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 597. Ye Servants of the Lord. 1. Ye servants of the Lord, Each in his office wait, Observant of His heavenly Word, And watchful at His gate.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Ye Servants of the Lord, Ye servants of the Lord, 
+    description: |
+      SDAH 597. Ye Servants of the Lord. 1. Ye servants of the Lord, Each in his office wait, Observant of His heavenly Word, And watchful at His gate.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Ye Servants of the Lord, Ye servants of the Lord, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ O happy servant, he,
 In such a posture found!
 He shall His Lord with rapture see,
 And be with honor crowned.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 646. To the Name That Brings Salvation - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 646. To the Name That Brings Salvation. 1. To the name that brings salvation Let the nations bow the head; Let them kneel in adoration When this name of names is said; Let them pray for restoration Of all things in Christ the head.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, To the Name That Brings Salvation, To the name that brings salvation 
+    description: |
+      SDAH 646. To the Name That Brings Salvation. 1. To the name that brings salvation Let the nations bow the head; Let them kneel in adoration When this name of names is said; Let them pray for restoration Of all things in Christ the head.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, To the Name That Brings Salvation, To the name that brings salvation 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ From the vanity of power
 And the emptiness of greed;
 Let them see the truth of lowness,
 And on justice let them feed.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 326. Open My Eyes That I May See - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 326. Open My Eyes That I May See. 1. Open my eyes, that I may see Glimpses of truth Thou hast for me; Place in my hands the wonderful key That shall unclasp and set me free. Silently now I wait for Thee, Ready, my God, Thy will to see; Open my eyes, illumine me, Spirit Divine!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Open My Eyes That I May See, Open my eyes, that I may see 
+    description: |
+      SDAH 326. Open My Eyes That I May See. 1. Open my eyes, that I may see Glimpses of truth Thou hast for me; Place in my hands the wonderful key That shall unclasp and set me free. Silently now I wait for Thee, Ready, my God, Thy will to see; Open my eyes, illumine me, Spirit Divine!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Open My Eyes That I May See, Open my eyes, that I may see 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ Love with Thy children thus to share.
 Silently now I wait for Thee,
 Ready, my God, Thy will to see;
 Open my heart, illumine me, Spirit Divine!
+
 
 
 ```

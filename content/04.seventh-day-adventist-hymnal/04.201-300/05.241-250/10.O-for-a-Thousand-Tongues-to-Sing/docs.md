@@ -1,8 +1,10 @@
 ---
 title: 250. O for a Thousand Tongues to Sing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 250. O for a Thousand Tongues to Sing. 1. O for a thousand tongues to sing my great Redeemer’s praise, the glories of my God and King, the triumphs of his grace!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O for a Thousand Tongues to Sing, O for a thousand tongues to sing 
+    description: |
+      SDAH 250. O for a Thousand Tongues to Sing. 1. O for a thousand tongues to sing my great Redeemer’s praise, the glories of my God and King, the triumphs of his grace!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O for a Thousand Tongues to Sing, O for a thousand tongues to sing 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Hear him, ye deaf; his praise, ye dumb,
 your loosened tongues employ;
 ye blind, behold your savior come,
 and leap, ye lame, for joy.
+
 
 
 ```

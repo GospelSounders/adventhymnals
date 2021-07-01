@@ -1,8 +1,10 @@
 ---
 title: 461. Be Still, My Soul - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 461. Be Still, My Soul. 1. Be still, my soul: the Lord is on thy side; Bear patiently the cross of grief or pain; Leave to thy God to order and provide; In every change He faithful will remain. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Be Still, My Soul, Be still, my soul; ,Be still, my soul;
+    description: |
+      SDAH 461. Be Still, My Soul. 1. Be still, my soul: the Lord is on thy side; Bear patiently the cross of grief or pain; Leave to thy God to order and provide; In every change He faithful will remain. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Be Still, My Soul, Be still, my soul; ,Be still, my soul;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Refrain:
 Be still, my soul:
 thy best, thy heavenly friend
 Through thorny ways leads to a joyful end.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 190. Jesus Loves Me - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 190. Jesus Loves Me. 1. Jesus loves me! this I know, For the Bible tells me so; Little ones to Him belong They are weak but He is strong 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Loves Me, Jesus loves me! this I know, ,Yes, Jesus loves me!
+    description: |
+      SDAH 190. Jesus Loves Me. 1. Jesus loves me! this I know, For the Bible tells me so; Little ones to Him belong They are weak but He is strong 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Loves Me, Jesus loves me! this I know, ,Yes, Jesus loves me!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Yes, Jesus loves me!
 Yes, Jesus loves me!
 Yes, Jesus loves me!
 The Bible tells me so.
+
 
 
 

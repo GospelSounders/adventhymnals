@@ -1,8 +1,10 @@
 ---
 title: 402. By Christ Redeemed - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 402. By Christ Redeemed. 1. By Christ redeemed, In Christ restored, We keep the memory adored, And show the death of our dear Lord, Until He come.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, By Christ Redeemed, By Christ redeemed, In Christ restored, 
+    description: |
+      SDAH 402. By Christ Redeemed. 1. By Christ redeemed, In Christ restored, We keep the memory adored, And show the death of our dear Lord, Until He come.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, By Christ Redeemed, By Christ redeemed, In Christ restored, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ And thus that dark betrayal night,
 With the last advent we unite
 The shame, the glory, by this rite,
 Until He come.
+
 
 
 ```

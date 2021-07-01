@@ -1,8 +1,10 @@
 ---
 title: 429. Jerusalem the Golden - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 429. Jerusalem the Golden. 1. Jerusalem the golden, With milk and honey blest, Beneath thy contemplation Sink heart and voice oppressed. I know not, O I know not What holy joys are there; What radiancy of glory, What bliss beyond compare.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jerusalem the Golden, Jerusalem the golden, 
+    description: |
+      SDAH 429. Jerusalem the Golden. 1. Jerusalem the golden, With milk and honey blest, Beneath thy contemplation Sink heart and voice oppressed. I know not, O I know not What holy joys are there; What radiancy of glory, What bliss beyond compare.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jerusalem the Golden, Jerusalem the golden, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Jesus, in mercy bring us
 To that dear land of rest;
 Who art, with God the Father,
 And Spirit, ever blest.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 567. Have Thine Own Way, Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 567. Have Thine Own Way, Lord. 1. Have thine own way, Lord! Have thine own way! Thou art the potter, I am the clay. Mold me and make me after thy will, while I am waiting, yielded and still.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Have Thine Own Way, Lord, Have thine own way, Lord! Have thine own way! 
+    description: |
+      SDAH 567. Have Thine Own Way, Lord. 1. Have thine own way, Lord! Have thine own way! Thou art the potter, I am the clay. Mold me and make me after thy will, while I am waiting, yielded and still.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Have Thine Own Way, Lord, Have thine own way, Lord! Have thine own way! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Have thine own way, Lord! Have thine own way!
 Hold o’er my being absolute sway.
 Fill with thy Spirit till all shall see
 Christ only, always, living in me!
+
 
 
 ```

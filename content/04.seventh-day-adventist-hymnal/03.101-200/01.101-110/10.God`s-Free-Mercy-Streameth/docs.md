@@ -1,8 +1,10 @@
 ---
 title: 110. God`s Free Mercy Streameth - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 110. God`s Free Mercy Streameth. 1. God’s free mercy streameth over all the world, And His banner gleameth, By His church unfuried; Broad and deep and glorious, As the heaven above, Shines in might victorious His eternal love.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God`s Free Mercy Streameth, God’s free mercy streameth over all the world, 
+    description: |
+      SDAH 110. God`s Free Mercy Streameth. 1. God’s free mercy streameth over all the world, And His banner gleameth, By His church unfuried; Broad and deep and glorious, As the heaven above, Shines in might victorious His eternal love.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God`s Free Mercy Streameth, God’s free mercy streameth over all the world, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ We will never doubt Thee, tho’ veil Thy light;
 Life is dark without Thee, death with Thee is bright.
 Light of light, shine o’er us on our pilgrim way,
 Go Thou still before us to the endless day.
+
 
 
 ```

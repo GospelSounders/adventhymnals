@@ -1,8 +1,10 @@
 ---
 title: 111. It Took a Miracle - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 111. It Took a Miracle. 1. My Father is omnipotent And that you can’t deny; A God of might and miracles; ‘Tis written in the sky. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, It Took a Miracle, My Father is omnipotent ,It took a miracle to put the stars in place;
+    description: |
+      SDAH 111. It Took a Miracle. 1. My Father is omnipotent And that you can’t deny; A God of might and miracles; ‘Tis written in the sky. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, It Took a Miracle, My Father is omnipotent ,It took a miracle to put the stars in place;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -54,6 +57,7 @@ It took a miracle to hang the world in space.
 But when He saved my soul,
 Cleansed and made me whole,
 It took a miracle of love and grace!
+
 
 
 

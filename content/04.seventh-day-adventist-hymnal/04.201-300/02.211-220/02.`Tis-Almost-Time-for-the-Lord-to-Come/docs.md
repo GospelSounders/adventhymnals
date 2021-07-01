@@ -1,8 +1,10 @@
 ---
 title: 212. `Tis Almost Time for the Lord to Come - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 212. `Tis Almost Time for the Lord to Come. 1. ’Tis almost time for the Lord to come, I hear the people say; The stars of heaven are growing dim, It must be the breaking of the day. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, `Tis Almost Time for the Lord to Come, ’Tis almost time for the Lord to come, ,O it must be the breaking of the day!
+    description: |
+      SDAH 212. `Tis Almost Time for the Lord to Come. 1. ’Tis almost time for the Lord to come, I hear the people say; The stars of heaven are growing dim, It must be the breaking of the day. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, `Tis Almost Time for the Lord to Come, ’Tis almost time for the Lord to come, ,O it must be the breaking of the day!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -68,6 +71,7 @@ O it must be the breaking of the day!
 The night is almost gone,
 The day is coming on;
 O it must be the breaking of the day!
+
 
 
 

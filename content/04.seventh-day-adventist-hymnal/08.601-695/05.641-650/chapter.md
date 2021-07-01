@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 641-650
 metadata:
-    description: Seventh Day Adventist Hymnal - 641-650
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 641-650
+    description: |
+      Seventh Day Adventist Hymnal - 641-650
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 641-650
     author: Brian Onang'o
 ---
 

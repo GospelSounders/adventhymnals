@@ -1,8 +1,10 @@
 ---
 title: 535. I Am Trusting Thee, Lord Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 535. I Am Trusting Thee, Lord Jesus. 1. I am trusting Thee, Lord Jesus, Trusting only Thee; Trusting Thee for full salvation, Great and free.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Am Trusting Thee, Lord Jesus, I am trusting Thee, Lord Jesus, 
+    description: |
+      SDAH 535. I Am Trusting Thee, Lord Jesus. 1. I am trusting Thee, Lord Jesus, Trusting only Thee; Trusting Thee for full salvation, Great and free.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Am Trusting Thee, Lord Jesus, I am trusting Thee, Lord Jesus, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ I am trusting Thee, Lord Jesus;
 Never let me fall;
 I am trusting Thee forever,
 And for all.
+
 
 
 ```

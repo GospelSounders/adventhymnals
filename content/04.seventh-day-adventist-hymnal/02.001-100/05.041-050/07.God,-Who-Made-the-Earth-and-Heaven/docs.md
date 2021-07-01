@@ -1,8 +1,10 @@
 ---
 title: 47. God, Who Made the Earth and Heaven - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 47. God, Who Made the Earth and Heaven. 1. God, who made the earth and heaven, Darkness and light: You the day for work have given, For rest the night. May Your angel guards defend us, Slumber sweet Your mercy send us, Holy dreams and hopes attend us All through the night.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God, Who Made the Earth and Heaven, God, who made the earth and heaven, Darkness and light; 
+    description: |
+      SDAH 47. God, Who Made the Earth and Heaven. 1. God, who made the earth and heaven, Darkness and light: You the day for work have given, For rest the night. May Your angel guards defend us, Slumber sweet Your mercy send us, Holy dreams and hopes attend us All through the night.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God, Who Made the Earth and Heaven, God, who made the earth and heaven, Darkness and light; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Holy Spirit, freely given, Blest Three in One:
 Grant us grace, we now implore You,
 Till we lay our crowns before You
 And in worthier strains adore You while ages run.
+
 
 
 ```

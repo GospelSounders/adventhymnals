@@ -1,8 +1,10 @@
 ---
 title: 335. What a Wonderful Savior - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 335. What a Wonderful Savior. 1. Christ has for sin atonement made, What a wonderful Saviour! We are redeemed! the price is paid! What a wonderful Savior! 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, What a Wonderful Savior, Christ has for sin atonement made, ,What a wonderful Savior
+    description: |
+      SDAH 335. What a Wonderful Savior. 1. Christ has for sin atonement made, What a wonderful Saviour! We are redeemed! the price is paid! What a wonderful Savior! 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, What a Wonderful Savior, Christ has for sin atonement made, ,What a wonderful Savior
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ What a wonderful Savior
 is Jesus, my Jesus!
 What a wonderful Savior
 is Jesus, my Lord!
+
 
 
 

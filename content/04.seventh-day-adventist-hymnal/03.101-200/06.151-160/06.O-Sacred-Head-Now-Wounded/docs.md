@@ -1,8 +1,10 @@
 ---
 title: 156. O Sacred Head Now Wounded - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 156. O Sacred Head Now Wounded. 1. O sacred Head, now wounded, with grief and shame weighed down, now scornfully surounded with thorns, thine only crown: how pale thou art with anguish, with sore abuse and scorn! How does that visage languish which once was bright as morn!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Sacred Head Now Wounded, O sacred Head, now wounded, 
+    description: |
+      SDAH 156. O Sacred Head Now Wounded. 1. O sacred Head, now wounded, with grief and shame weighed down, now scornfully surounded with thorns, thine only crown: how pale thou art with anguish, with sore abuse and scorn! How does that visage languish which once was bright as morn!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Sacred Head Now Wounded, O sacred Head, now wounded, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ O make me thine forever;
 and should I fainting be,
 Lord, let me never, never
 outlive my love for thee.
+
 
 
 ```

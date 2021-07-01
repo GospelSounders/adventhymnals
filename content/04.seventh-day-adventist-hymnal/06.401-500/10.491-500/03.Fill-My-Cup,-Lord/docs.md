@@ -1,8 +1,10 @@
 ---
 title: 493. Fill My Cup, Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 493. Fill My Cup, Lord. 1. Like the woman at the well I was seeking For things that could not satisfy: And then I heard my Savior speaking: ” Draw from my well that never shall run dry”. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Fill My Cup, Lord, Like the woman at the well I was seeking ,Fill my cup Lord, I lift it up, Lord!
+    description: |
+      SDAH 493. Fill My Cup, Lord. 1. Like the woman at the well I was seeking For things that could not satisfy: And then I heard my Savior speaking: ” Draw from my well that never shall run dry”. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Fill My Cup, Lord, Like the woman at the well I was seeking ,Fill my cup Lord, I lift it up, Lord!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Fill my cup Lord, I lift it up, Lord!
 Come and quench this thirsting of my soul;
 Bread of heaven, Feed me till I want no more–
 Fill my cup, fill it up and make me whole!
+
 
 
 

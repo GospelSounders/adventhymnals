@@ -1,8 +1,10 @@
 ---
 title: 227. Jesus Shall Reign - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 227. Jesus Shall Reign. 1. Jesus shall reign where’er the sun Does his successive journeys run; His kingdom stretch from shore to shore, Till moons shall wax and wane no more.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Shall Reign, Jesus shall reign where’er the sun 
+    description: |
+      SDAH 227. Jesus Shall Reign. 1. Jesus shall reign where’er the sun Does his successive journeys run; His kingdom stretch from shore to shore, Till moons shall wax and wane no more.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Shall Reign, Jesus shall reign where’er the sun 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Let every creature rise and bring
 Honors peculiar to our King;
 Angels descend with songs again,
 And earth repeat the loud amen!
+
 
 
 ```

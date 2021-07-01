@@ -1,8 +1,10 @@
 ---
 title: 164. There Is a Green Hill Far Away - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 164. There Is a Green Hill Far Away. 1. There is a green hill far away, Without a city wall, Where the dear Lord was crucified, Who died to save us all.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There Is a Green Hill Far Away, There is a green hill far away, 
+    description: |
+      SDAH 164. There Is a Green Hill Far Away. 1. There is a green hill far away, Without a city wall, Where the dear Lord was crucified, Who died to save us all.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There Is a Green Hill Far Away, There is a green hill far away, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ O dearly, dearly has He loved!
 And we must love Him too,
 And trust in His redeeming blood,
 And try His works to do.
+
 
 
 ```

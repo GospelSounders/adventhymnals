@@ -1,8 +1,10 @@
 ---
 title: 468. A Child of the King - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 468. A Child of the King. 1. My Father is rich in houses and lands, He holdeth the wealth of the world in His hands! Of rubies and diamonds, of silver and gold, His coffers are full, He has riches untold. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, A Child of the King, My Father is rich in houses and lands, ,I’m a child of the King,
+    description: |
+      SDAH 468. A Child of the King. 1. My Father is rich in houses and lands, He holdeth the wealth of the world in His hands! Of rubies and diamonds, of silver and gold, His coffers are full, He has riches untold. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, A Child of the King, My Father is rich in houses and lands, ,I’m a child of the King,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ I’m a child of the King,
 A child of the King:
 With Jesus my Savior,
 I’m a child of the King.
+
 
 
 

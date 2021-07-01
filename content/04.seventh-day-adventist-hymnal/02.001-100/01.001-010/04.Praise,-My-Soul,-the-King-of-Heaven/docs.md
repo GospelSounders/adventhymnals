@@ -1,8 +1,10 @@
 ---
 title: 4. Praise, My Soul, the King of Heaven - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 4. Praise, My Soul, the King of Heaven. 1. Praise, my soul, the King of heaven; To his feet thy tribute bring; Ransomed, healed, restored, forgiven, Who like thee His praise should sing? Praise Him, praise Him, alleluia! Praise the everlasting King.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise, My Soul, the King of Heaven, Praise, my soul, the King of heaven; 
+    description: |
+      SDAH 4. Praise, My Soul, the King of Heaven. 1. Praise, my soul, the King of heaven; To his feet thy tribute bring; Ransomed, healed, restored, forgiven, Who like thee His praise should sing? Praise Him, praise Him, alleluia! Praise the everlasting King.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise, My Soul, the King of Heaven, Praise, my soul, the King of heaven; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ Sun and moon, bow down before him,
 Dwellers all in time and space.
 Praise Him, praise Him, alleluia!
 Praise with us the God of grace.
+
 
 
 ```

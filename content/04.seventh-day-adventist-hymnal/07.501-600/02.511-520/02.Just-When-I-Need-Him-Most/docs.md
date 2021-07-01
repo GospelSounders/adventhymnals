@@ -1,8 +1,10 @@
 ---
 title: 512. Just When I Need Him Most - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 512. Just When I Need Him Most. 1. Just when I need Him, Jesus is near, Just when I falter, just when I fear; Ready to help me, ready to cheer, Just when I need Him most. Just when I need Him most, Just when I need Him most, Jesus is near to comfort and cheer, Just when I need Him most.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Just When I Need Him Most, Just when I need Him, Jesus is near, 
+    description: |
+      SDAH 512. Just When I Need Him Most. 1. Just when I need Him, Jesus is near, Just when I falter, just when I fear; Ready to help me, ready to cheer, Just when I need Him most. Just when I need Him most, Just when I need Him most, Jesus is near to comfort and cheer, Just when I need Him most.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Just When I Need Him Most, Just when I need Him, Jesus is near, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Just when I need Him most,
 Just when I need Him most,
 Jesus is near to comfort and cheer,
 Just when I need Him most.
+
 
 
 ```

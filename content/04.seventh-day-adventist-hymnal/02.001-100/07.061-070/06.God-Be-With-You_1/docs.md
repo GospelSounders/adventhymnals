@@ -1,8 +1,10 @@
 ---
 title: 66. God Be With You - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 66. God Be With You. 1. God be with you till we meet again; By His counsels guide, uphold you, With His sheep securely fold you: God be with you till we meet again.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Be With You, God be with you till we meet again; 
+    description: |
+      SDAH 66. God Be With You. 1. God be with you till we meet again; By His counsels guide, uphold you, With His sheep securely fold you: God be with you till we meet again.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Be With You, God be with you till we meet again; 
     author: Brian Onang'o
 ---
 

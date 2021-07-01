@@ -1,8 +1,10 @@
 ---
 title: 482. Father, Lead Me Day by Day - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 482. Father, Lead Me Day by Day. 1. Father, lead me day by day, Ever in Thine own sweet way; Teach me to be pure and true; Show me what I ought to do.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Father, Lead Me Day by Day, Father, lead me day by day, 
+    description: |
+      SDAH 482. Father, Lead Me Day by Day. 1. Father, lead me day by day, Ever in Thine own sweet way; Teach me to be pure and true; Show me what I ought to do.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Father, Lead Me Day by Day, Father, lead me day by day, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ May I do the good I know,
 Be Thy loving child below,
 Then at last go home to Thee,
 Evermore Thy child to be.
+
 
 
 ```

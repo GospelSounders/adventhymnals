@@ -1,8 +1,10 @@
 ---
 title: 25. Praise the Lord, His Glories Show - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 25. Praise the Lord, His Glories Show. 1. Praise the Lord, His glories show, Alleluia! Saints within His courts below, Alleluia! Angels ’round His throne above, Alleluia! All that see and share His love, Alleluia!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise the Lord, His Glories Show, Praise the Lord, His glories show, Alleluia! 
+    description: |
+      SDAH 25. Praise the Lord, His Glories Show. 1. Praise the Lord, His glories show, Alleluia! Saints within His courts below, Alleluia! Angels ’round His throne above, Alleluia! All that see and share His love, Alleluia!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise the Lord, His Glories Show, Praise the Lord, His glories show, Alleluia! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Praise the Lord, His mercies trace, Alleluia!
 Praise His providence and grace, Alleluia!
 All that He for man hath done, Alleluia!
 All He sends us through His Son. Alleluia!
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 519. Give to the Winds Your Fears - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 519. Give to the Winds Your Fears. 1. Give to the winds your fears; In hope be undismayed: God hears your sighs and coundts your tears, God shall lift up your head.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Give to the Winds Your Fears, Give to the winds your fears; 
+    description: |
+      SDAH 519. Give to the Winds Your Fears. 1. Give to the winds your fears; In hope be undismayed: God hears your sighs and coundts your tears, God shall lift up your head.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Give to the Winds Your Fears, Give to the winds your fears; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Leave to His sovereign sway
 To choose and to command;
 So you shall, faithful, seek His way
 how wise, how strong His hand!
+
 
 
 ```

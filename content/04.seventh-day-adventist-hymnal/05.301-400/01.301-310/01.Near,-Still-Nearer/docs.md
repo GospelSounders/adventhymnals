@@ -1,8 +1,10 @@
 ---
 title: 301. Near, Still Nearer - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 301. Near, Still Nearer. 1. Nearer, still nearer, close to Thy heart, Draw me, my Savior, so precious Thou art; Fold me, O fold me close to Thy breast, Shelter me safe in that haven of rest, Shelter me safe in that haven of rest.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Near, Still Nearer, Nearer, still nearer, close to Thy heart, 
+    description: |
+      SDAH 301. Near, Still Nearer. 1. Nearer, still nearer, close to Thy heart, Draw me, my Savior, so precious Thou art; Fold me, O fold me close to Thy breast, Shelter me safe in that haven of rest, Shelter me safe in that haven of rest.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Near, Still Nearer, Nearer, still nearer, close to Thy heart, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ Till safe in glory my anchor is cast;
 Through endless ages, ever to be,
 Nearer, my Savior, still nearer to Thee,
 Nearer, my Savior, still nearer to Thee.
+
 
 
 ```

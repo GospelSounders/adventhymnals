@@ -1,8 +1,10 @@
 ---
 title: 576. Awake, Awake to Love and Work - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 576. Awake, Awake to Love and Work. 1. Awake, awake to love and work! The lark is in the sky; The fields are wet with diamond dew; The worlds awake to cry Their blessings on the Lord of life, As He goes meekly by.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Awake, Awake to Love and Work, Awake, awake to love and work! 
+    description: |
+      SDAH 576. Awake, Awake to Love and Work. 1. Awake, awake to love and work! The lark is in the sky; The fields are wet with diamond dew; The worlds awake to cry Their blessings on the Lord of life, As He goes meekly by.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Awake, Awake to Love and Work, Awake, awake to love and work! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ To spend thyself nor count the cost;
 To serve right gloriously
 The God who gave all worlds that are,
 And all that are to be.
+
 
 
 ```

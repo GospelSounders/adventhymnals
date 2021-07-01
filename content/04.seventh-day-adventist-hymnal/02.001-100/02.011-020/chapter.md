@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 011-020
 metadata:
-    description: Seventh Day Adventist Hymnal - 011-020
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 011-020
+    description: |
+      Seventh Day Adventist Hymnal - 011-020
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 011-020
     author: Brian Onang'o
 ---
 

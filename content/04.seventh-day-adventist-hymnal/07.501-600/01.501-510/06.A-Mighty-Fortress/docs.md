@@ -1,8 +1,10 @@
 ---
 title: 506. A Mighty Fortress - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 506. A Mighty Fortress. 1. A mighty fortress is our God, a bulwark never failing; our helper he amid the flood of mortal ills prevaling. For still our ancient foe doth seek to work us woe; his craft and power are great, and armed with cruel hate, on earth is not his equal.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, A Mighty Fortress, A mighty fortress is our God, 
+    description: |
+      SDAH 506. A Mighty Fortress. 1. A mighty fortress is our God, a bulwark never failing; our helper he amid the flood of mortal ills prevaling. For still our ancient foe doth seek to work us woe; his craft and power are great, and armed with cruel hate, on earth is not his equal.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, A Mighty Fortress, A mighty fortress is our God, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -56,6 +59,7 @@ this mortal life also;
 the body they may kill;
 God’s truth abideth still;
 his kingdom is forever.
+
 
 
 ```

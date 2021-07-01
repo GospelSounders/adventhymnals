@@ -1,8 +1,10 @@
 ---
 title: 418. Day of Judgment, Day of Wonders! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 418. Day of Judgment, Day of Wonders!. 1. Day of judgement, day of wonders! Hark the trumpet’s awful sound, Louder than a thousand thunders, Shakes the vast creation round! How the summons Will the sinner’s heart confound!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Day of Judgment, Day of Wonders!, Day of judgement, day of wonders! 
+    description: |
+      SDAH 418. Day of Judgment, Day of Wonders!. 1. Day of judgement, day of wonders! Hark the trumpet’s awful sound, Louder than a thousand thunders, Shakes the vast creation round! How the summons Will the sinner’s heart confound!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Day of Judgment, Day of Wonders!, Day of judgement, day of wonders! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ He will say, “Come near, ye blessed,
 See the kingdom I bestow;
 You forever, You forever
 Shall my love and glory know.”
+
 
 
 ```

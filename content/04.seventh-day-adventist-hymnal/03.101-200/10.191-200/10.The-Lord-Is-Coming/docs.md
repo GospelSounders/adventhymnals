@@ -1,8 +1,10 @@
 ---
 title: 200. The Lord Is Coming - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 200. The Lord Is Coming. 1. The Lord is coming, let this be The herald note of jubilee; And when we meet and when we part The salutation from the heart. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Lord Is Coming, The Lord is coming, let this be ,The Lord is coming, let this be
+    description: |
+      SDAH 200. The Lord Is Coming. 1. The Lord is coming, let this be The herald note of jubilee; And when we meet and when we part The salutation from the heart. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Lord Is Coming, The Lord is coming, let this be ,The Lord is coming, let this be
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -88,6 +91,7 @@ Refrain:
 The Lord is coming, let this be
 The herald note of jubilee,
 The herald note of jubilee.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 381. Holy Sabbath Day of Rest - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 381. Holy Sabbath Day of Rest. 1. Holy Sabbath day of rest, By our Master richly blest, God created and divine, Set aside for holy time. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy Sabbath Day of Rest, Holy Sabbath day of rest, ,Yes, the holy Sabbath rest,
+    description: |
+      SDAH 381. Holy Sabbath Day of Rest. 1. Holy Sabbath day of rest, By our Master richly blest, God created and divine, Set aside for holy time. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy Sabbath Day of Rest, Holy Sabbath day of rest, ,Yes, the holy Sabbath rest,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Yes, the holy Sabbath rest,
 By our God divinely blest,
 It to us a sign shall be
 Throughout all eternity.
+
 
 
 

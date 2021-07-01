@@ -1,8 +1,10 @@
 ---
 title: 504. Lord Jesus, Think on Me - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 504. Lord Jesus, Think on Me. 1. Lord Jesus, think on me, And purge away my sin; From earth-born passions set me free, And make me pure within.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord Jesus, Think on Me, Lord Jesus, think on me, And purge away my sin; 
+    description: |
+      SDAH 504. Lord Jesus, Think on Me. 1. Lord Jesus, think on me, And purge away my sin; From earth-born passions set me free, And make me pure within.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord Jesus, Think on Me, Lord Jesus, think on me, And purge away my sin; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -28,6 +31,7 @@ Through darkness and perplexity Point Thou the heavenly way.
 4.
 Lord Jesus, think on me, That I may sing above
 To Father, Spirit, and to Thee, The strains of praise and love.
+
 
 
 ```

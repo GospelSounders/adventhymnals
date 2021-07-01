@@ -1,8 +1,10 @@
 ---
 title: 473. Nearer My God, to Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 473. Nearer My God, to Thee. 1. Nearer, my God, to thee, nearer to thee! E’en though it be a cross that raiseth me, still all my song shall be, nearer, my God, to thee; nearer, my God, to thee, nearer to thee!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Nearer My God, to Thee, Nearer, my God, to thee, nearer to thee! 
+    description: |
+      SDAH 473. Nearer My God, to Thee. 1. Nearer, my God, to thee, nearer to thee! E’en though it be a cross that raiseth me, still all my song shall be, nearer, my God, to thee; nearer, my God, to thee, nearer to thee!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Nearer My God, to Thee, Nearer, my God, to thee, nearer to thee! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -47,6 +50,7 @@ sun, moon, and stars forgot, upward I fly,
 still all my song shall be,
 nearer, my God, to thee;
 nearer, my God, to thee, nearer to thee!
+
 
 
 ```

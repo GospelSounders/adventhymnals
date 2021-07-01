@@ -1,8 +1,10 @@
 ---
 title: 34. Wake the Song - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 34. Wake the Song. 1. Wake the song of joy and gladness; Hither bring your noblest lays; Banish every thought of sadness, Pouring forth your highest praise. Sing to Him whose care has brought us Once again with friends to meet, And whose loving voice has taught us Of the way to Jesus’ feet. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wake the Song, Wake the song of joy and gladness; ,Wake the song, wake the song,
+    description: |
+      SDAH 34. Wake the Song. 1. Wake the song of joy and gladness; Hither bring your noblest lays; Banish every thought of sadness, Pouring forth your highest praise. Sing to Him whose care has brought us Once again with friends to meet, And whose loving voice has taught us Of the way to Jesus’ feet. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wake the Song, Wake the song of joy and gladness; ,Wake the song, wake the song,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -63,6 +66,7 @@ Wake the song, wake the song,
 The song of joy and gladness,
 Wake the song, wake the song,
 The song of Jubilee.
+
 
 
 

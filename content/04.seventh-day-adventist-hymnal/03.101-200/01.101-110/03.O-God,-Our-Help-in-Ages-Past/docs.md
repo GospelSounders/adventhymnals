@@ -1,8 +1,10 @@
 ---
 title: 103. O God, Our Help in Ages Past - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 103. O God, Our Help in Ages Past. 1. O God, our help in ages past, our hope for years to come, our shelter from the stormy blast, and our eternal home!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O God, Our Help in Ages Past, O God, our help in ages past, 
+    description: |
+      SDAH 103. O God, Our Help in Ages Past. 1. O God, our help in ages past, our hope for years to come, our shelter from the stormy blast, and our eternal home!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O God, Our Help in Ages Past, O God, our help in ages past, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ O God, our help in ages past,
 our hope for years to come;
 be thou our guide while life shall last,
 and our eternal home!
+
 
 
 ```

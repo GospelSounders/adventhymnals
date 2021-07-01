@@ -1,8 +1,10 @@
 ---
 title: 628. As Jacob With Travel Was Weary - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 628. As Jacob With Travel Was Weary. 1. As Jacob with travel was weary one day, At night on a stone for a pillow he lay; He saw in a vision a ladder so high That its foot was on earth and its top in the sky. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As Jacob With Travel Was Weary, As Jacob with travel was weary one day, ,Alleluia to Jesus who died on the tree,
+    description: |
+      SDAH 628. As Jacob With Travel Was Weary. 1. As Jacob with travel was weary one day, At night on a stone for a pillow he lay; He saw in a vision a ladder so high That its foot was on earth and its top in the sky. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As Jacob With Travel Was Weary, As Jacob with travel was weary one day, ,Alleluia to Jesus who died on the tree,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Refrain:
 Alleluia to Jesus who died on the tree,
 And has raised up a ladder of mercy for me,
 And has raised up a ladder of mercy for me.
+
 
 
 

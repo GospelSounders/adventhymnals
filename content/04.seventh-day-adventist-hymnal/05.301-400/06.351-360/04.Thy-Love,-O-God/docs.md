@@ -1,8 +1,10 @@
 ---
 title: 354. Thy Love, O God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 354. Thy Love, O God. 1. Thy love, O God, has all mankind created, And led Thy people to this present hour; In Christ we see life’s glory consummated; Thy Spirit manifests His living power.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thy Love, O God, Thy love, O God, has all mankind created, 
+    description: |
+      SDAH 354. Thy Love, O God. 1. Thy love, O God, has all mankind created, And led Thy people to this present hour; In Christ we see life’s glory consummated; Thy Spirit manifests His living power.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thy Love, O God, Thy love, O God, has all mankind created, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Inspire Thy church, mid earth’s discordant voices,
 To preach the gospel of her Lord above,
 Until the day this warring world rejoices
 To hear the mighty harmonies of love.
+
 
 
 ```

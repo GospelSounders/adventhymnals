@@ -1,8 +1,10 @@
 ---
 title: 555. Shepherd of Tender Youth - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 555. Shepherd of Tender Youth. 1. Shepherd of tender you, Guiding in love and truth, Through devious way; Christ our triumphant King, We come Thy name to sin, Hither our children bring To shout Thy praise.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Shepherd of Tender Youth, Shepherd of tender you, 
+    description: |
+      SDAH 555. Shepherd of Tender Youth. 1. Shepherd of tender you, Guiding in love and truth, Through devious way; Christ our triumphant King, We come Thy name to sin, Hither our children bring To shout Thy praise.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Shepherd of Tender Youth, Shepherd of tender you, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Jesus, Thou Christ of God,
 By Thy perennial word,
 Lead us where Thou hast trod,
 Make our faith strong.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 352. This Is My Will - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 352. This Is My Will. 1. This is My will, My one command, That love should dwell among you all. This is My will that you should love As I have shown that I love you.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, This Is My Will, This is My will, My one command, 
+    description: |
+      SDAH 352. This Is My Will. 1. This is My will, My one command, That love should dwell among you all. This is My will that you should love As I have shown that I love you.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, This Is My Will, This is My will, My one command, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ All that I ask My Father, dear,
 For My name’s sake you shall receive.
 This is My will, My one command,
 That love should dwell in each, in all.
+
 
 
 ```

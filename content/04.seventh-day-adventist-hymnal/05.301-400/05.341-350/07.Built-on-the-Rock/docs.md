@@ -1,8 +1,10 @@
 ---
 title: 347. Built on the Rock - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 347. Built on the Rock. 1. Built on the Rock the Church shall stand, Even when steeples are falling; Crumbled have spires in every land, Bells still are chiming and calling Calling the young and old to rest, Calling the souls of those distressed, Longing for life everlasting.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Built on the Rock, Built on the Rock the Church shall stand, 
+    description: |
+      SDAH 347. Built on the Rock. 1. Built on the Rock the Church shall stand, Even when steeples are falling; Crumbled have spires in every land, Bells still are chiming and calling Calling the young and old to rest, Calling the souls of those distressed, Longing for life everlasting.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Built on the Rock, Built on the Rock the Church shall stand, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -57,6 +60,7 @@ Where He this promise is bringing:
 I know My own, My own know Me:
 You, not the world, My face shall see;
 My peace I leave with you. Amen.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 364. O Jesus Christ, to You - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 364. O Jesus Christ, to You. 1. O Jesus Christ, to You may hymns be rising In every city for Your love and care; Inspire our worship, grant the glad surprising That Your blest Spirit brings men everywhere.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Jesus Christ, to You, O Jesus Christ, to You may hymns be rising 
+    description: |
+      SDAH 364. O Jesus Christ, to You. 1. O Jesus Christ, to You may hymns be rising In every city for Your love and care; Inspire our worship, grant the glad surprising That Your blest Spirit brings men everywhere.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Jesus Christ, to You, O Jesus Christ, to You may hymns be rising 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Show us Your Spirit, brooding oér each city,
 As You did weep above Jerusalem,
 Seeking to gather all in love and pity,
 And healing those who touch Your garment’s hem.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 348. The Church Has One Foundation - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 348. The Church Has One Foundation. 1. The church’s one foundation is Jesus Christ her Lord; she is his new creation by water and the Word. From heaven he came and sought her to be his holy bride; with his own blood he bought her, and for her life he died.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Church Has One Foundation, The church’s one foundation 
+    description: |
+      SDAH 348. The Church Has One Foundation. 1. The church’s one foundation is Jesus Christ her Lord; she is his new creation by water and the Word. From heaven he came and sought her to be his holy bride; with his own blood he bought her, and for her life he died.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Church Has One Foundation, The church’s one foundation 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ till, with the vision glorious,
 her longing eyes are blest,
 and the great church victorious
 shall be the church at rest.
+
 
 
 ```

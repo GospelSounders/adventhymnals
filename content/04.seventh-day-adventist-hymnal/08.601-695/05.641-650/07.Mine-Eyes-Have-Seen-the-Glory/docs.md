@@ -1,8 +1,10 @@
 ---
 title: 647. Mine Eyes Have Seen the Glory - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 647. Mine Eyes Have Seen the Glory. 1. Mine eyes have seen the glory of the coming of the Lord; He is trampling out the vintage where the grapes of wrath are stored; He has loosed the fateful lightning of His terrible swift sword; His truth is marching on. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Mine Eyes Have Seen the Glory, Mine eyes have seen the glory of the coming of the Lord; ,Glory! Glory! Hallelujah! Glory! Glory! Hallelujah!
+    description: |
+      SDAH 647. Mine Eyes Have Seen the Glory. 1. Mine eyes have seen the glory of the coming of the Lord; He is trampling out the vintage where the grapes of wrath are stored; He has loosed the fateful lightning of His terrible swift sword; His truth is marching on. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Mine Eyes Have Seen the Glory, Mine eyes have seen the glory of the coming of the Lord; ,Glory! Glory! Hallelujah! Glory! Glory! Hallelujah!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ While God is marching on.
 Refrain:
 Glory! Glory! Hallelujah! Glory! Glory! Hallelujah!
 Glory! Glory! Hallelujah! His truth is marching on.
+
 
 
 

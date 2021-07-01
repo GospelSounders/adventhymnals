@@ -1,8 +1,10 @@
 ---
 title: 238. How Sweet the Name! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 238. How Sweet the Name!. 1. How sweet the name of Jesus sounds In a believer’s ear! It soothes his sorrows, heals his wounds, And drives away his fear.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Sweet the Name!, How sweet the name of Jesus sounds 
+    description: |
+      SDAH 238. How Sweet the Name!. 1. How sweet the name of Jesus sounds In a believer’s ear! It soothes his sorrows, heals his wounds, And drives away his fear.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Sweet the Name!, How sweet the name of Jesus sounds 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Weak is the effort of my heart,
 And cold my warmest thought;
 But when I see Thee as Thou art,
 I’ll praise Thee as I ought.
+
 
 
 ```

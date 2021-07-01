@@ -1,8 +1,10 @@
 ---
 title: 372. How Beauteous Are Their Feet - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 372. How Beauteous Are Their Feet. 1. How beauteous are their feet Who stand on Zion’s hill; Who bring salvation on their tongues, And words of peace reveal!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Beauteous Are Their Feet, How beauteous are their feet 
+    description: |
+      SDAH 372. How Beauteous Are Their Feet. 1. How beauteous are their feet Who stand on Zion’s hill; Who bring salvation on their tongues, And words of peace reveal!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Beauteous Are Their Feet, How beauteous are their feet 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ The watchmen join their voice,
 And tuneful notes employ;
 Jerusalem breaks forth in songs,
 And deserts learn the joy.
+
 
 
 ```

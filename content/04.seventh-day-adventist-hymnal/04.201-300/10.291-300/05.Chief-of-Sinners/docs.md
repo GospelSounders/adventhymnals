@@ -1,8 +1,10 @@
 ---
 title: 295. Chief of Sinners - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 295. Chief of Sinners. 1. Chief of sinners though I be, Jesus shed His blood for me; Died that I might live on high, Died that I might never die; As the brance is to the vine, I am His, and He is mine.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Chief of Sinners, Chief of sinners though I be, 
+    description: |
+      SDAH 295. Chief of Sinners. 1. Chief of sinners though I be, Jesus shed His blood for me; Died that I might live on high, Died that I might never die; As the brance is to the vine, I am His, and He is mine.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Chief of Sinners, Chief of sinners though I be, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ All my wants to Him are known,
 All my sorrows are His own;
 Safe with Him from earthly strife,
 He sustains the hidden life.
+
 
 
 ```

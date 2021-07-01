@@ -1,8 +1,10 @@
 ---
 title: 130. It Came Upon the Midnight Clear - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 130. It Came Upon the Midnight Clear. 1. It came upon the midnight clear, That glorious song of old, From angels bending near the earth, To touch their harps of gold: “Peace on the earth, goodwill to men From heavens all gracious King!” The world in solemn stillness lay To hear the angels sing.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, It Came Upon the Midnight Clear, It came upon the midnight clear, 
+    description: |
+      SDAH 130. It Came Upon the Midnight Clear. 1. It came upon the midnight clear, That glorious song of old, From angels bending near the earth, To touch their harps of gold: “Peace on the earth, goodwill to men From heavens all gracious King!” The world in solemn stillness lay To hear the angels sing.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, It Came Upon the Midnight Clear, It came upon the midnight clear, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Look now, for glad and golden hours
 Come swiftly on the wing;
 Oh rest beside the weary road
 And hear the angels sing.
+
 
 
 ```

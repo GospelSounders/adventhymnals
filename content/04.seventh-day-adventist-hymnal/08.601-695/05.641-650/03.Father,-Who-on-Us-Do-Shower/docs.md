@@ -1,8 +1,10 @@
 ---
 title: 643. Father, Who on Us Do Shower - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 643. Father, Who on Us Do Shower. 1. Father, who on us do shower Gifts of plenty form Your dower, To Your people give the power All Your gifts to use aright.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Father, Who on Us Do Shower, Father, who on us do shower 
+    description: |
+      SDAH 643. Father, Who on Us Do Shower. 1. Father, who on us do shower Gifts of plenty form Your dower, To Your people give the power All Your gifts to use aright.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Father, Who on Us Do Shower, Father, who on us do shower 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Father, You who sought and found us,
 Son of God, whose love has bound us,
 Holy Spirit, in us, round us,
 Hear us, Godhead infinite.
+
 
 
 ```

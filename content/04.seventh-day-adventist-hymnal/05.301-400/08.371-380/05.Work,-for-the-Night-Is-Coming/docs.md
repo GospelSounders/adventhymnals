@@ -1,8 +1,10 @@
 ---
 title: 375. Work, for the Night Is Coming - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 375. Work, for the Night Is Coming. 1. Work for the night is coming, Work through the morning hours; Work while the dew is sparkling; Work ‘mid springing flow’rs. Work when the day grows brighter, Work in the glowing sun; Work for the night is coming, When man’s work is done.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Work, for the Night Is Coming, Work for the night is coming, 
+    description: |
+      SDAH 375. Work, for the Night Is Coming. 1. Work for the night is coming, Work through the morning hours; Work while the dew is sparkling; Work ‘mid springing flow’rs. Work when the day grows brighter, Work in the glowing sun; Work for the night is coming, When man’s work is done.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Work, for the Night Is Coming, Work for the night is coming, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Work till the last beam fadeth,
 Fadeth to shine no more;
 Work while the night is dark’ning,
 When man’s work is o’er.
+
 
 
 ```

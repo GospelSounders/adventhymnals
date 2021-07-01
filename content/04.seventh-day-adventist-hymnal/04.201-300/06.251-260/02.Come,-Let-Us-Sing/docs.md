@@ -1,8 +1,10 @@
 ---
 title: 252. Come, Let Us Sing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 252. Come, Let Us Sing. 1. Come, let us sing the song of songs- The angels first began the strain- The homage which to Christ belongs: “Worthy the Lamb, for He was slain!”
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Let Us Sing, Come, let us sing the song of songs- 
+    description: |
+      SDAH 252. Come, Let Us Sing. 1. Come, let us sing the song of songs- The angels first began the strain- The homage which to Christ belongs: “Worthy the Lamb, for He was slain!”
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Let Us Sing, Come, let us sing the song of songs- 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Long as we live, and when we die,
 And while in heaven with Him we reign,
 This song our song of songs shall be:
 “Worthy the Lamb, for He was slain!”
+
 
 
 ```

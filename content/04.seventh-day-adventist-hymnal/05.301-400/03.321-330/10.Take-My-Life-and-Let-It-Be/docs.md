@@ -1,8 +1,10 @@
 ---
 title: 330. Take My Life and Let It Be - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 330. Take My Life and Let It Be. 1. Take my life, and let it be Consecrated, Lord, to Thee; Take my hands, and let them move At the impulse of Thy love; At the impulse of Thy love.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Take My Life and Let It Be, Take my life, and let it be 
+    description: |
+      SDAH 330. Take My Life and Let It Be. 1. Take my life, and let it be Consecrated, Lord, to Thee; Take my hands, and let them move At the impulse of Thy love; At the impulse of Thy love.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Take My Life and Let It Be, Take my life, and let it be 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -47,6 +50,7 @@ At Thy feet its treasure store;
 Take myself, and I will be,
 Ever, only, all for Thee.
 Ever, only, all for Thee.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 407. Sent Forth by God`s Blessing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 407. Sent Forth by God`s Blessing. 1. Sent forth by God’s blessing, Our true faith confessing, The people of God from His dwelling take leave. The supper is ended. Oh, now be extended The fruits of this service in all who believe.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sent Forth by God`s Blessing, Sent forth by God’s blessing, 
+    description: |
+      SDAH 407. Sent Forth by God`s Blessing. 1. Sent forth by God’s blessing, Our true faith confessing, The people of God from His dwelling take leave. The supper is ended. Oh, now be extended The fruits of this service in all who believe.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sent Forth by God`s Blessing, Sent forth by God’s blessing, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ Unite us as one in this life that we share.
 Then may all the living
 With praise and thanks giving
 Give honor to Christ and His name that we bear.
+
 
 
 ```

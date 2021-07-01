@@ -1,8 +1,10 @@
 ---
 title: 60. Blessed Jesus at Thy Word - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 60. Blessed Jesus at Thy Word. 1. Blessed Jesus, at Thy word, We have gathered all to hear Thee; By Thy word our hearts were stirred, Now to seek and love and fear Thee. By Thy teachings sweet and holy, Let us learn to love Thee solely.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Blessed Jesus at Thy Word, Blessed Jesus, at Thy word, 
+    description: |
+      SDAH 60. Blessed Jesus at Thy Word. 1. Blessed Jesus, at Thy word, We have gathered all to hear Thee; By Thy word our hearts were stirred, Now to seek and love and fear Thee. By Thy teachings sweet and holy, Let us learn to love Thee solely.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Blessed Jesus at Thy Word, Blessed Jesus, at Thy word, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Open Thou our ears and heart
 Help us, by Thy Spirit’s pleading.
 Hear the cry Thy people raises!
 Hear, and bless our prayer and praises!
+
 
 
 ```

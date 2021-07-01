@@ -1,8 +1,10 @@
 ---
 title: 102. Unto the Hills - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 102. Unto the Hills. 1. Unto the hills around shall I lift up my longing eyes? O whence for me shall my salvation come, from whence arise? From God the Lord doth come my certain aid, From God the Lord, who heav’n and earth hath made.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Unto the Hills, Unto the hills around shall I lift up my longing eyes? 
+    description: |
+      SDAH 102. Unto the Hills. 1. Unto the hills around shall I lift up my longing eyes? O whence for me shall my salvation come, from whence arise? From God the Lord doth come my certain aid, From God the Lord, who heav’n and earth hath made.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Unto the Hills, Unto the hills around shall I lift up my longing eyes? 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ From every evil shall He keep thy soul, from every sin;
 Jehovah shall preserve thy going our,n thy coming in.
 Above thee watching, He, whom we adore.,
 Shall keep thee henceforth, yea, forevermore.
+
 
 
 ```

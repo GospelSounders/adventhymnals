@@ -1,8 +1,10 @@
 ---
 title: 537. He Leadeth Me - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 537. He Leadeth Me. 1. He leadeth me: O blessed thought! O words with heavenly comfort fraught! Whate’er I do, where’er I be, still ’tis God’s hand that leadeth me. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, He Leadeth Me, He leadeth me; O blessed thought! ,He leadeth me, he leadeth me,
+    description: |
+      SDAH 537. He Leadeth Me. 1. He leadeth me: O blessed thought! O words with heavenly comfort fraught! Whate’er I do, where’er I be, still ’tis God’s hand that leadeth me. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, He Leadeth Me, He leadeth me; O blessed thought! ,He leadeth me, he leadeth me,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ He leadeth me, he leadeth me,
 by his own hand he leadeth me;
 his faithful follower I would be,
 for by his hand he leadeth me.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 642. We Praise Thee With Our Minds - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 642. We Praise Thee With Our Minds. 1. We praise Thee with our minds, O LordKept sharp think Thy thought;Come, Holy Ghost with grace outpoured, To teach what Christ hath taught. In all our learning may we seekThat wisdom from above Which comes to all: the brave, the meekWho ask in faith and love.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Praise Thee With Our Minds, We praise Thee with our minds, 
+    description: |
+      SDAH 642. We Praise Thee With Our Minds. 1. We praise Thee with our minds, O LordKept sharp think Thy thought;Come, Holy Ghost with grace outpoured, To teach what Christ hath taught. In all our learning may we seekThat wisdom from above Which comes to all: the brave, the meekWho ask in faith and love.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Praise Thee With Our Minds, We praise Thee with our minds, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ Altho adoring hearts will bow
 As age on ages roll;
 We praise Thee in our beings now,
 Mind, body, heart, and soul.
+
 
 
 ```

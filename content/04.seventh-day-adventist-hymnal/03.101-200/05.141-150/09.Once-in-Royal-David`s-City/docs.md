@@ -1,8 +1,10 @@
 ---
 title: 149. Once in Royal David`s City - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 149. Once in Royal David`s City. 1. Once in royal David’s city Stood a lowly cattle shed, Where a mother laid her Baby In a manger for His bed; Mary was that mother mild, Jesus Christ her little Child.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Once in Royal David`s City, Once in royal David’s city 
+    description: |
+      SDAH 149. Once in Royal David`s City. 1. Once in royal David’s city Stood a lowly cattle shed, Where a mother laid her Baby In a manger for His bed; Mary was that mother mild, Jesus Christ her little Child.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Once in Royal David`s City, Once in royal David’s city 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ For that Child so dear and gentle
 Is our Lord in heaven above;
 And He leads His children on
 To the place where He is gone.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 386. The Sacred Anthem - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 386. The Sacred Anthem. 1. The sacred anthem slowly rang Across the fields of praise, When earth’s first Sabbath made complete All creatures and all days.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Sacred Anthem, The sacred anthem slowly rang 
+    description: |
+      SDAH 386. The Sacred Anthem. 1. The sacred anthem slowly rang Across the fields of praise, When earth’s first Sabbath made complete All creatures and all days.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Sacred Anthem, The sacred anthem slowly rang 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ There will be no more weeping, when
 We know and shall be known.
 With hosts of the redeemed we’ll sing
 Around God’s shining throne.
+
 
 
 ```

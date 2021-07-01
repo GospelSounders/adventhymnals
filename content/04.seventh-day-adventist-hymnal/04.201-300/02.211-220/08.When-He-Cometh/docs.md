@@ -1,8 +1,10 @@
 ---
 title: 218. When He Cometh - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 218. When He Cometh. 1. When He cometh, when He cometh To make up His jewels, All His jewels, precious jewels, His loved and His own. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When He Cometh, When He cometh, when He cometh ,Like the stars of the morning,
+    description: |
+      SDAH 218. When He Cometh. 1. When He cometh, when He cometh To make up His jewels, All His jewels, precious jewels, His loved and His own. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When He Cometh, When He cometh, when He cometh ,Like the stars of the morning,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Like the stars of the morning,
 His brightness adorning,
 They shall shine in their beauty,
 Bright gems for His crown.
+
 
 
 

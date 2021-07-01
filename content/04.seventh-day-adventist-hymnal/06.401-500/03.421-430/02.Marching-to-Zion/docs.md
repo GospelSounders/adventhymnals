@@ -1,8 +1,10 @@
 ---
 title: 422. Marching to Zion - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 422. Marching to Zion. 1. Come, we that love the Lord, And let our joys be known; Join in a song with sweet accord, Join in a song with sweet accord, And thus surround the throne, And thus surround the throne. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Marching to Zion, Come, we that love the Lord, ,We’re marching to Zion,
+    description: |
+      SDAH 422. Marching to Zion. 1. Come, we that love the Lord, And let our joys be known; Join in a song with sweet accord, Join in a song with sweet accord, And thus surround the throne, And thus surround the throne. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Marching to Zion, Come, we that love the Lord, ,We’re marching to Zion,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -72,6 +75,7 @@ We’re marching to Zion,
 Beautiful, beautiful Zion;
 We’re marching upward to Zion,
 The beautiful city of God.
+
 
 
 

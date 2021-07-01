@@ -1,8 +1,10 @@
 ---
 title: 471. Grant Us Your Peace - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 471. Grant Us Your Peace. 1. Dona nobis pacem, pacem; Dona nobis pacem. Dona nobis pacem; Dona nobis pacem. Dona nobis pacem; Dona nobis pacem.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Grant Us Your Peace, Dona nobis pacem, pacem; 
+    description: |
+      SDAH 471. Grant Us Your Peace. 1. Dona nobis pacem, pacem; Dona nobis pacem. Dona nobis pacem; Dona nobis pacem. Dona nobis pacem; Dona nobis pacem.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Grant Us Your Peace, Dona nobis pacem, pacem; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -43,6 +46,7 @@ Padre, danos, tupaz.
 Padre, danos, danos tupaz
 Padre, danos tupaz.
 Padre, danos, danos tupaz.
+
 
 
 ```

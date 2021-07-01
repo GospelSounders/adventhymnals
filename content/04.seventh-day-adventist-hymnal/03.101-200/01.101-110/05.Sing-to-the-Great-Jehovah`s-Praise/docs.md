@@ -1,8 +1,10 @@
 ---
 title: 105. Sing to the Great Jehovah`s Praise - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 105. Sing to the Great Jehovah`s Praise. 1. Sing to the great Jehovah’s praise! All praise to Him belongs; Who kindly lengthens out our days, In spires our choicest songs, Inspires our choicest songs.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sing to the Great Jehovah`s Praise, Sing to the great Jehovah’s praise! 
+    description: |
+      SDAH 105. Sing to the Great Jehovah`s Praise. 1. Sing to the great Jehovah’s praise! All praise to Him belongs; Who kindly lengthens out our days, In spires our choicest songs, Inspires our choicest songs.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sing to the Great Jehovah`s Praise, Sing to the great Jehovah’s praise! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -33,6 +36,7 @@ And Thy continued care;
 To Thee presenting through Thy Son
 What e’er we have and are,
 What e’er we have and are.
+
 
 
 ```

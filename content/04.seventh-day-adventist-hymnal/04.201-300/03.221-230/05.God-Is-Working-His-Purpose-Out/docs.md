@@ -1,8 +1,10 @@
 ---
 title: 225. God Is Working His Purpose Out - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 225. God Is Working His Purpose Out. 1. God is working His purpose out As year suceeds to year; God is working His purpose out, And the time is drawing near; Nearer and nearer draws the time, The time that shall surely be When the earth shall be filled with the glory of God As the waters cover the sea.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Is Working His Purpose Out, God is working His purpose out 
+    description: |
+      SDAH 225. God Is Working His Purpose Out. 1. God is working His purpose out As year suceeds to year; God is working His purpose out, And the time is drawing near; Nearer and nearer draws the time, The time that shall surely be When the earth shall be filled with the glory of God As the waters cover the sea.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Is Working His Purpose Out, God is working His purpose out 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Yet nearer and nearer draws the time,
 The time that shall surely be,
 When the earth shall be filled with the glory of God
 As the waters cover the sea.
+
 
 
 ```

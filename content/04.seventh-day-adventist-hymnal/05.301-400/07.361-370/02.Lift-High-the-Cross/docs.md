@@ -1,8 +1,10 @@
 ---
 title: 362. Lift High the Cross - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 362. Lift High the Cross. 1. Come, Christians, follow where our Captain trod, Our King victorious, Christ, the Son of God.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lift High the Cross, Come, Christians, follow where our Captain trod, 
+    description: |
+      SDAH 362. Lift High the Cross. 1. Come, Christians, follow where our Captain trod, Our King victorious, Christ, the Son of God.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lift High the Cross, Come, Christians, follow where our Captain trod, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ As Thou hast promised, draw us all to Thee.
 5.
 So shall our song of triumph ever be:
 Praise to the Crucified for victory!
+
 
 
 ```

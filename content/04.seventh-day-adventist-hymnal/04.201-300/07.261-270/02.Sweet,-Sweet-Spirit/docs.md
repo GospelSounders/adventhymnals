@@ -1,8 +1,10 @@
 ---
 title: 262. Sweet, Sweet Spirit - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 262. Sweet, Sweet Spirit. 1. There’s a sweet, sweet spirit in this place, And I know that it’s the spirit of the Lord; Sweet Holy Spirit, Sweet Heavenly Dove,
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sweet, Sweet Spirit, There’s a sweet, sweet spirit in this place, 
+    description: |
+      SDAH 262. Sweet, Sweet Spirit. 1. There’s a sweet, sweet spirit in this place, And I know that it’s the spirit of the Lord; Sweet Holy Spirit, Sweet Heavenly Dove,
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sweet, Sweet Spirit, There’s a sweet, sweet spirit in this place, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ We lift our hearts in praise,
 Without a doubt we’ll know
 That we have been revived
 When we shall leave this place.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 72. Creator of the Stars of Night - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 72. Creator of the Stars of Night. 1. Creator of the stars of night, Thy people’s everlasting light, O Christ, Thou Saviour of us all, We pray Thee, hear us when we call.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Creator of the Stars of Night, Creator of the stars of night, 
+    description: |
+      SDAH 72. Creator of the Stars of Night. 1. Creator of the stars of night, Thy people’s everlasting light, O Christ, Thou Saviour of us all, We pray Thee, hear us when we call.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Creator of the Stars of Night, Creator of the stars of night, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -31,6 +34,7 @@ And God the Spirit, Three in One,
 Laud, honour, might, and glory be
 From age to age eternally.
 Amen.
+
 
 
 ```

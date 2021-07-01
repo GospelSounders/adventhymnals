@@ -1,8 +1,10 @@
 ---
 title: 255. I Cannot Tell Why - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 255. I Cannot Tell Why. 1. I cannot tell why He whom angels worship Should set His love upon the souls of men, Or why as Shepherd He should seek the wanderers, To bring them back, they know not how nor when. But this I know, that He was born of Mary When Bethlehem’s manger was His only home, And that He lived at Nazareth and laboured; And so the Saviour, Saviour of the world, has come.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Cannot Tell Why, I cannot tell why He whom angels worship 
+    description: |
+      SDAH 255. I Cannot Tell Why. 1. I cannot tell why He whom angels worship Should set His love upon the souls of men, Or why as Shepherd He should seek the wanderers, To bring them back, they know not how nor when. But this I know, that He was born of Mary When Bethlehem’s manger was His only home, And that He lived at Nazareth and laboured; And so the Saviour, Saviour of the world, has come.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Cannot Tell Why, I cannot tell why He whom angels worship 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -53,6 +56,7 @@ But this I know the skies shall sound His praises,
 Ten thousand thousand human voices sing,
 And earth to heaven, and heaven to earth will answer,
 At last the Saviour, Saviour of the world, is King!
+
 
 
 ```

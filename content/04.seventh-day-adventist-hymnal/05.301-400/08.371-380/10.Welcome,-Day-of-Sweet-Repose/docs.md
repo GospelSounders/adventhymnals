@@ -1,8 +1,10 @@
 ---
 title: 380. Welcome, Day of Sweet Repose - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 380. Welcome, Day of Sweet Repose. 1. Welcome, day of sweet repose! Blessed be thy sacred hours! We would trust the One who knows All our weak and failing powers.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Welcome, Day of Sweet Repose, Welcome, day of sweet repose! 
+    description: |
+      SDAH 380. Welcome, Day of Sweet Repose. 1. Welcome, day of sweet repose! Blessed be thy sacred hours! We would trust the One who knows All our weak and failing powers.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Welcome, Day of Sweet Repose, Welcome, day of sweet repose! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Welcome, day our Savior kept!
 Keeping, wrought our righteousness,
 Day God bids us ne’er forget,
 Day of days His name to bless.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 290. Turn Your Eyes Upon Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 290. Turn Your Eyes Upon Jesus. 1. O soul, are you weary and troubled? No light in the darkness you see? There’s light for a look at the Savior, And life more abundant and free! 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Turn Your Eyes Upon Jesus, O soul, are you weary and troubled? ,Turn your eyes upon Jesus,
+    description: |
+      SDAH 290. Turn Your Eyes Upon Jesus. 1. O soul, are you weary and troubled? No light in the darkness you see? There’s light for a look at the Savior, And life more abundant and free! 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Turn Your Eyes Upon Jesus, O soul, are you weary and troubled? ,Turn your eyes upon Jesus,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Turn your eyes upon Jesus,
 Look full in His wonderful face,
 And the things of earth will grow strangely dim,
 In the light of His glory and grace.
+
 
 
 

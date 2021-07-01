@@ -1,8 +1,10 @@
 ---
 title: 144. O Sing a Song of Bethlehem - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 144. O Sing a Song of Bethlehem. 1. O sing a song of Bethlehem, Of shepherds watching there, And of the news that came to them From angels in the air: The light that shone on Bethlehem Fills all the world today; Of Jesus’birth and peace on earth The angels sing alway.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Sing a Song of Bethlehem, O sing a song of Bethlehem, 
+    description: |
+      SDAH 144. O Sing a Song of Bethlehem. 1. O sing a song of Bethlehem, Of shepherds watching there, And of the news that came to them From angels in the air: The light that shone on Bethlehem Fills all the world today; Of Jesus’birth and peace on earth The angels sing alway.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Sing a Song of Bethlehem, O sing a song of Bethlehem, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ For He who died on Calvary
 Is risen from the grave;
 And Christ, our Lord, by heaven adored,
 Is mighty now to save.
+
 
 
 ```

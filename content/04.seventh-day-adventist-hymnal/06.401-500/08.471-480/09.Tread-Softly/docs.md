@@ -1,8 +1,10 @@
 ---
 title: 479. Tread Softly - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 479. Tread Softly. 1. Be silent, be silent, A whisper is heard; Be silent, and listen, Oh treasure each word. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tread Softly, Be silent, be silent, A whisper is heard; ,Tread softly, tread softly, The Master is here;
+    description: |
+      SDAH 479. Tread Softly. 1. Be silent, be silent, A whisper is heard; Be silent, and listen, Oh treasure each word. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tread Softly, Be silent, be silent, A whisper is heard; ,Tread softly, tread softly, The Master is here;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -56,6 +59,7 @@ Tread softly, tread softly, The Master is here;
 Tread softly here, tread softly here,
 Tread softly, tread softly, He bids us draw near.
 Tread softly here, tread softly here,
+
 
 
 

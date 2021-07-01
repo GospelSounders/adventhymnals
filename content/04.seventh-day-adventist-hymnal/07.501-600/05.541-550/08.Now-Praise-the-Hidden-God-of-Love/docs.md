@@ -1,8 +1,10 @@
 ---
 title: 548. Now Praise the Hidden God of Love - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 548. Now Praise the Hidden God of Love. 1. Now praise the hidden God of love In whom we all must live and move, Who shepherds us, at every stage Thro’ youth, maturity, and age.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now Praise the Hidden God of Love, Now praise the hidden God of love 
+    description: |
+      SDAH 548. Now Praise the Hidden God of Love. 1. Now praise the hidden God of love In whom we all must live and move, Who shepherds us, at every stage Thro’ youth, maturity, and age.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now Praise the Hidden God of Love, Now praise the hidden God of love 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Then talk no more of wasted time,
 But Godward look, and upward climb,
 Content to sleep, when day is done,
 And rise refreshed, and travel on.
+
 
 
 ```

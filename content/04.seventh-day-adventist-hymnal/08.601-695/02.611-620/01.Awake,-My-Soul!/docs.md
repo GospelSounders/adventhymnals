@@ -1,8 +1,10 @@
 ---
 title: 611. Awake, My Soul! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 611. Awake, My Soul!. 1. Awake, my soul! stretch every nerve, And press with vigor on; A heavenly race demands thy zeal, And an immortal crown.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Awake, My Soul!, Awake, my soul! stretch every nerve, 
+    description: |
+      SDAH 611. Awake, My Soul!. 1. Awake, my soul! stretch every nerve, And press with vigor on; A heavenly race demands thy zeal, And an immortal crown.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Awake, My Soul!, Awake, my soul! stretch every nerve, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Blest Savior, introduced by Thee,
 Our race have we begun;
 And, crowned with victory, at Thy feet
 We’ll lay our trophies down.
+
 
 
 ```

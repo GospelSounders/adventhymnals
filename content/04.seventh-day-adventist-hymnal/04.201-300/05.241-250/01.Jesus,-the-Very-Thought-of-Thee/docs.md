@@ -1,8 +1,10 @@
 ---
 title: 241. Jesus, the Very Thought of Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 241. Jesus, the Very Thought of Thee. 1. Jesus, the very thought of thee with sweetness fills the breast; but sweeter far thy face to see, and in thy presence rest.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, the Very Thought of Thee, Jesus, the very thought of thee 
+    description: |
+      SDAH 241. Jesus, the Very Thought of Thee. 1. Jesus, the very thought of thee with sweetness fills the breast; but sweeter far thy face to see, and in thy presence rest.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, the Very Thought of Thee, Jesus, the very thought of thee 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Jesus, our only joy be thou,
 as thou our prize wilt be;
 Jesus, be thou our glory now,
 and through eternity.
+
 
 
 ```

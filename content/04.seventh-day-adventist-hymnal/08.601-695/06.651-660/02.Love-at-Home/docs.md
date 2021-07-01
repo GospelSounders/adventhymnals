@@ -1,8 +1,10 @@
 ---
 title: 652. Love at Home - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 652. Love at Home. 1. There is beauty all around, When there’s love at home; There is joy in every sound, When there’s love at home. Peace and plenty here abide, Smiling fair on every side; Time doth softly, sweetly glide, When there’s love at home. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Love at Home, There is beauty all around, When there’s love at home; ,Love at home, love at home;
+    description: |
+      SDAH 652. Love at Home. 1. There is beauty all around, When there’s love at home; There is joy in every sound, When there’s love at home. Peace and plenty here abide, Smiling fair on every side; Time doth softly, sweetly glide, When there’s love at home. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Love at Home, There is beauty all around, When there’s love at home; ,Love at home, love at home;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Refrain:
 Love at home, love at home;
 Time doth softly, sweetly glide,
 When there’s love at home.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 417. O Solemn Thought - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 417. O Solemn Thought. 1. O solemn thought and can it be The hour o judgment now is come Which soon must fix our destiny, And seal the sinner’s fearful down? Yes, it is so; the judgment hour Is swiftly hastening to its close; Then will the Judge, in mighty power, Descend in vengeance on His foes.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Solemn Thought, O solemn thought and can it be 
+    description: |
+      SDAH 417. O Solemn Thought. 1. O solemn thought and can it be The hour o judgment now is come Which soon must fix our destiny, And seal the sinner’s fearful down? Yes, it is so; the judgment hour Is swiftly hastening to its close; Then will the Judge, in mighty power, Descend in vengeance on His foes.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Solemn Thought, O solemn thought and can it be 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ That we may in Thy strength be strong,
 And brave the conflict valiantly;
 Then, on Mount Zion, join the song,
 And swell the notes of victory.
+
 
 
 ```

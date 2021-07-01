@@ -1,8 +1,10 @@
 ---
 title: 583. You That Know the Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 583. You That Know the Lord. 1. You that know the Lord is gracious, You for whom a cornerstone Stands, of God elect and precious, Laid that you may build there-on, See that on that sure foundation You a living temple raise. Towers that may tell forth salvation, Walls that may reech-o praise.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, You That Know the Lord, You that know the Lord is gracious, 
+    description: |
+      SDAH 583. You That Know the Lord. 1. You that know the Lord is gracious, You for whom a cornerstone Stands, of God elect and precious, Laid that you may build there-on, See that on that sure foundation You a living temple raise. Towers that may tell forth salvation, Walls that may reech-o praise.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, You That Know the Lord, You that know the Lord is gracious, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Tell the tale of sins forgiven,
 Strength renewed and hope restored,
 Till the earth, in tune with heaven,
 Praise and magnify the Lord.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 455. Immortal Love, Forever Full - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 455. Immortal Love, Forever Full. 1. Immortal Love, forever full, Forever flowing free, Forever shared, forever whole, A never ebbing sea!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Immortal Love, Forever Full, Immortal Love, forever full, 
+    description: |
+      SDAH 455. Immortal Love, Forever Full. 1. Immortal Love, forever full, Forever flowing free, Forever shared, forever whole, A never ebbing sea!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Immortal Love, Forever Full, Immortal Love, forever full, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ O Lord and Master of us all:
 Whate’er our names or sign,
 We own Thy sway, we hear Thy call,
 We test our lives by Thine!
+
 
 
 ```

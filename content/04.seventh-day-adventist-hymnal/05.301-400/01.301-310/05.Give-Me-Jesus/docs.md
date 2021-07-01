@@ -1,8 +1,10 @@
 ---
 title: 305. Give Me Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 305. Give Me Jesus. 1. In the morning, when I rise In the morning, when I rise In the morning, when I rise 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Give Me Jesus, In the morning, when I rise ,Give me Jesus.
+    description: |
+      SDAH 305. Give Me Jesus. 1. In the morning, when I rise In the morning, when I rise In the morning, when I rise 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Give Me Jesus, In the morning, when I rise ,Give me Jesus.
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -67,6 +70,7 @@ Give me Jesus,
 Give me Jesus.
 You can have all this world,
 Just give me Jesus.
+
 
 
 

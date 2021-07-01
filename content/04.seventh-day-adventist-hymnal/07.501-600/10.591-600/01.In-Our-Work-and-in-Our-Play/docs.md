@@ -1,8 +1,10 @@
 ---
 title: 591. In Our Work and in Our Play - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 591. In Our Work and in Our Play. 1. In our work and in our play, Jesus, ever with us stay; May be always strive to be True and faithful unto Thee. Then we truthfully can sing, We are children of the King.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In Our Work and in Our Play, In our work and in our play, 
+    description: |
+      SDAH 591. In Our Work and in Our Play. 1. In our work and in our play, Jesus, ever with us stay; May be always strive to be True and faithful unto Thee. Then we truthfully can sing, We are children of the King.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In Our Work and in Our Play, In our work and in our play, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Try to please Him every day,
 In our work and in our play.
 Then we truthfully can sing,
 We are children of the King.
+
 
 
 ```

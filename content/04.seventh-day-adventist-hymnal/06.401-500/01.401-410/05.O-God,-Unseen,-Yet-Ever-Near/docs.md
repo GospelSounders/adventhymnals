@@ -1,8 +1,10 @@
 ---
 title: 405. O God, Unseen, Yet Ever Near - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 405. O God, Unseen, Yet Ever Near. 1. O God, unseen, yet ever near, Reveal Thy presence now While we in love that hath no fear, Before Thy glory bow.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O God, Unseen, Yet Ever Near, O God, unseen, yet ever near, 
+    description: |
+      SDAH 405. O God, Unseen, Yet Ever Near. 1. O God, unseen, yet ever near, Reveal Thy presence now While we in love that hath no fear, Before Thy glory bow.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O God, Unseen, Yet Ever Near, O God, unseen, yet ever near, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -34,6 +37,7 @@ Our drink, His precious blood.
 4.
 Thus may we all Thy words obey,
 For we, O God, are Thine,
+
 
 
 ```

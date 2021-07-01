@@ -1,8 +1,10 @@
 ---
 title: 517. My Faith Looks Up to Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 517. My Faith Looks Up to Thee. 1. My faith looks up to thee, thou Lamb of Calvary, Savior divine; Now hear me while I pray, take all my guilt away, O let me from this day be wholly Thine.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Faith Looks Up to Thee, My faith looks up to thee, 
+    description: |
+      SDAH 517. My Faith Looks Up to Thee. 1. My faith looks up to thee, thou Lamb of Calvary, Savior divine; Now hear me while I pray, take all my guilt away, O let me from this day be wholly Thine.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Faith Looks Up to Thee, My faith looks up to thee, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -39,6 +42,7 @@ bid darkness turn to day,
 wipe sorrow’s tears away,
 nor let me ever stray
 from Thee aside.
+
 
 
 ```

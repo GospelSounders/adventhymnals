@@ -1,8 +1,10 @@
 ---
 title: 113. As Pants the Hart - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 113. As Pants the Hart. 1. As pants the hart for cooling streams When heated in the chase, So longs my soul, O God, for Thee, And Thy refreshing grace.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As Pants the Hart, As pants the hart for cooling streams 
+    description: |
+      SDAH 113. As Pants the Hart. 1. As pants the hart for cooling streams When heated in the chase, So longs my soul, O God, for Thee, And Thy refreshing grace.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As Pants the Hart, As pants the hart for cooling streams 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ To Father, Son, and Holy Ghost,
 The God whom we adore,
 Be glory, as it was, is now,
 And shall be evermore.
+
 
 
 ```

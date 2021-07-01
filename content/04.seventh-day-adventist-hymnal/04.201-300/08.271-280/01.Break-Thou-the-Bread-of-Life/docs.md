@@ -1,8 +1,10 @@
 ---
 title: 271. Break Thou the Bread of Life - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 271. Break Thou the Bread of Life. 1. Break thou the bread of life, dear Lord, to me, as thou didst break the loaves beside the sea; beyond the sacred page I seek thee, Lord; my spirit pants for thee, O Living Word!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Break Thou the Bread of Life, Break thou the bread of life, dear Lord, to me, 
+    description: |
+      SDAH 271. Break Thou the Bread of Life. 1. Break thou the bread of life, dear Lord, to me, as thou didst break the loaves beside the sea; beyond the sacred page I seek thee, Lord; my spirit pants for thee, O Living Word!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Break Thou the Bread of Life, Break thou the bread of life, dear Lord, to me, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Spirit and life are they, Words Thou dost speak;
 I hasten to obey, But I am weak;
 Thou art my only help, Thou art my life;
 Heeding Thy holy Word I win the strife.
+
 
 
 ```

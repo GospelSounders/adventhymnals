@@ -1,8 +1,10 @@
 ---
 title: 230. All Glory, Laud, and Honor - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 230. All Glory, Laud, and Honor. 1. All glory, laud, and honor, to thee, Redeemer, King, to whom the lips of children made sweet hosannas ring. Thou art the King of Israel, thou David’s royal Son, who in the Lord’s name comest, the King and Blessed One.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All Glory, Laud, and Honor, All glory, laud, and honor, 
+    description: |
+      SDAH 230. All Glory, Laud, and Honor. 1. All glory, laud, and honor, to thee, Redeemer, King, to whom the lips of children made sweet hosannas ring. Thou art the King of Israel, thou David’s royal Son, who in the Lord’s name comest, the King and Blessed One.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All Glory, Laud, and Honor, All glory, laud, and honor, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Thou didst accept their praises;
 accept the prayers we bring,
 who in all good delightest,
 thou good and gracious King.
+
 
 
 ```

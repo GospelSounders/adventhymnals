@@ -1,8 +1,10 @@
 ---
 title: 210. Wake, Awake for the Night Is Flying - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 210. Wake, Awake for the Night Is Flying. 1. Wake, awake, for night is flying, The watchmen on the heights are crying, Awake, Jerusalem, arise! Midnight’s solemn hour is tolling, His chariot wheels are nearer rolling, He comes; prepare, ye virgins wise. Rise up with willing feet Go forth, the Bridegroom meet; Alleluia! Bear through the night your well-trimmed light, Speed forth to join the marriage rite.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wake, Awake for the Night Is Flying, Wake, awake, for night is flying, 
+    description: |
+      SDAH 210. Wake, Awake for the Night Is Flying. 1. Wake, awake, for night is flying, The watchmen on the heights are crying, Awake, Jerusalem, arise! Midnight’s solemn hour is tolling, His chariot wheels are nearer rolling, He comes; prepare, ye virgins wise. Rise up with willing feet Go forth, the Bridegroom meet; Alleluia! Bear through the night your well-trimmed light, Speed forth to join the marriage rite.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wake, Awake for the Night Is Flying, Wake, awake, for night is flying, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -49,6 +52,7 @@ No ear hath ever caught,
 Such bliss and joy;
 We raise the song, we swell the throng,
 To praise Thee ages all along.
+
 
 
 ```

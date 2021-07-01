@@ -1,8 +1,10 @@
 ---
 title: 41. O Splendor of God`s Glory Bright - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 41. O Splendor of God`s Glory Bright. 1. O splendor of God’s glory bright, From light eternal bringing light; O Light of life, light’s living spring, True day, all days illumining.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Splendor of God`s Glory Bright, O splendor of God’s glory bright, 
+    description: |
+      SDAH 41. O Splendor of God`s Glory Bright. 1. O splendor of God’s glory bright, From light eternal bringing light; O Light of life, light’s living spring, True day, all days illumining.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Splendor of God`s Glory Bright, O splendor of God’s glory bright, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Dawn’s glory gilds the earth and skies;
 Let Him, our perfect morn, arise;
 The Father’s help His children claim,
 And sing the Father’s glorious name. Amen.
+
 
 
 ```

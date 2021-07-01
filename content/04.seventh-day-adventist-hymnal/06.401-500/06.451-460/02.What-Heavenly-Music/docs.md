@@ -1,8 +1,10 @@
 ---
 title: 452. What Heavenly Music - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 452. What Heavenly Music. 1. What heavenly music steals over the sea! Entrancing the senses like sweet melody! ‘Tis the voice of the angels borne soft on the air; For me they are singing; their welcome I hear.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, What Heavenly Music, What heavenly music steals over the sea! 
+    description: |
+      SDAH 452. What Heavenly Music. 1. What heavenly music steals over the sea! Entrancing the senses like sweet melody! ‘Tis the voice of the angels borne soft on the air; For me they are singing; their welcome I hear.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, What Heavenly Music, What heavenly music steals over the sea! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Though dark are the waters and rough is the wave,
 If Jesus permit, the wild surges I’ll brave;
 For that heavenly music hath ravished me so,
 I must join in that chorus! I’ll go! let me go!
+
 
 
 ```

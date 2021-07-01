@@ -1,8 +1,10 @@
 ---
 title: 413. God Has Spoken by His Prophets - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 413. God Has Spoken by His Prophets. 1. God has spoken by His prophets, Spoken His unchanging Word, Each from age to age proclaiming God, the one, the righteous Lord. Mid the world’s despair and turmoil, One firm anchor holding fast; God is King, His throne eternal, God the first, and God the last.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Has Spoken by His Prophets, God has spoken by His prophets, 
+    description: |
+      SDAH 413. God Has Spoken by His Prophets. 1. God has spoken by His prophets, Spoken His unchanging Word, Each from age to age proclaiming God, the one, the righteous Lord. Mid the world’s despair and turmoil, One firm anchor holding fast; God is King, His throne eternal, God the first, and God the last.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Has Spoken by His Prophets, God has spoken by His prophets, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Through the rise and fall of nations
 One sure faith yet standing fast,
 God is King, His Word unchanging,
 God the first, and God the last.
+
 
 
 ```

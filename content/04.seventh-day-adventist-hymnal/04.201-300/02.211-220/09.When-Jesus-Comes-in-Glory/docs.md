@@ -1,8 +1,10 @@
 ---
 title: 219. When Jesus Comes in Glory - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 219. When Jesus Comes in Glory. 1. When Jesus comes in glory, As Lord and King of kings, O what a wondrous story The blessed Bible brings: His face will shine like the sunlight, His head be white as snow, His eyes like flaming firelight, His feet like brass aglow.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When Jesus Comes in Glory, When Jesus comes in glory, 
+    description: |
+      SDAH 219. When Jesus Comes in Glory. 1. When Jesus comes in glory, As Lord and King of kings, O what a wondrous story The blessed Bible brings: His face will shine like the sunlight, His head be white as snow, His eyes like flaming firelight, His feet like brass aglow.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When Jesus Comes in Glory, When Jesus comes in glory, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ They people all are yearning
 To be Thy raptured bride,
 To be Thy own returning
 Be caught up to Thy side.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 311. I Would Be Like Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 311. I Would Be Like Jesus. 1. Earthly pleasures vainly call me; I would be like Jesus; Nothing worldly shall enthrall me; I would be like Jesus. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Would Be Like Jesus, Earthly pleasures vainly call me; ,Be like Jesus, this my song,
+    description: |
+      SDAH 311. I Would Be Like Jesus. 1. Earthly pleasures vainly call me; I would be like Jesus; Nothing worldly shall enthrall me; I would be like Jesus. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Would Be Like Jesus, Earthly pleasures vainly call me; ,Be like Jesus, this my song,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Be like Jesus, this my song,
 In the home and in the throng;
 Be like Jesus, all day long!
 I would be like Jesus.
+
 
 
 

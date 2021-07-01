@@ -1,8 +1,10 @@
 ---
 title: 361. Hark! `Tis the Shepherd`s Voice I Hear - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 361. Hark! `Tis the Shepherd`s Voice I Hear. 1. Hark! ’tis the Shepherd’s voice I hear, Out in the desert dark and drear, Calling the sheep who’ve gone astray, Far from the Shepherd’s fold away. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hark! `Tis the Shepherd`s Voice I Hear, Hark! ’tis the Shepherd’s voice I hear, ,Bring them in, Bring them in,
+    description: |
+      SDAH 361. Hark! `Tis the Shepherd`s Voice I Hear. 1. Hark! ’tis the Shepherd’s voice I hear, Out in the desert dark and drear, Calling the sheep who’ve gone astray, Far from the Shepherd’s fold away. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hark! `Tis the Shepherd`s Voice I Hear, Hark! ’tis the Shepherd’s voice I hear, ,Bring them in, Bring them in,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Bring them in, Bring them in,
 Bring them in from the fields of sin;
 Bring them in, Bring them in,
 Bring the wanderers to Jesus.
+
 
 
 

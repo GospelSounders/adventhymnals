@@ -1,8 +1,10 @@
 ---
 title: 15. My Maker and My King - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 15. My Maker and My King. 1. My Maker and my King, To Thee my all I owe; Thy sovereign bounty is the spring Whence all my blessings flow; Thy sovereign bounty is the spring Whence all my blessings flow.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Maker and My King, My Maker and my King, 
+    description: |
+      SDAH 15. My Maker and My King. 1. My Maker and my King, To Thee my all I owe; Thy sovereign bounty is the spring Whence all my blessings flow; Thy sovereign bounty is the spring Whence all my blessings flow.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Maker and My King, My Maker and my King, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ Let every word each desire
 And all my days be Thine.
 Let every word each desire
 And all my days be Thine.
+
 
 
 ```

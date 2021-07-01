@@ -1,8 +1,10 @@
 ---
 title: 173. Good Christian Friends, Rejoice! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 173. Good Christian Friends, Rejoice!. 1. Good Christian friends, rejoice and sing! Now is the triumph of our King! To all the world glad news we bring: Alleluia! Alleluia! Alleluia!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Good Christian Friends, Rejoice!, Good Christian friends, rejoice and sing! 
+    description: |
+      SDAH 173. Good Christian Friends, Rejoice!. 1. Good Christian friends, rejoice and sing! Now is the triumph of our King! To all the world glad news we bring: Alleluia! Alleluia! Alleluia!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Good Christian Friends, Rejoice!, Good Christian friends, rejoice and sing! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Thy name we bless, O risen Lord,
 And sing today with one accord
 The life laid down, the life restored:
 Alleluia! Alleluia! Alleluia!
+
 
 
 ```

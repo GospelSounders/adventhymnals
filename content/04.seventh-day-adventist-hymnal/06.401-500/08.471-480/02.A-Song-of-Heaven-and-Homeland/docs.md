@@ -1,8 +1,10 @@
 ---
 title: 472. A Song of Heaven and Homeland - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 472. A Song of Heaven and Homeland. 1. Sometimes I hear strange music, Like none e’er heard before, Come floating softly earthward As thro’ heav’n’s open door: It seems like angel voices, In strains of and love, That swell the mighty chorus Around the throne above. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, A Song of Heaven and Homeland, Sometimes I hear strange music, ,O sweet, celestial music,
+    description: |
+      SDAH 472. A Song of Heaven and Homeland. 1. Sometimes I hear strange music, Like none e’er heard before, Come floating softly earthward As thro’ heav’n’s open door: It seems like angel voices, In strains of and love, That swell the mighty chorus Around the throne above. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, A Song of Heaven and Homeland, Sometimes I hear strange music, ,O sweet, celestial music,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -63,6 +66,7 @@ O sweet, celestial music,
 Heard from a land afar-
 The song of Heav’n and Homeland,
 Thro’ doors God leaves ajar!
+
 
 
 

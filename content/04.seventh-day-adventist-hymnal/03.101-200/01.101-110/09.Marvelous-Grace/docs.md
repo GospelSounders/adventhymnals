@@ -1,8 +1,10 @@
 ---
 title: 109. Marvelous Grace - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 109. Marvelous Grace. 1. Marvelous grace of our loving Lord. Grace that exceeds our sin and our guilt! Yonder on Calvary’s mount outpoured There where the blood of the Lamb was spilt. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Marvelous Grace, Marvelous grace of our loving Lord. ,Grace, grace, God’s grace,
+    description: |
+      SDAH 109. Marvelous Grace. 1. Marvelous grace of our loving Lord. Grace that exceeds our sin and our guilt! Yonder on Calvary’s mount outpoured There where the blood of the Lamb was spilt. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Marvelous Grace, Marvelous grace of our loving Lord. ,Grace, grace, God’s grace,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Grace, grace, God’s grace,
 Grace that will pardon and cleanse within
 Grace, grace, God’s grace,
 Grace that is greater than all our sin!
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 249. Praise Him! Praise Him! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 249. Praise Him! Praise Him!. 1. Praise Him! praise Him! Jesus, our blessed Redeemer! Sing, O Earth, His wonderful love proclaim! Hail Him! hail Him! highest archangels in glory; Strength and honor give to His holy Name! Like a shepherd, Jesus will guard His children, In His arms He carries them all day long: 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise Him! Praise Him!, Praise Him! praise Him! Jesus, our blessed Redeemer! ,Praise Him! Praise Him! Tell of His excellent greatness.
+    description: |
+      SDAH 249. Praise Him! Praise Him!. 1. Praise Him! praise Him! Jesus, our blessed Redeemer! Sing, O Earth, His wonderful love proclaim! Hail Him! hail Him! highest archangels in glory; Strength and honor give to His holy Name! Like a shepherd, Jesus will guard His children, In His arms He carries them all day long: 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise Him! Praise Him!, Praise Him! praise Him! Jesus, our blessed Redeemer! ,Praise Him! Praise Him! Tell of His excellent greatness.
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Power and glory unto the Lord belong.
 Refrain:
 Praise Him! Praise Him! Tell of His excellent greatness.
 Praise Him! Praise Him! Ever in joyful song!
+
 
 
 

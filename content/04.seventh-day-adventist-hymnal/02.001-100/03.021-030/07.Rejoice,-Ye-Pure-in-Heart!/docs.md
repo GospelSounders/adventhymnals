@@ -1,8 +1,10 @@
 ---
 title: 27. Rejoice, Ye Pure in Heart! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 27. Rejoice, Ye Pure in Heart!. 1. Rejoice ye pure in heart! Rejoice, give thanks, and sing; Your festal banner wave on high, The cross of Christ your King. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rejoice, Ye Pure in Heart!, Rejoice ye pure in heart! ,Rejoice, rejoice, rejoice,
+    description: |
+      SDAH 27. Rejoice, Ye Pure in Heart!. 1. Rejoice ye pure in heart! Rejoice, give thanks, and sing; Your festal banner wave on high, The cross of Christ your King. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rejoice, Ye Pure in Heart!, Rejoice ye pure in heart! ,Rejoice, rejoice, rejoice,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -67,6 +70,7 @@ One God forever more.
 Refrain:
 Rejoice, rejoice, rejoice,
 Give thanks and sing.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 39. Lord, in the Morning - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 39. Lord, in the Morning. 1. Lord, in the morning Thou shalt hear My voice ascending high; To Thee will I direct my prayer, To Thee lift up mine eye-
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, in the Morning, Lord, in the morning Thou shalt hear 
+    description: |
+      SDAH 39. Lord, in the Morning. 1. Lord, in the morning Thou shalt hear My voice ascending high; To Thee will I direct my prayer, To Thee lift up mine eye-
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, in the Morning, Lord, in the morning Thou shalt hear 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -34,6 +37,7 @@ And plain before my face.
 Shall see their hopes fulfilled;
 The mighty God will compass them
 With favor as a shield.
+
 
 
 ```

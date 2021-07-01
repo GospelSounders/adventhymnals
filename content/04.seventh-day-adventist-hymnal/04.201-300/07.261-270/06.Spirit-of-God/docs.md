@@ -1,8 +1,10 @@
 ---
 title: 266. Spirit of God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 266. Spirit of God. 1. Spirit of God, descend upon my heart; wean it from earth; through all its pulses move; stoop to my weakness, mighty as thou art, and make me love thee as I ought to love.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Spirit of God, Spirit of God, descend upon my heart; 
+    description: |
+      SDAH 266. Spirit of God. 1. Spirit of God, descend upon my heart; wean it from earth; through all its pulses move; stoop to my weakness, mighty as thou art, and make me love thee as I ought to love.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Spirit of God, Spirit of God, descend upon my heart; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Teach me to love thee as thine angels love,
 one holy passion filling all my frame;
 the kindling of the heaven-descended Dove,
 my heart an altar, and thy love the flame.
+
 
 
 ```

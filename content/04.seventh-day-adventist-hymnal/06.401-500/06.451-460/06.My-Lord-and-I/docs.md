@@ -1,8 +1,10 @@
 ---
 title: 456. My Lord and I - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 456. My Lord and I. 1. I have a Friend so precious, So very dear to me, He loves me with such tender love, He loves so faithfully; I could not live apart form Him, I love to feel Him nigh, And so we dwell together, My Lord and I.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Lord and I, I have a Friend so precious, 
+    description: |
+      SDAH 456. My Lord and I. 1. I have a Friend so precious, So very dear to me, He loves me with such tender love, He loves so faithfully; I could not live apart form Him, I love to feel Him nigh, And so we dwell together, My Lord and I.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Lord and I, I have a Friend so precious, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ He bids me tell His wondrous love,
 And why He came to die,
 And so we work together,
 My Lord and I.
+
 
 
 ```

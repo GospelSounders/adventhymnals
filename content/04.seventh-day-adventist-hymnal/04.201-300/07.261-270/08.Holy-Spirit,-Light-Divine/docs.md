@@ -1,8 +1,10 @@
 ---
 title: 268. Holy Spirit, Light Divine - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 268. Holy Spirit, Light Divine. 1. Holy Spirit, light divine, Shine upon this heart of mine, Chase the shades of night away, Turn my darkness into day.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy Spirit, Light Divine, Holy Spirit, light divine, 
+    description: |
+      SDAH 268. Holy Spirit, Light Divine. 1. Holy Spirit, light divine, Shine upon this heart of mine, Chase the shades of night away, Turn my darkness into day.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy Spirit, Light Divine, Holy Spirit, light divine, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Holy Spirit, all divine,
 Dwell within this heart of mine,
 Cast down every idol throne,
 Reign supreme, and reign alone.
+
 
 
 ```

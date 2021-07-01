@@ -1,8 +1,10 @@
 ---
 title: 635. Lord of All Good - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 635. Lord of All Good. 1. Lord of all good, our gifts we bring You now; Use them Your holy purpose to fulfill. Tokens of love and pledges they shall be That our whole life is offered to Your will.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of All Good, Lord of all good, our gifts we bring You now; 
+    description: |
+      SDAH 635. Lord of All Good. 1. Lord of all good, our gifts we bring You now; Use them Your holy purpose to fulfill. Tokens of love and pledges they shall be That our whole life is offered to Your will.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of All Good, Lord of all good, our gifts we bring You now; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Father, whose bounty all creation shows;
 Christ, by whose willing sacrifice we live;
 Spirit, from whom all life in fullness flows:
 To You with grateful hearts ourselves we give.
+
 
 
 ```

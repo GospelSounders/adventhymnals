@@ -1,8 +1,10 @@
 ---
 title: 428. Sweet By and By - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 428. Sweet By and By. 1. There’s a land that is fairer than day, And by faith we can see it afar; For the Father waits over the way To prepare us a dwelling place there. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sweet By and By, There’s a land that is fairer than day, ,In the sweet in the sweet
+    description: |
+      SDAH 428. Sweet By and By. 1. There’s a land that is fairer than day, And by faith we can see it afar; For the Father waits over the way To prepare us a dwelling place there. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sweet By and By, There’s a land that is fairer than day, ,In the sweet in the sweet
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -57,6 +60,7 @@ We shall meet on that beautiful shore;
 In the sweet in the sweet
 By and by by and by
 We shall meet on that beautiful shore.
+
 
 
 

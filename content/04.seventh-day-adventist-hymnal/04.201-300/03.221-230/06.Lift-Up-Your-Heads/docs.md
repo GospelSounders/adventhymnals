@@ -1,8 +1,10 @@
 ---
 title: 226. Lift Up Your Heads - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 226. Lift Up Your Heads. 1. Lift up your heads, ye mighty gates! Behold the King of glory waits; The King of kings is drawing near, The Savior of the world is here.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lift Up Your Heads, Lift up your heads, ye mighty gates! 
+    description: |
+      SDAH 226. Lift Up Your Heads. 1. Lift up your heads, ye mighty gates! Behold the King of glory waits; The King of kings is drawing near, The Savior of the world is here.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lift Up Your Heads, Lift up your heads, ye mighty gates! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Redeemer, come; I open wide
 My heart to Thee; here, Lord, abide.
 Let me Thy inner presence feel,
 Thy grace and love in me reveal.
+
 
 
 ```

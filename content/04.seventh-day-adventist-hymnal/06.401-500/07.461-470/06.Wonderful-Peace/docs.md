@@ -1,8 +1,10 @@
 ---
 title: 466. Wonderful Peace - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 466. Wonderful Peace. 1. Far away in the depths of my spirit tonight, Rolls a melody sweeter than psalm; In celestial like strains it unceasingly falls O’er my soul like an infinite calm. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wonderful Peace, Far away in the depths of my spirit tonight, ,Peace! Peace! wonderful peace,
+    description: |
+      SDAH 466. Wonderful Peace. 1. Far away in the depths of my spirit tonight, Rolls a melody sweeter than psalm; In celestial like strains it unceasingly falls O’er my soul like an infinite calm. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wonderful Peace, Far away in the depths of my spirit tonight, ,Peace! Peace! wonderful peace,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Peace! Peace! wonderful peace,
 Coming down from the Father above;
 Sweep over my spirit forever, I pray,
 In fathomless billows of love.
+
 
 
 

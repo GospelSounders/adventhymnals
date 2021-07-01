@@ -1,8 +1,10 @@
 ---
 title: 665. All Things Come of Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 665. All Things Come of Thee. 1. All things come of thee, O Lord; and of thine own have we given thee. Amen.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All Things Come of Thee, All things come of thee, O Lord; 
+    description: |
+      SDAH 665. All Things Come of Thee. 1. All things come of thee, O Lord; and of thine own have we given thee. Amen.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All Things Come of Thee, All things come of thee, O Lord; 
     author: Brian Onang'o
 ---
 
@@ -13,10 +15,12 @@ metadata:
 ```txt
 
 
+
 1.
 All things come of thee, O Lord;
 and of thine own have we given thee.
 Amen.
+
 
 
 ```

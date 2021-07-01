@@ -1,8 +1,10 @@
 ---
 title: 195. Showers of Blessing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 195. Showers of Blessing. 1. “There shall be showers of blessing;” This is the promise of love; There shall be seasons refreshing, Sent from the Savior above. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Showers of Blessing, “There shall be showers of blessing;” ,Showers of blessing,
+    description: |
+      SDAH 195. Showers of Blessing. 1. “There shall be showers of blessing;” This is the promise of love; There shall be seasons refreshing, Sent from the Savior above. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Showers of Blessing, “There shall be showers of blessing;” ,Showers of blessing,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Showers of blessing,
 Showers of blessing we need;
 Mercy drops round us are falling,
 But for the showers we plead.
+
 
 
 

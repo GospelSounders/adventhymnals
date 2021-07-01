@@ -1,8 +1,10 @@
 ---
 title: 174. Star of Our Hope - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 174. Star of Our Hope. 1. Star of our hope! He’ll soon appear, The last loud trumpet speaks Him near; Hail Him, all saints, from pole to pole- How welcome to the faithful soul!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Star of Our Hope, Star of our hope! He’ll soon appear, 
+    description: |
+      SDAH 174. Star of Our Hope. 1. Star of our hope! He’ll soon appear, The last loud trumpet speaks Him near; Hail Him, all saints, from pole to pole- How welcome to the faithful soul!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Star of Our Hope, Star of our hope! He’ll soon appear, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Descending with His azure throne,
 He claims the kingdom for His own;
 The saints rejoice, they shout, they sing,
 And hail Him their triumphant King.
+
 
 
 ```

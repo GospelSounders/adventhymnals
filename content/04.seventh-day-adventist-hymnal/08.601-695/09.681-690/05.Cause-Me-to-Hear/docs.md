@@ -1,8 +1,10 @@
 ---
 title: 685. Cause Me to Hear - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 685. Cause Me to Hear. 1. Cause me to hear Thy loving kindness in the morning, for in Thee do I trust. Cause me to know they way where-in I shall walk for I lift up my soul to Thee. Amen
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Cause Me to Hear, Cause me to hear Thy loving kindness in the morning, 
+    description: |
+      SDAH 685. Cause Me to Hear. 1. Cause me to hear Thy loving kindness in the morning, for in Thee do I trust. Cause me to know they way where-in I shall walk for I lift up my soul to Thee. Amen
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Cause Me to Hear, Cause me to hear Thy loving kindness in the morning, 
     author: Brian Onang'o
 ---
 
@@ -13,12 +15,14 @@ metadata:
 ```txt
 
 
+
 1.
 Cause me to hear Thy loving kindness in the morning,
 for in Thee do I trust.
 Cause me to know they way where-in I shall walk
 for I lift up my soul to Thee.
 Amen
+
 
 
 ```

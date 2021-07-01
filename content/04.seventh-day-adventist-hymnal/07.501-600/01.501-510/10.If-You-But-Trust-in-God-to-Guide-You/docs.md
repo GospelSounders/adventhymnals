@@ -1,8 +1,10 @@
 ---
 title: 510. If You But Trust in God to Guide You - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 510. If You But Trust in God to Guide You. 1. If you but trust in God to guide you And place your confidence in Him, You’ll find Him always there beside you, To give you hope and strength within. For those who trust God’s changeless love Build on the rock that will not move.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, If You But Trust in God to Guide You, If you but trust in God to guide you 
+    description: |
+      SDAH 510. If You But Trust in God to Guide You. 1. If you but trust in God to guide you And place your confidence in Him, You’ll find Him always there beside you, To give you hope and strength within. For those who trust God’s changeless love Build on the rock that will not move.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, If You But Trust in God to Guide You, If you but trust in God to guide you 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ And trust His word; though undeserving,
 You’ll find His promise true to be.
 God never will forsake in need
 The soul that trusts in Him indeed.
+
 
 
 ```

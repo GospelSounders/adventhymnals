@@ -1,8 +1,10 @@
 ---
 title: 600. Hold Fast Till I Come - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 600. Hold Fast Till I Come. 1. Sweet promise is given to all who believe– “Behold I come quickly, Mine own to receive; Hold fast till I come; the danger is great; Sleep not as do others; be watchful, and wait.” 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hold Fast Till I Come, Sweet promise is given to all who believe– ,“Hold fast till I come,” sweet promise of heaven–
+    description: |
+      SDAH 600. Hold Fast Till I Come. 1. Sweet promise is given to all who believe– “Behold I come quickly, Mine own to receive; Hold fast till I come; the danger is great; Sleep not as do others; be watchful, and wait.” 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hold Fast Till I Come, Sweet promise is given to all who believe– ,“Hold fast till I come,” sweet promise of heaven–
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Refrain:
 “The kingdom restored, to you shall be given.”
 “Come, enter My joy, sit down on the throne;
 Bright crowns are in waiting; hold fast till I come.”
+
 
 
 

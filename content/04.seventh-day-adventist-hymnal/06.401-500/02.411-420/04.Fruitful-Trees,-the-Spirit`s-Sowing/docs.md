@@ -1,8 +1,10 @@
 ---
 title: 414. Fruitful Trees, the Spirit`s Sowing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 414. Fruitful Trees, the Spirit`s Sowing. 1. Fruitful trees, the Spirit’s sowing, May we ripen and increase, Fruit to life eternal growing, Rich in love and joy and peace.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Fruitful Trees, the Spirit`s Sowing, Fruitful trees, the Spirit’s sowing, 
+    description: |
+      SDAH 414. Fruitful Trees, the Spirit`s Sowing. 1. Fruitful trees, the Spirit’s sowing, May we ripen and increase, Fruit to life eternal growing, Rich in love and joy and peace.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Fruitful Trees, the Spirit`s Sowing, Fruitful trees, the Spirit’s sowing, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Fruitful trees, the Spirit’s tending,
 May we grow till harvests cease;
 Till we taste, in life unending,
 Heaven’s love and joy and peace.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 346. Lord, Who Dost Give to Thy Church - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 346. Lord, Who Dost Give to Thy Church. 1. Lord, who dost give to Thy church for its healing Gifts, and the grace to sustain and renew, Hear as we pray that today and each morrow We to Thy purpose may show ourselves true.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Who Dost Give to Thy Church, Lord, who dost give to Thy church for its healing 
+    description: |
+      SDAH 346. Lord, Who Dost Give to Thy Church. 1. Lord, who dost give to Thy church for its healing Gifts, and the grace to sustain and renew, Hear as we pray that today and each morrow We to Thy purpose may show ourselves true.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Who Dost Give to Thy Church, Lord, who dost give to Thy church for its healing 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Lord, ever give to us gifts in due measure,
 Each needing other, and all having worth;
 So to the Father, the Son, and the Spirit,
 Glory be shown by the church here on earth.
+
 
 
 ```

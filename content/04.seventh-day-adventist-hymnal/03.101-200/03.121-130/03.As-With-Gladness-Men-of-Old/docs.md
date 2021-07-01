@@ -1,8 +1,10 @@
 ---
 title: 123. As With Gladness Men of Old - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 123. As With Gladness Men of Old. 1. As with gladness men of old Did the guiding star behold, As with joy they hailed its light, Leading onward, beaming bright, So, most gracious Lord, may we Evermore be led to Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As With Gladness Men of Old, As with gladness men of old 
+    description: |
+      SDAH 123. As With Gladness Men of Old. 1. As with gladness men of old Did the guiding star behold, As with joy they hailed its light, Leading onward, beaming bright, So, most gracious Lord, may we Evermore be led to Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As With Gladness Men of Old, As with gladness men of old 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ And, when earthly things are past,
 Bring our ransomed souls at last
 Where they need no star to guide,
 Where no clouds Thy glory hide.
+
 
 
 ```

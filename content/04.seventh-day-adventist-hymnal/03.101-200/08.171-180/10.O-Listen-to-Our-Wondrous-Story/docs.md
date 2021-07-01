@@ -1,8 +1,10 @@
 ---
 title: 180. O Listen to Our Wondrous Story - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 180. O Listen to Our Wondrous Story. 1. O listen to our wondrous story, Counted once among the lost; Yet One came down from heaven’s glory, Saving us at awful cost! 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Listen to Our Wondrous Story, O listen to our wondrous story, ,Who saved us from eternal loss?
+    description: |
+      SDAH 180. O Listen to Our Wondrous Story. 1. O listen to our wondrous story, Counted once among the lost; Yet One came down from heaven’s glory, Saving us at awful cost! 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Listen to Our Wondrous Story, O listen to our wondrous story, ,Who saved us from eternal loss?
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -54,6 +57,7 @@ Who but God’s Son upon the cross?
 What did He do? He died for you!
 Where is He now? Believe it thou,
 In heaven interceding! In heaven interceding!
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 365. O Zion, Haste - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 365. O Zion, Haste. 1. O Zion, haste, thy mission high fulfilling, to tell to all the world that God is light, that he who made all nations is not willing one soul should perish, lost in shades of night. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Zion, Haste, O Zion, haste, thy mission high fulfilling, ,Publish glad tidings, tidings of peace;
+    description: |
+      SDAH 365. O Zion, Haste. 1. O Zion, haste, thy mission high fulfilling, to tell to all the world that God is light, that he who made all nations is not willing one soul should perish, lost in shades of night. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Zion, Haste, O Zion, haste, thy mission high fulfilling, ,Publish glad tidings, tidings of peace;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -56,6 +59,7 @@ Through thy neglect, unfit to see His face.
 Refrain:
 Publish glad tidings, tidings of peace;
 tidings of Jesus, redemption and release.
+
 
 
 

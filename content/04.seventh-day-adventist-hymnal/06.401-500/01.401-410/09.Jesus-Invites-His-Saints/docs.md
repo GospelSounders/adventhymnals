@@ -1,8 +1,10 @@
 ---
 title: 409. Jesus Invites His Saints - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 409. Jesus Invites His Saints. 1. Jesus invites His saints To meet around His board, And sup in memory of the death And sufferings of their Lord.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Invites His Saints, Jesus invites His saints 
+    description: |
+      SDAH 409. Jesus Invites His Saints. 1. Jesus invites His saints To meet around His board, And sup in memory of the death And sufferings of their Lord.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Invites His Saints, Jesus invites His saints 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Soon shall the night be gone,
 Our Lord will come again;
 The marriage supper of the Lamb
 Will usher in His reign.
+
 
 
 ```

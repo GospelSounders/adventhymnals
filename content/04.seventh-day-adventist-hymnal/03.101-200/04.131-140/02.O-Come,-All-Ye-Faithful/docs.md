@@ -1,8 +1,10 @@
 ---
 title: 132. O Come, All Ye Faithful - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 132. O Come, All Ye Faithful. 1. O come, all ye faithful, joyful and triumphant, O come ye, O come ye to Bethlehem! Come and behold Him, born the King of angels! O come, let us adore Him, O come, let us adore Him, O come, let us adore Him, Christ, the Lord!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Come, All Ye Faithful, O come, all ye faithful, joyful and triumphant, 
+    description: |
+      SDAH 132. O Come, All Ye Faithful. 1. O come, all ye faithful, joyful and triumphant, O come ye, O come ye to Bethlehem! Come and behold Him, born the King of angels! O come, let us adore Him, O come, let us adore Him, O come, let us adore Him, Christ, the Lord!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Come, All Ye Faithful, O come, all ye faithful, joyful and triumphant, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -33,6 +36,7 @@ Jesus, to Thee be all glory given;
 Word of the Father, now in flesh appearing!
 O come, let us adore Him, O come, let us adore Him,
 O come, let us adore Him, Christ, the Lord!
+
 
 
 ```

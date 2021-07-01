@@ -1,8 +1,10 @@
 ---
 title: 470. There`s Sunshine in My Soul Today - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 470. There`s Sunshine in My Soul Today. 1. There’s sunshine in my soul today, More glorious and bright Than glows in any earthly sky, For Jesus is my light. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`s Sunshine in My Soul Today, There’s sunshine in my soul today, ,O there’s sunshine, blessed sunshine,
+    description: |
+      SDAH 470. There`s Sunshine in My Soul Today. 1. There’s sunshine in my soul today, More glorious and bright Than glows in any earthly sky, For Jesus is my light. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`s Sunshine in My Soul Today, There’s sunshine in my soul today, ,O there’s sunshine, blessed sunshine,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ O there’s sunshine, blessed sunshine,
 When the peaceful, happy moments roll
 When Jesus shows His smiling face
 There is sunshine in the soul.
+
 
 
 

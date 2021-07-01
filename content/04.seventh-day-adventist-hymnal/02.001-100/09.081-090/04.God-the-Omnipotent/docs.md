@@ -1,8 +1,10 @@
 ---
 title: 84. God the Omnipotent - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 84. God the Omnipotent. 1. God the Omnipotent! King, who ordainest Great winds Thy clarions, the lightnings Thy sword; Show forth Thy pity on high where Thou reignest, Give to us peace, O most merciful Lord.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God the Omnipotent, God the Omnipotent! King, who ordainest 
+    description: |
+      SDAH 84. God the Omnipotent. 1. God the Omnipotent! King, who ordainest Great winds Thy clarions, the lightnings Thy sword; Show forth Thy pity on high where Thou reignest, Give to us peace, O most merciful Lord.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God the Omnipotent, God the Omnipotent! King, who ordainest 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ So shall we render Thee thankful devotion,
 For Thy deliverance from peril and sword,
 Singing in chorus from ocean to ocean,
 “Thine is the power and the glory, O Lord.”
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 18. O Morning Star, How Fair and Bright - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 18. O Morning Star, How Fair and Bright. 1. O Morning Star, how fair and bright! You shine with God’s own truth and light, Aglow with grace and mercy! Of Jacob’s race, King David’s son, Our Lord and Master, You have won Our hearts to serve You only! Lowly, holy! Great and Glorious, all victorious, Rich in blessing! Rule and might o’er all possessing!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Morning Star, How Fair and Bright, O Morning Star, how fair and bright! 
+    description: |
+      SDAH 18. O Morning Star, How Fair and Bright. 1. O Morning Star, how fair and bright! You shine with God’s own truth and light, Aglow with grace and mercy! Of Jacob’s race, King David’s son, Our Lord and Master, You have won Our hearts to serve You only! Lowly, holy! Great and Glorious, all victorious, Rich in blessing! Rule and might o’er all possessing!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Morning Star, How Fair and Bright, O Morning Star, how fair and bright! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -57,6 +60,7 @@ Sing out! Ring out!
 Jubilation! Exultation!
 Tell the story!
 Great is He, the King of glory!
+
 
 
 ```

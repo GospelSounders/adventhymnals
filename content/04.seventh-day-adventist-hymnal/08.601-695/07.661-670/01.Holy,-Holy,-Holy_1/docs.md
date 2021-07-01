@@ -1,8 +1,10 @@
 ---
 title: 661. Holy, Holy, Holy - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 661. Holy, Holy, Holy. 1. Holy, holy, holy, Holy is the Lord! Holy, holy, holy, Holy is our God! He who always liveth, Evermore the same Heav’n and earth He ruleth, Come and praise His name!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy, Holy, Holy, Holy, holy, holy, Holy is the Lord! 
+    description: |
+      SDAH 661. Holy, Holy, Holy. 1. Holy, holy, holy, Holy is the Lord! Holy, holy, holy, Holy is our God! He who always liveth, Evermore the same Heav’n and earth He ruleth, Come and praise His name!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy, Holy, Holy, Holy, holy, holy, Holy is the Lord! 
     author: Brian Onang'o
 ---
 

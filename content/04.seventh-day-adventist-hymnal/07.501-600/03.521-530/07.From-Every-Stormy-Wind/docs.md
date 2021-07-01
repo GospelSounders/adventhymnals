@@ -1,8 +1,10 @@
 ---
 title: 527. From Every Stormy Wind - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 527. From Every Stormy Wind. 1. From every stormy wind that blows, From every swelling tide of woes, There is a calm, a sure retreat: ‘Tis found beneath the mercy seat.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, From Every Stormy Wind, From every stormy wind that blows, From every swelling tide of woes, 
+    description: |
+      SDAH 527. From Every Stormy Wind. 1. From every stormy wind that blows, From every swelling tide of woes, There is a calm, a sure retreat: ‘Tis found beneath the mercy seat.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, From Every Stormy Wind, From every stormy wind that blows, From every swelling tide of woes, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ And heaven comes down our souls to greet, And glory crowns the mercy seat.
 5.
 Ah! whither should we flee for aid, When tempted, desolate dismayed?
 Or how the hosts of sin defeat, Had suffering saints no mercy seat?
+
 
 
 ```

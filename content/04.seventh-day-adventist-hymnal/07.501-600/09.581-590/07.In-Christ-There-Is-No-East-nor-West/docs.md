@@ -1,8 +1,10 @@
 ---
 title: 587. In Christ There Is No East nor West - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 587. In Christ There Is No East nor West. 1. In Christ there is no east nor west, In Him no south or north; But one great fellowship of love Throughout the whole wide earth.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In Christ There Is No East nor West, In Christ there is no east nor west, 
+    description: |
+      SDAH 587. In Christ There Is No East nor West. 1. In Christ there is no east nor west, In Him no south or north; But one great fellowship of love Throughout the whole wide earth.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In Christ There Is No East nor West, In Christ there is no east nor west, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ In Christ now meet both east and west,
 In Him meet south and north;
 All Christly souls are one in Him
 Throughout the whole wide earth.
+
 
 
 ```

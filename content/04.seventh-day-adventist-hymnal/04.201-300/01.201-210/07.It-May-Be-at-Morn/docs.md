@@ -1,8 +1,10 @@
 ---
 title: 207. It May Be at Morn - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 207. It May Be at Morn. 1. It may be at morn, when the day is awaking, When sunlight through darkness and shadow is breaking, That Jesus will come in the fullness of glory To receive from the world His own. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, It May Be at Morn, It may be at morn, when the day is awaking, ,O Lord Jesus, how long, how long
+    description: |
+      SDAH 207. It May Be at Morn. 1. It may be at morn, when the day is awaking, When sunlight through darkness and shadow is breaking, That Jesus will come in the fullness of glory To receive from the world His own. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, It May Be at Morn, It may be at morn, when the day is awaking, ,O Lord Jesus, how long, how long
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ O Lord Jesus, how long, how long
 Ere we shout the glad song?
 Christ returneth, Hallelujah!
 Hallelujah! Amen, Hallelujah! Amen.
+
 
 
 

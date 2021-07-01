@@ -1,8 +1,10 @@
 ---
 title: 278. Lord Jesus, Once You Spoke to Men - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 278. Lord Jesus, Once You Spoke to Men. 1. Lord Jesus, once You spoke to men Upon the mountain and the plain, O help us listen now as then And wonder at Your words again.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord Jesus, Once You Spoke to Men, Lord Jesus, once You spoke to men 
+    description: |
+      SDAH 278. Lord Jesus, Once You Spoke to Men. 1. Lord Jesus, once You spoke to men Upon the mountain and the plain, O help us listen now as then And wonder at Your words again.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord Jesus, Once You Spoke to Men, Lord Jesus, once You spoke to men 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ Your light, Your love,
 Your own command.
 O help us live what we believe,
 In daily word of heart and hand.
+
 
 
 ```

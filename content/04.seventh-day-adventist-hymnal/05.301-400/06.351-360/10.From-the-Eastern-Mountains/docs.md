@@ -1,8 +1,10 @@
 ---
 title: 360. From the Eastern Mountains - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 360. From the Eastern Mountains. 1. From the eastern mountains Pressing on they come, Wise men in their wisdom, To His humble home; Stirred by deep devotion, Hasting from afar, Ever journeying onward, Guided by a star.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, From the Eastern Mountains, From the eastern mountains Pressing on they come, 
+    description: |
+      SDAH 360. From the Eastern Mountains. 1. From the eastern mountains Pressing on they come, Wise men in their wisdom, To His humble home; Stirred by deep devotion, Hasting from afar, Ever journeying onward, Guided by a star.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, From the Eastern Mountains, From the eastern mountains Pressing on they come, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Until every nation, Whether bond or free,
 ‘Neath Thy starlit banner, Jesus follows thee.
 O’er the distant mountains To that heavenly home,
 Where no sin nor sorrow Evermore shall come.
+
 
 
 ```

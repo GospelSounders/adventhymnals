@@ -1,8 +1,10 @@
 ---
 title: 46. Abide With Me, `Tis Eventide - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 46. Abide With Me, `Tis Eventide. 1. Abide with me, ’tis eventide! The day is past and gone; The shadows of the evening fall; The night is coming on! Within my heart a welcome guest, Within my home abide; 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Abide With Me, `Tis Eventide, Abide with me, ’tis eventide! ,O Savior, stay this night with me;
+    description: |
+      SDAH 46. Abide With Me, `Tis Eventide. 1. Abide with me, ’tis eventide! The day is past and gone; The shadows of the evening fall; The night is coming on! Within my heart a welcome guest, Within my home abide; 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Abide With Me, `Tis Eventide, Abide with me, ’tis eventide! ,O Savior, stay this night with me;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -57,6 +60,7 @@ O Savior, stay this night with me;
 Behold, ’tis eventide!
 O Savior, stay this night with me;
 Behold, ’tis eventide.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 389. Light of Light, Enlighten Me - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 389. Light of Light, Enlighten Me. 1. Light of light, enlighten me, Now anew the day is dawning; Sun of grace, the shadows flee; Brighten Thou my Sabbath morning; With Thy joyous sunshine blest, Happy is my day of rest.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Light of Light, Enlighten Me, Light of light, enlighten me, 
+    description: |
+      SDAH 389. Light of Light, Enlighten Me. 1. Light of light, enlighten me, Now anew the day is dawning; Sun of grace, the shadows flee; Brighten Thou my Sabbath morning; With Thy joyous sunshine blest, Happy is my day of rest.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Light of Light, Enlighten Me, Light of light, enlighten me, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Come, Thou glorious Majesty,
 Deign to fill this temple lowly;
 Nought today my soul shall move,
 Simply resting in Thy love.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 368. Watchman, Blow the Gospel Trumpet - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 368. Watchman, Blow the Gospel Trumpet. 1. Watchman, blow the gospel trumpet, Every soul a warning give; Whosoever hears the message May repent, and, turn and live. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Watchman, Blow the Gospel Trumpet, Watchman, blow the gospel trumpet, ,Blow the trumpet, trusty watchman,
+    description: |
+      SDAH 368. Watchman, Blow the Gospel Trumpet. 1. Watchman, blow the gospel trumpet, Every soul a warning give; Whosoever hears the message May repent, and, turn and live. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Watchman, Blow the Gospel Trumpet, Watchman, blow the gospel trumpet, ,Blow the trumpet, trusty watchman,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Blow the trumpet, trusty watchman,
 Blow it loud o’er land and sea;
 God commissions, sound the message!
 Every captive may be free.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 152. Tell Me the Story of Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 152. Tell Me the Story of Jesus. 1. Tell me the story of Jesus, Write on my heart every word. Tell me the story most precious, Sweetest that ever was heard. Tell how the angels in chorus, Sang as they welcomed His birth. “Glory to God in the highest! Peace and good tidings to earth.” 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tell Me the Story of Jesus, Tell me the story of Jesus, ,Tell me the story of Jesus,
+    description: |
+      SDAH 152. Tell Me the Story of Jesus. 1. Tell me the story of Jesus, Write on my heart every word. Tell me the story most precious, Sweetest that ever was heard. Tell how the angels in chorus, Sang as they welcomed His birth. “Glory to God in the highest! Peace and good tidings to earth.” 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tell Me the Story of Jesus, Tell me the story of Jesus, ,Tell me the story of Jesus,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -63,6 +66,7 @@ Tell me the story of Jesus,
 Write on my heart every word.
 Tell me the story most precious,
 Sweetest that ever was heard.
+
 
 
 

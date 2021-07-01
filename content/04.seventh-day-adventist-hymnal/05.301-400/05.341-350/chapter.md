@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 341-350
 metadata:
-    description: Seventh Day Adventist Hymnal - 341-350
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 341-350
+    description: |
+      Seventh Day Adventist Hymnal - 341-350
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 341-350
     author: Brian Onang'o
 ---
 

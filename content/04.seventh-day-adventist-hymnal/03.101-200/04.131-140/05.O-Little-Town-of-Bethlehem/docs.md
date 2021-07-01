@@ -1,8 +1,10 @@
 ---
 title: 135. O Little Town of Bethlehem - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 135. O Little Town of Bethlehem. 1. O little town of Bethlehem, how still we see thee lie! Above thy deep and dreamless sleep the silent stars go by. Yet in thy dark streets shineth the everlasting Light; The hopes and fears of all the years are met in thee tonight.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Little Town of Bethlehem, O little town of Bethlehem, how still we see thee lie! 
+    description: |
+      SDAH 135. O Little Town of Bethlehem. 1. O little town of Bethlehem, how still we see thee lie! Above thy deep and dreamless sleep the silent stars go by. Yet in thy dark streets shineth the everlasting Light; The hopes and fears of all the years are met in thee tonight.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Little Town of Bethlehem, O little town of Bethlehem, how still we see thee lie! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ O holy Child of Bethlehem, descend to us, we pray;
 Cast out our sin, and enter in, be born in us today.
 We hear the Christmas angels the great glad tidings tell;
 O come to us, abide with us, our Lord Emmanuel!
+
 
 
 ```

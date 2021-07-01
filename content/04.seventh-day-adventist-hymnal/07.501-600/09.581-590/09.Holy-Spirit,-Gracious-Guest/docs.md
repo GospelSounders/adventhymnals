@@ -1,8 +1,10 @@
 ---
 title: 589. Holy Spirit, Gracious Guest - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 589. Holy Spirit, Gracious Guest. 1. Holy Spirit, gracious guest, Hear and grant our heart’s request For that gift supreme and best: Holy heav’nly love.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy Spirit, Gracious Guest, Holy Spirit, gracious guest, 
+    description: |
+      SDAH 589. Holy Spirit, Gracious Guest. 1. Holy Spirit, gracious guest, Hear and grant our heart’s request For that gift supreme and best: Holy heav’nly love.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy Spirit, Gracious Guest, Holy Spirit, gracious guest, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Faith and hope and love we see
 Joining hand in hand agree-
 But the greatest of the three,
 And the best is love.
+
 
 
 ```

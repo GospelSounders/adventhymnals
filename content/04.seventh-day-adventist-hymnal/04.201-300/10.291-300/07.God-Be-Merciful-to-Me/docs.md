@@ -1,8 +1,10 @@
 ---
 title: 297. God Be Merciful to Me - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 297. God Be Merciful to Me. 1. God, be merciful to me, On Thy grace I rest my plea; Plenteous in compassion Thou, Blot out my transgressions now; Wash me, make me pure within, Cleanse, O cleanse me from my sin, Wash me, make me pure within, Cleanse, O cleanse me from my sin.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Be Merciful to Me, God, be merciful to me, 
+    description: |
+      SDAH 297. God Be Merciful to Me. 1. God, be merciful to me, On Thy grace I rest my plea; Plenteous in compassion Thou, Blot out my transgressions now; Wash me, make me pure within, Cleanse, O cleanse me from my sin, Wash me, make me pure within, Cleanse, O cleanse me from my sin.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Be Merciful to Me, God, be merciful to me, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Touch my silent lips, O Lord,
 And my mouth shall praise accord,
 Touch my silent lips, O Lord,
 And my mouth shall praise accord.
+
 
 
 ```

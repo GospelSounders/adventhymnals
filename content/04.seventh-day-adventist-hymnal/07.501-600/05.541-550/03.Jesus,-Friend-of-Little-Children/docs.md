@@ -1,8 +1,10 @@
 ---
 title: 543. Jesus, Friend of Little Children - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 543. Jesus, Friend of Little Children. 1. Jesus, Friend of little children, Be a friend to me; Take my hand and ever keep me Close to Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Friend of Little Children, Jesus, Friend of little children, 
+    description: |
+      SDAH 543. Jesus, Friend of Little Children. 1. Jesus, Friend of little children, Be a friend to me; Take my hand and ever keep me Close to Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Friend of Little Children, Jesus, Friend of little children, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Never leave me, nor forsake me;
 Ever be my friend;
 For I need Thee from life’s dawning
 To its end.
+
 
 
 ```

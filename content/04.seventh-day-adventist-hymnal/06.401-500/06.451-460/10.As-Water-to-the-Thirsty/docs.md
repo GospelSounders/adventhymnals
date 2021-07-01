@@ -1,8 +1,10 @@
 ---
 title: 460. As Water to the Thirsty - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 460. As Water to the Thirsty. 1. As water to the thirsty, As beauty to the eyes, As strength that follows weakness, As truth instead of lies; As song-time and springtime and summertime to be, So is my Lord, my living Lord, So is my Lord to me.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As Water to the Thirsty, As water to the thirsty, 
+    description: |
+      SDAH 460. As Water to the Thirsty. 1. As water to the thirsty, As beauty to the eyes, As strength that follows weakness, As truth instead of lies; As song-time and springtime and summertime to be, So is my Lord, my living Lord, So is my Lord to me.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As Water to the Thirsty, As water to the thirsty, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -39,6 +42,7 @@ As sunrise to the day;
 As home to the trav’ler and all he longs to see,
 So is my Lord, my living Lord,
 So is my Lord to me.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 071-080
 metadata:
-    description: Seventh Day Adventist Hymnal - 071-080
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 071-080
+    description: |
+      Seventh Day Adventist Hymnal - 071-080
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 071-080
     author: Brian Onang'o
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: 534. Will Your Anchor Hold - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 534. Will Your Anchor Hold. 1. Will your anchor hold in the storms of life, When the clouds unfold their wings of strife? When the strong tides lift, and the cables strain, Will your anchor drift or firm remain? 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Will Your Anchor Hold, Will your anchor hold in the storms of life, ,We have an anchor that keeps the soul
+    description: |
+      SDAH 534. Will Your Anchor Hold. 1. Will your anchor hold in the storms of life, When the clouds unfold their wings of strife? When the strong tides lift, and the cables strain, Will your anchor drift or firm remain? 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Will Your Anchor Hold, Will your anchor hold in the storms of life, ,We have an anchor that keeps the soul
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -77,6 +80,7 @@ We have an anchor that keeps the soul
 Steadfast and sure while the billows roll,
 Fastened to the Rock which cannot move,
 Grounded firm and deep in the Savior’s love.
+
 
 
 

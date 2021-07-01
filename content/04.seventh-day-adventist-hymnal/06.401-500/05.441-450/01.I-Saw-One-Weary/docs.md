@@ -1,8 +1,10 @@
 ---
 title: 441. I Saw One Weary - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 441. I Saw One Weary. 1. I saw one weary, sad, and torn, With eager steps press on the way, Who long the hallowed cross had born, Still looking for the promised day; While many a line of grief and care, Upon his brow was furrowed there; I asked what buoyed his spirits up, “O this” said he-“the blessed hope.”
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Saw One Weary, I saw one weary, sad, and torn, 
+    description: |
+      SDAH 441. I Saw One Weary. 1. I saw one weary, sad, and torn, With eager steps press on the way, Who long the hallowed cross had born, Still looking for the promised day; While many a line of grief and care, Upon his brow was furrowed there; I asked what buoyed his spirits up, “O this” said he-“the blessed hope.”
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Saw One Weary, I saw one weary, sad, and torn, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Till our returning King shall come
 To tkae His exile captives home,
 O! what can bouy the spirits up?
 ‘Tis this alone– the blessed hope.
+
 
 
 ```

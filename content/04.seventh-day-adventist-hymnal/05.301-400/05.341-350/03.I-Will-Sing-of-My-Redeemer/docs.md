@@ -1,8 +1,10 @@
 ---
 title: 343. I Will Sing of My Redeemer - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 343. I Will Sing of My Redeemer. 1. I will sing of my Redeemer, And His wondrous love to me; On the cruel cross He suffered, From the curse to set me free. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Will Sing of My Redeemer, I will sing of my Redeemer, ,Sing, oh sing, of my Redeemer,
+    description: |
+      SDAH 343. I Will Sing of My Redeemer. 1. I will sing of my Redeemer, And His wondrous love to me; On the cruel cross He suffered, From the curse to set me free. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Will Sing of My Redeemer, I will sing of my Redeemer, ,Sing, oh sing, of my Redeemer,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Sing, oh sing, of my Redeemer,
 With His blood, He purchased me.
 On the cross, He sealed my pardon,
 Paid the debt, and made me free.
+
 
 
 

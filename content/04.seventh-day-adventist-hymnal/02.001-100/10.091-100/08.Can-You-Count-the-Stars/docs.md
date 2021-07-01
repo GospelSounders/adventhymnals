@@ -1,8 +1,10 @@
 ---
 title: 98. Can You Count the Stars? - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 98. Can You Count the Stars?. 1. Can you count the stars that brightly Twinkle in the midnight sky? Can you count the clouds, so lightly O’er the meadows floating by? God, the Lord, doth mark their number With His eyes that never slumber; He hath made every one, He hath made them every one.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Can You Count the Stars?, Can you count the stars that brightly 
+    description: |
+      SDAH 98. Can You Count the Stars?. 1. Can you count the stars that brightly Twinkle in the midnight sky? Can you count the clouds, so lightly O’er the meadows floating by? God, the Lord, doth mark their number With His eyes that never slumber; He hath made every one, He hath made them every one.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Can You Count the Stars?, Can you count the stars that brightly 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ God hears all the happy voices,
 In their merry songs rejoices;
 And He loves them, every one,
 And He loves them, every one.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 286. Wonderful Words of Life - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 286. Wonderful Words of Life. 1. Sing them over again to me, wonderful words of life, Let me more of their beauty see, wonderful words of life; Words of life and beauty teach me faith and duty. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wonderful Words of Life, Sing them over again to me, ,Beautiful words, wonderful words,
+    description: |
+      SDAH 286. Wonderful Words of Life. 1. Sing them over again to me, wonderful words of life, Let me more of their beauty see, wonderful words of life; Words of life and beauty teach me faith and duty. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wonderful Words of Life, Sing them over again to me, ,Beautiful words, wonderful words,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -57,6 +60,7 @@ Beautiful words, wonderful words,
 wonderful words of life,
 Beautiful words, wonderful words,
 wonderful words of life.
+
 
 
 

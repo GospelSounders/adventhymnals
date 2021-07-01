@@ -1,8 +1,10 @@
 ---
 title: 23. Now the Joyful Bells A-Ringing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 23. Now the Joyful Bells A-Ringing. 1. Now the joyful bells a-ring, All ye mountains of the Lord! Lift our hearts like birds a-winging, All ye mountains, praise the Lord! Now our festal season bringing Kinsmen all to bide and board, Sets our cheery voices singing; All ye mountains, praise the Lord!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now the Joyful Bells A-Ringing, Now the joyful bells a-ring, 
+    description: |
+      SDAH 23. Now the Joyful Bells A-Ringing. 1. Now the joyful bells a-ring, All ye mountains of the Lord! Lift our hearts like birds a-winging, All ye mountains, praise the Lord! Now our festal season bringing Kinsmen all to bide and board, Sets our cheery voices singing; All ye mountains, praise the Lord!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now the Joyful Bells A-Ringing, Now the joyful bells a-ring, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Now we all God’s goodness sharing
 Break the bread and sheath the Sword:
 Bright our hearths the signal flaring,
 All ye mountains, praise the Lord!
+
 
 
 ```

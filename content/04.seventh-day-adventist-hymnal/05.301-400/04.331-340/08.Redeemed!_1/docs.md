@@ -1,8 +1,10 @@
 ---
 title: 338. Redeemed! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 338. Redeemed!. 1. Redeemed, how I love to proclaim it! Redeemed by the blood of the Lamb; Redeemed thro’ His infinite mercy, His child, and forever, I am. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Redeemed!, Redeemed, how I love to proclaim it! ,Redeemed, redeemed,
+    description: |
+      SDAH 338. Redeemed!. 1. Redeemed, how I love to proclaim it! Redeemed by the blood of the Lamb; Redeemed thro’ His infinite mercy, His child, and forever, I am. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Redeemed!, Redeemed, how I love to proclaim it! ,Redeemed, redeemed,
     author: Brian Onang'o
 ---
 

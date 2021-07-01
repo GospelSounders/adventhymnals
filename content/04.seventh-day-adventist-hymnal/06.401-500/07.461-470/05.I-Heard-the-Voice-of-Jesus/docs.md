@@ -1,8 +1,10 @@
 ---
 title: 465. I Heard the Voice of Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 465. I Heard the Voice of Jesus. 1. I heard the voice of Jesus say, “Come unto Me and rest; Lay down, thou weary one, lay down Thy head upon My breast.” I came to Jesus as I was, Weary and worn and sad; I found in Him a resting place, And He has made me glad.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Heard the Voice of Jesus, I heard the voice of Jesus say, 
+    description: |
+      SDAH 465. I Heard the Voice of Jesus. 1. I heard the voice of Jesus say, “Come unto Me and rest; Lay down, thou weary one, lay down Thy head upon My breast.” I came to Jesus as I was, Weary and worn and sad; I found in Him a resting place, And He has made me glad.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Heard the Voice of Jesus, I heard the voice of Jesus say, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ I looked to Jesus, and I found
 In Him my star, my sun;
 And in that light of life I’ll walk,
 Till trav’ling days are done.
+
 
 
 ```

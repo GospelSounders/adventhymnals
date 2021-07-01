@@ -1,8 +1,10 @@
 ---
 title: 133. Now Is Born the Divine Christ Child - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 133. Now Is Born the Divine Christ Child. 1. He was born in a stable bare, On bed of straw how He sleeps so soundly, He was born in a stable bare, Let us worship and to Him bow.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now Is Born the Divine Christ Child, He was born in a stable bare, 
+    description: |
+      SDAH 133. Now Is Born the Divine Christ Child. 1. He was born in a stable bare, On bed of straw how He sleeps so soundly, He was born in a stable bare, Let us worship and to Him bow.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now Is Born the Divine Christ Child, He was born in a stable bare, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -24,6 +27,7 @@ Ages long since are past and gone,
 When the wise men foretold His coming,
 Ages long since are past and gone,
 When the wise men foretold His birth.
+
 
 
 ```

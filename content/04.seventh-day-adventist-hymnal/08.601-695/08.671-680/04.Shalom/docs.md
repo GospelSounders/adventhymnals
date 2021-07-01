@@ -1,8 +1,10 @@
 ---
 title: 674. Shalom - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 674. Shalom. 1. Shalom, good friends, shalom, good friends, shalom, shalom. Till we meet again, till we meet again, shalom, shalom.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Shalom, Shalom, good friends, 
+    description: |
+      SDAH 674. Shalom. 1. Shalom, good friends, shalom, good friends, shalom, shalom. Till we meet again, till we meet again, shalom, shalom.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Shalom, Shalom, good friends, 
     author: Brian Onang'o
 ---
 
@@ -13,6 +15,7 @@ metadata:
 ```txt
 
 
+
 1.
 Shalom, good friends,
 shalom, good friends,
@@ -20,6 +23,7 @@ shalom, shalom.
 Till we meet again,
 till we meet again,
 shalom, shalom.
+
 
 
 ```

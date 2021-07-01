@@ -1,8 +1,10 @@
 ---
 title: 670. We Give Thee But Thine Own - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 670. We Give Thee But Thine Own. 1. We give Thee but Thine own, What-e’er the gift may be; All that we have is Thine alone, A trust, O Lord, from Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Give Thee But Thine Own, We give Thee but Thine own, 
+    description: |
+      SDAH 670. We Give Thee But Thine Own. 1. We give Thee but Thine own, What-e’er the gift may be; All that we have is Thine alone, A trust, O Lord, from Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Give Thee But Thine Own, We give Thee but Thine own, 
     author: Brian Onang'o
 ---
 
@@ -13,11 +15,13 @@ metadata:
 ```txt
 
 
+
 1.
 We give Thee but Thine own,
 What-e’er the gift may be;
 All that we have is Thine alone,
 A trust, O Lord, from Thee.
+
 
 
 ```

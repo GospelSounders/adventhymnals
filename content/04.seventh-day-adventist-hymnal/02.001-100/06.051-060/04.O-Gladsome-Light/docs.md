@@ -1,8 +1,10 @@
 ---
 title: 54. O Gladsome Light - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 54. O Gladsome Light. 1. O gladsome light, Of God the Father’s face, The eternal splendour wearing; Celestial, holy, blest, Our Saviour, Jesus Christ, Joyful in Thine appearing.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Gladsome Light, O gladsome light, 
+    description: |
+      SDAH 54. O Gladsome Light. 1. O gladsome light, Of God the Father’s face, The eternal splendour wearing; Celestial, holy, blest, Our Saviour, Jesus Christ, Joyful in Thine appearing.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Gladsome Light, O gladsome light, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ O Son of God, life giver;
 Thee, therefore, O most high,
 The world doth glorify
 And shall exalt forever.
+
 
 
 ```

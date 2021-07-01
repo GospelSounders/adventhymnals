@@ -1,8 +1,10 @@
 ---
 title: 26. Praise the Lord! You Heavens Adore Him - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 26. Praise the Lord! You Heavens Adore Him. 1. Praise the Lord! you heavens, adore Him; Praise Him, angels in the height; Sun and moon, rejoice before Him, Praise Him, all you stars of light. Praise the Lord, for He has spoken; World His mighty voice obeyed; Laws which never shall be broken For their guidance He has made.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise the Lord! You Heavens Adore Him, Praise the Lord! you heavens, adore Him; 
+    description: |
+      SDAH 26. Praise the Lord! You Heavens Adore Him. 1. Praise the Lord! you heavens, adore Him; Praise Him, angels in the height; Sun and moon, rejoice before Him, Praise Him, all you stars of light. Praise the Lord, for He has spoken; World His mighty voice obeyed; Laws which never shall be broken For their guidance He has made.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise the Lord! You Heavens Adore Him, Praise the Lord! you heavens, adore Him; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ All the saints in heaven adore You,
 We would join their glad acclaim;
 As Your angels serve before You,
 So on earth we praise Your name.
+
 
 
 ```

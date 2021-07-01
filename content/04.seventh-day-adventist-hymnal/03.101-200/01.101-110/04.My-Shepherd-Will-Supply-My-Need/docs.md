@@ -1,8 +1,10 @@
 ---
 title: 104. My Shepherd Will Supply My Need - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 104. My Shepherd Will Supply My Need. 1. My Shepherd will supply my need, Jehovah is His name. In pastures fresh He makes me feed Beside the living stream. He brings my wand’ring spirit back When I forsake His ways, And leads, me for His mercy’s sake, In paths of truth and grace.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Shepherd Will Supply My Need, My Shepherd will supply my need, 
+    description: |
+      SDAH 104. My Shepherd Will Supply My Need. 1. My Shepherd will supply my need, Jehovah is His name. In pastures fresh He makes me feed Beside the living stream. He brings my wand’ring spirit back When I forsake His ways, And leads, me for His mercy’s sake, In paths of truth and grace.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Shepherd Will Supply My Need, My Shepherd will supply my need, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ There would I find a settled rest
 While others go and come;
 No more a stranger or a guest,
 But like a child at home.
+
 
 
 ```

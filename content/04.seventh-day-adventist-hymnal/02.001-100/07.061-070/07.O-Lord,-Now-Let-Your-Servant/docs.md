@@ -1,8 +1,10 @@
 ---
 title: 67. O Lord, Now Let Your Servant - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 67. O Lord, Now Let Your Servant. 1. O Lord, now let Your servant Depart in heav’nly peace, For I have seen the glory Of Your redeeming grace: A light to lead the Gentiles Unto Your holy hill, The glory of Your people, Your chosen Israel.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Lord, Now Let Your Servant, O Lord, now let Your servant 
+    description: |
+      SDAH 67. O Lord, Now Let Your Servant. 1. O Lord, now let Your servant Depart in heav’nly peace, For I have seen the glory Of Your redeeming grace: A light to lead the Gentiles Unto Your holy hill, The glory of Your people, Your chosen Israel.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Lord, Now Let Your Servant, O Lord, now let Your servant 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ Till raptured saints shall gather
 Upon that shining shore,
 Where Christ, the blessed Day star,
 Shall light them evermore.
+
 
 
 ```

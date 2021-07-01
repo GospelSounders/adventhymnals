@@ -1,8 +1,10 @@
 ---
 title: 532. Day by Day - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 532. Day by Day. 1. Day by day, and with each passing moment, Strength I find, to meet my trials here; Trusting in my Father’s wise bestowment, I’ve no cause for worry or for fear. He Whose heart is kind beyond all measure Gives unto each day what He deems best— Lovingly, its part of pain and pleasure, Mingling toil with peace and rest.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Day by Day, Day by day, and with each passing moment, 
+    description: |
+      SDAH 532. Day by Day. 1. Day by day, and with each passing moment, Strength I find, to meet my trials here; Trusting in my Father’s wise bestowment, I’ve no cause for worry or for fear. He Whose heart is kind beyond all measure Gives unto each day what He deems best— Lovingly, its part of pain and pleasure, Mingling toil with peace and rest.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Day by Day, Day by day, and with each passing moment, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Help me, Lord, when toil and trouble meeting,
 Ever to take, as from a father’s hand,
 One by one, the days, the moments fleeting,
 Till I reach the promised land.
+
 
 
 ```

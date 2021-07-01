@@ -1,8 +1,10 @@
 ---
 title: 636. God, Whose Giving Knows No Ending - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 636. God, Whose Giving Knows No Ending. 1. God, whose giving knows no ending, From Your rich and endless store: Nature’s wonder, Jesus’ wisdom, Costly cross, grave’s shattered door. Gifted by You, we turn to You, Off’ring up ourselves in praise: Thankful song shall rise forever, Gracious donor of our days.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God, Whose Giving Knows No Ending, God, whose giving knows no ending, 
+    description: |
+      SDAH 636. God, Whose Giving Knows No Ending. 1. God, whose giving knows no ending, From Your rich and endless store: Nature’s wonder, Jesus’ wisdom, Costly cross, grave’s shattered door. Gifted by You, we turn to You, Off’ring up ourselves in praise: Thankful song shall rise forever, Gracious donor of our days.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God, Whose Giving Knows No Ending, God, whose giving knows no ending, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Open wide our hands in sharing,
 As we heed Christ’s ageless call.
 Healing, teaching, and reclaiming,
 Serving You by loving all.
+
 
 
 ```

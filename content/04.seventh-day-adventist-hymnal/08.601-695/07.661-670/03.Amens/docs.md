@@ -1,8 +1,10 @@
 ---
 title: 663. Amens - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 663. Amens. 1. A-men, A—men.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Amens, A-men, A—men. 
+    description: |
+      SDAH 663. Amens. 1. A-men, A—men.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Amens, A-men, A—men. 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ A—–men.
 
 6.
 A-men, A-men, A—men.
+
 
 
 ```

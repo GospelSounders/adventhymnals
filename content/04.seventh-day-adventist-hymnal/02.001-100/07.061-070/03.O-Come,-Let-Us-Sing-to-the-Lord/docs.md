@@ -1,8 +1,10 @@
 ---
 title: 63. O Come, Let Us Sing to the Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 63. O Come, Let Us Sing to the Lord. 1. O come, let us sing to the Lord, Come let us every one A joyful noise make to the Rock Of our salvation.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Come, Let Us Sing to the Lord, O come, let us sing to the Lord, 
+    description: |
+      SDAH 63. O Come, Let Us Sing to the Lord. 1. O come, let us sing to the Lord, Come let us every one A joyful noise make to the Rock Of our salvation.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Come, Let Us Sing to the Lord, O come, let us sing to the Lord, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ O come, bow down and worship Him,
 And kneeling, humbly pray,
 Come to our Maker and our God,
 And hear His voice today.
+
 
 
 ```

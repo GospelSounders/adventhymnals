@@ -1,8 +1,10 @@
 ---
 title: 88. I Sing the Migthy Power of God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 88. I Sing the Migthy Power of God. 1. I sing the almighty power of God, that made the mountains rise, that spread the flowing seas abroad, and built the lofty skies. I sing the wisdom that ordained the sun to rule the day; the moon shines full at God’s command, and all the stars obey.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Sing the Migthy Power of God, I sing the almighty power of God, 
+    description: |
+      SDAH 88. I Sing the Migthy Power of God. 1. I sing the almighty power of God, that made the mountains rise, that spread the flowing seas abroad, and built the lofty skies. I sing the wisdom that ordained the sun to rule the day; the moon shines full at God’s command, and all the stars obey.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Sing the Migthy Power of God, I sing the almighty power of God, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ while all that borrows life from thee
 is ever in thy care;
 and everywhere that we can be,
 thou, God, art present there.
+
 
 
 ```

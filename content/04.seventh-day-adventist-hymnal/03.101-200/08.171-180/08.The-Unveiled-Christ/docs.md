@@ -1,8 +1,10 @@
 ---
 title: 178. The Unveiled Christ - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 178. The Unveiled Christ. 1. Once our blessed Christ of beauty Was veiled off from human views; But through suffering, death, and sorrow He has rent the veil in two. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Unveiled Christ, Once our blessed Christ of beauty ,O behold the Man of Sorrows!
+    description: |
+      SDAH 178. The Unveiled Christ. 1. Once our blessed Christ of beauty Was veiled off from human views; But through suffering, death, and sorrow He has rent the veil in two. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Unveiled Christ, Once our blessed Christ of beauty ,O behold the Man of Sorrows!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -57,6 +60,7 @@ Lo! He is the mighty Conqueror
 Since her rent the veil in two;
 Lo! He is the mighty Conqueror
 Since her rent the veil in two.
+
 
 
 

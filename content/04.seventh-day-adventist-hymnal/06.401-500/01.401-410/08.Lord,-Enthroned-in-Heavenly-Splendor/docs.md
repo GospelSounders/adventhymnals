@@ -1,8 +1,10 @@
 ---
 title: 408. Lord, Enthroned in Heavenly Splendor - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 408. Lord, Enthroned in Heavenly Splendor. 1. Lord, enthroned in heav’nly splendor, First begotten from the dead, You alone, our strong defender, Lifting up Your people’s head. Alleluia, Jesus, true and living Bread!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Enthroned in Heavenly Splendor, Lord, enthroned in heav’nly splendor, 
+    description: |
+      SDAH 408. Lord, Enthroned in Heavenly Splendor. 1. Lord, enthroned in heav’nly splendor, First begotten from the dead, You alone, our strong defender, Lifting up Your people’s head. Alleluia, Jesus, true and living Bread!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Enthroned in Heavenly Splendor, Lord, enthroned in heav’nly splendor, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ Stricken rock with streaming side,
 Heav’n and earth with loud hosanna
 Worship You the Lamb who died.
 Alleluia, Ris’n, ascended, glorified!
+
 
 
 ```

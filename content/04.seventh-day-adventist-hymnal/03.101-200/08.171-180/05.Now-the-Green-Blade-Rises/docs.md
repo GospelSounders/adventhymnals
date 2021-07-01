@@ -1,8 +1,10 @@
 ---
 title: 175. Now the Green Blade Rises - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 175. Now the Green Blade Rises. 1. Now the green blade rises from the buried grain, What that in dark earth many days has lain; Love lives again, that with the dead has been; Love is come again like wheat arising green.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now the Green Blade Rises, Now the green blade rises from the buried grain, 
+    description: |
+      SDAH 175. Now the Green Blade Rises. 1. Now the green blade rises from the buried grain, What that in dark earth many days has lain; Love lives again, that with the dead has been; Love is come again like wheat arising green.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now the Green Blade Rises, Now the green blade rises from the buried grain, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ When our hearts are wintry, grieving, or in pain,
 Your touch can call us back to life again,
 Field of our hearts that dead and bare have been;
 Love is come again like wheat arising green.
+
 
 
 ```

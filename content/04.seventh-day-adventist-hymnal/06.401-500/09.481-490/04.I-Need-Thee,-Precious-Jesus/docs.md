@@ -1,8 +1,10 @@
 ---
 title: 484. I Need Thee, Precious Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 484. I Need Thee, Precious Jesus. 1. I need Thee precious Jesus, for I am very poor; A stranger and a pilgrim, I have no earthly store. I need the love of Jesus to cheer me on my way, To guide my doubting foot steps, to be my strength and stay.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Need Thee, Precious Jesus, I need Thee precious Jesus, for I am very poor; 
+    description: |
+      SDAH 484. I Need Thee, Precious Jesus. 1. I need Thee precious Jesus, for I am very poor; A stranger and a pilgrim, I have no earthly store. I need the love of Jesus to cheer me on my way, To guide my doubting foot steps, to be my strength and stay.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Need Thee, Precious Jesus, I need Thee precious Jesus, for I am very poor; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ I need Thee precious Jesus, I hope to see Thee soon,
 Encircled with the rainbow, and seated on Thy throne.
 There with Thy blood-bought children, my joy shall ever be
 To sing Thy ceaseless praises, to gaze, my Lord, on Thee.
+
 
 
 ```

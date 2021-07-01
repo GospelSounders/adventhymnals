@@ -1,8 +1,10 @@
 ---
 title: 650. Our Father, by Whose Name - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 650. Our Father, by Whose Name. 1. Our Father, by whose name, All fatherhood is known, Who dost in love proclaimEach family Thine own, Bless Thou all parents, guarding well, With constant love as sentinel, The homes in which Thy people dwell.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Our Father, by Whose Name, Our Father, 
+    description: |
+      SDAH 650. Our Father, by Whose Name. 1. Our Father, by whose name, All fatherhood is known, Who dost in love proclaimEach family Thine own, Bless Thou all parents, guarding well, With constant love as sentinel, The homes in which Thy people dwell.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Our Father, by Whose Name, Our Father, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -39,6 +42,7 @@ Who teaches us to findThe love from self set free,
 In all our hearts such love increase,
 That every home, by this release,
 May be dwelling place of peace.
+
 
 
 ```

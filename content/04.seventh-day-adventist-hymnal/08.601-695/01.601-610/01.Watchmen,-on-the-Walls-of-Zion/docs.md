@@ -1,8 +1,10 @@
 ---
 title: 601. Watchmen, on the Walls of Zion - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 601. Watchmen, on the Walls of Zion. 1. Watchmen, on the walls of Zion, What O tell us, of the night? Is the daystar now arising? Will the morn soon greet our sight? O’er your vision Shine there now some rays of light? O’er your vision Shine there now some rays of light?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Watchmen, on the Walls of Zion, Watchmen, on the walls of Zion, 
+    description: |
+      SDAH 601. Watchmen, on the Walls of Zion. 1. Watchmen, on the walls of Zion, What O tell us, of the night? Is the daystar now arising? Will the morn soon greet our sight? O’er your vision Shine there now some rays of light? O’er your vision Shine there now some rays of light?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Watchmen, on the Walls of Zion, Watchmen, on the walls of Zion, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -46,6 +49,7 @@ Onward, onward we are hasting,
 Soon the haven will appear;
 Let your voices Sound aloud your holy cheer;
 Let your voices Sound aloud your holy cheer.
+
 
 
 ```

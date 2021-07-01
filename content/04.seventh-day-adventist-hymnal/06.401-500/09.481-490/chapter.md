@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 481-490
 metadata:
-    description: Seventh Day Adventist Hymnal - 481-490
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 481-490
+    description: |
+      Seventh Day Adventist Hymnal - 481-490
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 481-490
     author: Brian Onang'o
 ---
 

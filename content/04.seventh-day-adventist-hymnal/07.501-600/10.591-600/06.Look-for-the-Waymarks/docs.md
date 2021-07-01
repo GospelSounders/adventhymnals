@@ -1,8 +1,10 @@
 ---
 title: 596. Look for the Waymarks - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 596. Look for the Waymarks. 1. Look for the way-marks as you journey on, Look for the way-marks passing one by one; Down through the ages, past the kingdoms four— Where are we standing? Look the way-marks o’er. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Look for the Waymarks, Look for the way-marks as you journey on, ,Look for the way-marks, the great prophetic way-marks,
+    description: |
+      SDAH 596. Look for the Waymarks. 1. Look for the way-marks as you journey on, Look for the way-marks passing one by one; Down through the ages, past the kingdoms four— Where are we standing? Look the way-marks o’er. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Look for the Waymarks, Look for the way-marks as you journey on, ,Look for the way-marks, the great prophetic way-marks,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Look for the way-marks, the great prophetic way-marks,
 Down through the ages, past the kingdoms four.
 Look for the waymarks, the great prophetic way-marks;
 The journey’s almost o’er.
+
 
 
 

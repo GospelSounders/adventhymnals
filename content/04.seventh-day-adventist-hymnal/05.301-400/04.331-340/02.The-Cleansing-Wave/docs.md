@@ -1,8 +1,10 @@
 ---
 title: 332. The Cleansing Wave - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 332. The Cleansing Wave. 1. Oh now I see the crimson wave, The fountain deep and wide; Jesus, my Lord, mighty to save, Points to His wounded side. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Cleansing Wave, Oh now I see the crimson wave, ,The cleansing stream I see, I see,
+    description: |
+      SDAH 332. The Cleansing Wave. 1. Oh now I see the crimson wave, The fountain deep and wide; Jesus, my Lord, mighty to save, Points to His wounded side. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Cleansing Wave, Oh now I see the crimson wave, ,The cleansing stream I see, I see,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ The cleansing stream I see, I see,
 I plunge, and O, it cleanseth me!
 O praise the Lord! it cleanseth me,
 It cleanseth me, yes, cleanseth me.
+
 
 
 

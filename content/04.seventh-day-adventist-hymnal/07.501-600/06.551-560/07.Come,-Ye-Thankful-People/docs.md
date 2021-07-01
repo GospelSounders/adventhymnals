@@ -1,8 +1,10 @@
 ---
 title: 557. Come, Ye Thankful People - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 557. Come, Ye Thankful People. 1. Come, ye thankful people, come, Raise the song of harvest home; All is safely gathered in, Ere the winter storms begin. God our Maker doth provide For our wants to be supplied; Come to God’s own temple, come; Raise the song of harvest home!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Ye Thankful People, Come, ye thankful people, come, 
+    description: |
+      SDAH 557. Come, Ye Thankful People. 1. Come, ye thankful people, come, Raise the song of harvest home; All is safely gathered in, Ere the winter storms begin. God our Maker doth provide For our wants to be supplied; Come to God’s own temple, come; Raise the song of harvest home!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Ye Thankful People, Come, ye thankful people, come, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ There, forever purified,
 In God’s garner to abide;
 Come, ten thousand angels, come,
 Raise the glorious harvest home!
+
 
 
 ```

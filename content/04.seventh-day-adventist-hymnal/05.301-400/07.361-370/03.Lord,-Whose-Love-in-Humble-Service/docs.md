@@ -1,8 +1,10 @@
 ---
 title: 363. Lord, Whose Love in Humble Service - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 363. Lord, Whose Love in Humble Service. 1. Lord, whose love in humble service Bore the weight of human need, Who upon the cross, forsaken, Worked Your mercy’s perfect deed: We, Your servants, bring the worship Not of voice alone, but heart; Consecrating to Your purpose Every gift which You impart.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Whose Love in Humble Service, Lord, whose love in humble service 
+    description: |
+      SDAH 363. Lord, Whose Love in Humble Service. 1. Lord, whose love in humble service Bore the weight of human need, Who upon the cross, forsaken, Worked Your mercy’s perfect deed: We, Your servants, bring the worship Not of voice alone, but heart; Consecrating to Your purpose Every gift which You impart.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Whose Love in Humble Service, Lord, whose love in humble service 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Making known the needs and burdens
 Your compassion bids us bear,
 Stirring us to ardent service,
 Your abundant life to share.
+
 
 
 ```

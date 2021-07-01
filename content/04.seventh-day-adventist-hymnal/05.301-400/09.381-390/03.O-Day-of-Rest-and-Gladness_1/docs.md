@@ -1,8 +1,10 @@
 ---
 title: 383. O Day of Rest and Gladness - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 383. O Day of Rest and Gladness. 1. O day of rest and gladness, O day of joy and light, O balm of care and sadness, Most beautiful, most bright, On thee the high and lowly Before th’ eternal throne Sing, “Holy, holy, holy,” To the great Three in One.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Day of Rest and Gladness, O day of rest and gladness, 
+    description: |
+      SDAH 383. O Day of Rest and Gladness. 1. O day of rest and gladness, O day of joy and light, O balm of care and sadness, Most beautiful, most bright, On thee the high and lowly Before th’ eternal throne Sing, “Holy, holy, holy,” To the great Three in One.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Day of Rest and Gladness, O day of rest and gladness, 
     author: Brian Onang'o
 ---
 

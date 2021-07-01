@@ -1,8 +1,10 @@
 ---
 title: 578. So Send I You - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 578. So Send I You. 1. So sent I you- by grace made strong to triumph O’er hosts of hell, o’er darkness, death, and sin, My name to bear, and in that name to conquer- So send I you, My victory to win.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, So Send I You, So sent I you- by grace made strong to triumph 
+    description: |
+      SDAH 578. So Send I You. 1. So sent I you- by grace made strong to triumph O’er hosts of hell, o’er darkness, death, and sin, My name to bear, and in that name to conquer- So send I you, My victory to win.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, So Send I You, So sent I you- by grace made strong to triumph 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -37,6 +40,7 @@ And then one day with joy to lay it down
 To hear My voice, “Well done, My faithful servant –
 Come, share My throne, My Kingdom, and My crown!”
 As the Father hath sent Me, so send I You.”
+
 
 
 ```

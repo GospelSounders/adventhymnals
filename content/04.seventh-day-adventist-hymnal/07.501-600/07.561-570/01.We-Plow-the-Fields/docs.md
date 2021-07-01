@@ -1,8 +1,10 @@
 ---
 title: 561. We Plow the Fields - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 561. We Plow the Fields. 1. We plow the fields, and scatter the good seed on the land, But it is fed and watered by God’s almighty hand. He sends the snow in winter, the warmth to swell the grain, The breezes and the sunshine, and soft refreshing rain. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Plow the Fields, We plow the fields, and scatter the good seed on the land, ,All good gifts around us
+    description: |
+      SDAH 561. We Plow the Fields. 1. We plow the fields, and scatter the good seed on the land, But it is fed and watered by God’s almighty hand. He sends the snow in winter, the warmth to swell the grain, The breezes and the sunshine, and soft refreshing rain. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Plow the Fields, We plow the fields, and scatter the good seed on the land, ,All good gifts around us
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ All good gifts around us
 Are sent from heaven above;
 Then thank the Lord, O thank the Lord
 For all His love.
+
 
 
 

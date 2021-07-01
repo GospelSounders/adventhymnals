@@ -1,8 +1,10 @@
 ---
 title: 379. We Give This Child to You - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 379. We Give This Child to You. 1. We give this child to You, Our precious gift of love. Help us to lead each step aright With guidance from above.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Give This Child to You, We give this child to You, 
+    description: |
+      SDAH 379. We Give This Child to You. 1. We give this child to You, Our precious gift of love. Help us to lead each step aright With guidance from above.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Give This Child to You, We give this child to You, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ We give ourselves to You,
 And may Your Spirit fill
 Our hearts and home, that all we do
 Be subject to Your will.
+
 
 
 ```

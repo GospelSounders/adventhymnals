@@ -1,8 +1,10 @@
 ---
 title: 288. I Am Going to Calvary - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 288. I Am Going to Calvary. 1. I am going to Calvary, Would you like to come with Me All the way and back again? You must follow the Leader then. You must follow the Leader, You must follow the Leader, All the way and back again, You must follow the Leader.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Am Going to Calvary, I am going to Calvary, 
+    description: |
+      SDAH 288. I Am Going to Calvary. 1. I am going to Calvary, Would you like to come with Me All the way and back again? You must follow the Leader then. You must follow the Leader, You must follow the Leader, All the way and back again, You must follow the Leader.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Am Going to Calvary, I am going to Calvary, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ When you follow the Leader,
 When you follow the Leader
 Love’s the lord of everything,
 When you follow the Leader.
+
 
 
 ```

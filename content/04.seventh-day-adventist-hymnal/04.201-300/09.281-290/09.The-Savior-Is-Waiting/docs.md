@@ -1,8 +1,10 @@
 ---
 title: 289. The Savior Is Waiting - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 289. The Savior Is Waiting. 1. The Savior is waiting to enter your heart Why don’t you let Him come in? There’s nothing in this world to keep you apart What is your answer to Him? 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Savior Is Waiting, The Savior is waiting to enter your heart ,Time after time
+    description: |
+      SDAH 289. The Savior Is Waiting. 1. The Savior is waiting to enter your heart Why don’t you let Him come in? There’s nothing in this world to keep you apart What is your answer to Him? 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Savior Is Waiting, The Savior is waiting to enter your heart ,Time after time
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -43,6 +46,7 @@ And now He is waiting again
 To see if you are willing
 To open the door
 Oh, how He wants to come in.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 243. King of Glory, King of Peace - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 243. King of Glory, King of Peace. 1. King of glory, King of peace, I will love Thee; And that love may never cease, I will move Thee. Thou hast granted my request, Thou hast heard me; Thou didst note my working breast, Thou hast spared me.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, King of Glory, King of Peace, King of glory, King of peace, I will love Thee; 
+    description: |
+      SDAH 243. King of Glory, King of Peace. 1. King of glory, King of peace, I will love Thee; And that love may never cease, I will move Thee. Thou hast granted my request, Thou hast heard me; Thou didst note my working breast, Thou hast spared me.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, King of Glory, King of Peace, King of glory, King of peace, I will love Thee; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Seven whole days, not one in seven, I will praise Thee;
 In my heart, though not in heav’n I can raise Thee.
 Small it is, in this poor sort to enroll Thee:
 Ev’n eternity’s too short to extol Thee.
+
 
 
 ```

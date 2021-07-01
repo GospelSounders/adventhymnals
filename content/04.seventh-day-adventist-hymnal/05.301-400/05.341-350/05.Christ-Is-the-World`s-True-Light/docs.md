@@ -1,8 +1,10 @@
 ---
 title: 345. Christ Is the World`s True Light - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 345. Christ Is the World`s True Light. 1. Christ is the world’s true light, Its captain of salvation, The daystar clear and bright Of every man and nation; New life, new hope awakes Where’er men own His sway: Freedom her bondage breaks, And night is turned to day.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Is the World`s True Light, Christ is the world’s true light, 
+    description: |
+      SDAH 345. Christ Is the World`s True Light. 1. Christ is the world’s true light, Its captain of salvation, The daystar clear and bright Of every man and nation; New life, new hope awakes Where’er men own His sway: Freedom her bondage breaks, And night is turned to day.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Is the World`s True Light, Christ is the world’s true light, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ The world has waited long,
 Has travailed long in pain,
 To heal its ancient wrong,
 Come, Prince of Peace, and reign.
+
 
 
 ```

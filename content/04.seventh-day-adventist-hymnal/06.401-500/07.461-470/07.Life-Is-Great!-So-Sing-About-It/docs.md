@@ -1,8 +1,10 @@
 ---
 title: 467. Life Is Great! So Sing About It - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 467. Life Is Great! So Sing About It. 1. Life is great! So sing about it, As we can and as we should- Shop and buses, towns and people, Village, farmland, field and wood, Life is great and life is given; Life is lovely, free and good.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Life Is Great! So Sing About It, Life is great! So sing about it, 
+    description: |
+      SDAH 467. Life Is Great! So Sing About It. 1. Life is great! So sing about it, As we can and as we should- Shop and buses, towns and people, Village, farmland, field and wood, Life is great and life is given; Life is lovely, free and good.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Life Is Great! So Sing About It, Life is great! So sing about it, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Love that suffered, hoped and trusted
 When disciples turned and ran,
 Love that broke through death forever.
 Praise that loving, living Man!
+
 
 
 ```

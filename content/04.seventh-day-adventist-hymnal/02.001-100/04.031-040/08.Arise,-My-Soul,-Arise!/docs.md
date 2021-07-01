@@ -1,8 +1,10 @@
 ---
 title: 38. Arise, My Soul, Arise! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 38. Arise, My Soul, Arise!. 1. Arise, my soul, arise! Stretch forth to things eternal And hasten to the feet of your Redeemer God. Though hid from mortal eyes, He dwells in light supernal; Yet worship Him in humbleness and call Him Lord. His banquet of love Awaits you above; Yet here He grants a foretaste of the feast to come! Rejoice, my soul, rejoice, To heav’n lift up your voice: Alleluia, alleluia, alleluia!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Arise, My Soul, Arise!, Arise, my soul, arise! 
+    description: |
+      SDAH 38. Arise, My Soul, Arise!. 1. Arise, my soul, arise! Stretch forth to things eternal And hasten to the feet of your Redeemer God. Though hid from mortal eyes, He dwells in light supernal; Yet worship Him in humbleness and call Him Lord. His banquet of love Awaits you above; Yet here He grants a foretaste of the feast to come! Rejoice, my soul, rejoice, To heav’n lift up your voice: Alleluia, alleluia, alleluia!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Arise, My Soul, Arise!, Arise, my soul, arise! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -43,6 +46,7 @@ To Him be everlasting pow’r and victory.
 And let the great amen
 Resound through heav’n again.
 Alleluia, alleluia, alleluia!
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 547. Be Thou My Vision - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 547. Be Thou My Vision. 1. Be Thou my Vision, O Lord of my heart; Naught be all else to me, save that Thou art Thou my best Thought, by day or by night, Waking or sleeping, Thy presence my light.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Be Thou My Vision, Be Thou my Vision, O Lord of my heart; 
+    description: |
+      SDAH 547. Be Thou My Vision. 1. Be Thou my Vision, O Lord of my heart; Naught be all else to me, save that Thou art Thou my best Thought, by day or by night, Waking or sleeping, Thy presence my light.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Be Thou My Vision, Be Thou my Vision, O Lord of my heart; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ High King of Heaven, my victory won,
 May I reach Heaven’s joys, O bright Heaven’s Sun!
 Heart of my own heart, whatever befall,
 Still be my Vision, O Ruler of all.
+
 
 
 ```

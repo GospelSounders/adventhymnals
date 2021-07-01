@@ -1,8 +1,10 @@
 ---
 title: 396. Lord God, Your Love Has Called Us Here - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 396. Lord God, Your Love Has Called Us Here. 1. Lord God, Your love has called us here, As we, by love, for love were made. Your living likeness still we bear Tho’ marred, dishonored, disobeyed. We come, with all our heart and mind Your call to hear, Your love to find.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord God, Your Love Has Called Us Here, Lord God, Your love has called us here, 
+    description: |
+      SDAH 396. Lord God, Your Love Has Called Us Here. 1. Lord God, Your love has called us here, As we, by love, for love were made. Your living likeness still we bear Tho’ marred, dishonored, disobeyed. We come, with all our heart and mind Your call to hear, Your love to find.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord God, Your Love Has Called Us Here, Lord God, Your love has called us here, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Give us Your Spirit’s liberty
 To turn from guilt and dull despair
 And offer all that faith can do,
 While love is making all things new.
+
 
 
 ```

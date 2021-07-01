@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 491-500
 metadata:
-    description: Seventh Day Adventist Hymnal - 491-500
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 491-500
+    description: |
+      Seventh Day Adventist Hymnal - 491-500
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 491-500
     author: Brian Onang'o
 ---
 

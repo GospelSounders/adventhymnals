@@ -1,8 +1,10 @@
 ---
 title: 329. Take the World, but Give Me Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 329. Take the World, but Give Me Jesus. 1. Take the world, but give me Jesus; All its Joys are but a name, But His love abideth ever, Through eternal years the same. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Take the World, but Give Me Jesus, Take the world, but give me Jesus; ,Oh, the height and depth of mercy!
+    description: |
+      SDAH 329. Take the World, but Give Me Jesus. 1. Take the world, but give me Jesus; All its Joys are but a name, But His love abideth ever, Through eternal years the same. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Take the World, but Give Me Jesus, Take the world, but give me Jesus; ,Oh, the height and depth of mercy!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Oh, the height and depth of mercy!
 Oh, the length and breadth of love!
 Oh, the fullness of redemption,
 Pledge of endless life above.
+
 
 
 

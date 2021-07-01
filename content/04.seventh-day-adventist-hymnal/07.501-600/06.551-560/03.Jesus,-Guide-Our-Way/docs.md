@@ -1,8 +1,10 @@
 ---
 title: 553. Jesus, Guide Our Way - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 553. Jesus, Guide Our Way. 1. Jesus, guide our way To eternal day: So shall we, no more delaying, Follow Thee, Thy voice obeying: Lead us by the hand To our Father’s land.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Guide Our Way, Jesus, guide our way 
+    description: |
+      SDAH 553. Jesus, Guide Our Way. 1. Jesus, guide our way To eternal day: So shall we, no more delaying, Follow Thee, Thy voice obeying: Lead us by the hand To our Father’s land.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Guide Our Way, Jesus, guide our way 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -35,6 +38,7 @@ In our toil, with aid be near us:
 In our need, with succour cheer us:
 Till we safely stand
 In our Father’s land.
+
 
 
 ```

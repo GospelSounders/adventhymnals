@@ -1,8 +1,10 @@
 ---
 title: 449. Never Part Again - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 449. Never Part Again. 1. There is a land of pure delight, Where bliss eternal reigns, Infinite day excludes the night And pleasures banish pain. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Never Part Again, There is a land of pure delight, ,We’re trav’ling to Immanuel’s land,
+    description: |
+      SDAH 449. Never Part Again. 1. There is a land of pure delight, Where bliss eternal reigns, Infinite day excludes the night And pleasures banish pain. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Never Part Again, There is a land of pure delight, ,We’re trav’ling to Immanuel’s land,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -63,6 +66,7 @@ What! Never part again? No, never part again,
 What! Never part again? No, never part again,
 And soon we shall with Jesus reign,
 And never, never part again.
+
 
 
 

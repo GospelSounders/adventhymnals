@@ -1,8 +1,10 @@
 ---
 title: 2. All creatures of our God and King - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 2. All creatures of our God and King. 1. All creatures of our God and King Lift up your voice and with us sing, Alleluia! Alleluia! O burning sun with golden beam And silver moon with softer gleam! 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All creatures of our God and King, All creatures of our God and King ,O praise Him! O praise Him!
+    description: |
+      SDAH 2. All creatures of our God and King. 1. All creatures of our God and King Lift up your voice and with us sing, Alleluia! Alleluia! O burning sun with golden beam And silver moon with softer gleam! 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All creatures of our God and King, All creatures of our God and King ,O praise Him! O praise Him!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -60,6 +63,7 @@ And praise the Spirit, three in One!
 Refrain:
 O praise Him! O praise Him!
 Alleluia! Alleluia! Alleluia!
+
 
 
 

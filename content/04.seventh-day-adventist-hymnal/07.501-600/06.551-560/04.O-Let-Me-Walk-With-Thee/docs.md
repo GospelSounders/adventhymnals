@@ -1,8 +1,10 @@
 ---
 title: 554. O Let Me Walk With Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 554. O Let Me Walk With Thee. 1. O let me walk with Thee, my God, As Enoch walked in days of old; Place Thou my trembling hand in Thine, And sweet communion with me hold; E’en though the path I may not see, Yet, Jesus, let me walk with Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Let Me Walk With Thee, O let me walk with Thee, my God, 
+    description: |
+      SDAH 554. O Let Me Walk With Thee. 1. O let me walk with Thee, my God, As Enoch walked in days of old; Place Thou my trembling hand in Thine, And sweet communion with me hold; E’en though the path I may not see, Yet, Jesus, let me walk with Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Let Me Walk With Thee, O let me walk with Thee, my God, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ And firmly, bravely journey on;
 I’ll bear the banner of the cross
 Till Zion’s glorious gates I see;
 Yet, Savior, let me walk with Thee.
+
 
 
 ```

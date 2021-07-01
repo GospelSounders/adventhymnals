@@ -1,8 +1,10 @@
 ---
 title: 369. Bringing in the Sheaves - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 369. Bringing in the Sheaves. 1. Sowing in the morning, sowing seeds of kindness, Sowing in the noontide and the dewy eve, Waiting for the harvest and the time of reaping – We shall come rejoicing, bringing in the sheaves. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Bringing in the Sheaves, Sowing in the morning, sowing seeds of kindness, ,Bringing in the sheaves, bringing in the sheaves,
+    description: |
+      SDAH 369. Bringing in the Sheaves. 1. Sowing in the morning, sowing seeds of kindness, Sowing in the noontide and the dewy eve, Waiting for the harvest and the time of reaping – We shall come rejoicing, bringing in the sheaves. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Bringing in the Sheaves, Sowing in the morning, sowing seeds of kindness, ,Bringing in the sheaves, bringing in the sheaves,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Bringing in the sheaves, bringing in the sheaves,
 We shall come rejoicing, bringing in the sheaves.
 Bringing in the sheaves, bringing in the sheaves,
 We shall come rejoicing, bringing in the sheaves.
+
 
 
 

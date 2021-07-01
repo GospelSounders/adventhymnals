@@ -1,8 +1,10 @@
 ---
 title: 97. Lord of the Boundless Curves of Space - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 97. Lord of the Boundless Curves of Space. 1. Lord of the boundless curves of space And time’s deep mystery, To Your creative might we trace All nature’s energy.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of the Boundless Curves of Space, Lord of the boundless curves of space 
+    description: |
+      SDAH 97. Lord of the Boundless Curves of Space. 1. Lord of the boundless curves of space And time’s deep mystery, To Your creative might we trace All nature’s energy.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of the Boundless Curves of Space, Lord of the boundless curves of space 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Give us to know Your truth; but more,
 The strength to do Your will;
 Until the love our souls adore
 Shall all our being fill.
+
 
 
 ```

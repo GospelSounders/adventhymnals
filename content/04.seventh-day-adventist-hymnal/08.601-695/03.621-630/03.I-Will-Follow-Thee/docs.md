@@ -1,8 +1,10 @@
 ---
 title: 623. I Will Follow Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 623. I Will Follow Thee. 1. I will follow Thee, my Savior, Wheresoe’er my lot may be. Where thou goest I will follow; Yes, my Lord, I’ll follow Thee. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Will Follow Thee, I will follow Thee, my Savior, ,I will follow Thee, my Saviour,
+    description: |
+      SDAH 623. I Will Follow Thee. 1. I will follow Thee, my Savior, Wheresoe’er my lot may be. Where thou goest I will follow; Yes, my Lord, I’ll follow Thee. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Will Follow Thee, I will follow Thee, my Savior, ,I will follow Thee, my Saviour,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -77,6 +80,7 @@ I will follow Thee, my Saviour,
 Thou didst shed Thy blood for me;
 And though all men should forsake Thee;
 By Thy grace I’ll follow Thee.
+
 
 
 

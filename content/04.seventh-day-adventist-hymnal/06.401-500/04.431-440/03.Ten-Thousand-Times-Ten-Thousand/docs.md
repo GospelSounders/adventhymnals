@@ -1,8 +1,10 @@
 ---
 title: 433. Ten Thousand Times Ten Thousand - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 433. Ten Thousand Times Ten Thousand. 1. Ten thousand times ten thousand, In sparkling raiment bright, The armies of the ransomed saints Throng up the steeps of light. ‘Tis finished, all is finished, Their fight with death and sin. Fling open wide the golden gates, And let the victors in.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Ten Thousand Times Ten Thousand, Ten thousand times ten thousand, 
+    description: |
+      SDAH 433. Ten Thousand Times Ten Thousand. 1. Ten thousand times ten thousand, In sparkling raiment bright, The armies of the ransomed saints Throng up the steeps of light. ‘Tis finished, all is finished, Their fight with death and sin. Fling open wide the golden gates, And let the victors in.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Ten Thousand Times Ten Thousand, Ten thousand times ten thousand, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Appear, Desire of nations,
 Thine exiles long for home;
 Show in the heavens Thy promised sign;
 Thou Prince and Savior come!
+
 
 
 ```

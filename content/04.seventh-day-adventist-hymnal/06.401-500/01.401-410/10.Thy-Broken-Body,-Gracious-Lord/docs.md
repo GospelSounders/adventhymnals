@@ -1,8 +1,10 @@
 ---
 title: 410. Thy Broken Body, Gracious Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 410. Thy Broken Body, Gracious Lord. 1. Thy broken body, gracious Lord, Is shadowed by this broken bread; The wine which in this cup is poured, Points to the blood which Thou hast shed.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thy Broken Body, Gracious Lord, Thy broken body, gracious Lord, 
+    description: |
+      SDAH 410. Thy Broken Body, Gracious Lord. 1. Thy broken body, gracious Lord, Is shadowed by this broken bread; The wine which in this cup is poured, Points to the blood which Thou hast shed.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thy Broken Body, Gracious Lord, Thy broken body, gracious Lord, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ We have one hope that Thou wilt come,
 Thee in the air we wait to see;
 When Thou wilt give Thy saints a home,
 And we shall ever reign with Thee.
+
 
 
 ```

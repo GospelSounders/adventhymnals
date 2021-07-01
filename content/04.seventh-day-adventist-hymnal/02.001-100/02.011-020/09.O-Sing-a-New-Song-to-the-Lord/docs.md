@@ -1,8 +1,10 @@
 ---
 title: 19. O Sing a New Song to the Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 19. O Sing a New Song to the Lord. 1. O sing a new song to the Lord For marvels He has done; His right hand and His holy arm The victory have won.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Sing a New Song to the Lord, O sing a new song to the Lord 
+    description: |
+      SDAH 19. O Sing a New Song to the Lord. 1. O sing a new song to the Lord For marvels He has done; His right hand and His holy arm The victory have won.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Sing a New Song to the Lord, O sing a new song to the Lord 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -37,6 +40,7 @@ To judge the earth come He;
 He’ll judge the world
 with righteousness,
 His folk with equity.
+
 
 
 ```

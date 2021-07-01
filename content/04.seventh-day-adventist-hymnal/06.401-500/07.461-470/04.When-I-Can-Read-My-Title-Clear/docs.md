@@ -1,8 +1,10 @@
 ---
 title: 464. When I Can Read My Title Clear - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 464. When I Can Read My Title Clear. 1. When I can read my title clear To mansions in the skies I’ll bid farewell to every fear, And wipe my weeping eyes; And wipe my weeping eyes, And wipe my weeping eyes, I’ll bid farewell to every fear, And wipe my weeping eyes.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When I Can Read My Title Clear, When I can read my title clear 
+    description: |
+      SDAH 464. When I Can Read My Title Clear. 1. When I can read my title clear To mansions in the skies I’ll bid farewell to every fear, And wipe my weeping eyes; And wipe my weeping eyes, And wipe my weeping eyes, I’ll bid farewell to every fear, And wipe my weeping eyes.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When I Can Read My Title Clear, When I can read my title clear 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ And face a frowning world,
 And face a frowning world,
 Then I can smile at Satan’s rage,
 And face a frowning world.
+
 
 
 ```

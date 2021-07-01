@@ -1,8 +1,10 @@
 ---
 title: 344. I Love Your Kingdom, Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 344. I Love Your Kingdom, Lord. 1. I love thy kingdom, Lord, the house of thine abode, the church our blest Redeemer saved with his own precious blood.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Love Your Kingdom, Lord, I love thy kingdom, Lord, 
+    description: |
+      SDAH 344. I Love Your Kingdom, Lord. 1. I love thy kingdom, Lord, the house of thine abode, the church our blest Redeemer saved with his own precious blood.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Love Your Kingdom, Lord, I love thy kingdom, Lord, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Sure as thy truth shall last,
 to Zion shall be given
 the brightest glories earth can yield,
 and brighter bliss of heaven.
+
 
 
 ```

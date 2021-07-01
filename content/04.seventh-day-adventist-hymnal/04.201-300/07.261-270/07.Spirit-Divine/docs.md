@@ -1,8 +1,10 @@
 ---
 title: 267. Spirit Divine - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 267. Spirit Divine. 1. Spirit divine, attend our prayers, And make this house Thy home; Descend with all Thy gracious powers, O come, great Spirit, come!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Spirit Divine, Spirit divine, attend our prayers, 
+    description: |
+      SDAH 267. Spirit Divine. 1. Spirit divine, attend our prayers, And make this house Thy home; Descend with all Thy gracious powers, O come, great Spirit, come!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Spirit Divine, Spirit divine, attend our prayers, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Spirit divine, attend our prayers,
 Make a lost world Thy home;
 Descend with all Thy gracious powers,
 O come, great Spirit, come!
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 447. Long Upon the Mountains - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 447. Long Upon the Mountains. 1. Long upon the mountains weary, Have the scattered flocks been torn; Dark the dessert paths, and dreary; Grievous trials have they borne. Now the gathering call is sounding, Solemn in its warning voice; Union, faith, and love, abounding, Bid the little flock rejoice.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Long Upon the Mountains, Long upon the mountains weary, 
+    description: |
+      SDAH 447. Long Upon the Mountains. 1. Long upon the mountains weary, Have the scattered flocks been torn; Dark the dessert paths, and dreary; Grievous trials have they borne. Now the gathering call is sounding, Solemn in its warning voice; Union, faith, and love, abounding, Bid the little flock rejoice.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Long Upon the Mountains, Long upon the mountains weary, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ O, we long for Thine appearing;
 Come, O Savior, quickly come!
 Blessed hope! Our spirits cheering,
 Take thy ransomed children home.
+
 
 
 ```

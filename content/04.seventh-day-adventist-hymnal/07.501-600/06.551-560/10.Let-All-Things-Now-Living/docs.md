@@ -1,8 +1,10 @@
 ---
 title: 560. Let All Things Now Living - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 560. Let All Things Now Living. 1. Let all things now living a song of thanksgiving To God the Creator triumphantly raise, Who fashioned and made us, protected and stayed us, Who guideth us on to the end of our days. His banners are o’er us, His light goes before us, A pillar of fire shining forth in the night, ‘Til shadows have vanished and darkness is banished, as forward we travel from light into light.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Let All Things Now Living, Let all things now living a song of thanksgiving 
+    description: |
+      SDAH 560. Let All Things Now Living. 1. Let all things now living a song of thanksgiving To God the Creator triumphantly raise, Who fashioned and made us, protected and stayed us, Who guideth us on to the end of our days. His banners are o’er us, His light goes before us, A pillar of fire shining forth in the night, ‘Til shadows have vanished and darkness is banished, as forward we travel from light into light.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Let All Things Now Living, Let all things now living a song of thanksgiving 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -33,6 +36,7 @@ We too should be voicing our love and rejoicing,
 With glad adoration a song let us raise,
 ‘Til all things now living unite in thanksgiving
 To God in the highest, hosanna and praise.
+
 
 
 ```

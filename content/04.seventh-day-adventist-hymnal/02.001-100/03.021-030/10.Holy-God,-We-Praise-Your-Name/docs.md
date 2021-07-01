@@ -1,8 +1,10 @@
 ---
 title: 30. Holy God, We Praise Your Name - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 30. Holy God, We Praise Your Name. 1. Holy God, we praise Your name; Lord of all, we bow before You! All on earth Your scepter claim, All in heaven above adore You; Infinite Your vast domain. Everlasting is Your reign.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy God, We Praise Your Name, Holy God, we praise Your name; 
+    description: |
+      SDAH 30. Holy God, We Praise Your Name. 1. Holy God, we praise Your name; Lord of all, we bow before You! All on earth Your scepter claim, All in heaven above adore You; Infinite Your vast domain. Everlasting is Your reign.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy God, We Praise Your Name, Holy God, we praise Your name; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ While in essence only one,
 Undivided God we claim You;
 And adoring bend the knee,
 While we own the mystery.
+
 
 
 ```

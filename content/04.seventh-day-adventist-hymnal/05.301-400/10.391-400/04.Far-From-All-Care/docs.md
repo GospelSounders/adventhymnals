@@ -1,8 +1,10 @@
 ---
 title: 394. Far From All Care - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 394. Far From All Care. 1. Far from all care we hail the Sabbath morning; O’er waving fields and from the distant sea Swell notes of praise in harmony resounding As all creation turns her heart to Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Far From All Care, Far from all care we hail the Sabbath morning; 
+    description: |
+      SDAH 394. Far From All Care. 1. Far from all care we hail the Sabbath morning; O’er waving fields and from the distant sea Swell notes of praise in harmony resounding As all creation turns her heart to Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Far From All Care, Far from all care we hail the Sabbath morning; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Strong in Thy might and quiet in Thy meekness,
 May we Thine image bear from day to day.
 Then may we enter pearly gates eternal
 And sing redemption’s song each Sabbath day.
+
 
 
 ```

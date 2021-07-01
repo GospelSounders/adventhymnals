@@ -1,8 +1,10 @@
 ---
 title: 22. God Is Our Song - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 22. God Is Our Song. 1. God is our Song, and every singer blest Who praising Him finds energy and rest. All who praise God with unaffected joy Give back to us the widom we destroy, Give back to us the widom we destroy.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Is Our Song, God is our Song, and every singer blest 
+    description: |
+      SDAH 22. God Is Our Song. 1. God is our Song, and every singer blest Who praising Him finds energy and rest. All who praise God with unaffected joy Give back to us the widom we destroy, Give back to us the widom we destroy.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Is Our Song, God is our Song, and every singer blest 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ When ecstasy or sorrow stills the tongue.
 Glorious the faith which silently obeys
 Until we find again the voice of praise,
 Until we find again the voice of praise.
+
 
 
 ```

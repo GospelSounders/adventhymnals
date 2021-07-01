@@ -1,8 +1,10 @@
 ---
 title: 641. God in His Love for Us - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 641. God in His Love for Us. 1. God in His love for us lent us this planet, Gave it a purpose in time and in space: Small as a spark from the fire of creation, Cradle of life and the home of our race.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God in His Love for Us, God in His love for us lent us this planet, 
+    description: |
+      SDAH 641. God in His Love for Us. 1. God in His love for us lent us this planet, Gave it a purpose in time and in space: Small as a spark from the fire of creation, Cradle of life and the home of our race.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God in His Love for Us, God in His love for us lent us this planet, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Earth is the Lord’s: it is ours to enjoy it,
 Ours, as His stewards, to farm and defend.
 From its pollution, misuse, and destruction,
 Good Lord, deliver us, world without end!
+
 
 
 ```

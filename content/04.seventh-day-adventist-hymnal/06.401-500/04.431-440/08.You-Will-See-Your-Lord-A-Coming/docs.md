@@ -1,8 +1,10 @@
 ---
 title: 438. You Will See Your Lord A-Coming - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 438. You Will See Your Lord A-Coming. 1. You will see your Lord a-coming, You will see your Lord a-coming, You will see your Lord a-coming In a few more days. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, You Will See Your Lord A-Coming, You will see your Lord a-coming, ,Hear the band of music,
+    description: |
+      SDAH 438. You Will See Your Lord A-Coming. 1. You will see your Lord a-coming, You will see your Lord a-coming, You will see your Lord a-coming In a few more days. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, You Will See Your Lord A-Coming, You will see your Lord a-coming, ,Hear the band of music,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -77,6 +80,7 @@ Hear the band of music,
 Hear the band of music,
 Hear the band of music
 which is sounding thro’ the air.
+
 
 
 

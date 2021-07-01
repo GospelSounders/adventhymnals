@@ -1,8 +1,10 @@
 ---
 title: 245. More About Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 245. More About Jesus. 1. More about Jesus, I would know, More of His grace to others show; More of His saving fullness see, More of His love who died for me. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, More About Jesus, More about Jesus, I would know, ,More, more about Jesus,
+    description: |
+      SDAH 245. More About Jesus. 1. More about Jesus, I would know, More of His grace to others show; More of His saving fullness see, More of His love who died for me. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, More About Jesus, More about Jesus, I would know, ,More, more about Jesus,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ More, more about Jesus,
 More, more about Jesus;
 More of His saving fullness see,
 More of His love who died for me.
+
 
 
 

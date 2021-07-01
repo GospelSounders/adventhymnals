@@ -1,8 +1,10 @@
 ---
 title: 139. While Shepherds Watched Their Flocks - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 139. While Shepherds Watched Their Flocks. 1. While shepherds watched their flocks by night, All seated on the ground, The angel of the Lord came down, And glory shone around.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, While Shepherds Watched Their Flocks, While shepherds watched their flocks by night, 
+    description: |
+      SDAH 139. While Shepherds Watched Their Flocks. 1. While shepherds watched their flocks by night, All seated on the ground, The angel of the Lord came down, And glory shone around.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, While Shepherds Watched Their Flocks, While shepherds watched their flocks by night, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Who thus addressed their song:
 And to the earth be peace;
 Good will henceforth from heaven to men,
 Begin and never cease!”
+
 
 
 ```

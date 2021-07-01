@@ -1,8 +1,10 @@
 ---
 title: 140. Thou Didst Leave Thy Throne - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 140. Thou Didst Leave Thy Throne. 1. Thou didst leave Thy throne And Thy kingly crown When Thou camest to earth for me; But in Bethlehem’s home Was there found no room For Thy holy nativity. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thou Didst Leave Thy Throne, Thou didst leave Thy throne ,O come to my heart, Lord Jesus,
+    description: |
+      SDAH 140. Thou Didst Leave Thy Throne. 1. Thou didst leave Thy throne And Thy kingly crown When Thou camest to earth for me; But in Bethlehem’s home Was there found no room For Thy holy nativity. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thou Didst Leave Thy Throne, Thou didst leave Thy throne ,O come to my heart, Lord Jesus,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -82,6 +85,7 @@ There is room in my heart for Thee.
 Refrain:
 My heart shall rejoice, Lord Jesus,
 When Thou comest and callest for me.
+
 
 
 ```

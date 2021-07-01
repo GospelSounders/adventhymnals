@@ -1,8 +1,10 @@
 ---
 title: 201. Christ Is Coming - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 201. Christ Is Coming. 1. Christ is coming! let creation Bid her groans and travail cease; Let the glorious proclamation Hope restore and faith increase; Christ is coming! Christ is coming! Come, Thou blessed Prince of Peace! (Prince of Peace!) Come, Thou blessed Prince of Peace!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Is Coming, Christ is coming! let creation 
+    description: |
+      SDAH 201. Christ Is Coming. 1. Christ is coming! let creation Bid her groans and travail cease; Let the glorious proclamation Hope restore and faith increase; Christ is coming! Christ is coming! Come, Thou blessed Prince of Peace! (Prince of Peace!) Come, Thou blessed Prince of Peace!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Is Coming, Christ is coming! let creation 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Christ is coming! Christ is coming!
 Come, Lord Jesus, quickly come!
 (quickly come!)
 Come, Lord Jesus, quickly come!
+
 
 
 ```

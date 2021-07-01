@@ -1,8 +1,10 @@
 ---
 title: 189. All That Thrills My Soul - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 189. All That Thrills My Soul. 1. Who can cheer the heart like Jesus, By His presence all divine? True and tender, pure and precious, Oh, how blest to call Him mine! 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All That Thrills My Soul, Who can cheer the heart like Jesus, ,All that thrills my soul is Jesus;
+    description: |
+      SDAH 189. All That Thrills My Soul. 1. Who can cheer the heart like Jesus, By His presence all divine? True and tender, pure and precious, Oh, how blest to call Him mine! 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All That Thrills My Soul, Who can cheer the heart like Jesus, ,All that thrills my soul is Jesus;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ All that thrills my soul is Jesus;
 He is more than life to me; (to me;)
 And the fairest of ten thousand,
 In my blessed Lord I see.
+
 
 
 

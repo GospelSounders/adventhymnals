@@ -1,8 +1,10 @@
 ---
 title: 120. There`s a Song in the Air - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 120. There`s a Song in the Air. 1. There’s a song in the air! There’s a star in the sky! There’s a mother’s deep prayer And a baby’s low cry! And the star rains its fire while the beautiful sing, For the manger of Bethlehem cradles a King!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`s a Song in the Air, There’s a song in the air! 
+    description: |
+      SDAH 120. There`s a Song in the Air. 1. There’s a song in the air! There’s a star in the sky! There’s a mother’s deep prayer And a baby’s low cry! And the star rains its fire while the beautiful sing, For the manger of Bethlehem cradles a King!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`s a Song in the Air, There’s a song in the air! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ From the heavenly throng.
 Aye! we shout to the lovely evangel they bring,
 And we greet in His cradle
 our Savior and King!
+
 
 
 ```

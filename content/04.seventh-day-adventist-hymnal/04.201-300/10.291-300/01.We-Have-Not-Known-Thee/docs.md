@@ -1,8 +1,10 @@
 ---
 title: 291. We Have Not Known Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 291. We Have Not Known Thee. 1. We have not known Thee as we ought, Nor learned Thy wisdom, grace, and power; The things of earth have filed our thoughts, And trifles of the passing hour. Lord, give us light Thy truth to see, And make us wise in knowing Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Have Not Known Thee, We have not known Thee as we ought, 
+    description: |
+      SDAH 291. We Have Not Known Thee. 1. We have not known Thee as we ought, Nor learned Thy wisdom, grace, and power; The things of earth have filed our thoughts, And trifles of the passing hour. Lord, give us light Thy truth to see, And make us wise in knowing Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Have Not Known Thee, We have not known Thee as we ought, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ When shall we, out of trial brought,
 Be perfect in the land of light!
 Lord, may we day by day prepare
 To see Thy face, and serve Thee there.
+
 
 
 ```

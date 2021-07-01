@@ -1,8 +1,10 @@
 ---
 title: 83. O Worship the King - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 83. O Worship the King. 1. O worship the King, all glorious above, O gratefully sing His wonderful love; Our Shield and Defender, the Ancient of Days, Pavilioned in splendor, and girded with praise.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Worship the King, O worship the King, all glorious above, 
+    description: |
+      SDAH 83. O Worship the King. 1. O worship the King, all glorious above, O gratefully sing His wonderful love; Our Shield and Defender, the Ancient of Days, Pavilioned in splendor, and girded with praise.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Worship the King, O worship the King, all glorious above, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Frail children of dust, and feeble as frail,
 In Thee do we trust, nor find Thee to fail;
 Thy mercies how tender, how firm to the end!
 Our Maker, Defender, Redeemer, and Friend.
+
 
 
 ```

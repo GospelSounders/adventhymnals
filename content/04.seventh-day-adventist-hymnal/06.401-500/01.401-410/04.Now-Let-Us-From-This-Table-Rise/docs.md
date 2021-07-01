@@ -1,8 +1,10 @@
 ---
 title: 404. Now Let Us From This Table Rise - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 404. Now Let Us From This Table Rise. 1. Now let us from this table rise Renewed in body, mind, and soul; With Christ we die and live again, His selfless love has made us whole.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now Let Us From This Table Rise, Now let us from this table rise 
+    description: |
+      SDAH 404. Now Let Us From This Table Rise. 1. Now let us from this table rise Renewed in body, mind, and soul; With Christ we die and live again, His selfless love has made us whole.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now Let Us From This Table Rise, Now let us from this table rise 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Then grant us courage, Father God,
 To choose again the pilgrim way
 And help us to accept with joy
 The challenge of tomorrow’s day.
+
 
 
 ```

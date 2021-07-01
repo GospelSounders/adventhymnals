@@ -1,8 +1,10 @@
 ---
 title: 284. For You I Am Praying - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 284. For You I Am Praying. 1. I have a Savior, He’s pleading in glory, A dear, loving Savior, though earth friends be few; And now He is watching in tenderness o’er me, But oh that my Savior were your Savior, too. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For You I Am Praying, I have a Savior, He’s pleading in glory, ,For you I am praying, For you I am Praying,
+    description: |
+      SDAH 284. For You I Am Praying. 1. I have a Savior, He’s pleading in glory, A dear, loving Savior, though earth friends be few; And now He is watching in tenderness o’er me, But oh that my Savior were your Savior, too. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For You I Am Praying, I have a Savior, He’s pleading in glory, ,For you I am praying, For you I am Praying,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -56,6 +59,7 @@ And prayer will be answered-’twas answered for you!
 Refrain:
 For you I am praying, For you I am Praying,
 For you am I praying, I’m praying for you.
+
 
 
 

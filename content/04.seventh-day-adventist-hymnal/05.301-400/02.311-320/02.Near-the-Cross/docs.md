@@ -1,8 +1,10 @@
 ---
 title: 312. Near the Cross - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 312. Near the Cross. 1. Jesus, keep me near the cross; there a precious fountain, free to all, a healing stream, flows from Calvary’s mountain. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Near the Cross, Jesus, keep me near the cross; ,In the cross, in the cross,
+    description: |
+      SDAH 312. Near the Cross. 1. Jesus, keep me near the cross; there a precious fountain, free to all, a healing stream, flows from Calvary’s mountain. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Near the Cross, Jesus, keep me near the cross; ,In the cross, in the cross,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -63,6 +66,7 @@ In the cross, in the cross,
 be my glory ever,
 till my raptured soul shall find
 rest beyond the river.
+
 
 
 

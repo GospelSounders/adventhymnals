@@ -1,8 +1,10 @@
 ---
 title: 253. There`s No Other Name Like Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 253. There`s No Other Name Like Jesus. 1. There’s no other name like Jesus, ‘Tis the dearest name we know, ‘Tis the angel’s joy in heaven, ‘Tis the Christian’s joy below. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`s No Other Name Like Jesus, There’s no other name like Jesus, ,Sweet name, (sweet name) dear name, (dear name)
+    description: |
+      SDAH 253. There`s No Other Name Like Jesus. 1. There’s no other name like Jesus, ‘Tis the dearest name we know, ‘Tis the angel’s joy in heaven, ‘Tis the Christian’s joy below. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`s No Other Name Like Jesus, There’s no other name like Jesus, ,Sweet name, (sweet name) dear name, (dear name)
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -77,6 +80,7 @@ Sweet name, (sweet name) dear name, (dear name)
 There’s no other name like Jesus;
 Sweet name, (sweet name) dear name, (dear name)
 There’s no other name like Jesus.
+
 
 
 

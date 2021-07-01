@@ -1,8 +1,10 @@
 ---
 title: 606. Once to Every Man and Nation - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 606. Once to Every Man and Nation. 1. Once to every man and nation, comes the moment to decide, In the strife of truth with falsehood, for the good or evil side; Some great cause, some great decision, offering each the bloom or blight, And the choice goes by forever, ’twixt that darkness and that light.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Once to Every Man and Nation, Once to every man and nation, comes the moment to decide, 
+    description: |
+      SDAH 606. Once to Every Man and Nation. 1. Once to every man and nation, comes the moment to decide, In the strife of truth with falsehood, for the good or evil side; Some great cause, some great decision, offering each the bloom or blight, And the choice goes by forever, ’twixt that darkness and that light.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Once to Every Man and Nation, Once to every man and nation, comes the moment to decide, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Though the cause of evil prosper, yet the truth alone is strong;
 Though her portion be the scaffold, and upon the throne be wrong;
 Yet that scaffold sways the future, and behind the dim unknown,
 Standeth God within the shadow, keeping watch above His own.
+
 
 
 ```

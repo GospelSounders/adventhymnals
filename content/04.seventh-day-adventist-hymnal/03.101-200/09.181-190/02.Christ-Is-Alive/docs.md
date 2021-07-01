@@ -1,8 +1,10 @@
 ---
 title: 182. Christ Is Alive - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 182. Christ Is Alive. 1. Christ is alive! Let Christians sing. His cross stands empty to the sky. Let streets and homes with praises ring. His love in death shall never die.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Is Alive, Christ is alive! 
+    description: |
+      SDAH 182. Christ Is Alive. 1. Christ is alive! Let Christians sing. His cross stands empty to the sky. Let streets and homes with praises ring. His love in death shall never die.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Is Alive, Christ is alive! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ Ascended Lord
 He rules the world His Father made,
 Till, in the end, His love adored
 Shall be to all on earth displayed.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 336. There Is a Fountain - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 336. There Is a Fountain. 1. There is a fountain filled with blood drawn from Emmanuel’s veins; And sinners plunged beneath that flood lose all their guilty stains. Lose all their guilty stains, lose all their guilty stains; And sinners plunged beneath that flood lose all their guilty stains.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There Is a Fountain, There is a fountain filled with blood drawn from Emmanuel’s veins; 
+    description: |
+      SDAH 336. There Is a Fountain. 1. There is a fountain filled with blood drawn from Emmanuel’s veins; And sinners plunged beneath that flood lose all their guilty stains. Lose all their guilty stains, lose all their guilty stains; And sinners plunged beneath that flood lose all their guilty stains.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There Is a Fountain, There is a fountain filled with blood drawn from Emmanuel’s veins; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ There in a nobler, sweeter song, I’ll sing Thy power to save,
 When this poor lisping, stammering tongue is ransomed from the the grave.
 Is ransomed from the grave, is ransomed from the grace;
 When this poor lisping, stammering tongue is ransomed from the the grave.
+
 
 
 ```

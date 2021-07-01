@@ -1,8 +1,10 @@
 ---
 title: 303. Beneath the Cross of Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 303. Beneath the Cross of Jesus. 1. Beneath the cross of Jesus I fain would take my stand, the shadow of a mighty rock within a weary land; a home within the wilderness, a rest upon the way, from the burning of the noontide heat, and the burden of the day.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Beneath the Cross of Jesus, Beneath the cross of Jesus 
+    description: |
+      SDAH 303. Beneath the Cross of Jesus. 1. Beneath the cross of Jesus I fain would take my stand, the shadow of a mighty rock within a weary land; a home within the wilderness, a rest upon the way, from the burning of the noontide heat, and the burden of the day.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Beneath the Cross of Jesus, Beneath the cross of Jesus 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ content to let the world go by,
 to know no gain nor loss,
 my sinful self my only shame,
 my glory all the cross.
+
 
 
 ```

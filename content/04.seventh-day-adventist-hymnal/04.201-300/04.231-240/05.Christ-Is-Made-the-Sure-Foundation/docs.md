@@ -1,8 +1,10 @@
 ---
 title: 235. Christ Is Made the Sure Foundation - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 235. Christ Is Made the Sure Foundation. 1. Christ is made the sure foundation, Christ the head and cornerstone, chosen of the Lord, and precious, binding all the Church in one; holy Zion’s help for ever, and her confidence alone.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Is Made the Sure Foundation, Christ is made the sure foundation, 
+    description: |
+      SDAH 235. Christ Is Made the Sure Foundation. 1. Christ is made the sure foundation, Christ the head and cornerstone, chosen of the Lord, and precious, binding all the Church in one; holy Zion’s help for ever, and her confidence alone.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Is Made the Sure Foundation, Christ is made the sure foundation, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ laud and honor to the Spirit,
 ever Three, and ever One,
 con-substantial, co-eternal,
 while unending ages run.
+
 
 
 ```

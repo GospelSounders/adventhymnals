@@ -1,8 +1,10 @@
 ---
 title: 138. Rise Up, Shepherd, and Follow - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 138. Rise Up, Shepherd, and Follow. 1. There’s a star in the east on Christmas morn. Rise up, shepherd, and follow. It will lead to the place and where the Saviour’s born, Rise up, shepherd, and follow. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rise Up, Shepherd, and Follow, There’s a star in the east on Christmas morn. ,Leave your sheep and leave your lambs,
+    description: |
+      SDAH 138. Rise Up, Shepherd, and Follow. 1. There’s a star in the east on Christmas morn. Rise up, shepherd, and follow. It will lead to the place and where the Saviour’s born, Rise up, shepherd, and follow. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rise Up, Shepherd, and Follow, There’s a star in the east on Christmas morn. ,Leave your sheep and leave your lambs,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -47,6 +50,7 @@ Follow, follow,
 Rise up shepherd, and follow.
 Follow the star of Bethlehem,
 Rise up, shepherd, and follow.
+
 
 
 

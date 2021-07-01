@@ -1,8 +1,10 @@
 ---
 title: 308. Wholly Thine - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 308. Wholly Thine. 1. I would be, dear Savior, wholly Thine; Teach me how, teach me how; I would do Thy will, O Lord, not mine; Help me, help me now. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wholly Thine, I would be, dear Savior, wholly Thine; ,Wholly Thine, wholly Thine,
+    description: |
+      SDAH 308. Wholly Thine. 1. I would be, dear Savior, wholly Thine; Teach me how, teach me how; I would do Thy will, O Lord, not mine; Help me, help me now. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wholly Thine, I would be, dear Savior, wholly Thine; ,Wholly Thine, wholly Thine,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Wholly Thine, wholly Thine,
 Wholly Thine, this is my vow;
 Wholly Thine, wholly Thine,
 Wholly Thine, O Lord, just now.
+
 
 
 

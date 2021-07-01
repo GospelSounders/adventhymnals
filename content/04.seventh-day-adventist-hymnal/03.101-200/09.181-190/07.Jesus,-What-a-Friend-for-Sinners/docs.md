@@ -1,8 +1,10 @@
 ---
 title: 187. Jesus, What a Friend for Sinners - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 187. Jesus, What a Friend for Sinners. 1. Jesus! what a Friend for sinners! Jesus! Lover of my soul; Friends may fail me, foes assail me, He, my Savior, makes me whole. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, What a Friend for Sinners, Jesus! what a Friend for sinners! ,Hallelujah! what a Savior!
+    description: |
+      SDAH 187. Jesus, What a Friend for Sinners. 1. Jesus! what a Friend for sinners! Jesus! Lover of my soul; Friends may fail me, foes assail me, He, my Savior, makes me whole. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, What a Friend for Sinners, Jesus! what a Friend for sinners! ,Hallelujah! what a Savior!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -65,6 +68,7 @@ Hallelujah! what a Savior!
 Hallelujah! what a Friend!
 Saving, helping, keeping, loving,
 He is with me to the end.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 444. I`m a Pilgrim - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 444. I`m a Pilgrim. 1. I’m a pilgrim, and I’m a stranger; I can tarry, I can tarry but a night; Do not detain me, for I am going To where the fountains are ever flowing. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`m a Pilgrim, I’m a pilgrim, and I’m a stranger; ,I’m a pilgrim, and I’m a stranger;
+    description: |
+      SDAH 444. I`m a Pilgrim. 1. I’m a pilgrim, and I’m a stranger; I can tarry, I can tarry but a night; Do not detain me, for I am going To where the fountains are ever flowing. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`m a Pilgrim, I’m a pilgrim, and I’m a stranger; ,I’m a pilgrim, and I’m a stranger;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ Nor any tears there, or any dying.
 Refrain:
 I’m a pilgrim, and I’m a stranger;
 I can tarry, I can tarry but a night.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 296. Lord, I`m Coming Home - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 296. Lord, I`m Coming Home. 1. I’ve wandered far away from God, Now I’m coming home; The paths of sin too long I’ve trod; Lord, I’m coming home. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, I`m Coming Home, I’ve wandered far away from God, ,Coming home, coming home
+    description: |
+      SDAH 296. Lord, I`m Coming Home. 1. I’ve wandered far away from God, Now I’m coming home; The paths of sin too long I’ve trod; Lord, I’m coming home. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, I`m Coming Home, I’ve wandered far away from God, ,Coming home, coming home
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -77,6 +80,7 @@ Coming home, coming home
 Never more to roam;
 Open wide Thine arms of love;
 Lord I’m coming home.
+
 
 
 

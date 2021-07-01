@@ -1,8 +1,10 @@
 ---
 title: 114. There`s a Wideness - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 114. There`s a Wideness. 1. There’s a wideness, in God’s mercy, like the wideness of the sea; There is mercy, with the Savior, Which is more than liberty.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`s a Wideness, There’s a wideness, in God’s mercy, 
+    description: |
+      SDAH 114. There`s a Wideness. 1. There’s a wideness, in God’s mercy, like the wideness of the sea; There is mercy, with the Savior, Which is more than liberty.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`s a Wideness, There’s a wideness, in God’s mercy, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ If our love were but more simple,
 We should take Him at His word;
 And our lives would be all sunshine,
 In the sweetness of our Lord.
+
 
 
 ```

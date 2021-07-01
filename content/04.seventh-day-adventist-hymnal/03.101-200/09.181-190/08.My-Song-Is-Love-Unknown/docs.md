@@ -1,8 +1,10 @@
 ---
 title: 188. My Song Is Love Unknown - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 188. My Song Is Love Unknown. 1. My song is love unknown, My Savior’s love to me, Love to the loveless shown, That they might lovely be. O who am I that for my sake My Lord should take frail flesh and die?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Song Is Love Unknown, My song is love unknown, 
+    description: |
+      SDAH 188. My Song Is Love Unknown. 1. My song is love unknown, My Savior’s love to me, Love to the loveless shown, That they might lovely be. O who am I that for my sake My Lord should take frail flesh and die?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Song Is Love Unknown, My song is love unknown, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -60,6 +63,7 @@ Never was love, dear King,
 Never was grief like Thine!
 This is my Friend, in whose sweet praise
 I all my days could gladly spend.
+
 
 
 ```

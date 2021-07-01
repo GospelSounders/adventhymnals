@@ -1,8 +1,10 @@
 ---
 title: 507. Moment by Moment - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 507. Moment by Moment. 1. Dying with Jesus, by death reckoned mine, Living with Jesus, a new life divine, Looking to Jesus till glory doth shine, Moment by moment, O Lord, I am Thine. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Moment by Moment, Dying with Jesus, by death reckoned mine, ,Moment by moment I’m kept in His love;
+    description: |
+      SDAH 507. Moment by Moment. 1. Dying with Jesus, by death reckoned mine, Living with Jesus, a new life divine, Looking to Jesus till glory doth shine, Moment by moment, O Lord, I am Thine. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Moment by Moment, Dying with Jesus, by death reckoned mine, ,Moment by moment I’m kept in His love;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Moment by moment I’m kept in His love;
 Moment by moment I’ve life from above;
 Looking to Jesus till glory doth shine;
 Moment by moment, O Lord, I am Thine.
+
 
 
 

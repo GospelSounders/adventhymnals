@@ -1,8 +1,10 @@
 ---
 title: 283. O Jesus, Thou Art Standing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 283. O Jesus, Thou Art Standing. 1. O Jesus, thou art standing, outside the fast closed door, in lowly patience waiting to pass the threshold o’er: O shame, professing Christians, his Name and sign who bear, O shame, thrice shame upon us, to keep him standing there!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Jesus, Thou Art Standing, O Jesus, thou art standing, 
+    description: |
+      SDAH 283. O Jesus, Thou Art Standing. 1. O Jesus, thou art standing, outside the fast closed door, in lowly patience waiting to pass the threshold o’er: O shame, professing Christians, his Name and sign who bear, O shame, thrice shame upon us, to keep him standing there!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Jesus, Thou Art Standing, O Jesus, thou art standing, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ O Lord, with shame and sorrow
 we open now the door;
 dear Savior, enter, enter,
 and leave us never more.
+
 
 
 ```

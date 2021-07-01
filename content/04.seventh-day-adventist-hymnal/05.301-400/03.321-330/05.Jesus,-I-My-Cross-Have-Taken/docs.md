@@ -1,8 +1,10 @@
 ---
 title: 325. Jesus, I My Cross Have Taken - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 325. Jesus, I My Cross Have Taken. 1. Jesus, I my cross have taken, all to leave and follow Thee. All things else I have forsaken, Thou from hence my all shall be. Perish every fond ambition, all I’ve sought or hoped or known. Yet how rich is my condition! God and Heaven are still mine own.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, I My Cross Have Taken, Jesus, I my cross have taken, all to leave and follow Thee. 
+    description: |
+      SDAH 325. Jesus, I My Cross Have Taken. 1. Jesus, I my cross have taken, all to leave and follow Thee. All things else I have forsaken, Thou from hence my all shall be. Perish every fond ambition, all I’ve sought or hoped or known. Yet how rich is my condition! God and Heaven are still mine own.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, I My Cross Have Taken, Jesus, I my cross have taken, all to leave and follow Thee. 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Haste then on from grace to glory, armed by faith, and winged by prayer,
 Heaven’s eternal day’s before thee, God’s own hand shall guide thee there.
 Soon shall close thy earthly mission, soon shall pass thy pilgrim days;
 Hope soon change to glad fruition, faith to sight, and prayer to praise.
+
 
 
 ```

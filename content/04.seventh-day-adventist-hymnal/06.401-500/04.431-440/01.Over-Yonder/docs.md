@@ -1,8 +1,10 @@
 ---
 title: 431. Over Yonder - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 431. Over Yonder. 1. Come let us sing of homeland, Down by the crystal sea; Wonderful land where Jesus Buildeth a mansion for me. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Over Yonder, Come let us sing of homeland, ,Over yonder, down by the crystal sea,
+    description: |
+      SDAH 431. Over Yonder. 1. Come let us sing of homeland, Down by the crystal sea; Wonderful land where Jesus Buildeth a mansion for me. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Over Yonder, Come let us sing of homeland, ,Over yonder, down by the crystal sea,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -63,6 +66,7 @@ No more sorrow, toil, grief, nor care,
 In the homeland bright and fair,
 Over, over there.
 Over there.
+
 
 
 

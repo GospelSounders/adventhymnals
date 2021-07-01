@@ -1,8 +1,10 @@
 ---
 title: 56. The Day Thou Gavest - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 56. The Day Thou Gavest. 1. The day Thou gavest, Lord, is ended; the darkness falls at Thy behest; to Thee our morning hymns ascended; Thy praise shall hallow now our rest.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Day Thou Gavest, The day Thou gavest, Lord, is ended; 
+    description: |
+      SDAH 56. The Day Thou Gavest. 1. The day Thou gavest, Lord, is ended; the darkness falls at Thy behest; to Thee our morning hymns ascended; Thy praise shall hallow now our rest.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Day Thou Gavest, The day Thou gavest, Lord, is ended; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ So be it, Lord; Thy throne shall never,
 like earth’s proud empires, pass away.
 Thy kingdom stands, and grows forever,
 till all Thy creatures own Thy sway.
+
 
 
 ```

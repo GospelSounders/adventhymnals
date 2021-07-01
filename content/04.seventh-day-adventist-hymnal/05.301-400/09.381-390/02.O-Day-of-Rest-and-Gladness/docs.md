@@ -1,8 +1,10 @@
 ---
 title: 382. O Day of Rest and Gladness - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 382. O Day of Rest and Gladness. 1. O day of rest and gladness, O day of joy and light, O balm of care and sadness, most beautiful, most bright; on thee, the high and lowly, who bend before throne, sing, “Holy, holy, holy,” to the Eternal One.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Day of Rest and Gladness, O day of rest and gladness, 
+    description: |
+      SDAH 382. O Day of Rest and Gladness. 1. O day of rest and gladness, O day of joy and light, O balm of care and sadness, most beautiful, most bright; on thee, the high and lowly, who bend before throne, sing, “Holy, holy, holy,” to the Eternal One.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Day of Rest and Gladness, O day of rest and gladness, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ New graces ever gaining
 from this our day of rest,
 We reach the rest remaining
 in mansions of the blessed.
+
 
 
 ```

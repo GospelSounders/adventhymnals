@@ -1,8 +1,10 @@
 ---
 title: 314. Just as I Am - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 314. Just as I Am. 1. Just as I am, without one plea, but that thy blood was shed for me, and that thou bidst me come to thee, O Lamb of God, I come, I come.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Just as I Am, Just as I am, without one plea, 
+    description: |
+      SDAH 314. Just as I Am. 1. Just as I am, without one plea, but that thy blood was shed for me, and that thou bidst me come to thee, O Lamb of God, I come, I come.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Just as I Am, Just as I am, without one plea, 
     author: Brian Onang'o
 ---
 

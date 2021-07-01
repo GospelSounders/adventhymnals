@@ -1,8 +1,10 @@
 ---
 title: 371. Lift Him Up - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 371. Lift Him Up. 1. Lift Him up, ’tis He that bids you, Let the dying look and live; To all weary, thirsting sinners, Living waters will He give; And though once so meek and lowly, Yet the Prince of heaven was He; And the blind, who grope in darkness, Through the blood of Christ shall see. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lift Him Up, Lift Him up, ’tis He that bids you, ,Lift Him up, the risen Savior,
+    description: |
+      SDAH 371. Lift Him Up. 1. Lift Him up, ’tis He that bids you, Let the dying look and live; To all weary, thirsting sinners, Living waters will He give; And though once so meek and lowly, Yet the Prince of heaven was He; And the blind, who grope in darkness, Through the blood of Christ shall see. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lift Him Up, Lift Him up, ’tis He that bids you, ,Lift Him up, the risen Savior,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -80,6 +83,7 @@ Lift Him up, the risen Savior,
 High amid the waiting throng;
 Lift Him up, ’tis He that speaketh,
 Now He bids you flee from wrong.
+
 
 
 

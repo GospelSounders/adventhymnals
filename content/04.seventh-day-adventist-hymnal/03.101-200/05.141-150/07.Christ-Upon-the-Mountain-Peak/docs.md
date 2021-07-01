@@ -1,8 +1,10 @@
 ---
 title: 147. Christ Upon the Mountain Peak - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 147. Christ Upon the Mountain Peak. 1. Christ upon the mountain peak Stands alone in glory blazing; Let us, if we dare to speak, With the saints and angels praise Him: 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Upon the Mountain Peak, Christ upon the mountain peak ,Alleluia, Alleluia, Alleluia.
+    description: |
+      SDAH 147. Christ Upon the Mountain Peak. 1. Christ upon the mountain peak Stands alone in glory blazing; Let us, if we dare to speak, With the saints and angels praise Him: 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Upon the Mountain Peak, Christ upon the mountain peak ,Alleluia, Alleluia, Alleluia.
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -70,6 +73,7 @@ Alleluia, Alleluia, Alleluia.
 
 Refrain:
 Alleluia, Alleluia, Alleluia.
+
 
 
 ```

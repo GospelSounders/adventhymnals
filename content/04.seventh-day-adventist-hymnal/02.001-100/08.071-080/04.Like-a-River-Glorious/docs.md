@@ -1,8 +1,10 @@
 ---
 title: 74. Like a River Glorious - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 74. Like a River Glorious. 1. Like a river glorious, is God’s perfect peace, Over all victorious, in its bright increase; Perfect, yet it floweth, fuller every day, Perfect, yet it groweth, deeper all the way. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Like a River Glorious, Like a river glorious, is God’s perfect peace, ,Stayed upon Jehovah, hearts are fully blessed
+    description: |
+      SDAH 74. Like a River Glorious. 1. Like a river glorious, is God’s perfect peace, Over all victorious, in its bright increase; Perfect, yet it floweth, fuller every day, Perfect, yet it groweth, deeper all the way. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Like a River Glorious, Like a river glorious, is God’s perfect peace, ,Stayed upon Jehovah, hearts are fully blessed
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ They who trust Him wholly find Him wholly true.
 Refrain:
 Stayed upon Jehovah, hearts are fully blessed
 Finding, as He promised, perfect peace and rest.
+
 
 
 

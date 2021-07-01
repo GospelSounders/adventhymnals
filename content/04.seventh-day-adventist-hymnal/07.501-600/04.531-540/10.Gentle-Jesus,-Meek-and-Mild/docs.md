@@ -1,8 +1,10 @@
 ---
 title: 540. Gentle Jesus, Meek and Mild - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 540. Gentle Jesus, Meek and Mild. 1. Gentle Jesus, meek and mild, Look upon a little child; Pity my simplicity, Suffer me to come to Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Gentle Jesus, Meek and Mild, Gentle Jesus, meek and mild, 
+    description: |
+      SDAH 540. Gentle Jesus, Meek and Mild. 1. Gentle Jesus, meek and mild, Look upon a little child; Pity my simplicity, Suffer me to come to Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Gentle Jesus, Meek and Mild, Gentle Jesus, meek and mild, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ I shall then show forth Thy praise,
 Serve Thee all my happy days;
 Then the world shall always see
 Christ, the Holy Child, in me.
+
 
 
 ```

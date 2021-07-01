@@ -1,8 +1,10 @@
 ---
 title: 478. Sweet Hour of Prayer - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 478. Sweet Hour of Prayer. 1. Sweet hour of prayer! sweet hour of prayer! that calls me from a world of care, and bids me at my Father’s throne make all my wants and wishes known. In seasons of distress and grief, my soul has often found relief, and oft escaped the tempter’s snare by thy return, sweet hour of prayer!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sweet Hour of Prayer, Sweet hour of prayer! sweet hour of prayer! 
+    description: |
+      SDAH 478. Sweet Hour of Prayer. 1. Sweet hour of prayer! sweet hour of prayer! that calls me from a world of care, and bids me at my Father’s throne make all my wants and wishes known. In seasons of distress and grief, my soul has often found relief, and oft escaped the tempter’s snare by thy return, sweet hour of prayer!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sweet Hour of Prayer, Sweet hour of prayer! sweet hour of prayer! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ In my immortal flesh I’ll rise
 To size the everlasting prize.
 And shout while passing through the air,
 “Farewell, farewell, sweet hour of prayer!”
+
 
 
 ```

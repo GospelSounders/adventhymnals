@@ -1,8 +1,10 @@
 ---
 title: 432. Shall We Gather at the River - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 432. Shall We Gather at the River. 1. Shall we gather at the river, where bright angel feet have trod, with its crystal tide forever flowing by the throne of God? 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Shall We Gather at the River, Shall we gather at the river, ,Yes, we’ll gather at the river,
+    description: |
+      SDAH 432. Shall We Gather at the River. 1. Shall we gather at the river, where bright angel feet have trod, with its crystal tide forever flowing by the throne of God? 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Shall We Gather at the River, Shall we gather at the river, ,Yes, we’ll gather at the river,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Yes, we’ll gather at the river,
 the beautiful, the beautiful river;
 gather with the saints at the river
 that flows by the throne of God.
+
 
 
 

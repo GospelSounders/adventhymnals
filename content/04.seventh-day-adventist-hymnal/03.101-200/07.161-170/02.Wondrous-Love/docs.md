@@ -1,8 +1,10 @@
 ---
 title: 162. Wondrous Love - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 162. Wondrous Love. 1. What wondrous love is this, O my soul, O my soul? What wondrous love is this, O my soul? What wondrous love is this That caused the Lord of bliss To bear the dreadful curse for my soul, for my soul; To bear the dreadful curse for my soul, for my soul;
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wondrous Love, What wondrous love is this, 
+    description: |
+      SDAH 162. Wondrous Love. 1. What wondrous love is this, O my soul, O my soul? What wondrous love is this, O my soul? What wondrous love is this That caused the Lord of bliss To bear the dreadful curse for my soul, for my soul; To bear the dreadful curse for my soul, for my soul;
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Wondrous Love, What wondrous love is this, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -39,6 +42,7 @@ And when from death I’m free,
 I’ll sing and joyful be,
 And through eternity I’ll sing on, I’ll sing on!
 And through eternity, I’ll sing on.
+
 
 
 ```

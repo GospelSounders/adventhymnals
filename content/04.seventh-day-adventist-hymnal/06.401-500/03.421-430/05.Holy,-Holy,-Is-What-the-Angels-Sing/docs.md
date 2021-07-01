@@ -1,8 +1,10 @@
 ---
 title: 425. Holy, Holy, Is What the Angels Sing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 425. Holy, Holy, Is What the Angels Sing. 1. There is singing up in heaven such as we have never known, Where the angels sing the praises of the Lamb upon the throne; Their sweet harps are ever tuneful and their voices are always clear, O that we might be more like them while we serve the Master here! 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy, Holy, Is What the Angels Sing, There is singing up in heaven ,Holy, holy, is what the angels sing,
+    description: |
+      SDAH 425. Holy, Holy, Is What the Angels Sing. 1. There is singing up in heaven such as we have never known, Where the angels sing the praises of the Lamb upon the throne; Their sweet harps are ever tuneful and their voices are always clear, O that we might be more like them while we serve the Master here! 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy, Holy, Is What the Angels Sing, There is singing up in heaven ,Holy, holy, is what the angels sing,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -92,6 +95,7 @@ But when I sing redemption’s story,
 they will fold their wings,
 For angels never felt the joys
 that our salvation brings.
+
 
 
 

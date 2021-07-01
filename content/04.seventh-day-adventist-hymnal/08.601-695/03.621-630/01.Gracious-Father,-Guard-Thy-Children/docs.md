@@ -1,8 +1,10 @@
 ---
 title: 621. Gracious Father, Guard Thy Children - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 621. Gracious Father, Guard Thy Children. 1. Gracious Father, guard Thy children From the foe’s destructive power; Save, O save them, Lord, from falling In this dark and trying hour. Thou wilt surely prove Thy people, All our graces must be tried; But Thy word illumes our pathway, And in God we still confide.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Gracious Father, Guard Thy Children, Gracious Father, guard Thy children 
+    description: |
+      SDAH 621. Gracious Father, Guard Thy Children. 1. Gracious Father, guard Thy children From the foe’s destructive power; Save, O save them, Lord, from falling In this dark and trying hour. Thou wilt surely prove Thy people, All our graces must be tried; But Thy word illumes our pathway, And in God we still confide.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Gracious Father, Guard Thy Children, Gracious Father, guard Thy children 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Freedom from this world’s pollutions;
 Freedom from all sin and pain;
 Freedom from the wiles of Satan,
 And from death’s destructive reign.
+
 
 
 ```

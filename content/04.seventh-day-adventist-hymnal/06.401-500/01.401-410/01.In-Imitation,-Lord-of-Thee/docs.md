@@ -1,8 +1,10 @@
 ---
 title: 401. In Imitation, Lord of Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 401. In Imitation, Lord of Thee. 1. In imitation, Lord, of Thee, This solemn service we repeat; For Thine example full of grace, Has made this humble duty sweet.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In Imitation, Lord of Thee, In imitation, Lord, of Thee, 
+    description: |
+      SDAH 401. In Imitation, Lord of Thee. 1. In imitation, Lord, of Thee, This solemn service we repeat; For Thine example full of grace, Has made this humble duty sweet.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In Imitation, Lord of Thee, In imitation, Lord, of Thee, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Our great example Thou shalt be,
 In washing Thy disciples feet;
 And as we follow Thy command,
 Make Thou our fellowship complete.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 526. Because He Lives - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 526. Because He Lives. 1. God sent His Son, they called Him Jesus, He came to love, heal, and forgive; He lived and died to buy my pardon, An empty grave is there to prove my Savior lives. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Because He Lives, God sent His Son, they called Him Jesus, ,Because He lives I can face tomorrow,
+    description: |
+      SDAH 526. Because He Lives. 1. God sent His Son, they called Him Jesus, He came to love, heal, and forgive; He lived and died to buy my pardon, An empty grave is there to prove my Savior lives. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Because He Lives, God sent His Son, they called Him Jesus, ,Because He lives I can face tomorrow,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -38,6 +41,7 @@ Because He lives I can face tomorrow,
 Because He lives all fear is gone;
 Because I know He holds the future.
 And life is worth the living just because He lives.
+
 
 
 

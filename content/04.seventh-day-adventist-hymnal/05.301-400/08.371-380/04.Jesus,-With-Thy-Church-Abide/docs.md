@@ -1,8 +1,10 @@
 ---
 title: 374. Jesus, With Thy Church Abide - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 374. Jesus, With Thy Church Abide. 1. Jesus, with Thy church abide; Be her Savior, Lord, and Guide, While on earth her faith is tried: We beseech Thee, hear us.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, With Thy Church Abide, Jesus, with Thy church abide; 
+    description: |
+      SDAH 374. Jesus, With Thy Church Abide. 1. Jesus, with Thy church abide; Be her Savior, Lord, and Guide, While on earth her faith is tried: We beseech Thee, hear us.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, With Thy Church Abide, Jesus, with Thy church abide; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ May she holy triumps win,
 Overthrow the hosts of sin,
 Gather all the nations in:
 We beseech Thee, hear us.
+
 
 
 ```

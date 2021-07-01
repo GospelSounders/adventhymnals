@@ -1,8 +1,10 @@
 ---
 title: 33. Sing a New Song to the Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 33. Sing a New Song to the Lord. 1. Sing a new song to the Lord, He to whom wonders belong. Rejoice in His triumph and tell of His power. O sing a new song to the Lord.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sing a New Song to the Lord, Sing a new song to the Lord, 
+    description: |
+      SDAH 33. Sing a New Song to the Lord. 1. Sing a new song to the Lord, He to whom wonders belong. Rejoice in His triumph and tell of His power. O sing a new song to the Lord.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sing a New Song to the Lord, Sing a new song to the Lord, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -37,6 +40,7 @@ Thunders of praise to prolong.
 In judgement and justice
 He comes to the earth
 O sing a new song to the Lord.
+
 
 
 ```

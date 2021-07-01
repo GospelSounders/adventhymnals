@@ -1,8 +1,10 @@
 ---
 title: 495. Near to the Heart of God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 495. Near to the Heart of God. 1. There is a place of quiet rest, near to the heart of God; a place where sin cannot molest, near to the heart of God. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Near to the Heart of God, There is a place of quiet rest, ,O Jesus, blest Redeemer,
+    description: |
+      SDAH 495. Near to the Heart of God. 1. There is a place of quiet rest, near to the heart of God; a place where sin cannot molest, near to the heart of God. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Near to the Heart of God, There is a place of quiet rest, ,O Jesus, blest Redeemer,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ O Jesus, blest Redeemer,
 sent from the heart of God,
 hold us who wait before thee
 near to the heart of God.
+
 
 
 

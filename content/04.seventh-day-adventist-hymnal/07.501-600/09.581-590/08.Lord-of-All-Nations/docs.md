@@ -1,8 +1,10 @@
 ---
 title: 588. Lord of All Nations - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 588. Lord of All Nations. 1. Lord of all nations, grant me grace To love all people, every race, And in each person may I see My kindred loved, redeemed by Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of All Nations, Lord of all nations, grant me grace 
+    description: |
+      SDAH 588. Lord of All Nations. 1. Lord of all nations, grant me grace To love all people, every race, And in each person may I see My kindred loved, redeemed by Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of All Nations, Lord of all nations, grant me grace 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ With Thine own love may I be filled
 And by Thy Holy Spirit willed,
 That all I touch, where’er I be,
 May be divinely touched by Thee.
+
 
 
 ```

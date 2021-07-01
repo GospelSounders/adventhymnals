@@ -1,8 +1,10 @@
 ---
 title: 91. Ye Watchers and Ye Holy Ones - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 91. Ye Watchers and Ye Holy Ones. 1. Ye watchers and ye holy ones, Bright seraphs, cherubim and thrones, Raise the glad strain, Alleluia! Cry out, dominions, princedoms, powers, Virtues, archangels, angels’ choirs: 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Ye Watchers and Ye Holy Ones, Ye watchers and ye holy ones, ,Alleluia! Alleluia!
+    description: |
+      SDAH 91. Ye Watchers and Ye Holy Ones. 1. Ye watchers and ye holy ones, Bright seraphs, cherubim and thrones, Raise the glad strain, Alleluia! Cry out, dominions, princedoms, powers, Virtues, archangels, angels’ choirs: 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Ye Watchers and Ye Holy Ones, Ye watchers and ye holy ones, ,Alleluia! Alleluia!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Refrain:
 Alleluia! Alleluia!
 Alleluia! Alleluia!
 Alleluia!
+
 
 
 

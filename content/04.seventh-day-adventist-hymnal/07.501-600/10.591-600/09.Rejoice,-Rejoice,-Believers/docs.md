@@ -1,8 +1,10 @@
 ---
 title: 599. Rejoice, Rejoice, Believers - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 599. Rejoice, Rejoice, Believers. 1. Rejoice, rejoice, believers, and let your lights appear: The evening is advancing, and darker night is near. The Bridegroom is arising, and soon He draweth nigh. Up, pray, and watch, and wrestle, at midnight comes the cry.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rejoice, Rejoice, Believers, Rejoice, rejoice, believers, and let your lights appear; 
+    description: |
+      SDAH 599. Rejoice, Rejoice, Believers. 1. Rejoice, rejoice, believers, and let your lights appear: The evening is advancing, and darker night is near. The Bridegroom is arising, and soon He draweth nigh. Up, pray, and watch, and wrestle, at midnight comes the cry.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rejoice, Rejoice, Believers, Rejoice, rejoice, believers, and let your lights appear; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Our hope and expectation, O Jesus, now appear;
 Arise, O sun so longed for, o’er this benighted sphere!
 With hearts and hands uplifted, we plead, O Lord, to see
 The day of earth’s redemption that brings us unto Thee.
+
 
 
 ```

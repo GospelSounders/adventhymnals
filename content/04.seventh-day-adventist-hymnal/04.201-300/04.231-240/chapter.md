@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 231-240
 metadata:
-    description: Seventh Day Adventist Hymnal - 231-240
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 231-240
+    description: |
+      Seventh Day Adventist Hymnal - 231-240
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 231-240
     author: Brian Onang'o
 ---
 

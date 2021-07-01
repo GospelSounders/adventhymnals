@@ -1,8 +1,10 @@
 ---
 title: 44. Morning Has Broken - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 44. Morning Has Broken. 1. Morning has broken like the first morning, Blackbird has spoken like the first bird. Praise for the singing!Praise for the morning! Praise for the springing fresh from the Word!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Morning Has Broken, Morning has broken like the first morning, 
+    description: |
+      SDAH 44. Morning Has Broken. 1. Morning has broken like the first morning, Blackbird has spoken like the first bird. Praise for the singing!Praise for the morning! Praise for the springing fresh from the Word!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Morning Has Broken, Morning has broken like the first morning, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Mine is the sunlight! Mine is the morning
 Born of the one light Eden saw play!
 Praise with elation, Praise every morning,
 God’s recreation of the new day!
+
 
 
 ```

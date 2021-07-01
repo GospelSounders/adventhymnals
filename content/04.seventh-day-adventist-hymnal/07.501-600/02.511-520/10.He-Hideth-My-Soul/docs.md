@@ -1,8 +1,10 @@
 ---
 title: 520. He Hideth My Soul - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 520. He Hideth My Soul. 1. A wonderful Savior is Jesus my Lord, A wonderful Savior to me, He hideth my soul in the cleft of the rock, Where rivers of pleasure I see. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, He Hideth My Soul, A wonderful Savior is Jesus my Lord, ,He hideth my soul in the cleft of the rock
+    description: |
+      SDAH 520. He Hideth My Soul. 1. A wonderful Savior is Jesus my Lord, A wonderful Savior to me, He hideth my soul in the cleft of the rock, Where rivers of pleasure I see. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, He Hideth My Soul, A wonderful Savior is Jesus my Lord, ,He hideth my soul in the cleft of the rock
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -68,6 +71,7 @@ That shadows a dry, thirsty land;
 he hideth my life in the depths of His love,
 And covers me there with His hand,
 And covers me there with His hand.
+
 
 
 

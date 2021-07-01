@@ -1,8 +1,10 @@
 ---
 title: 183. I Will Sing of Jesus` Love - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 183. I Will Sing of Jesus` Love. 1. I Will sing of Jesus love, Sing of Him,who first loved me; for He left bright worlds above, And died on Calvary. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Will Sing of Jesus` Love, I Will sing of Jesus love, ,I will sing of Jesus love
+    description: |
+      SDAH 183. I Will Sing of Jesus` Love. 1. I Will sing of Jesus love, Sing of Him,who first loved me; for He left bright worlds above, And died on Calvary. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Will Sing of Jesus` Love, I Will sing of Jesus love, ,I will sing of Jesus love
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ I will sing of Jesus love
 Endless praise my heart shall give;
 He has died that I might live
 I will sing His love to me.
+
 
 
 

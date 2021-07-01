@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 371-380
 metadata:
-    description: Seventh Day Adventist Hymnal - 371-380
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 371-380
+    description: |
+      Seventh Day Adventist Hymnal - 371-380
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 371-380
     author: Brian Onang'o
 ---
 

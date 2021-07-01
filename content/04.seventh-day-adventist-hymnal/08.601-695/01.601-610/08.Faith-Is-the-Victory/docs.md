@@ -1,8 +1,10 @@
 ---
 title: 608. Faith Is the Victory - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 608. Faith Is the Victory. 1. Encamped along the hills of light, Ye Christian soldiers, rise, And press the battle ere the night Shall veil the glowing skies. Against the foe in vales below, Let all our strength be hurled; Faith is the victory, we know, That overcomes the world. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Faith Is the Victory, Encamped along the hills of light, ,Faith is the victory!
+    description: |
+      SDAH 608. Faith Is the Victory. 1. Encamped along the hills of light, Ye Christian soldiers, rise, And press the battle ere the night Shall veil the glowing skies. Against the foe in vales below, Let all our strength be hurled; Faith is the victory, we know, That overcomes the world. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Faith Is the Victory, Encamped along the hills of light, ,Faith is the victory!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -63,6 +66,7 @@ Faith is the victory!
 Faith is the victory!
 Oh, glorious victory
 That overcomes the world.
+
 
 
 

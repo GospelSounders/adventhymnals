@@ -1,8 +1,10 @@
 ---
 title: 62. How Lovely Is Thy Dwelling Place - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 62. How Lovely Is Thy Dwelling Place. 1. How lovely is Thy dwelling place, O Lord of hosts to me! The tabenacles of Thy grace How pleasant, Lord, they be!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Lovely Is Thy Dwelling Place, How lovely is Thy dwelling place, 
+    description: |
+      SDAH 62. How Lovely Is Thy Dwelling Place. 1. How lovely is Thy dwelling place, O Lord of hosts to me! The tabenacles of Thy grace How pleasant, Lord, they be!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Lovely Is Thy Dwelling Place, How lovely is Thy dwelling place, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Blest are they in Thy house that dwell,
 They ever give Thee praise.
 Blest is the man whose strength Thou art,
 In whose heart are Thy ways.
+
 
 
 ```

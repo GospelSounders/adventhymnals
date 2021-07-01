@@ -1,8 +1,10 @@
 ---
 title: 530. It Is Well With My Soul - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 530. It Is Well With My Soul. 1. When peace, like a river, attendeth my way, when sorrows like sea billows roll; whatever my lot, thou hast taught me to say, It is well, it is well with my soul. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, It Is Well With My Soul, When peace, like a river, attendeth my way, ,It is well with my soul,
+    description: |
+      SDAH 530. It Is Well With My Soul. 1. When peace, like a river, attendeth my way, when sorrows like sea billows roll; whatever my lot, thou hast taught me to say, It is well, it is well with my soul. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, It Is Well With My Soul, When peace, like a river, attendeth my way, ,It is well with my soul,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ even so, it is well with my soul.
 Refrain:
 It is well with my soul,
 it is well, it is well with my soul.
+
 
 
 

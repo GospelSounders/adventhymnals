@@ -1,8 +1,10 @@
 ---
 title: 319. Lord, I Want to Be a Christian - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 319. Lord, I Want to Be a Christian. 1. Lord, I want to be a Christian in my heart, in my heart, Lord, I want to be a Christian in my heart, in my heart. In my heart, in my heart, Lord, I want to be a Christian in my heart, in my heart.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, I Want to Be a Christian, Lord, I want to be a Christian in my heart, in my heart, 
+    description: |
+      SDAH 319. Lord, I Want to Be a Christian. 1. Lord, I want to be a Christian in my heart, in my heart, Lord, I want to be a Christian in my heart, in my heart. In my heart, in my heart, Lord, I want to be a Christian in my heart, in my heart.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, I Want to Be a Christian, Lord, I want to be a Christian in my heart, in my heart, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Lord, I want to be more like Jesus in my heart, in my heart,
 Lord, I want to be more like Jesus in my heart, in my heart.
 In my heart, in my heart,
 Lord, I want to be more like Jesus in my heart, in my heart.
+
 
 
 ```

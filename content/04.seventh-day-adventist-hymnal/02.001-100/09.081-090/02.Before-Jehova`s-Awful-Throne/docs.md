@@ -1,8 +1,10 @@
 ---
 title: 82. Before Jehova`s Awful Throne - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 82. Before Jehova`s Awful Throne. 1. Before Jehovah’s awful throne, Ye nations, bow with sacred joy; Know that the Lord is God alone; He can create, and He destroy.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Before Jehova`s Awful Throne, Before Jehovah’s awful throne, 
+    description: |
+      SDAH 82. Before Jehova`s Awful Throne. 1. Before Jehovah’s awful throne, Ye nations, bow with sacred joy; Know that the Lord is God alone; He can create, and He destroy.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Before Jehova`s Awful Throne, Before Jehovah’s awful throne, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Wide as the world is His command,
 Vast as Eternity His love;
 Firm as a rock His truth shall stand,
 When rolling years shall cease to move.
+
 
 
 ```

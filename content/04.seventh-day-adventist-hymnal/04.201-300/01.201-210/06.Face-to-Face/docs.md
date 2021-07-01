@@ -1,8 +1,10 @@
 ---
 title: 206. Face to Face - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 206. Face to Face. 1. Face to face with Christ my Savior, Face to face, what will it be, When with rapture I behold Him, Jesus Christ, who died for me? 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Face to Face, Face to face with Christ my Savior, ,Face to face shall I behold Him,
+    description: |
+      SDAH 206. Face to Face. 1. Face to face with Christ my Savior, Face to face, what will it be, When with rapture I behold Him, Jesus Christ, who died for me? 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Face to Face, Face to face with Christ my Savior, ,Face to face shall I behold Him,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Face to face shall I behold Him,
 Far beyond the starry sky;
 Face to face in all His glory
 I shall see Him by and by!
+
 
 
 

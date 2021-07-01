@@ -1,8 +1,10 @@
 ---
 title: 101. Children of the Heavenly Father - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 101. Children of the Heavenly Father. 1. Children of the heavenly Father Safely in His bossom gather; Nestling bird nor star in heaven Such a refuge e’er was given.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Children of the Heavenly Father, Children of the heavenly Father 
+    description: |
+      SDAH 101. Children of the Heavenly Father. 1. Children of the heavenly Father Safely in His bossom gather; Nestling bird nor star in heaven Such a refuge e’er was given.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Children of the Heavenly Father, Children of the heavenly Father 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Though He giveth or He taketh,
 God His children ne’er forsaketh;
 His the loving purpose solely
 To preserve them pure and holy.
+
 
 
 ```

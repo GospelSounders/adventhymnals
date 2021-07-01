@@ -1,8 +1,10 @@
 ---
 title: 569. Pass Me Not, O Gentle Savior - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 569. Pass Me Not, O Gentle Savior. 1. Pass me not, O gentle Savior, hear my humble cry; while on others thou art calling, do not pass me by. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Pass Me Not, O Gentle Savior, Pass me not, O gentle Savior, ,Savior, Savior, hear my humble cry;
+    description: |
+      SDAH 569. Pass Me Not, O Gentle Savior. 1. Pass me not, O gentle Savior, hear my humble cry; while on others thou art calling, do not pass me by. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Pass Me Not, O Gentle Savior, Pass me not, O gentle Savior, ,Savior, Savior, hear my humble cry;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -60,6 +63,7 @@ Refrain:
 Savior, Savior, hear my humble cry;
 while on others thou art calling,
 do not pass me by.
+
 
 
 

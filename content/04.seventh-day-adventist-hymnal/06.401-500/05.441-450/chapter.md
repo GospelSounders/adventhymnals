@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 441-450
 metadata:
-    description: Seventh Day Adventist Hymnal - 441-450
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 441-450
+    description: |
+      Seventh Day Adventist Hymnal - 441-450
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 441-450
     author: Brian Onang'o
 ---
 

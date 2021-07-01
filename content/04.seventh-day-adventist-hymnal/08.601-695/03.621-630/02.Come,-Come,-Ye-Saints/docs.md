@@ -1,8 +1,10 @@
 ---
 title: 622. Come, Come, Ye Saints - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 622. Come, Come, Ye Saints. 1. Come, come, ye saints, no toil nor labor fear; But with joy wend your way. Though hard to you the journey may appear, Grace shall be as your day. We will have a living lord to guide, And we can trust Him to provide; Do this, and joy your hearts will swell:All is well! All is well!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Come, Ye Saints, Come, come, ye saints, no toil nor labor fear; 
+    description: |
+      SDAH 622. Come, Come, Ye Saints. 1. Come, come, ye saints, no toil nor labor fear; But with joy wend your way. Though hard to you the journey may appear, Grace shall be as your day. We will have a living lord to guide, And we can trust Him to provide; Do this, and joy your hearts will swell:All is well! All is well!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Come, Ye Saints, Come, come, ye saints, no toil nor labor fear; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -31,6 +34,7 @@ We will make the air with music ring,
 Shout praise to God our Lord and King:
 O how we’ll make the chorus swell:
 All is well! All is well!
+
 
 
 ```

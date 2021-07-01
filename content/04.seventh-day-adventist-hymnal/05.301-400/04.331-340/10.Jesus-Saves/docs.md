@@ -1,8 +1,10 @@
 ---
 title: 340. Jesus Saves - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 340. Jesus Saves. 1. We have heard a joyful sound, Jesus saves, Jesus saves; Spread the gladness all around, Jesus saves, Jesus saves; Bear the news to every land, Climb the steeps and cross the waves, Onward, ’tis our Lord’s command, Jesus saves, Jesus saves.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Saves, We have heard a joyful sound, 
+    description: |
+      SDAH 340. Jesus Saves. 1. We have heard a joyful sound, Jesus saves, Jesus saves; Spread the gladness all around, Jesus saves, Jesus saves; Bear the news to every land, Climb the steeps and cross the waves, Onward, ’tis our Lord’s command, Jesus saves, Jesus saves.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Saves, We have heard a joyful sound, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Shout salvation full and free,
 Highest hills and deepest caves,
 This our song of victory,
 Jesus saves, Jesus saves.
+
 
 
 ```

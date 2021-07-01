@@ -1,8 +1,10 @@
 ---
 title: 654. Lord, Bless Our Homes - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 654. Lord, Bless Our Homes. 1. Lord, bless our homes with peace and love and laughter, With understanding and with loyalty. May we together follow Christ the Master And know the blessing of His sov’reignty.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Bless Our Homes, Lord, bless our homes with peace and love and laughter, 
+    description: |
+      SDAH 654. Lord, Bless Our Homes. 1. Lord, bless our homes with peace and love and laughter, With understanding and with loyalty. May we together follow Christ the Master And know the blessing of His sov’reignty.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Bless Our Homes, Lord, bless our homes with peace and love and laughter, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Father, in gratitude for homes and loved one,
 We open now our hearts to all mankind.
 Grand us Your spirit love for one another
 So in Your peace may we our concord find.
+
 
 
 ```

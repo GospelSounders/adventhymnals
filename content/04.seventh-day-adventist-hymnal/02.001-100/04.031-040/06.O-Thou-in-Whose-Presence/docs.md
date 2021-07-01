@@ -1,8 +1,10 @@
 ---
 title: 36. O Thou in Whose Presence - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 36. O Thou in Whose Presence. 1. O Thou in whose presence my soul takes delight, On whom in affliction I call, My comfort by day and my song in the night, My hope, my salvation, my all!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Thou in Whose Presence, O Thou in whose presence my soul takes delight, 
+    description: |
+      SDAH 36. O Thou in Whose Presence. 1. O Thou in whose presence my soul takes delight, On whom in affliction I call, My comfort by day and my song in the night, My hope, my salvation, my all!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Thou in Whose Presence, O Thou in whose presence my soul takes delight, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ He looks, and ten thousands of angels rejoice,
 And myriads wait for His word;
 He speaks, and eternity, filled with His voice,
 Re-echoes the praise of the Lord.
+
 
 
 ```

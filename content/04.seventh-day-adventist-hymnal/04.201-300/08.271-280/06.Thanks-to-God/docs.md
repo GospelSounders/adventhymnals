@@ -1,8 +1,10 @@
 ---
 title: 276. Thanks to God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 276. Thanks to God. 1. Thanks to God whose Word was spoken In the deed that made the earth. His the voice that called a nation; His the fires that tried her worth. God has spoken; Praise Him For His open Word
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thanks to God, Thanks to God whose Word was spoken 
+    description: |
+      SDAH 276. Thanks to God. 1. Thanks to God whose Word was spoken In the deed that made the earth. His the voice that called a nation; His the fires that tried her worth. God has spoken; Praise Him For His open Word
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thanks to God, Thanks to God whose Word was spoken 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Here we drink of joy unmeasured,
 Life redeemed from death and sin.
 God has spoken;
 Praise Him For His open Word
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 291-300
 metadata:
-    description: Seventh Day Adventist Hymnal - 291-300
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 291-300
+    description: |
+      Seventh Day Adventist Hymnal - 291-300
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 291-300
     author: Brian Onang'o
 ---
 

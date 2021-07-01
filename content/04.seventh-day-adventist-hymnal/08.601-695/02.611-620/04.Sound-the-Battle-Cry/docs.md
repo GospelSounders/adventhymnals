@@ -1,8 +1,10 @@
 ---
 title: 614. Sound the Battle Cry - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 614. Sound the Battle Cry. 1. Sound the battle cry, See! the foe is nigh; Raise the standard high For the Lord; Gird your armor on, Stand firm, every one, Rest your cause upon His holy word. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sound the Battle Cry, Sound the battle cry, ,Rouse, then soldiers!
+    description: |
+      SDAH 614. Sound the Battle Cry. 1. Sound the battle cry, See! the foe is nigh; Raise the standard high For the Lord; Gird your armor on, Stand firm, every one, Rest your cause upon His holy word. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sound the Battle Cry, Sound the battle cry, ,Rouse, then soldiers!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -65,6 +68,7 @@ rally round the banner!
 Ready, steady, pass the word along;
 Onward, forward, shout aloud hosanna!
 Christ is Captain of the mighty throng.
+
 
 
 

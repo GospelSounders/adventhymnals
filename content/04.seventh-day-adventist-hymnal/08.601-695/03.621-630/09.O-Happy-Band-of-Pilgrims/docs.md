@@ -1,8 +1,10 @@
 ---
 title: 629. O Happy Band of Pilgrims - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 629. O Happy Band of Pilgrims. 1. O happy band of pilgrims, If onward ye will tread With Jesus as your fellow, To Jesus as your Head!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Happy Band of Pilgrims, O happy band of pilgrims, 
+    description: |
+      SDAH 629. O Happy Band of Pilgrims. 1. O happy band of pilgrims, If onward ye will tread With Jesus as your fellow, To Jesus as your Head!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Happy Band of Pilgrims, O happy band of pilgrims, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ O happy band of pilgrims,
 Look upward to the skies,
 Where such a light affliction
 Shall win you such a prize!
+
 
 
 ```

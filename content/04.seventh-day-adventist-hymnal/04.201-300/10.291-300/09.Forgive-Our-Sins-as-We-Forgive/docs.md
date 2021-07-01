@@ -1,8 +1,10 @@
 ---
 title: 299. Forgive Our Sins as We Forgive - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 299. Forgive Our Sins as We Forgive. 1. “Forgive our sins as we forgive,” You taught us, Lord, to pray; But You alone can grant us grace To live the words we say.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Forgive Our Sins as We Forgive, “Forgive our sins as we forgive,” 
+    description: |
+      SDAH 299. Forgive Our Sins as We Forgive. 1. “Forgive our sins as we forgive,” You taught us, Lord, to pray; But You alone can grant us grace To live the words we say.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Forgive Our Sins as We Forgive, “Forgive our sins as we forgive,” 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Lord, cleanse the depths within our souls
 And bid resentment cease;
 Then, by Your mercy reconciled,
 Our lives will spread Your peace.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 516. All the Way - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 516. All the Way. 1. All the way my Savior leads me; What have I to ask beside? Can I doubt His tender mercy, Who through life has been my guide? Heavenly peace, divinest comfort, Here by faith in Him to dwell; For I know whate’er befall me, Jesus doeth all things well; For I know whate’er befall me, Jesus doeth all things well.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All the Way, All the way my Savior leads me; 
+    description: |
+      SDAH 516. All the Way. 1. All the way my Savior leads me; What have I to ask beside? Can I doubt His tender mercy, Who through life has been my guide? Heavenly peace, divinest comfort, Here by faith in Him to dwell; For I know whate’er befall me, Jesus doeth all things well; For I know whate’er befall me, Jesus doeth all things well.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All the Way, All the way my Savior leads me; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ This my song through endless ages,
 Jesus led me all the way;
 This my song through endless ages,
 Jesus led me all the way.
+
 
 
 ```

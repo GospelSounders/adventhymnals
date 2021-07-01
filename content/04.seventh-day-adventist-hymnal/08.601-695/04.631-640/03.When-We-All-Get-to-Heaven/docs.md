@@ -1,8 +1,10 @@
 ---
 title: 633. When We All Get to Heaven - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 633. When We All Get to Heaven. 1. Sing the wondrous love of Jesus; Sing his mercy and his grace. In the mansions bright and blessed He’ll prepare for us a place. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When We All Get to Heaven, Sing the wondrous love of Jesus; ,When we all get to heaven,
+    description: |
+      SDAH 633. When We All Get to Heaven. 1. Sing the wondrous love of Jesus; Sing his mercy and his grace. In the mansions bright and blessed He’ll prepare for us a place. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When We All Get to Heaven, Sing the wondrous love of Jesus; ,When we all get to heaven,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ When we all get to heaven,
 What a day of rejoicing that will be!
 When we all see Jesus,
 We’ll sing and shout the victory!
+
 
 
 

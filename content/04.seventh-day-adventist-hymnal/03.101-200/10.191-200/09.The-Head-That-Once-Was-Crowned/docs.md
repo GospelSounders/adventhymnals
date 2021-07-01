@@ -1,8 +1,10 @@
 ---
 title: 199. The Head That Once Was Crowned - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 199. The Head That Once Was Crowned. 1. The head that once was crowned with thorns Is crowned with glory now; A royal diadem adorns The mighty victor’s brow.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Head That Once Was Crowned, The head that once was crowned with thorns 
+    description: |
+      SDAH 199. The Head That Once Was Crowned. 1. The head that once was crowned with thorns Is crowned with glory now; A royal diadem adorns The mighty victor’s brow.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Head That Once Was Crowned, The head that once was crowned with thorns 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ To them the cross, with all its shame,
 With all its grace is given;
 Their name an everlasting name,
 Their joy the joy of heaven.
+
 
 
 ```

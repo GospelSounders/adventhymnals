@@ -1,8 +1,10 @@
 ---
 title: 558. For the Fruits of His Creation - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 558. For the Fruits of His Creation. 1. For the fruits of His creation, thanks be to God; For the gifts to every nation, thanks be to God; For the plowing, sowing, reaping, Silent growth while men are sleeping, Future needs in earth’s safe keeping, thanks be to God!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For the Fruits of His Creation, For the fruits of His creation, thanks be to God; 
+    description: |
+      SDAH 558. For the Fruits of His Creation. 1. For the fruits of His creation, thanks be to God; For the gifts to every nation, thanks be to God; For the plowing, sowing, reaping, Silent growth while men are sleeping, Future needs in earth’s safe keeping, thanks be to God!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For the Fruits of His Creation, For the fruits of His creation, thanks be to God; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -33,6 +36,7 @@ For the good all men inherit, thanks be to God;
 For the wonders that astound us,
 For the truths that still confound us,
 Most of all, that love has found us, thanks be to God!
+
 
 
 ```

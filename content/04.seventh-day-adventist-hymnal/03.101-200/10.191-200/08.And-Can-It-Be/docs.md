@@ -1,8 +1,10 @@
 ---
 title: 198. And Can It Be? - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 198. And Can It Be?. 1. And can it be that I should gain an interest in the Savior’s blood! Died he for me? who caused his pain! For me? who him to death pursued? Amazing love! How can it be that thou, my God, shouldst die for me? 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, And Can It Be?, And can it be that I should gain ,Amazing love! How can it be
+    description: |
+      SDAH 198. And Can It Be?. 1. And can it be that I should gain an interest in the Savior’s blood! Died he for me? who caused his pain! For me? who him to death pursued? Amazing love! How can it be that thou, my God, shouldst die for me? 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, And Can It Be?, And can it be that I should gain ,Amazing love! How can it be
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ and claim the crown, through Christ my own.
 Refrain:
 Amazing love! How can it be
 that thou, my God, shouldst die for me?
+
 
 
 

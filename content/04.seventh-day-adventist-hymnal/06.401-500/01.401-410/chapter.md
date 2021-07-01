@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 401-410
 metadata:
-    description: Seventh Day Adventist Hymnal - 401-410
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 401-410
+    description: |
+      Seventh Day Adventist Hymnal - 401-410
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 401-410
     author: Brian Onang'o
 ---
 

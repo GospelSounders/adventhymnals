@@ -1,8 +1,10 @@
 ---
 title: 442. How Sweet Are the Tidings - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 442. How Sweet Are the Tidings. 1. How sweet are the tidings that greet the pilgrim’s ear, As he wanders in exile from home! Soon, soon will the Savior in glory appear, And soon will the kingdom come. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Sweet Are the Tidings, How sweet are the tidings that greet the pilgrim’s ear, ,He’s coming, coming, coming soon I know,
+    description: |
+      SDAH 442. How Sweet Are the Tidings. 1. How sweet are the tidings that greet the pilgrim’s ear, As he wanders in exile from home! Soon, soon will the Savior in glory appear, And soon will the kingdom come. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, How Sweet Are the Tidings, How sweet are the tidings that greet the pilgrim’s ear, ,He’s coming, coming, coming soon I know,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ He’s coming, coming, coming soon I know,
 Coming back to this earth again;
 And the weary pilgrims will to glory go,
 When the Savior comes to reign.
+
 
 
 

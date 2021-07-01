@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 131-140
 metadata:
-    description: Seventh Day Adventist Hymnal - 131-140
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 131-140
+    description: |
+      Seventh Day Adventist Hymnal - 131-140
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 131-140
     author: Brian Onang'o
 ---
 

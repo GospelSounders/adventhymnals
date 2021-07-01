@@ -1,8 +1,10 @@
 ---
 title: 445. I`m But a Stranger Here - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 445. I`m But a Stranger Here. 1. I’m but a stranger here, Heav’n is my home; Earth is a desert drear, Heav’n is my home. Danger and sorrow stand Round me on every hand; Heav’n is my fatherland, Heav’n is my home.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`m But a Stranger Here, I’m but a stranger here, 
+    description: |
+      SDAH 445. I`m But a Stranger Here. 1. I’m but a stranger here, Heav’n is my home; Earth is a desert drear, Heav’n is my home. Danger and sorrow stand Round me on every hand; Heav’n is my fatherland, Heav’n is my home.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`m But a Stranger Here, I’m but a stranger here, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ There are the good and blest,
 Those I love most and best;
 And there I, too, shall rest,
 Heav’n is my home.
+
 
 
 ```

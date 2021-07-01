@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 321-330
 metadata:
-    description: Seventh Day Adventist Hymnal - 321-330
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 321-330
+    description: |
+      Seventh Day Adventist Hymnal - 321-330
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 321-330
     author: Brian Onang'o
 ---
 

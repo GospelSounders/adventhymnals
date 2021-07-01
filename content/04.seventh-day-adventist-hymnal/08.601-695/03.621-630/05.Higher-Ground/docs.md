@@ -1,8 +1,10 @@
 ---
 title: 625. Higher Ground - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 625. Higher Ground. 1. I’m pressing on the upward way, New heights I’m gaining every day; Still praying as I’m onward bound, “Lord, plant my feet on higher ground.” 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Higher Ground, I’m pressing on the upward way, ,Lord, lift me up and let me stand,
+    description: |
+      SDAH 625. Higher Ground. 1. I’m pressing on the upward way, New heights I’m gaining every day; Still praying as I’m onward bound, “Lord, plant my feet on higher ground.” 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Higher Ground, I’m pressing on the upward way, ,Lord, lift me up and let me stand,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Lord, lift me up and let me stand,
 By faith, on Heaven’s table land,
 A higher plane than I have found;
 Lord, plant my feet on higher ground.
+
 
 
 

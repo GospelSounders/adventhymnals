@@ -1,8 +1,10 @@
 ---
 title: 273. Lord, I Have Made Thy Word My Choice - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 273. Lord, I Have Made Thy Word My Choice. 1. Lord, I have made Thy word my choice, My lasting heritage; There shall my noblest powers rejoice, My warmest thoughts engage.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, I Have Made Thy Word My Choice, Lord, I have made Thy word my choice, 
+    description: |
+      SDAH 273. Lord, I Have Made Thy Word My Choice. 1. Lord, I have made Thy word my choice, My lasting heritage; There shall my noblest powers rejoice, My warmest thoughts engage.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, I Have Made Thy Word My Choice, Lord, I have made Thy word my choice, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ The best relief that mourners have,
 It makes our sorrows blest;
 Our fairest hope beyond the grave,
 And our eternal rest.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 451. Together Let Us Sweetly Live - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 451. Together Let Us Sweetly Live. 1. Together let us sweetly live, I am bound for the land of Canaan. Together love to Jesus give; I am bound for the land of Canaan. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Together Let Us Sweetly Live, Together let us sweetly live, ,O Canaan, bright Canaan,
+    description: |
+      SDAH 451. Together Let Us Sweetly Live. 1. Together let us sweetly live, I am bound for the land of Canaan. Together love to Jesus give; I am bound for the land of Canaan. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Together Let Us Sweetly Live, Together let us sweetly live, ,O Canaan, bright Canaan,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ O Canaan, bright Canaan,
 I am bound for the land of Canaan.
 O Canaan, it is my happy home,
 I am bound for the land of Canaan.
+
 
 
 

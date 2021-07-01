@@ -1,8 +1,10 @@
 ---
 title: 494. We Would See Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 494. We Would See Jesus. 1. “We would see Jesus;” for the shadows lengthen Across the little landscape of our life; We would see Jesus, our weak faith to strengthen For the last conflict, in this mortal strife.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Would See Jesus, “We would see Jesus;” for the shadows lengthen 
+    description: |
+      SDAH 494. We Would See Jesus. 1. “We would see Jesus;” for the shadows lengthen Across the little landscape of our life; We would see Jesus, our weak faith to strengthen For the last conflict, in this mortal strife.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Would See Jesus, “We would see Jesus;” for the shadows lengthen 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ We would not mourn them, in exchange for Thee.
 Strength, joy and willingness come with the sight;
 We would see Jesus, dying, risen, pleading,
 Soon to return and end this mortal night!
+
 
 
 ```

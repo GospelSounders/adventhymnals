@@ -1,8 +1,10 @@
 ---
 title: 28. Praise We the Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 28. Praise We the Lord. 1. Praise we the Lord, who made all beauty For all our senses to enjoy; Owe we our humble thanks and duty That simple pleasures never cloy; Praise we the Lord, who made all beauty For all our senses to enjoy.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise We the Lord, Praise we the Lord, who made all beauty 
+    description: |
+      SDAH 28. Praise We the Lord. 1. Praise we the Lord, who made all beauty For all our senses to enjoy; Owe we our humble thanks and duty That simple pleasures never cloy; Praise we the Lord, who made all beauty For all our senses to enjoy.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise We the Lord, Praise we the Lord, who made all beauty 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Thank Him who gives to each one power
 To find a friend to know and love;
 Praise Him who by a simple flower
 Lifts up our hearts to things above.
+
 
 
 ```

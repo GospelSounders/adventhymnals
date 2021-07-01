@@ -1,8 +1,10 @@
 ---
 title: 126. In the Bleak Midwinter - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 126. In the Bleak Midwinter. 1. In the bleak midwinter Frosty wind made moan; Earth stood hard as iron, Water like a stone; Snow had fallen, snow on snow, Snow on snow, In the bleak midwinter, Long ago.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In the Bleak Midwinter, In the bleak midwinter 
+    description: |
+      SDAH 126. In the Bleak Midwinter. 1. In the bleak midwinter Frosty wind made moan; Earth stood hard as iron, Water like a stone; Snow had fallen, snow on snow, Snow on snow, In the bleak midwinter, Long ago.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In the Bleak Midwinter, In the bleak midwinter 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ If I were a wise man
 I would do my part;
 Yet what can I give Him?
 Give my heart.
+
 
 
 ```

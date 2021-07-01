@@ -1,8 +1,10 @@
 ---
 title: 16. All People That on Earth Do Well - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 16. All People That on Earth Do Well. 1. All people that on earth do dwell, sing to the Lord with cheerful voice. Him serve with mirth, his praise forth tell; come ye before him and rejoice.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All People That on Earth Do Well, All people that on earth do dwell, 
+    description: |
+      SDAH 16. All People That on Earth Do Well. 1. All people that on earth do dwell, sing to the Lord with cheerful voice. Him serve with mirth, his praise forth tell; come ye before him and rejoice.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All People That on Earth Do Well, All people that on earth do dwell, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ For why! the Lord our God is good;
 his mercy is forever sure;
 his truth at all times firmly stood,
 and shall from age to age endure.
+
 
 
 ```

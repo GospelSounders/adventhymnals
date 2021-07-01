@@ -1,8 +1,10 @@
 ---
 title: 285. Jesus Calls Us - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 285. Jesus Calls Us. 1. Jesus calls us o’er the tumult of our life’s wild, restless sea; day by day his sweet voice soundeth, saying, “Christian, follow me!”
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Calls Us, Jesus calls us o’er the tumult 
+    description: |
+      SDAH 285. Jesus Calls Us. 1. Jesus calls us o’er the tumult of our life’s wild, restless sea; day by day his sweet voice soundeth, saying, “Christian, follow me!”
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Calls Us, Jesus calls us o’er the tumult 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Jesus calls us! By thy mercies,
 Savior, may we hear thy call,
 give our hearts to thine obedience,
 serve and love thee best of all.
+
 
 
 ```

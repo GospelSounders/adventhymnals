@@ -1,8 +1,10 @@
 ---
 title: 536. God, Who Stretched - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 536. God, Who Stretched. 1. God, who stretched the spangled heavens Infinite in time and place, Flung the suns in burning radiance Through the silent fields of space; We, Your children in Your likeness, Share inventive powers with You; Great Creator, still creating, Show us what we yet may do.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God, Who Stretched, God, who stretched the spangled heavens 
+    description: |
+      SDAH 536. God, Who Stretched. 1. God, who stretched the spangled heavens Infinite in time and place, Flung the suns in burning radiance Through the silent fields of space; We, Your children in Your likeness, Share inventive powers with You; Great Creator, still creating, Show us what we yet may do.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God, Who Stretched, God, who stretched the spangled heavens 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ May our dreams prove rich with promise;
 Each endeavor well begun;
 Great Creator, give us guidance
 Till our goals and Yours are one.
+
 
 
 ```

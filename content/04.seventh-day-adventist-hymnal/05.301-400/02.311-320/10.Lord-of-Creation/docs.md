@@ -1,8 +1,10 @@
 ---
 title: 320. Lord of Creation - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 320. Lord of Creation. 1. Lord of creation, to you be all praise! Most mighty your working, most wondrous your ways! Your glory and might are beyond us to tell, And yet in the heart of the humble you dwell.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of Creation, Lord of creation, to you be all praise! 
+    description: |
+      SDAH 320. Lord of Creation. 1. Lord of creation, to you be all praise! Most mighty your working, most wondrous your ways! Your glory and might are beyond us to tell, And yet in the heart of the humble you dwell.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of Creation, Lord of creation, to you be all praise! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Lord of all being, I give you my all,
 If I ever disown you, I stumble and fall;
 But led in your service your word to obey,
 I’ll walk in your freedom to the end of the way.
+
 
 
 ```

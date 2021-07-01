@@ -1,8 +1,10 @@
 ---
 title: 415. Christ the Lord, All Power Possessing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 415. Christ the Lord, All Power Possessing. 1. Christ, the Lord, all power possessing, Parting, mounted heaven’s height, Gracious hands outstretched in blessing, Clouds received His from their sight. Christ ascended, Christ ascended, Christ ascended on the clouds. (on the clouds) Christ ascended on the clouds.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ the Lord, All Power Possessing, Christ, the Lord, all power possessing, 
+    description: |
+      SDAH 415. Christ the Lord, All Power Possessing. 1. Christ, the Lord, all power possessing, Parting, mounted heaven’s height, Gracious hands outstretched in blessing, Clouds received His from their sight. Christ ascended, Christ ascended, Christ ascended on the clouds. (on the clouds) Christ ascended on the clouds.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ the Lord, All Power Possessing, Christ, the Lord, all power possessing, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Christ is coming, Christ is coming,
 Christ is coming on the clouds.
 (on the clouds)
 Christ is coming on the clouds.
+
 
 
 ```

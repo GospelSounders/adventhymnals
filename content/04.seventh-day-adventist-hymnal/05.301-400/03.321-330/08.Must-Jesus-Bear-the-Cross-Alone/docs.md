@@ -1,8 +1,10 @@
 ---
 title: 328. Must Jesus Bear the Cross Alone - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 328. Must Jesus Bear the Cross Alone. 1. Must Jesus bear the cross alone, and all the world go free? No, there’s a cross for everyone, and there’s a cross for me.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Must Jesus Bear the Cross Alone, Must Jesus bear the cross alone, 
+    description: |
+      SDAH 328. Must Jesus Bear the Cross Alone. 1. Must Jesus bear the cross alone, and all the world go free? No, there’s a cross for everyone, and there’s a cross for me.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Must Jesus Bear the Cross Alone, Must Jesus bear the cross alone, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Upon the crystal pavement, down
 at Jesus’ pierced feet,
 with joy I’ll cast my golden crown,
 and His dear name repeat.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 498. Still, Still With Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 498. Still, Still With Thee. 1. Still, still with Thee, when purple morning breaketh, When the bird waketh, and the shadows flee; Fairer than morning, lovelier than daylight, Dawns the sweet consciousness, I am with Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Still, Still With Thee, Still, still with Thee, when purple morning breaketh, 
+    description: |
+      SDAH 498. Still, Still With Thee. 1. Still, still with Thee, when purple morning breaketh, When the bird waketh, and the shadows flee; Fairer than morning, lovelier than daylight, Dawns the sweet consciousness, I am with Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Still, Still With Thee, Still, still with Thee, when purple morning breaketh, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ So shall it be at last, in that bright morning,
 When the soul waketh and life’s shadows flee;
 O in that hour, fairer than daylight dawning,
 Shall rise the glorious thought, I am with Thee.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 492. Like Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 492. Like Jesus. 1. Teach, me, Father, what to say; Teach me, Father, how to pray; Teach me all along the way How to be like Jesus. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Like Jesus, Teach, me, Father, what to say; ,I would be like Jesus,
+    description: |
+      SDAH 492. Like Jesus. 1. Teach, me, Father, what to say; Teach me, Father, how to pray; Teach me all along the way How to be like Jesus. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Like Jesus, Teach, me, Father, what to say; ,I would be like Jesus,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ I would be like Jesus,
 I would be like Jesus!
 Help me, Lord, to daily grow
 More and more like Jesus!
+
 
 
 

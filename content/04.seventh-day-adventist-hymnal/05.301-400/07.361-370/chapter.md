@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 361-370
 metadata:
-    description: Seventh Day Adventist Hymnal - 361-370
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 361-370
+    description: |
+      Seventh Day Adventist Hymnal - 361-370
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 361-370
     author: Brian Onang'o
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: 590. Trust and Obey - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 590. Trust and Obey. 1. When we walk with the Lord in the light of his word, what a glory he sheds on our way! While we do his good will, he abides with us still, and with all who will trust and obey. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Trust and Obey, When we walk with the Lord ,Trust and obey, for there’s no other way
+    description: |
+      SDAH 590. Trust and Obey. 1. When we walk with the Lord in the light of his word, what a glory he sheds on our way! While we do his good will, he abides with us still, and with all who will trust and obey. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Trust and Obey, When we walk with the Lord ,Trust and obey, for there’s no other way
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -77,6 +80,7 @@ never fear, only trust and obey.
 Refrain:
 Trust and obey, for there’s no other way
 to be happy in Jesus, but to trust and obey.
+
 
 
 

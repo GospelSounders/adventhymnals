@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 141-150
 metadata:
-    description: Seventh Day Adventist Hymnal - 141-150
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 141-150
+    description: |
+      Seventh Day Adventist Hymnal - 141-150
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 141-150
     author: Brian Onang'o
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: 487. In the Garden - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 487. In the Garden. 1. I come to the garden alone, While the dew is still on the roses; And the voice I hear, falling on my ear, The Son of God discloses. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In the Garden, I come to the garden alone, ,And He walks with me,
+    description: |
+      SDAH 487. In the Garden. 1. I come to the garden alone, While the dew is still on the roses; And the voice I hear, falling on my ear, The Son of God discloses. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In the Garden, I come to the garden alone, ,And He walks with me,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -54,6 +57,7 @@ And He talks with me,
 And He tells me I am His own;
 And the joy we share as we tarry there,
 None other has ever known.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 85. Eternal Father, Strong to Save - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 85. Eternal Father, Strong to Save. 1. Eternal Father, strong to save, Whose arm doth bind the restless wave, Who bidd’st the mighty ocean deep Its own appointed limits keep; O hear us when we cry to Thee For those in peril on the sea.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Eternal Father, Strong to Save, Eternal Father, strong to save, 
+    description: |
+      SDAH 85. Eternal Father, Strong to Save. 1. Eternal Father, strong to save, Whose arm doth bind the restless wave, Who bidd’st the mighty ocean deep Its own appointed limits keep; O hear us when we cry to Thee For those in peril on the sea.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Eternal Father, Strong to Save, Eternal Father, strong to save, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ From rock and tempest, fire and foe,
 Protect them wheresoe’er they go;
 And ever let there rise to Thee
 Glad hymns of praise from land and sea.
+
 
 
 ```

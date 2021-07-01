@@ -1,8 +1,10 @@
 ---
 title: 3. God Himself Is With Us - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 3. God Himself Is With Us. 1. God Himself is with us; Let us all adore Him, And with awe appear before Him. God is here within us; Soul, in silence fear Him, Humbly, fervently draw near Him. Now His own who have known God, In worship lowly, Yield their spirits wholly.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Himself Is With Us, God Himself is with us; 
+    description: |
+      SDAH 3. God Himself Is With Us. 1. God Himself is with us; Let us all adore Him, And with awe appear before Him. God is here within us; Soul, in silence fear Him, Humbly, fervently draw near Him. Now His own who have known God, In worship lowly, Yield their spirits wholly.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Himself Is With Us, God Himself is with us; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ Soul and life and each endeavor.
 Thou alone shall be known
 Lord of all our being,
 Life’s true way decreeing.
+
 
 
 ```

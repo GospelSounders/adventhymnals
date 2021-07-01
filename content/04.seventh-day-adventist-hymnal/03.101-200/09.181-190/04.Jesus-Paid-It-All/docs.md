@@ -1,8 +1,10 @@
 ---
 title: 184. Jesus Paid It All - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 184. Jesus Paid It All. 1. I hear the Savior say, “Thy strength indeed is small; Child of weakness, watch and pray, Find in Me thine all in all.” 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Paid It All, I hear the Savior say, ,Jesus paid it all,
+    description: |
+      SDAH 184. Jesus Paid It All. 1. I hear the Savior say, “Thy strength indeed is small; Child of weakness, watch and pray, Find in Me thine all in all.” 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Paid It All, I hear the Savior say, ,Jesus paid it all,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Jesus paid it all,
 All to Him I owe;
 Sin had left a crimson stain,
 He washed it white as snow.
+
 
 
 

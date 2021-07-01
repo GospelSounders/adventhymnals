@@ -1,8 +1,10 @@
 ---
 title: 275. O God of Light - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 275. O God of Light. 1. O God of light, Your Word, a lamp unfailing, Shall pierce the darkness of our earthbound way And show Your grace, Your plan for us unveiling, And guide our footsteps to the perfect day.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O God of Light, O God of light, Your Word, a lamp unfailing, 
+    description: |
+      SDAH 275. O God of Light. 1. O God of light, Your Word, a lamp unfailing, Shall pierce the darkness of our earthbound way And show Your grace, Your plan for us unveiling, And guide our footsteps to the perfect day.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O God of Light, O God of light, Your Word, a lamp unfailing, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -38,6 +41,7 @@ To all the world Your summons You are sending,
 Through all the earth, to ever land and race,
 That myriad tongues, in one great anthem blending,
 May praise and celebrate Your gift of grace.
+
 
 
 ```

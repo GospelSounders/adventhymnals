@@ -1,8 +1,10 @@
 ---
 title: 169. Come, You Faithful - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 169. Come, You Faithful. 1. Come, you faithful, raise the strain Of triumphant gladness; God has brought His people Now rejoice, Jerusalem, And with true affection Welcome in unwearied strains Jesus’resurrection.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, You Faithful, Come, you faithful, raise the strain 
+    description: |
+      SDAH 169. Come, You Faithful. 1. Come, you faithful, raise the strain Of triumphant gladness; God has brought His people Now rejoice, Jerusalem, And with true affection Welcome in unwearied strains Jesus’resurrection.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, You Faithful, Come, you faithful, raise the strain 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -41,6 +44,7 @@ bars of the tomb’s dark portal
 God the Father praising;
 “Alleluia!” yet again to
 the Spirit raising.
+
 
 
 ```

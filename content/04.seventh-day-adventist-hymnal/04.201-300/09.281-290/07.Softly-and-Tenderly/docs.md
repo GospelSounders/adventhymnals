@@ -1,8 +1,10 @@
 ---
 title: 287. Softly and Tenderly - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 287. Softly and Tenderly. 1. Softly and tenderly Jesus is calling, calling for you and for me; see, on the portals he’s waiting and watching, watching for you and for me. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Softly and Tenderly, Softly and tenderly Jesus is calling, ,Come home, come home;
+    description: |
+      SDAH 287. Softly and Tenderly. 1. Softly and tenderly Jesus is calling, calling for you and for me; see, on the portals he’s waiting and watching, watching for you and for me. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Softly and Tenderly, Softly and tenderly Jesus is calling, ,Come home, come home;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Come home, come home;
 ye who are weary come home;
 earnestly, tenderly, Jesus is calling,
 calling, O sinner, come home!
+
 
 
 

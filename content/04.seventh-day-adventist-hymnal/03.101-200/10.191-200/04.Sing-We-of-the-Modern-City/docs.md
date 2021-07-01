@@ -1,8 +1,10 @@
 ---
 title: 194. Sing We of the Modern City - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 194. Sing We of the Modern City. 1. Sing we of the modern city, Scene alike of joy and stress; Sing we of its nameless people In their urban wilderness. Into endless rows of houses Life is set a millionfold, Life expressed in human beings Daily born and growing old.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sing We of the Modern City, Sing we of the modern city, 
+    description: |
+      SDAH 194. Sing We of the Modern City. 1. Sing we of the modern city, Scene alike of joy and stress; Sing we of its nameless people In their urban wilderness. Into endless rows of houses Life is set a millionfold, Life expressed in human beings Daily born and growing old.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sing We of the Modern City, Sing we of the modern city, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Christ has shown, beyond statistics,
 Human life with glory crowned,
 By His timeless presence proving
 People matter, people count!
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 129. As It Fell Upon a Night - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 129. As It Fell Upon a Night. 1. As it fell upon a night In the winter weather, Angels bright in starry height Began to sing together.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As It Fell Upon a Night, As it fell upon a night 
+    description: |
+      SDAH 129. As It Fell Upon a Night. 1. As it fell upon a night In the winter weather, Angels bright in starry height Began to sing together.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As It Fell Upon a Night, As it fell upon a night 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Happy angels from afar,
 Cease your singing never!
 In excelsis gloria!
 Forever and forever.
+
 
 
 ```

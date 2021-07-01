@@ -1,8 +1,10 @@
 ---
 title: 71. Come Thou Almighty King - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 71. Come Thou Almighty King. 1. Come, Thou almighty King, Help us Thy name to sing, Help us to praise! Father all glorious, O’er all victorious, Come, and reign over us, Ancient of Days!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come Thou Almighty King, Come, Thou almighty King, 
+    description: |
+      SDAH 71. Come Thou Almighty King. 1. Come, Thou almighty King, Help us Thy name to sing, Help us to praise! Father all glorious, O’er all victorious, Come, and reign over us, Ancient of Days!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come Thou Almighty King, Come, Thou almighty King, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Thy sovereign majesty
 May we in glory see,
 And to eternity
 Love and adore!
+
 
 
 ```

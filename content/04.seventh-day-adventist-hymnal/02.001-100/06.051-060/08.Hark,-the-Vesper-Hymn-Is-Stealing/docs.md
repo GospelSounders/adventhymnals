@@ -1,8 +1,10 @@
 ---
 title: 58. Hark, the Vesper Hymn Is Stealing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 58. Hark, the Vesper Hymn Is Stealing. 1. Hark! the vesper hymn is stealing O’er the waters soft and clear; Jubilate, Jubilate, Jubilate, Amen.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hark, the Vesper Hymn Is Stealing, Hark! the vesper hymn is stealing 
+    description: |
+      SDAH 58. Hark, the Vesper Hymn Is Stealing. 1. Hark! the vesper hymn is stealing O’er the waters soft and clear; Jubilate, Jubilate, Jubilate, Amen.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hark, the Vesper Hymn Is Stealing, Hark! the vesper hymn is stealing 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -24,6 +27,7 @@ Nearer yet, and nearer pealing,
 Soft it breaks upon the ear.
 Jubilate, Jubilate, Jubilate,
 Amen.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 427. No Night There - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 427. No Night There. 1. In the land of fadeless day Lies “the city four-square;” It shall never pass away, And there is “no night there.” 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, No Night There, In the land of fadeless day ,God shall “wipe away all tears;”
+    description: |
+      SDAH 427. No Night There. 1. In the land of fadeless day Lies “the city four-square;” It shall never pass away, And there is “no night there.” 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, No Night There, In the land of fadeless day ,God shall “wipe away all tears;”
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ God shall “wipe away all tears;”
 There’s no death, no pain, nor fears;
 And they count not time by years,
 For there is “no night there.”
+
 
 
 

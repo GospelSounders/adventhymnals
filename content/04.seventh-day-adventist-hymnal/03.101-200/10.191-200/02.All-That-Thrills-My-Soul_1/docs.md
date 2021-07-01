@@ -1,8 +1,10 @@
 ---
 title: 192. All That Thrills My Soul - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 192. All That Thrills My Soul. 1. O Shepherd divine, I know Thou art mine; Thy search in the night was for me. This bleak world is cold, but warm is Thy fold; My Shepherd, I follow Thee. Thy beautiful lamp shineth bright o’er my way, Thy glorious light unto Thy perfect day. Thro’ pastures serene, Thro’ valleys of green, My Shepherd, I follow Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All That Thrills My Soul, O Shepherd divine, I know Thou art mine; 
+    description: |
+      SDAH 192. All That Thrills My Soul. 1. O Shepherd divine, I know Thou art mine; Thy search in the night was for me. This bleak world is cold, but warm is Thy fold; My Shepherd, I follow Thee. Thy beautiful lamp shineth bright o’er my way, Thy glorious light unto Thy perfect day. Thro’ pastures serene, Thro’ valleys of green, My Shepherd, I follow Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All That Thrills My Soul, O Shepherd divine, I know Thou art mine; 
     author: Brian Onang'o
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: 376. All Things Are Thine - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 376. All Things Are Thine. 1. All things are Thine; no gift have we, Lord of all gifts, to offer Thee; And hence with grateful hearts today, Thine own before Thy feet we lay.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All Things Are Thine, All things are Thine; no gift have we, 
+    description: |
+      SDAH 376. All Things Are Thine. 1. All things are Thine; no gift have we, Lord of all gifts, to offer Thee; And hence with grateful hearts today, Thine own before Thy feet we lay.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All Things Are Thine, All things are Thine; no gift have we, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ O Father! deign these walls to bless;
 Make this the abode of righteousness,
 And let these doors a gateway be
 To lead us from ourselves to Thee!
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 205. Gleams of the Golden Morning - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 205. Gleams of the Golden Morning. 1. The golden morning is fast approaching; Jesus soon will come To take his faithful and happy children to their promised home 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Gleams of the Golden Morning, The golden morning is fast approaching; ,O, we see the gleams of the golden morning
+    description: |
+      SDAH 205. Gleams of the Golden Morning. 1. The golden morning is fast approaching; Jesus soon will come To take his faithful and happy children to their promised home 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Gleams of the Golden Morning, The golden morning is fast approaching; ,O, we see the gleams of the golden morning
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ O, we see the gleams of the golden morning
 piercing thro’ this night of gloom!
 O, see the gleams of the golden morning
 that will burst the tomb.
+
 
 
 

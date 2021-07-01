@@ -1,8 +1,10 @@
 ---
 title: 181. Does Jesus Care? - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 181. Does Jesus Care?. 1. Does Jesus care when my heart is pained Too deeply for mirth and song; As the burdens press, and the cares distress, And the way grows weary and long? 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Does Jesus Care?, Does Jesus care when my heart is pained ,O yes, He cares- I know He cares!
+    description: |
+      SDAH 181. Does Jesus Care?. 1. Does Jesus care when my heart is pained Too deeply for mirth and song; As the burdens press, and the cares distress, And the way grows weary and long? 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Does Jesus Care?, Does Jesus care when my heart is pained ,O yes, He cares- I know He cares!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -54,6 +57,7 @@ His heart is touched with my grief;
 When the days are weary,
 The long nights dreary,
 I know my Savior cares. (He cares.)
+
 
 
 

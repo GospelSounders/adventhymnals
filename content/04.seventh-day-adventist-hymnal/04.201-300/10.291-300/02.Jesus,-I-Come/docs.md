@@ -1,8 +1,10 @@
 ---
 title: 292. Jesus, I Come - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 292. Jesus, I Come. 1. Out of my bondage, sorrow and night, Jesus, I come, Jesus, I come; Into Thy freedom, gladness and light, Jesus, I come to Thee; Out of my sickness into Thy health, Out of my want and into Thy wealth, Out of my sin and into Thyself, Jesus, I come to Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, I Come, Out of my bondage, sorrow and night, 
+    description: |
+      SDAH 292. Jesus, I Come. 1. Out of my bondage, sorrow and night, Jesus, I come, Jesus, I come; Into Thy freedom, gladness and light, Jesus, I come to Thee; Out of my sickness into Thy health, Out of my want and into Thy wealth, Out of my sin and into Thyself, Jesus, I come to Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, I Come, Out of my bondage, sorrow and night, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Out of the depths of ruin untold,
 Into the peace of Thy sheltering fold,
 Ever Thy glorious face to behold,
 Jesus, I come to Thee.
+
 
 
 ```

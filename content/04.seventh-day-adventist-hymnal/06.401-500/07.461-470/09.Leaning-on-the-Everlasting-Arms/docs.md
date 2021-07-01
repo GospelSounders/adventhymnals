@@ -1,8 +1,10 @@
 ---
 title: 469. Leaning on the Everlasting Arms - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 469. Leaning on the Everlasting Arms. 1. What a fellowship, what a joy divine, leaning on the everlasting arms; what a blessedness, what a peace is mine, leaning on the everlasting arms. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Leaning on the Everlasting Arms, What a fellowship, what a joy divine, ,Leaning, leaning,
+    description: |
+      SDAH 469. Leaning on the Everlasting Arms. 1. What a fellowship, what a joy divine, leaning on the everlasting arms; what a blessedness, what a peace is mine, leaning on the everlasting arms. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Leaning on the Everlasting Arms, What a fellowship, what a joy divine, ,Leaning, leaning,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Leaning, leaning,
 safe and secure from all alarms;
 leaning, leaning,
 leaning on the everlasting arms.
+
 
 
 

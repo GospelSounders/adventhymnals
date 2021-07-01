@@ -1,8 +1,10 @@
 ---
 title: 632. Until Then - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 632. Until Then. 1. My heart can sing when I pause to remember, A heartache here is but a stepping stone. Along a trail, thats winding always upward, This troubled world, is not my final home. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Until Then, My heart can sing when I pause to remember, ,But until then, my heart will go on singing,
+    description: |
+      SDAH 632. Until Then. 1. My heart can sing when I pause to remember, A heartache here is but a stepping stone. Along a trail, thats winding always upward, This troubled world, is not my final home. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Until Then, My heart can sing when I pause to remember, ,But until then, my heart will go on singing,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -38,6 +41,7 @@ But until then, my heart will go on singing,
 Until then, with joy I’ll carry on,
 Until the day my eyes behold the city,
 Until the day God calls me home.
+
 
 
 

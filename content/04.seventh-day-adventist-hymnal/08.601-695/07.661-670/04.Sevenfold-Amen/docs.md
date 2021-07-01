@@ -1,8 +1,10 @@
 ---
 title: 664. Sevenfold Amen - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 664. Sevenfold Amen. 1. A-men, A-men, A—men, A—–men, A—–men, A—–men, A-men.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sevenfold Amen, A-men, 
+    description: |
+      SDAH 664. Sevenfold Amen. 1. A-men, A-men, A—men, A—–men, A—–men, A—–men, A-men.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sevenfold Amen, A-men, 
     author: Brian Onang'o
 ---
 
@@ -13,6 +15,7 @@ metadata:
 ```txt
 
 
+
 1.
 A-men,
 A-men,
@@ -21,6 +24,7 @@ A—–men,
 A—–men,
 A—–men,
 A-men.
+
 
 
 ```

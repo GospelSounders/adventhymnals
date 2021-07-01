@@ -1,8 +1,10 @@
 ---
 title: 618. Stand Up! Stand Up for Jesus! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 618. Stand Up! Stand Up for Jesus!. 1. Stand up, stand up for Jesus! ye soldiers of the cross; Lift high His royal banner, it must not suffer loss: From vict’ry unto vict’ry, His army shall He lead, Till every foe is vanquished, and Christ is Lord indeed.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Stand Up! Stand Up for Jesus!, Stand up, stand up for Jesus! ye soldiers of the cross; 
+    description: |
+      SDAH 618. Stand Up! Stand Up for Jesus!. 1. Stand up, stand up for Jesus! ye soldiers of the cross; Lift high His royal banner, it must not suffer loss: From vict’ry unto vict’ry, His army shall He lead, Till every foe is vanquished, and Christ is Lord indeed.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Stand Up! Stand Up for Jesus!, Stand up, stand up for Jesus! ye soldiers of the cross; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Stand up, stand up for Jesus! the strife will not be long;
 This day the noise of battle, the next the victor’s song;
 To him that overcometh a crown of life shall be;
 He with the King of glory shall reign eternally.
+
 
 
 ```

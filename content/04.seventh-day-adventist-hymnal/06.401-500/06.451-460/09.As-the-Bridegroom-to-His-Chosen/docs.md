@@ -1,8 +1,10 @@
 ---
 title: 459. As the Bridegroom to His Chosen - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 459. As the Bridegroom to His Chosen. 1. As the bridegroom to His chosen, As the king to His realm, As the keep unto the castle, As the pilot to the helm, So, Lord, art Thou to me.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As the Bridegroom to His Chosen, As the bridegroom to His chosen, 
+    description: |
+      SDAH 459. As the Bridegroom to His Chosen. 1. As the bridegroom to His chosen, As the king to His realm, As the keep unto the castle, As the pilot to the helm, So, Lord, art Thou to me.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As the Bridegroom to His Chosen, As the bridegroom to His chosen, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ As the image in the glass,
 As the fruits up in the fig tree,
 As the dew upon the grass,
 So, Lord, art Thou to me.
+
 
 
 ```

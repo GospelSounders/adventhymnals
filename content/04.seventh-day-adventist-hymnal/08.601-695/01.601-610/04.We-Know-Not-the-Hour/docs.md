@@ -1,8 +1,10 @@
 ---
 title: 604. We Know Not the Hour - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 604. We Know Not the Hour. 1. We know not the hour of the Master’s appearing; Yet signs all foretell that the moment is nearing When He shall return ’tis the promise most cheering But we know not the hour. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Know Not the Hour, We know not the hour of the Master’s appearing; ,He will come, let us watch and be ready;
+    description: |
+      SDAH 604. We Know Not the Hour. 1. We know not the hour of the Master’s appearing; Yet signs all foretell that the moment is nearing When He shall return ’tis the promise most cheering But we know not the hour. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Know Not the Hour, We know not the hour of the Master’s appearing; ,He will come, let us watch and be ready;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ He will come, let us watch and be ready;
 He will come, hallelujah! hallelujah!
 He will come in the clouds of His Father’s
 bright glory but we know not the hour.
+
 
 
 

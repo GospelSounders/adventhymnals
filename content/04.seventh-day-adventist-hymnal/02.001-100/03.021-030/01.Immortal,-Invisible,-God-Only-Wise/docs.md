@@ -1,8 +1,10 @@
 ---
 title: 21. Immortal, Invisible, God Only Wise - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 21. Immortal, Invisible, God Only Wise. 1. Immortal, invisible, God only wise, In light inaccessible hid from our eyes, Most blessed, most glorious, the Ancient of Days, Almighty, victorious, Thy great Name we praise.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Immortal, Invisible, God Only Wise, Immortal, invisible, God only wise, 
+    description: |
+      SDAH 21. Immortal, Invisible, God Only Wise. 1. Immortal, invisible, God only wise, In light inaccessible hid from our eyes, Most blessed, most glorious, the Ancient of Days, Almighty, victorious, Thy great Name we praise.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Immortal, Invisible, God Only Wise, Immortal, invisible, God only wise, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Great Father of glory, pure Father of light,
 Thine angels adore Thee, all veiling their sight;
 All praise we would render; O help us to see
 ‘Tis only the splendor of light hideth Thee!
+
 
 
 ```

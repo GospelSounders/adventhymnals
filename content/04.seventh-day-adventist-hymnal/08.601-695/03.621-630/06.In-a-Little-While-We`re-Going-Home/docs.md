@@ -1,8 +1,10 @@
 ---
 title: 626. In a Little While We`re Going Home - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 626. In a Little While We`re Going Home. 1. Let us sing a song that will cheer us by the way, In a little while we’re going home. For the night will end in the everlasting day, In a little while we’re going home. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In a Little While We`re Going Home, Let us sing a song that will cheer us by the way, ,In a little while, In a little while,
+    description: |
+      SDAH 626. In a Little While We`re Going Home. 1. Let us sing a song that will cheer us by the way, In a little while we’re going home. For the night will end in the everlasting day, In a little while we’re going home. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In a Little While We`re Going Home, Let us sing a song that will cheer us by the way, ,In a little while, In a little while,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ In a little while, In a little while,
 We shall cross the billow’s foam;
 We shall meet at last, When the stormy winds are past,
 In a little while we’re going home.
+
 
 
 

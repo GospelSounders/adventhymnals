@@ -1,8 +1,10 @@
 ---
 title: 695. Praise God, From Whom All Blessings - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 695. Praise God, From Whom All Blessings. 1. Praise God, from Whom all blessings flow; Praise Him, all creatures here below; Praise Him above, ye heavenly host; Praise Father, Son, and Holy Ghost.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise God, From Whom All Blessings, Praise God, from Whom all blessings flow; 
+    description: |
+      SDAH 695. Praise God, From Whom All Blessings. 1. Praise God, from Whom all blessings flow; Praise Him, all creatures here below; Praise Him above, ye heavenly host; Praise Father, Son, and Holy Ghost.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise God, From Whom All Blessings, Praise God, from Whom all blessings flow; 
     author: Brian Onang'o
 ---
 

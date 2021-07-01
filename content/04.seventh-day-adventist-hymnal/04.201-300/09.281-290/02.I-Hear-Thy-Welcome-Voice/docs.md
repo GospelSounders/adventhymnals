@@ -1,8 +1,10 @@
 ---
 title: 282. I Hear Thy Welcome Voice - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 282. I Hear Thy Welcome Voice. 1. I hear Thy welcome voice, That calls me, Lord, to Thee; For cleansing in Thy precious blood, That flowed on Calvary. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Hear Thy Welcome Voice, I hear Thy welcome voice, ,I am coming, Lord!
+    description: |
+      SDAH 282. I Hear Thy Welcome Voice. 1. I hear Thy welcome voice, That calls me, Lord, to Thee; For cleansing in Thy precious blood, That flowed on Calvary. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Hear Thy Welcome Voice, I hear Thy welcome voice, ,I am coming, Lord!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ I am coming, Lord!
 Coming now to Thee!
 Wash me, cleanse me, in the blood
 That flowed on Calvary.
+
 
 
 

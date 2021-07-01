@@ -1,8 +1,10 @@
 ---
 title: 367. Rescue the Perishing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 367. Rescue the Perishing. 1. Rescue the perishing, care for the dying, snatch them in pity from sin and the grave; weep o’er the erring one, lift up the fallen, tell them of Jesus, the mighty to save. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rescue the Perishing, Rescue the perishing, care for the dying, ,Rescue the perishing, care for the dying;
+    description: |
+      SDAH 367. Rescue the Perishing. 1. Rescue the perishing, care for the dying, snatch them in pity from sin and the grave; weep o’er the erring one, lift up the fallen, tell them of Jesus, the mighty to save. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rescue the Perishing, Rescue the perishing, care for the dying, ,Rescue the perishing, care for the dying;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ tell the poor wanderer a Savior has died.
 Refrain:
 Rescue the perishing, care for the dying;
 Jesus is merciful, Jesus will save.
+
 
 
 

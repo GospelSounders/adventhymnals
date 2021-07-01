@@ -1,8 +1,10 @@
 ---
 title: 617. We Are Living, We Are Dwelling - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 617. We Are Living, We Are Dwelling. 1. We are living, we are dwelling, In a grand and awful time, In an age on ages telling– To be living is sublime. Hark! the waking up of nations, Gog and Magog to the fray; Hark! what soundeth? Is creation Groaning for her latter day?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Are Living, We Are Dwelling, We are living, we are dwelling, In a grand and awful time, 
+    description: |
+      SDAH 617. We Are Living, We Are Dwelling. 1. We are living, we are dwelling, In a grand and awful time, In an age on ages telling– To be living is sublime. Hark! the waking up of nations, Gog and Magog to the fray; Hark! what soundeth? Is creation Groaning for her latter day?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Are Living, We Are Dwelling, We are living, we are dwelling, In a grand and awful time, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Christians, rouse! fight in this warfare, Cease not till the victory’s won;
 Till your Captain loud proclaimeth, “Servant of the Lord, well done!”
 He, alone, who thus is faithful, Who abideth to the end,
 Hath the promise, in the kingdom An eternity to spend.
+
 
 
 ```

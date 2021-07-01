@@ -1,8 +1,10 @@
 ---
 title: 683. Jesus, Stand Among Us - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 683. Jesus, Stand Among Us. 1. Jesus, stand among us In Thy risen power; Let this time of worship Be a hallowed hour.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Stand Among Us, Jesus, stand among us 
+    description: |
+      SDAH 683. Jesus, Stand Among Us. 1. Jesus, stand among us In Thy risen power; Let this time of worship Be a hallowed hour.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Stand Among Us, Jesus, stand among us 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Thus with quickened footsteps
 We pursue our way,
 Watching for the dawning
 Of eternal day.
+
 
 
 ```

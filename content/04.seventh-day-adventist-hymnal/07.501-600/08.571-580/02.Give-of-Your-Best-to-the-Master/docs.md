@@ -1,8 +1,10 @@
 ---
 title: 572. Give of Your Best to the Master - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 572. Give of Your Best to the Master. 1. Give of your best to the master, Give of the strength of your youth; Throw your soul’s fresh, glowing ardor Into the battle for truth. Jesus has set the example – Dauntless was He, young and brave; Give Him your loyal devotion, Give Him the best that you have. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Give of Your Best to the Master, Give of your best to the master, ,Give of your best to the master,
+    description: |
+      SDAH 572. Give of Your Best to the Master. 1. Give of your best to the master, Give of the strength of your youth; Throw your soul’s fresh, glowing ardor Into the battle for truth. Jesus has set the example – Dauntless was He, young and brave; Give Him your loyal devotion, Give Him the best that you have. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Give of Your Best to the Master, Give of your best to the master, ,Give of your best to the master,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -63,6 +66,7 @@ Give of your best to the master,
 Give of the strength of your youth;
 Clad in salvation’s full armor,
 Join in the battle for truth.
+
 
 
 

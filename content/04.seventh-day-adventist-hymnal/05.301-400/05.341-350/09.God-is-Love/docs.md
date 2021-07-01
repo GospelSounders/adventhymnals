@@ -1,8 +1,10 @@
 ---
 title: 349. God is Love - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 349. God is Love. 1. Here in Christ we gather, love of Christ our calling. Christ, our love, is with us, gladness be His greeting. Let us fear Him, yes, and love Him, God eternal. Loving Him, let each love Christ in all his brethren. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God is Love, Here in Christ we gather, love of Christ our calling. ,God is love, and where true love is
+    description: |
+      SDAH 349. God is Love. 1. Here in Christ we gather, love of Christ our calling. Christ, our love, is with us, gladness be His greeting. Let us fear Him, yes, and love Him, God eternal. Loving Him, let each love Christ in all his brethren. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God is Love, Here in Christ we gather, love of Christ our calling. ,God is love, and where true love is
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ Be our bliss while endless ages sing Your praises.
 Refrain:
 God is love, and where true love is
 God Himself is there.
+
 
 
 

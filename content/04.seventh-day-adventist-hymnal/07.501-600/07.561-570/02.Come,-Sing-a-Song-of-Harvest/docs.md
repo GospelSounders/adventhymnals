@@ -1,8 +1,10 @@
 ---
 title: 562. Come, Sing a Song of Harvest - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 562. Come, Sing a Song of Harvest. 1. Come, sing a song of harvest, Of thanks for daily food! To offer God the first-fruits is old as gratitude.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Sing a Song of Harvest, Come, sing a song of harvest, Of thanks for daily food! 
+    description: |
+      SDAH 562. Come, Sing a Song of Harvest. 1. Come, sing a song of harvest, Of thanks for daily food! To offer God the first-fruits is old as gratitude.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Sing a Song of Harvest, Come, sing a song of harvest, Of thanks for daily food! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ Accept these gifts we offer, our service and our songs.
 5.
 And lest the world go hungry while we ourselves are fed,
 Make each of us more ready to share our daily bread.
+
 
 
 ```

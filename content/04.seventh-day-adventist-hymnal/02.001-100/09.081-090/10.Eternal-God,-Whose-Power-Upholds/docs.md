@@ -1,8 +1,10 @@
 ---
 title: 90. Eternal God, Whose Power Upholds - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 90. Eternal God, Whose Power Upholds. 1. Eternal God, whose power upholds Both flower and flaming star, To whom there is no here nor there, No time, no near nor far, No alien race, no foreign shore, No child unsought, unknown: O send us forth, Your prophets true, To make all lands Your own!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Eternal God, Whose Power Upholds, Eternal God, whose power upholds Both flower and flaming star, 
+    description: |
+      SDAH 90. Eternal God, Whose Power Upholds. 1. Eternal God, whose power upholds Both flower and flaming star, To whom there is no here nor there, No time, no near nor far, No alien race, no foreign shore, No child unsought, unknown: O send us forth, Your prophets true, To make all lands Your own!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Eternal God, Whose Power Upholds, Eternal God, whose power upholds Both flower and flaming star, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ O God of righteousness and grace, Seen in the Christ, Your Son,
 Whose life and death reveal Your face, By whom Your will was done;
 Help us to spread Your gracious reign Till greed and hate shall cease,
 And kindness dwell in human hearts, And all the earth find peace!
+
 
 
 ```

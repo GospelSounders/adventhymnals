@@ -1,8 +1,10 @@
 ---
 title: 35. With Songs and Honors - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 35. With Songs and Honors. 1. With songs and honors sounding loud, Address the Lord on high; Over the heavens He spreads His cloud, And waters veil the sky.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, With Songs and Honors, With songs and honors sounding loud, 
+    description: |
+      SDAH 35. With Songs and Honors. 1. With songs and honors sounding loud, Address the Lord on high; Over the heavens He spreads His cloud, And waters veil the sky.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, With Songs and Honors, With songs and honors sounding loud, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ The changing wind, the flying cloud,
 Obey His mighty word:
 With songs and honors sounding loud
 Praise ye the sovereign Lord!
+
 
 
 ```

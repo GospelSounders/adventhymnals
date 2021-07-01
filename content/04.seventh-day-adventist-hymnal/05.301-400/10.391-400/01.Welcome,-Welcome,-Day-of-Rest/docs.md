@@ -1,8 +1,10 @@
 ---
 title: 391. Welcome, Welcome, Day of Rest - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 391. Welcome, Welcome, Day of Rest. 1. To the world in kindness given; Welcome to this humble breast, As the beaming light from heaven.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Welcome, Welcome, Day of Rest, To the world in kindness given; 
+    description: |
+      SDAH 391. Welcome, Welcome, Day of Rest. 1. To the world in kindness given; Welcome to this humble breast, As the beaming light from heaven.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Welcome, Welcome, Day of Rest, To the world in kindness given; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -35,6 +38,7 @@ Welcome, welcome, day of rest,
 With thy influence all divine;
 May thy hallowed hours be blessed
 to this waiting heart of mine.
+
 
 
 ```

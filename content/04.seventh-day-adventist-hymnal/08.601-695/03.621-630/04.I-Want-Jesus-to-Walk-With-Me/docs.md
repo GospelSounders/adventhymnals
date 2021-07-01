@@ -1,8 +1,10 @@
 ---
 title: 624. I Want Jesus to Walk With Me - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 624. I Want Jesus to Walk With Me. 1. I want Jesus to walk with me. (walk with me) I want Jesus to walk with me. (walk with me) All along my pilgrim journey, I want Jesus to walk with me. (walk with me)
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Want Jesus to Walk With Me, I want Jesus to walk with me. 
+    description: |
+      SDAH 624. I Want Jesus to Walk With Me. 1. I want Jesus to walk with me. (walk with me) I want Jesus to walk with me. (walk with me) All along my pilgrim journey, I want Jesus to walk with me. (walk with me)
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Want Jesus to Walk With Me, I want Jesus to walk with me. 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -39,6 +42,7 @@ In my sorrows, Lord walk with me.
 When my heart within is aching,
 I want Jesus to walk with me.
 (walk with me)
+
 
 
 ```

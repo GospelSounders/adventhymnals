@@ -1,8 +1,10 @@
 ---
 title: 551. Jesus, Savior, Pilot Me - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 551. Jesus, Savior, Pilot Me. 1. Jesus, Savior, pilot me over life’s tempestuous sea; unknown waves before me roll, hiding rock and treacherous shoal. Chart and compass come from thee; Jesus, Savior, pilot me.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Savior, Pilot Me, Jesus, Savior, pilot me 
+    description: |
+      SDAH 551. Jesus, Savior, Pilot Me. 1. Jesus, Savior, pilot me over life’s tempestuous sea; unknown waves before me roll, hiding rock and treacherous shoal. Chart and compass come from thee; Jesus, Savior, pilot me.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Savior, Pilot Me, Jesus, Savior, pilot me 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ and the fearful breakers roar
 then, while leaning on thy breast,
 may I hear thee say to me,
 “Fear not, I will pilot thee.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 8. We Gather Together - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 8. We Gather Together. 1. We gather together to ask the Lord’s blessing; He chastens and hastens His will to make known. The wicked oppressing now cease from distressing. Sing praises to His Name; He forgets not His own.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Gather Together, We gather together to ask the Lord’s blessing; 
+    description: |
+      SDAH 8. We Gather Together. 1. We gather together to ask the Lord’s blessing; He chastens and hastens His will to make known. The wicked oppressing now cease from distressing. Sing praises to His Name; He forgets not His own.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Gather Together, We gather together to ask the Lord’s blessing; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ We all do extol Thee, Thou leader triumphant,
 And pray that Thou still our defender wilt be.
 Let Thy congregation escape tribulation;
 Thy name be ever praised! O Lord, make us free!
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 281. I Gave My Life for Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 281. I Gave My Life for Thee. 1. I gave my life for thee, My precious blood I shed, That thou might’st ransom be, And quickened from the dead; I gave, I gave My life for thee, What hast thou given for Me? I gave, I gave My life for thee, What hast thou given for Me?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Gave My Life for Thee, I gave my life for thee, 
+    description: |
+      SDAH 281. I Gave My Life for Thee. 1. I gave my life for thee, My precious blood I shed, That thou might’st ransom be, And quickened from the dead; I gave, I gave My life for thee, What hast thou given for Me? I gave, I gave My life for thee, What hast thou given for Me?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Gave My Life for Thee, I gave my life for thee, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ I’ve borne, I’ve borne it all for thee,
 What hast thou borne for Me?
 I’ve borne, I’ve borne it all for thee,
 What hast thou borne for Me?
+
 
 
 ```

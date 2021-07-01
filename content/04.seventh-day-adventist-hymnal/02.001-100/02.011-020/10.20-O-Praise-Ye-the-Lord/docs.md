@@ -1,8 +1,10 @@
 ---
 title: 20. 20 O Praise Ye the Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 20. 20 O Praise Ye the Lord. 1. O praise ye the Lord! Praise Him in the height; Rejoice in His word, Ye angels of light; Ye heavens, adore Him By whom ye were made, And worship before Him, In brightness arrayed.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, 20 O Praise Ye the Lord, O praise ye the Lord! 
+    description: |
+      SDAH 20. 20 O Praise Ye the Lord. 1. O praise ye the Lord! Praise Him in the height; Rejoice in His word, Ye angels of light; Ye heavens, adore Him By whom ye were made, And worship before Him, In brightness arrayed.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, 20 O Praise Ye the Lord, O praise ye the Lord! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ For love in creation,
 For heaven restored.
 For grace of salvation,
 O praise ye the Lord!
+
 
 
 ```

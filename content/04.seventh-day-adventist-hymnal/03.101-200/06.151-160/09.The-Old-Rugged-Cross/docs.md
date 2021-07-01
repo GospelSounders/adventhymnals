@@ -1,8 +1,10 @@
 ---
 title: 159. The Old Rugged Cross - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 159. The Old Rugged Cross. 1. On a hill far away stood an old rugged cross, the emblem of suffering and shame; and I love that old cross where the dearest and best for a world of lost sinners was slain. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Old Rugged Cross, On a hill far away stood an old rugged cross, ,So I’ll cherish the old rugged cross,
+    description: |
+      SDAH 159. The Old Rugged Cross. 1. On a hill far away stood an old rugged cross, the emblem of suffering and shame; and I love that old cross where the dearest and best for a world of lost sinners was slain. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Old Rugged Cross, On a hill far away stood an old rugged cross, ,So I’ll cherish the old rugged cross,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ So I’ll cherish the old rugged cross,
 till my trophies at last I lay down;
 I will cling to the old rugged cross,
 and exchange it some day for a crown.
+
 
 
 

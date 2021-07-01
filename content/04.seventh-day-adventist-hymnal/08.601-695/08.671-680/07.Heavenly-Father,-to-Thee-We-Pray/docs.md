@@ -1,8 +1,10 @@
 ---
 title: 677. Heavenly Father, to Thee We Pray - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 677. Heavenly Father, to Thee We Pray. 1. Heavenly Father, to Thee we pray, On the holy Sabbath day; Through Thy Word Thy will make known; May each heart become Thy throne, Let Thy living water flow That we Thy boundless love may know. Amen.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Heavenly Father, to Thee We Pray, Heavenly Father, to Thee we pray, 
+    description: |
+      SDAH 677. Heavenly Father, to Thee We Pray. 1. Heavenly Father, to Thee we pray, On the holy Sabbath day; Through Thy Word Thy will make known; May each heart become Thy throne, Let Thy living water flow That we Thy boundless love may know. Amen.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Heavenly Father, to Thee We Pray, Heavenly Father, to Thee we pray, 
     author: Brian Onang'o
 ---
 
@@ -13,6 +15,7 @@ metadata:
 ```txt
 
 
+
 1.
 Heavenly Father, to Thee we pray,
 On the holy Sabbath day;
@@ -21,6 +24,7 @@ May each heart become Thy throne,
 Let Thy living water flow
 That we Thy boundless love may know.
 Amen.
+
 
 
 ```

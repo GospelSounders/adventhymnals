@@ -1,8 +1,10 @@
 ---
 title: 434. We Speak of the Realms - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 434. We Speak of the Realms. 1. We speak of the realms of the blest, That country so bright and so fair, And oft are its glories confessed- But what must it be to be there! We speak of its pathway of gold- Its walls decked with jewels so rare, Its wonders and pleasures untold- But what must it be to be there!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Speak of the Realms, We speak of the realms of the blest, 
+    description: |
+      SDAH 434. We Speak of the Realms. 1. We speak of the realms of the blest, That country so bright and so fair, And oft are its glories confessed- But what must it be to be there! We speak of its pathway of gold- Its walls decked with jewels so rare, Its wonders and pleasures untold- But what must it be to be there!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Speak of the Realms, We speak of the realms of the blest, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Then o’er the bright fields we shall roam,
 In glory celestial and fair,
 With saints and with angels at home,
 And Jesus Himself will be there.
+
 
 
 ```

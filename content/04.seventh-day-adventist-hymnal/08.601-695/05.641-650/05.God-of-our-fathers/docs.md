@@ -1,8 +1,10 @@
 ---
 title: 645. God of our fathers - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 645. God of our fathers. 1. God of our fathers, Whose almighty hand Leads forth in beauty all the starry band Of shining worlds in splendor through the skies Our grateful songs before Thy throne arise.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God of our fathers, God of our fathers, Whose almighty hand 
+    description: |
+      SDAH 645. God of our fathers. 1. God of our fathers, Whose almighty hand Leads forth in beauty all the starry band Of shining worlds in splendor through the skies Our grateful songs before Thy throne arise.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God of our fathers, God of our fathers, Whose almighty hand 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Refresh Thy people on their toilsome way,
 Lead us from night to never ending day;
 Fill all our lives with love and grace divine,
 And glory, laud, and praise be ever Thine.
+
 
 
 ```

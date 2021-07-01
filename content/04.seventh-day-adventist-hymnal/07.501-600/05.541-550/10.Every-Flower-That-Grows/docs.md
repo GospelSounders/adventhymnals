@@ -1,8 +1,10 @@
 ---
 title: 550. Every Flower That Grows - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 550. Every Flower That Grows. 1. Every flow’r that grows, Every brook that flows, Tell of beauty God has giv’n for me: Throughout my life may beauty be Deep within a heart from sin set free.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Every Flower That Grows, Every flow’r that grows, Every brook that flows, 
+    description: |
+      SDAH 550. Every Flower That Grows. 1. Every flow’r that grows, Every brook that flows, Tell of beauty God has giv’n for me: Throughout my life may beauty be Deep within a heart from sin set free.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Every Flower That Grows, Every flow’r that grows, Every brook that flows, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ All my earthly days, I shall sing and praise
 God the Father, Spirit, and Christ with the Son.
 Grant faith when life on earth is done,
 I shall sing with those whose rest is won.
+
 
 
 ```

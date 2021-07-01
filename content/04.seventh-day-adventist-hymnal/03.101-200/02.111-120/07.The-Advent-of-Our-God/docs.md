@@ -1,8 +1,10 @@
 ---
 title: 117. The Advent of Our God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 117. The Advent of Our God. 1. The advent of our God With eager prayers we greet, And singing haste upon His road His coming reign to meet.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Advent of Our God, The advent of our God 
+    description: |
+      SDAH 117. The Advent of Our God. 1. The advent of our God With eager prayers we greet, And singing haste upon His road His coming reign to meet.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Advent of Our God, The advent of our God 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Praise to the incarnate Son
 Who comes to set us free,
 With Father, Spirit, ever one,
 To all eternity.
+
 
 
 ```

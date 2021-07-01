@@ -1,8 +1,10 @@
 ---
 title: 137. We Three Kings - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 137. We Three Kings. 1. We three kings of Orient are; Bearing gifts we traverse afar Field and fountain, moor and mountain, Following yonder star. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Three Kings, We three kings of Orient are; ,O star of wonder, star of night,
+    description: |
+      SDAH 137. We Three Kings. 1. We three kings of Orient are; Bearing gifts we traverse afar Field and fountain, moor and mountain, Following yonder star. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Three Kings, We three kings of Orient are; ,O star of wonder, star of night,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -77,6 +80,7 @@ O star of wonder, star of night,
 Star with royal beauty bright,
 Westward leading, still proceeding,
 Guide us to Thy perfect light.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 690. Dismiss Us, Lord, With Blessing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 690. Dismiss Us, Lord, With Blessing. 1. Dismiss us, Lord, with blessing, we pray; As from Thy worship we go our ways; Guide in life’s conflicts, all through the day; Save in Thy kingdom, Thine be the praise. Amen.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Dismiss Us, Lord, With Blessing, Dismiss us, Lord, with blessing, we pray; 
+    description: |
+      SDAH 690. Dismiss Us, Lord, With Blessing. 1. Dismiss us, Lord, with blessing, we pray; As from Thy worship we go our ways; Guide in life’s conflicts, all through the day; Save in Thy kingdom, Thine be the praise. Amen.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Dismiss Us, Lord, With Blessing, Dismiss us, Lord, with blessing, we pray; 
     author: Brian Onang'o
 ---
 
@@ -13,12 +15,14 @@ metadata:
 ```txt
 
 
+
 1.
 Dismiss us, Lord, with blessing, we pray;
 As from Thy worship we go our ways;
 Guide in life’s conflicts, all through the day;
 Save in Thy kingdom, Thine be the praise.
 Amen.
+
 
 
 ```

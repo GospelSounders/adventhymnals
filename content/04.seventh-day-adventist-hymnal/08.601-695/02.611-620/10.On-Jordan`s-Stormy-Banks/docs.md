@@ -1,8 +1,10 @@
 ---
 title: 620. On Jordan`s Stormy Banks - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 620. On Jordan`s Stormy Banks. 1. On Jordan’s stormy banks I stand, And cast a wishful eye To Canaan’s fair and happy land, Where my possessions lie. I am bound for the promised land, I am bound for the promised land; O who will come and go with me? I am bound for the promised land.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, On Jordan`s Stormy Banks, On Jordan’s stormy banks I stand, 
+    description: |
+      SDAH 620. On Jordan`s Stormy Banks. 1. On Jordan’s stormy banks I stand, And cast a wishful eye To Canaan’s fair and happy land, Where my possessions lie. I am bound for the promised land, I am bound for the promised land; O who will come and go with me? I am bound for the promised land.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, On Jordan`s Stormy Banks, On Jordan’s stormy banks I stand, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ I am bound for the promised land,
 I am bound for the promised land;
 O who will come and go with me?
 I am bound for the promised land.
+
 
 
 ```

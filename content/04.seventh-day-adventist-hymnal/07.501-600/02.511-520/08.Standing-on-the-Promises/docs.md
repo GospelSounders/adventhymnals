@@ -1,8 +1,10 @@
 ---
 title: 518. Standing on the Promises - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 518. Standing on the Promises. 1. Standing on the promises of Christ my King, Thru eternal ages let His praises ring; Glory in the highest I will shout and sing, Standing on the promises of God. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Standing on the Promises, Standing on the promises of Christ my King, ,Standing, standing,
+    description: |
+      SDAH 518. Standing on the Promises. 1. Standing on the promises of Christ my King, Thru eternal ages let His praises ring; Glory in the highest I will shout and sing, Standing on the promises of God. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Standing on the Promises, Standing on the promises of Christ my King, ,Standing, standing,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -54,6 +57,7 @@ Standing on the promises
 of God my Savior;
 Standing, standing,
 I’m standing on the promises of God.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 500. Take Time to Be Holy - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 500. Take Time to Be Holy. 1. Take time to be holy, speak oft with thy Lord; abide in him always, and feed on his word. Make friends of God’s children, help those who are weak, forgetting in nothing his blessing to seek.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Take Time to Be Holy, Take time to be holy, 
+    description: |
+      SDAH 500. Take Time to Be Holy. 1. Take time to be holy, speak oft with thy Lord; abide in him always, and feed on his word. Make friends of God’s children, help those who are weak, forgetting in nothing his blessing to seek.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Take Time to Be Holy, Take time to be holy, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Thus led by his spirit
 to fountains of love,
 thou soon shalt be fitted
 for service above.
+
 
 
 ```

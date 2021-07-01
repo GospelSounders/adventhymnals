@@ -1,8 +1,10 @@
 ---
 title: 377. Go Forth, Go Forth With Christ - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 377. Go Forth, Go Forth With Christ. 1. Go forth, go forth with Christ, Who called you to this day, He who has led, will lead And keep you in His way: His word is fast, His promise sure To all who serve Him and endure.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Go Forth, Go Forth With Christ, Go forth, go forth with Christ, 
+    description: |
+      SDAH 377. Go Forth, Go Forth With Christ. 1. Go forth, go forth with Christ, Who called you to this day, He who has led, will lead And keep you in His way: His word is fast, His promise sure To all who serve Him and endure.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Go Forth, Go Forth With Christ, Go forth, go forth with Christ, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Who bought us by His blood
 To be His servants here:
 Walk in the way your Savior trod,
 Go forth with Him, go forth with God.
+
 
 
 ```

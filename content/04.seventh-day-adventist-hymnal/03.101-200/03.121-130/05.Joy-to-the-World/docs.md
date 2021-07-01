@@ -1,8 +1,10 @@
 ---
 title: 125. Joy to the World - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 125. Joy to the World. 1. Joy to the world, the Lord is come! Let earth receive her King; Let every heart prepare Him room, And heaven and nature sing, And heaven and nature sing, And heaven, and heaven and nature sing.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Joy to the World, Joy to the world, the Lord is come! 
+    description: |
+      SDAH 125. Joy to the World. 1. Joy to the world, the Lord is come! Let earth receive her King; Let every heart prepare Him room, And heaven and nature sing, And heaven and nature sing, And heaven, and heaven and nature sing.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Joy to the World, Joy to the world, the Lord is come! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ And makes the nations prove
 The glories of His righteousness,
 And wonders of His love, And wonders of His love,
 And wonders, and wonders of His love.
+
 
 
 ```

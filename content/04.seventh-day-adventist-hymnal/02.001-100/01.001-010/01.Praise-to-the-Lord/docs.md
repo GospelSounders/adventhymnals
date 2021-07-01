@@ -1,8 +1,10 @@
 ---
 title: 1. Praise to the Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 1. Praise to the Lord. 1. Praise to the Lord, the Almighty, the King of creation! O my soul, praise Him, for He is thy health and salvation! All ye who hear, now to His temple draw near; Join ye in glad adoration!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise to the Lord, Praise to the Lord, the Almighty, the King of creation! 
+    description: |
+      SDAH 1. Praise to the Lord. 1. Praise to the Lord, the Almighty, the King of creation! O my soul, praise Him, for He is thy health and salvation! All ye who hear, now to His temple draw near; Join ye in glad adoration!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Praise to the Lord, Praise to the Lord, the Almighty, the King of creation! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Praise to the Lord, who doth prosper thy work and defend thee;
 Surely His goodness and mercy here daily attend thee.
 Ponder anew what the Almighty can do,
 If with His love He befriend thee.
+
 
 
 ```

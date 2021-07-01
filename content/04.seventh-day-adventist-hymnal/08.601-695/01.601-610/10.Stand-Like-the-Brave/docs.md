@@ -1,8 +1,10 @@
 ---
 title: 610. Stand Like the Brave - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 610. Stand Like the Brave. 1. O Christian, awake! ’tis the Master’s command; With helmet and shield, and a sword in thy hand, To meet the bold tempter, go, fearlessly go, Then stand like the brave, with thy face to the foe. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Stand Like the Brave, O Christian, awake! ’tis the Master’s command; ,Stand like the brave, stand like the brave,
+    description: |
+      SDAH 610. Stand Like the Brave. 1. O Christian, awake! ’tis the Master’s command; With helmet and shield, and a sword in thy hand, To meet the bold tempter, go, fearlessly go, Then stand like the brave, with thy face to the foe. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Stand Like the Brave, O Christian, awake! ’tis the Master’s command; ,Stand like the brave, stand like the brave,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ Then stand like the brave, with thy face to the foe.
 Refrain:
 Stand like the brave, stand like the brave,
 Stand like the brave, with thy face to the foe.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 170. Come, You Faithful - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 170. Come, You Faithful. 1. Come, you faithful, raise the strain Of triumphant gladness; God has brought His Israel Into joy from sadness; Loosed from Pharoah’s bitter yoke Jacob’s sons and daughters; Led them with unmoistened foot Through the Red Sea waters.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, You Faithful, Come, you faithful, raise the strain 
+    description: |
+      SDAH 170. Come, You Faithful. 1. Come, you faithful, raise the strain Of triumphant gladness; God has brought His Israel Into joy from sadness; Loosed from Pharoah’s bitter yoke Jacob’s sons and daughters; Led them with unmoistened foot Through the Red Sea waters.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, You Faithful, Come, you faithful, raise the strain 
     author: Brian Onang'o
 ---
 

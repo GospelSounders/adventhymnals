@@ -1,8 +1,10 @@
 ---
 title: 651. Happy the Home That Welcomes You - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 651. Happy the Home That Welcomes You. 1. Happy the home that welcomes You, Lord Jesus, Truest of friends, most honored guest of all, Where hearts and eyes are bright with joy to greet You, Your lightest wishes eager to fulfill.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Happy the Home That Welcomes You, Happy the home that welcomes You, Lord Jesus, 
+    description: |
+      SDAH 651. Happy the Home That Welcomes You. 1. Happy the home that welcomes You, Lord Jesus, Truest of friends, most honored guest of all, Where hearts and eyes are bright with joy to greet You, Your lightest wishes eager to fulfill.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Happy the Home That Welcomes You, Happy the home that welcomes You, Lord Jesus, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Happy the home, O loving Friend of children,
 Where they are giv’n to You with hands of prayer,
 Where at Your feet they early learn to listen
 To Your own words, and thank You for Your care.
+
 
 
 ```

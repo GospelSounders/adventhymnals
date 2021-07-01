@@ -1,8 +1,10 @@
 ---
 title: 143. Silent Night, Holy Night - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 143. Silent Night, Holy Night. 1. Silent night! holy night! All is calm, all is bright Round yon virgin mother and Child, Holy Infant so tender and mild, Sleep in heavenly peace, sleep in heavenly peace.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Silent Night, Holy Night, Silent night! holy night! 
+    description: |
+      SDAH 143. Silent Night, Holy Night. 1. Silent night! holy night! All is calm, all is bright Round yon virgin mother and Child, Holy Infant so tender and mild, Sleep in heavenly peace, sleep in heavenly peace.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Silent Night, Holy Night, Silent night! holy night! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Radiant beams from Thy holy face,
 with the dawn of redeeming grace,
 Jesus, Lord, at Thy birth,
 Jesus, Lord, at Thy birth.
+
 
 
 ```

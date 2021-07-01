@@ -1,8 +1,10 @@
 ---
 title: 453. We Have Heard - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 453. We Have Heard. 1. We have heard from the bright, the holy, land; We have heard, and our hearts are glad; For we were a lonely pilgrim band, And weary, and worn, and sad. They tell us the saints have a dwelling there- No longer are homeless ones; And we know that the goodly land is fair, Where life’s pure river runs.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Have Heard, We have heard from the bright, the holy, land; 
+    description: |
+      SDAH 453. We Have Heard. 1. We have heard from the bright, the holy, land; We have heard, and our hearts are glad; For we were a lonely pilgrim band, And weary, and worn, and sad. They tell us the saints have a dwelling there- No longer are homeless ones; And we know that the goodly land is fair, Where life’s pure river runs.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Have Heard, We have heard from the bright, the holy, land; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ We’ll be there, we’ll be there in a little while,
 We’ll join the pure and the blest;
 We’ll have the palm, the robe, the crown,
 And forever be at rest.
+
 
 
 ```

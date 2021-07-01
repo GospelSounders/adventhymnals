@@ -1,8 +1,10 @@
 ---
 title: 244. My Song Shall Be of Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 244. My Song Shall Be of Jesus. 1. My song shall be of Jesus; His mercy crowns my days, He fills my cup with blessings, And tunes my heart to praise. My song shall be of Jesus, The precious Lamb of God, Who gave Himself my ransom, And bought me with His blood.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Song Shall Be of Jesus, My song shall be of Jesus; 
+    description: |
+      SDAH 244. My Song Shall Be of Jesus. 1. My song shall be of Jesus; His mercy crowns my days, He fills my cup with blessings, And tunes my heart to praise. My song shall be of Jesus, The precious Lamb of God, Who gave Himself my ransom, And bought me with His blood.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Song Shall Be of Jesus, My song shall be of Jesus; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ And when my soul shall enter
 That realm of splendor fair,
 A song of praise to Jesus
 I’ll sing forever there.
+
 
 
 ```

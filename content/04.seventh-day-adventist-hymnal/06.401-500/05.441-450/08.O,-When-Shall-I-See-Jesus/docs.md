@@ -1,8 +1,10 @@
 ---
 title: 448. O, When Shall I See Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 448. O, When Shall I See Jesus. 1. O, when shall I see Jesus and reign with Him above, And shall hear the trumpet sound in that morning? And from the flowing fountain drink everlasting love, And shall hear the trumpet sound in that morning. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O, When Shall I See Jesus, O, when shall I see Jesus and reign with Him above, ,O, shout, glory!
+    description: |
+      SDAH 448. O, When Shall I See Jesus. 1. O, when shall I see Jesus and reign with Him above, And shall hear the trumpet sound in that morning? And from the flowing fountain drink everlasting love, And shall hear the trumpet sound in that morning. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O, When Shall I See Jesus, O, when shall I see Jesus and reign with Him above, ,O, shout, glory!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Refrain:
 O, shout, glory!
 For I shall mount above the skies,
 When I hear the trumpet sound in that morning.
+
 
 
 

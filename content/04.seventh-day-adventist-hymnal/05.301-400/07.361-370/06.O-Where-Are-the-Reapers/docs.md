@@ -1,8 +1,10 @@
 ---
 title: 366. O Where Are the Reapers? - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 366. O Where Are the Reapers?. 1. O where are the reapers that garner in The sheaves of the good from the fields of sin? With sickles of truth must the work be done, And no one may rest till the “harvest home.” 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Where Are the Reapers?, O where are the reapers that garner in ,Where are the reapers? O who will come
+    description: |
+      SDAH 366. O Where Are the Reapers?. 1. O where are the reapers that garner in The sheaves of the good from the fields of sin? With sickles of truth must the work be done, And no one may rest till the “harvest home.” 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Where Are the Reapers?, O where are the reapers that garner in ,Where are the reapers? O who will come
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Where are the reapers? O who will come
 And share in the glory of the “harvest home”?
 O who will help us to garner in
 The sheaves of good from the fields of sin?
+
 
 
 

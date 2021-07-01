@@ -1,8 +1,10 @@
 ---
 title: 87. God Who Spoke in the Beginning - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 87. God Who Spoke in the Beginning. 1. God who spoke in the beginning, Forming rock and shaping spar, Set all life and growth in motion, Earthly world and distant star; He who calls the earth to order Is the ground of what we are.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Who Spoke in the Beginning, God who spoke in the beginning, 
+    description: |
+      SDAH 87. God Who Spoke in the Beginning. 1. God who spoke in the beginning, Forming rock and shaping spar, Set all life and growth in motion, Earthly world and distant star; He who calls the earth to order Is the ground of what we are.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Who Spoke in the Beginning, God who spoke in the beginning, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Calls us to a life of service,
 Heart and will to action stirred;
 He who uses man’s obedience
 Has the first and final word.
+
 
 
 ```

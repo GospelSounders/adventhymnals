@@ -1,8 +1,10 @@
 ---
 title: 213. Jesus Is Coming Again - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 213. Jesus Is Coming Again. 1. Lift up the trumpet, and loud let it ring: Jesus is coming again! Cheer up, ye pilgrims, be joyful and sing: Jesus is coming again! 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Is Coming Again, Lift up the trumpet, and loud let it ring; ,Coming again, coming again,
+    description: |
+      SDAH 213. Jesus Is Coming Again. 1. Lift up the trumpet, and loud let it ring: Jesus is coming again! Cheer up, ye pilgrims, be joyful and sing: Jesus is coming again! 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Is Coming Again, Lift up the trumpet, and loud let it ring; ,Coming again, coming again,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -56,6 +59,7 @@ Jesus is coming again!
 Refrain:
 Coming again, coming again,
 Jesus is coming again!
+
 
 
 

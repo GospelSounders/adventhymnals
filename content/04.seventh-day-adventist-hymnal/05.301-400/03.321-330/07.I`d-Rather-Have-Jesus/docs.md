@@ -1,8 +1,10 @@
 ---
 title: 327. I`d Rather Have Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 327. I`d Rather Have Jesus. 1. I’d rather have Jesus than silver or gold; I’d rather be His than have riches untold; I’d rather have Jesus than houses or land; I’d rather be led by His nail-pierced hand: 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`d Rather Have Jesus, I’d rather have Jesus than silver or gold; ,Than to be the king of a vast domain or be held in sin’s dread sway!
+    description: |
+      SDAH 327. I`d Rather Have Jesus. 1. I’d rather have Jesus than silver or gold; I’d rather be His than have riches untold; I’d rather have Jesus than houses or land; I’d rather be led by His nail-pierced hand: 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`d Rather Have Jesus, I’d rather have Jesus than silver or gold; ,Than to be the king of a vast domain or be held in sin’s dread sway!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ I’d rather have Jesus and let Him lead:
 Refrain:
 Than to be the king of a vast domain or be held in sin’s dread sway!
 I’d rather have Jesus than anything this world affords today.
+
 
 
 

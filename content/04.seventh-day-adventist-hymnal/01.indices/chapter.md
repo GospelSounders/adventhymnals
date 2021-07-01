@@ -1,8 +1,10 @@
 ---
 title: Index of Titles - Seventh Day Adventist Hymnal
 metadata:
-    description: Seventh Day Adventist Hymnal - Index of Titles
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, index
+    description: |
+      Seventh Day Adventist Hymnal - Index of Titles
+    keywords:  |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, index
     author: Brian Onang'o
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: 490. Jesus, Lover of My Soul - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 490. Jesus, Lover of My Soul. 1. Jesus, lover of my soul, let me to Thy bosom fly, While the nearer waters roll, while the tempest still is high. Hide me, O my Savior, hide, till the storm of life is past; Safe into the haven guide; O receive my soul at last.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Lover of My Soul, Jesus, lover of my soul, let me to Thy bosom fly, 
+    description: |
+      SDAH 490. Jesus, Lover of My Soul. 1. Jesus, lover of my soul, let me to Thy bosom fly, While the nearer waters roll, while the tempest still is high. Hide me, O my Savior, hide, till the storm of life is past; Safe into the haven guide; O receive my soul at last.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Lover of My Soul, Jesus, lover of my soul, let me to Thy bosom fly, 
     author: Brian Onang'o
 ---
 

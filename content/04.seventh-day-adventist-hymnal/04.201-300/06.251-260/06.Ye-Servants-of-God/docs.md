@@ -1,8 +1,10 @@
 ---
 title: 256. Ye Servants of God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 256. Ye Servants of God. 1. Ye servants of God, your Master proclaim, and publish abroad his wonderful name; the name all-victorious of Jesus extol, his kingdom is glorious and rules over all.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Ye Servants of God, Ye servants of God, your Master proclaim, 
+    description: |
+      SDAH 256. Ye Servants of God. 1. Ye servants of God, your Master proclaim, and publish abroad his wonderful name; the name all-victorious of Jesus extol, his kingdom is glorious and rules over all.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Ye Servants of God, Ye servants of God, your Master proclaim, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Then let us adore and give him his right,
 all glory and power, all wisdom and might;
 all honor and blessing with angels above,
 and thanks never ceasing and infinite love.
+
 
 
 ```

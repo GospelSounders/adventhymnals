@@ -1,8 +1,10 @@
 ---
 title: 10. Come, Christians, Join to Sing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 10. Come, Christians, Join to Sing. 1. Come, Christians, join to sing, Alleluia! Amen! Loud praise to Christ our King; Alleluia! Amen! Let all, with heart and voice, Before His throne rejoice; Praise is His gracious choice: Alleluia! Amen!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Christians, Join to Sing, Come, Christians, join to sing, 
+    description: |
+      SDAH 10. Come, Christians, Join to Sing. 1. Come, Christians, join to sing, Alleluia! Amen! Loud praise to Christ our King; Alleluia! Amen! Let all, with heart and voice, Before His throne rejoice; Praise is His gracious choice: Alleluia! Amen!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Christians, Join to Sing, Come, Christians, join to sing, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ On heaven’s blissful shore
 His goodness we’ll adore,
 Singing forevermore,
 Alleluia! Amen!
+
 
 
 ```

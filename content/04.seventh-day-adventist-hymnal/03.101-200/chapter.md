@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 101-200
 metadata:
-    description: Seventh Day Adventist Hymnal - 101-200
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, 101-200
+    description: |
+      Seventh Day Adventist Hymnal - 101-200
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, 101-200
     author: Brian Onang'o
 ---
 

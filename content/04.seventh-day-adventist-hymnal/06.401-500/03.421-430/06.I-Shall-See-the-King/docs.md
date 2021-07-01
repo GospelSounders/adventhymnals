@@ -1,8 +1,10 @@
 ---
 title: 426. I Shall See the King - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 426. I Shall See the King. 1. I shall see the King where the angels sing, I shall see the King some day, in the better land, On that golden strand, And with Him shall ever stay. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Shall See the King, I shall see the King where the angels sing, ,In His glory, I shall see the King,
+    description: |
+      SDAH 426. I Shall See the King. 1. I shall see the King where the angels sing, I shall see the King some day, in the better land, On that golden strand, And with Him shall ever stay. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Shall See the King, I shall see the King where the angels sing, ,In His glory, I shall see the King,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ In His glory, I shall see the King,
 And forever endless praises sing;
 ‘Twas on Calvary Jesus died for me;
 I shall see the King someday.
+
 
 
 

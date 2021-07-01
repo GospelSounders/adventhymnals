@@ -1,8 +1,10 @@
 ---
 title: 215. The King Shall Come - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 215. The King Shall Come. 1. The King shall come when morning dawns And light triumphant breaks, When beauty gilds the eastern hills And life to joy awakes.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The King Shall Come, The King shall come when morning dawns 
+    description: |
+      SDAH 215. The King Shall Come. 1. The King shall come when morning dawns And light triumphant breaks, When beauty gilds the eastern hills And life to joy awakes.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The King Shall Come, The King shall come when morning dawns 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ The King shall come when morning dawns
 And light and beauty brings.
 Hail, Christ the Lord! Your people pray:
 Come quickly, King of kings.
+
 
 
 ```

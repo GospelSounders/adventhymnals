@@ -1,8 +1,10 @@
 ---
 title: 499. What a Friend We Have in Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 499. What a Friend We Have in Jesus. 1. What a friend we have in Jesus, All our sins and griefs to bear! What a privilege to carry Everything to God in prayer! Oh, what peace we often forfeit; Oh, what needless pain we bear All because we do not carry Everything to God in prayer!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, What a Friend We Have in Jesus, What a friend we have in Jesus, 
+    description: |
+      SDAH 499. What a Friend We Have in Jesus. 1. What a friend we have in Jesus, All our sins and griefs to bear! What a privilege to carry Everything to God in prayer! Oh, what peace we often forfeit; Oh, what needless pain we bear All because we do not carry Everything to God in prayer!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, What a Friend We Have in Jesus, What a friend we have in Jesus, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Do your friends despise, forsake you?
 Take it to the Lord in prayer.
 In his arms he’ll take and shield you;
 You will find a solace there.
+
 
 
 ```

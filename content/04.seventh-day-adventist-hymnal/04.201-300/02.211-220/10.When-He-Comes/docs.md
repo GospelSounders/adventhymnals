@@ -1,8 +1,10 @@
 ---
 title: 220. When He Comes - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 220. When He Comes. 1. When He comes, When He comes, We shall see the Lord in glory when He comes! As I read the gospel story, We shall see the Lord in glory, We shall see the Lord in glory when He comes! 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When He Comes, When He comes, ,With the alleluias ringing to the sky,
+    description: |
+      SDAH 220. When He Comes. 1. When He comes, When He comes, We shall see the Lord in glory when He comes! As I read the gospel story, We shall see the Lord in glory, We shall see the Lord in glory when He comes! 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When He Comes, When He comes, ,With the alleluias ringing to the sky,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -60,6 +63,7 @@ With the alleluias ringing to the sky!
 As I read the gospel in glory,
 We shall see the Lord in glory,
 With the alleluias ringing in the sky!
+
 
 
 

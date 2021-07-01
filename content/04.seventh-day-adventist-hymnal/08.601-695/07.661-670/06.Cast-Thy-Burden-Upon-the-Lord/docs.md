@@ -1,8 +1,10 @@
 ---
 title: 666. Cast Thy Burden Upon the Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 666. Cast Thy Burden Upon the Lord. 1. Cast thy burden upon the Lord, And He shall sustain thee; He never will suffer the righteous to fall; He is at thy right hand. Thy mercy, Lord, is great, and far above the heavens; Let none be made ashamed, that wait upon Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Cast Thy Burden Upon the Lord, Cast thy burden upon the Lord, 
+    description: |
+      SDAH 666. Cast Thy Burden Upon the Lord. 1. Cast thy burden upon the Lord, And He shall sustain thee; He never will suffer the righteous to fall; He is at thy right hand. Thy mercy, Lord, is great, and far above the heavens; Let none be made ashamed, that wait upon Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Cast Thy Burden Upon the Lord, Cast thy burden upon the Lord, 
     author: Brian Onang'o
 ---
 
@@ -13,6 +15,7 @@ metadata:
 ```txt
 
 
+
 1.
 Cast thy burden upon the Lord,
 And He shall sustain thee;
@@ -20,6 +23,7 @@ He never will suffer the righteous to fall;
 He is at thy right hand.
 Thy mercy, Lord, is great, and far above the heavens;
 Let none be made ashamed, that wait upon Thee.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 12. Joyful, Joyful, We Adore Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 12. Joyful, Joyful, We Adore Thee. 1. Joyful, joyful, we adore Thee, God of glory, Lord of love; Hearts unfold like flow’rs before Thee, Hail Thee as the sun above. Melt the clouds of sin and sadness, Drive the dark of doubt away; Giver of immortal gladness, Fill us with the light of day!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Joyful, Joyful, We Adore Thee, Joyful, joyful, we adore Thee, 
+    description: |
+      SDAH 12. Joyful, Joyful, We Adore Thee. 1. Joyful, joyful, we adore Thee, God of glory, Lord of love; Hearts unfold like flow’rs before Thee, Hail Thee as the sun above. Melt the clouds of sin and sadness, Drive the dark of doubt away; Giver of immortal gladness, Fill us with the light of day!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Joyful, Joyful, We Adore Thee, Joyful, joyful, we adore Thee, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Thou the father, Christ our Brother –
 All who live in love are Thine:
 Teach us how to love each other,
 Lift us to the joy divine.
+
 
 
 ```

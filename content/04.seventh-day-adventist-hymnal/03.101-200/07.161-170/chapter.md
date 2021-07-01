@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 161-170
 metadata:
-    description: Seventh Day Adventist Hymnal - 161-170
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 161-170
+    description: |
+      Seventh Day Adventist Hymnal - 161-170
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 161-170
     author: Brian Onang'o
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: 522. My Hope Is Built on Nothing Less - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 522. My Hope Is Built on Nothing Less. 1. My hope is built on nothing less than Jesus’ blood and righteousness. I dare not trust the sweetest frame, but wholly lean on Jesus’ name. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Hope Is Built on Nothing Less, My hope is built on nothing less ,On Christ the solid rock I stand;
+    description: |
+      SDAH 522. My Hope Is Built on Nothing Less. 1. My hope is built on nothing less than Jesus’ blood and righteousness. I dare not trust the sweetest frame, but wholly lean on Jesus’ name. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Hope Is Built on Nothing Less, My hope is built on nothing less ,On Christ the solid rock I stand;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -60,6 +63,7 @@ Refrain:
 On Christ the solid rock I stand;
 all other ground is sinking sand,
 all other ground is sinking sand.
+
 
 
 

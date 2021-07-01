@@ -1,8 +1,10 @@
 ---
 title: 107. God Moves in a Mysterious Way - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 107. God Moves in a Mysterious Way. 1. God moves in a mysterious way His wonders to perform; He plants His footsteps in the sea, And rides upon the storm.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Moves in a Mysterious Way, God moves in a mysterious way 
+    description: |
+      SDAH 107. God Moves in a Mysterious Way. 1. God moves in a mysterious way His wonders to perform; He plants His footsteps in the sea, And rides upon the storm.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Moves in a Mysterious Way, God moves in a mysterious way 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Blind unbelief is sure to err,
 And scan His work in vain;
 God is His own interpreter,
 And He will make it plain.
+
 
 
 ```

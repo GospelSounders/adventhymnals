@@ -1,8 +1,10 @@
 ---
 title: 261. The Spirit of the Lord Revealed - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 261. The Spirit of the Lord Revealed. 1. The Spirit of the Lord revealed His will to saints of old; Their heart and mind lips unsealed His glory to unfold. Amid the gloom of ancient night They hailed the dawning Word, And in the coming of the light Proclaimed the coming Lord.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Spirit of the Lord Revealed, The Spirit of the Lord revealed 
+    description: |
+      SDAH 261. The Spirit of the Lord Revealed. 1. The Spirit of the Lord revealed His will to saints of old; Their heart and mind lips unsealed His glory to unfold. Amid the gloom of ancient night They hailed the dawning Word, And in the coming of the light Proclaimed the coming Lord.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Spirit of the Lord Revealed, The Spirit of the Lord revealed 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ To us the word of life impart,
 Of Christ, the living way;
 Give us the quiet, humble heart
 To hear and to obey.
+
 
 
 ```

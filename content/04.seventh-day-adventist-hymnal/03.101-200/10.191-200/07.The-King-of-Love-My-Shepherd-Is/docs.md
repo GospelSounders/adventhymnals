@@ -1,8 +1,10 @@
 ---
 title: 197. The King of Love My Shepherd Is - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 197. The King of Love My Shepherd Is. 1. The King of love my Shepherd is, Whose goodness faileth never; I nothing lack if I am His, And He is mine forever.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The King of Love My Shepherd Is, The King of love my Shepherd is, 
+    description: |
+      SDAH 197. The King of Love My Shepherd Is. 1. The King of love my Shepherd is, Whose goodness faileth never; I nothing lack if I am His, And He is mine forever.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The King of Love My Shepherd Is, The King of love my Shepherd is, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ And so through all the length of days
 Thy goodness faileth never;
 Good Shepherd! I would sing Thy praise
 Within Thy house forever.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 177. Jesus, Your Blood and Righteousness - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 177. Jesus, Your Blood and Righteousness. 1. Jesus, your blood and righteousness My beauty are, my glorious dress; Mid flaming worlds, in these arrayed, With joy shall I lift up my head.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Your Blood and Righteousness, Jesus, your blood and righteousness 
+    description: |
+      SDAH 177. Jesus, Your Blood and Righteousness. 1. Jesus, your blood and righteousness My beauty are, my glorious dress; Mid flaming worlds, in these arrayed, With joy shall I lift up my head.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Your Blood and Righteousness, Jesus, your blood and righteousness 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ When from the dust of death I rise
 To claim my mansion in the skies,
 This then shall be my only plea:
 Christ Jesus lived and died for me.
+
 
 
 ```

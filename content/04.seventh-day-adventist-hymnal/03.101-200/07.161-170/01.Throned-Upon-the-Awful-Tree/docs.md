@@ -1,8 +1,10 @@
 ---
 title: 161. Throned Upon the Awful Tree - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 161. Throned Upon the Awful Tree. 1. Throned upon the awful tree, Lamb of God, Your grief we see. Darkness veils Your anguished face; None its lines of woe can trace. None can tell what pangs unknown Hold You silent and alone.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Throned Upon the Awful Tree, Throned upon the awful tree, 
+    description: |
+      SDAH 161. Throned Upon the Awful Tree. 1. Throned upon the awful tree, Lamb of God, Your grief we see. Darkness veils Your anguished face; None its lines of woe can trace. None can tell what pangs unknown Hold You silent and alone.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Throned Upon the Awful Tree, Throned upon the awful tree, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ You, who once were thus bereft
 That Your own might ne’er be left,
 Teach us by that bitter cry
 In the gloom to know You nigh.
+
 
 
 ```

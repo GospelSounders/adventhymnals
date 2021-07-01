@@ -1,8 +1,10 @@
 ---
 title: 607. God of Grace and God of Glory - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 607. God of Grace and God of Glory. 1. God of grace and God of glory, On Thy people pour Thy power; Now fulfill Thy church’s story, Bring her bud to glorious flower. Grant us wisdom, grant us courage, For the facing of this hour.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God of Grace and God of Glory, God of grace and God of glory, 
+    description: |
+      SDAH 607. God of Grace and God of Glory. 1. God of grace and God of glory, On Thy people pour Thy power; Now fulfill Thy church’s story, Bring her bud to glorious flower. Grant us wisdom, grant us courage, For the facing of this hour.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God of Grace and God of Glory, God of grace and God of glory, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ Armored with all Christ-like graces
 In the fight to set all free.
 Grant us wisdom, grant us courage,
 That we fail not man nor Thee.
+
 
 
 ```

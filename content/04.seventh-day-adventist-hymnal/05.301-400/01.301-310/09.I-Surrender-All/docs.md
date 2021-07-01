@@ -1,8 +1,10 @@
 ---
 title: 309. I Surrender All - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 309. I Surrender All. 1. All to Jesus I surrender; all to him I freely give; I will ever love and trust him, in his presence daily live. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Surrender All, All to Jesus I surrender; ,I surrender all, I surrender all,
+    description: |
+      SDAH 309. I Surrender All. 1. All to Jesus I surrender; all to him I freely give; I will ever love and trust him, in his presence daily live. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Surrender All, All to Jesus I surrender; ,I surrender all, I surrender all,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -60,6 +63,7 @@ Refrain:
 I surrender all, I surrender all,
 all to thee, my blessed Savior,
 I surrender all.
+
 
 
 

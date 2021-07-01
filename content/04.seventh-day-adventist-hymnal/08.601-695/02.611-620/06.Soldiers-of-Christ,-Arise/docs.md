@@ -1,8 +1,10 @@
 ---
 title: 616. Soldiers of Christ, Arise - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 616. Soldiers of Christ, Arise. 1. Soldiers of Christ,arise, And put your armor on, Strong in the strength which God supplies Through His eternal Son Strong in the Lord of hosts, And in His mighty power, Who in the strength of Jesus trusts Is more than conqueror.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Soldiers of Christ, Arise, Soldiers of Christ,arise, 
+    description: |
+      SDAH 616. Soldiers of Christ, Arise. 1. Soldiers of Christ,arise, And put your armor on, Strong in the strength which God supplies Through His eternal Son Strong in the Lord of hosts, And in His mighty power, Who in the strength of Jesus trusts Is more than conqueror.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Soldiers of Christ, Arise, Soldiers of Christ,arise, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Still let the Spirit cry
 In all His soldiers, “Come!”
 Till Christ the Lord who reigns on high
 Shall take the conquerors home.
+
 
 
 ```

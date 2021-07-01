@@ -1,8 +1,10 @@
 ---
 title: 239. Jesus, Priceless Treasure - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 239. Jesus, Priceless Treasure. 1. Jesus, priceless Treasure, Source of purest pleasure, Truest Friend to me: Ah! how long I’ve panted, And my heart has fainted, thirsting, Lord, for Thee. Thine I am, O spotless Lamb, I will suffer naught to hide Thee, Nought I ask beside Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Priceless Treasure, Jesus, priceless Treasure, Source of purest pleasure, Truest Friend to me; 
+    description: |
+      SDAH 239. Jesus, Priceless Treasure. 1. Jesus, priceless Treasure, Source of purest pleasure, Truest Friend to me: Ah! how long I’ve panted, And my heart has fainted, thirsting, Lord, for Thee. Thine I am, O spotless Lamb, I will suffer naught to hide Thee, Nought I ask beside Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Priceless Treasure, Jesus, priceless Treasure, Source of purest pleasure, Truest Friend to me; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Hence, all thought of sadness! For the Lord of gladness, Jesus, enters in.
 Those who love the Father, Though the storms may gather, still have peace within;
 Yea, whatever we here must bear, Still in Thee lies purest pleasure,
 Jesus, priceless Treasure!
+
 
 
 ```

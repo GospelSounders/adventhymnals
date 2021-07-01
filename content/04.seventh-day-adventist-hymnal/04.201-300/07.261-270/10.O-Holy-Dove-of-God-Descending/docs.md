@@ -1,8 +1,10 @@
 ---
 title: 270. O Holy Dove of God Descending - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 270. O Holy Dove of God Descending. 1. O holy Dove of God descending, You are the love that knows no ending. All of our shattered dreams You’re mending: Spirit, now live in me.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Holy Dove of God Descending, O holy Dove of God descending, 
+    description: |
+      SDAH 270. O Holy Dove of God Descending. 1. O holy Dove of God descending, You are the love that knows no ending. All of our shattered dreams You’re mending: Spirit, now live in me.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Holy Dove of God Descending, O holy Dove of God descending, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ O holy Flame of God now burning,
 You are the power of Christ returning.
 You are the answer to our yearning:
 Spirit, now live in me.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 193. Savior, Teach Me - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 193. Savior, Teach Me. 1. Saviour, teach me day by day, Love’s sweet lesson to obey, Sweeter lesson cannot be, Loving Him who first loved me.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Savior, Teach Me, Saviour, teach me day by day, 
+    description: |
+      SDAH 193. Savior, Teach Me. 1. Saviour, teach me day by day, Love’s sweet lesson to obey, Sweeter lesson cannot be, Loving Him who first loved me.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Savior, Teach Me, Saviour, teach me day by day, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Teach me thus Thy steps to trace,
 Strong to follow in Thy grace.
 Learning how to love from Thee,
 Loving Him who first loved me.
+
 
 
 ```

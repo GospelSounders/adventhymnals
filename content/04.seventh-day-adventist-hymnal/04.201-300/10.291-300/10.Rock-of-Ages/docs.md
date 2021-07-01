@@ -1,8 +1,10 @@
 ---
 title: 300. Rock of Ages - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 300. Rock of Ages. 1. Rock of Ages, cleft for me, Let me hide myself in Thee; Let the water and the blood, From Thy riven side which flowed, Be of sin the double cure, Cleanse me from its guilt and power.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rock of Ages, Rock of Ages, cleft for me, 
+    description: |
+      SDAH 300. Rock of Ages. 1. Rock of Ages, cleft for me, Let me hide myself in Thee; Let the water and the blood, From Thy riven side which flowed, Be of sin the double cure, Cleanse me from its guilt and power.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rock of Ages, Rock of Ages, cleft for me, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ When I soar to worlds unknown,
 And behold Thee on Thy throne,
 Rock of Ages, cleft for me,
 Let me hide myself in Thee.
+
 
 
 ```

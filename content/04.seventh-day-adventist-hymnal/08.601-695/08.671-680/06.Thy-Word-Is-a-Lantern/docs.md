@@ -1,8 +1,10 @@
 ---
 title: 676. Thy Word Is a Lantern - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 676. Thy Word Is a Lantern. 1. Thy Word is a lantern unto my feet, And a light unto my path.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thy Word Is a Lantern, Thy Word is a lantern unto my feet, 
+    description: |
+      SDAH 676. Thy Word Is a Lantern. 1. Thy Word is a lantern unto my feet, And a light unto my path.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Thy Word Is a Lantern, Thy Word is a lantern unto my feet, 
     author: Brian Onang'o
 ---
 
@@ -13,9 +15,11 @@ metadata:
 ```txt
 
 
+
 1.
 Thy Word is a lantern unto my feet,
 And a light unto my path.
+
 
 
 ```

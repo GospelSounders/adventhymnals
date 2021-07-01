@@ -1,8 +1,10 @@
 ---
 title: 89. Let All on Earth Their Voices Raise - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 89. Let All on Earth Their Voices Raise. 1. Let all on earth their voices raise, To sing the great Jehovah’s praise, And bless His holy name: His glory let the people know, His wonders to the nations show, His saving grace proclaim.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Let All on Earth Their Voices Raise, Let all on earth their voices raise, 
+    description: |
+      SDAH 89. Let All on Earth Their Voices Raise. 1. Let all on earth their voices raise, To sing the great Jehovah’s praise, And bless His holy name: His glory let the people know, His wonders to the nations show, His saving grace proclaim.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Let All on Earth Their Voices Raise, Let all on earth their voices raise, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ All nations fear His name;
 Then shall the race of men confess
 The beauty of His holiness,
 His saving grace proclaim.
+
 
 
 ```

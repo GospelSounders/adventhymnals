@@ -1,8 +1,10 @@
 ---
 title: 96. The Spacious Firmament - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 96. The Spacious Firmament. 1. The spacious firmament on high, With all the blue, ethereal sky, And spangled heavens, a shining frame, Their great Original proclaim. Th’unwearied sun from day to day Does his Creator’s power display, And publishes to every land The work of an almighty hand
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Spacious Firmament, The spacious firmament on high, 
+    description: |
+      SDAH 96. The Spacious Firmament. 1. The spacious firmament on high, With all the blue, ethereal sky, And spangled heavens, a shining frame, Their great Original proclaim. Th’unwearied sun from day to day Does his Creator’s power display, And publishes to every land The work of an almighty hand
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Spacious Firmament, The spacious firmament on high, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ In reason’s ear they all rejoice
 And utter forth a glorious voice,
 Forever singing as they shine,
 “The hand that made us is divine.”
+
 
 
 ```

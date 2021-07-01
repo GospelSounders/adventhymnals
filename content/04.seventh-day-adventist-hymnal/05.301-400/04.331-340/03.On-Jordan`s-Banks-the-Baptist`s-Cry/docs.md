@@ -1,8 +1,10 @@
 ---
 title: 333. On Jordan`s Banks the Baptist`s Cry - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 333. On Jordan`s Banks the Baptist`s Cry. 1. On Jordan’s banks the Baptist’s cry Announces that the Lord is nigh; Awake and hearken, for he brings Glad tidings of the King of kings!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, On Jordan`s Banks the Baptist`s Cry, On Jordan’s banks the Baptist’s cry 
+    description: |
+      SDAH 333. On Jordan`s Banks the Baptist`s Cry. 1. On Jordan’s banks the Baptist’s cry Announces that the Lord is nigh; Awake and hearken, for he brings Glad tidings of the King of kings!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, On Jordan`s Banks the Baptist`s Cry, On Jordan’s banks the Baptist’s cry 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Stretch forth Your hand, our health restore,
 And make us rise to fall no more;
 Oh, let Your face upon us shine
 And fill the world with love divine.
+
 
 
 ```

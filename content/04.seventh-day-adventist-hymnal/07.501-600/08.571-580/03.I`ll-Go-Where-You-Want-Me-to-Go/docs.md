@@ -1,8 +1,10 @@
 ---
 title: 573. I`ll Go Where You Want Me to Go - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 573. I`ll Go Where You Want Me to Go. 1. It may not be on the mountain height Or over the stormy sea, It may not be at the battle’s front My Lord will have need of me. But if, by a still, small voice he calls To paths that I do not know, I’ll answer, dear Lord, with my hand in thine; I’ll go where you want me to go. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`ll Go Where You Want Me to Go, It may not be on the mountain height ,I’ll go where you want me to go, dear Lord,
+    description: |
+      SDAH 573. I`ll Go Where You Want Me to Go. 1. It may not be on the mountain height Or over the stormy sea, It may not be at the battle’s front My Lord will have need of me. But if, by a still, small voice he calls To paths that I do not know, I’ll answer, dear Lord, with my hand in thine; I’ll go where you want me to go. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`ll Go Where You Want Me to Go, It may not be on the mountain height ,I’ll go where you want me to go, dear Lord,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -63,6 +66,7 @@ I’ll go where you want me to go, dear Lord,
 Over mountain or plain or sea;
 I’ll say what you want me to say, dear Lord;
 I’ll be what you want me to be.
+
 
 
 

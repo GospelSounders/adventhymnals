@@ -1,8 +1,10 @@
 ---
 title: 203. This Is the Threefold Truth - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 203. This Is the Threefold Truth. 1. This is the threefold truth On which our faith depends; And with this joyful cry Worship begins and ends; 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, This Is the Threefold Truth, This is the threefold truth ,Christ has died!
+    description: |
+      SDAH 203. This Is the Threefold Truth. 1. This is the threefold truth On which our faith depends; And with this joyful cry Worship begins and ends; 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, This Is the Threefold Truth, This is the threefold truth ,Christ has died!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -65,6 +68,7 @@ Refrain:
 Christ has died!
 Christ is risen!
 Christ will come again!
+
 
 
 ```

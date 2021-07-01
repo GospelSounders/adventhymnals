@@ -1,8 +1,10 @@
 ---
 title: 318. Whiter Than Snow - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 318. Whiter Than Snow. 1. Lord Jesus, I long to be perfectly whole; I want Thee forever to live in my soul; Break down every idol, cast out every foe; Now wash me, and I shall be whiter than snow. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Whiter Than Snow, Lord Jesus, I long to be perfectly whole; ,Whiter than snow, yes, whiter than snow;
+    description: |
+      SDAH 318. Whiter Than Snow. 1. Lord Jesus, I long to be perfectly whole; I want Thee forever to live in my soul; Break down every idol, cast out every foe; Now wash me, and I shall be whiter than snow. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Whiter Than Snow, Lord Jesus, I long to be perfectly whole; ,Whiter than snow, yes, whiter than snow;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -57,6 +60,7 @@ Now wash me, and I shall be whiter than snow.
 Refrain:
 Whiter than snow, yes, whiter than snow;
 Now wash me, and I shall be whiter than snow.
+
 
 
 

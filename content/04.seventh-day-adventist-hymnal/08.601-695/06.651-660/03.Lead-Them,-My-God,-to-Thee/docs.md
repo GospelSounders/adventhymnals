@@ -1,8 +1,10 @@
 ---
 title: 653. Lead Them, My God, to Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 653. Lead Them, My God, to Thee. 1. Lead them, my God, to Thee, Lead them to Thee, These children dear of mine, Thou gavest me; O, by Thy love divine, Lead them, my God, to Thee; Lead them, my God, to Thee, Lead them to Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lead Them, My God, to Thee, Lead them, my God, to Thee, Lead them to Thee, 
+    description: |
+      SDAH 653. Lead Them, My God, to Thee. 1. Lead them, my God, to Thee, Lead them to Thee, These children dear of mine, Thou gavest me; O, by Thy love divine, Lead them, my God, to Thee; Lead them, my God, to Thee, Lead them to Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lead Them, My God, to Thee, Lead them, my God, to Thee, Lead them to Thee, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Yea, though my faith be dim, I would believe
 That Thou this precious gift Wilt now receive;
 O take their young hearts now, Lead them my God to Thee,
 Lead them, my God, to Thee, Lead them to Thee.
+
 
 
 ```

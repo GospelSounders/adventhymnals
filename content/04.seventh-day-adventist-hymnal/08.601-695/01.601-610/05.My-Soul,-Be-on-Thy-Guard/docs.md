@@ -1,8 +1,10 @@
 ---
 title: 605. My Soul, Be on Thy Guard - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 605. My Soul, Be on Thy Guard. 1. My soul, be on they guard! Ten thousand foes arise; The hosts of sin are pressing hard To draw thee from the skies.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Soul, Be on Thy Guard, My soul, be on they guard! 
+    description: |
+      SDAH 605. My Soul, Be on Thy Guard. 1. My soul, be on they guard! Ten thousand foes arise; The hosts of sin are pressing hard To draw thee from the skies.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, My Soul, Be on Thy Guard, My soul, be on they guard! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Ne’er think the victory won,
 Nor lay thine armor down;
 Thy arduous task will not be done
 Till thou obtain the crown.
+
 
 
 ```

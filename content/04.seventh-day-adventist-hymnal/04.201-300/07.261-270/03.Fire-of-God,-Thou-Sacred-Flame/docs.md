@@ -1,8 +1,10 @@
 ---
 title: 263. Fire of God, Thou Sacred Flame - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 263. Fire of God, Thou Sacred Flame. 1. Fire of God, Thou sacred flame, Spirit who in splendor came, Let Thy heat my soul refine Till it glows with love divine.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Fire of God, Thou Sacred Flame, Fire of God, Thou sacred flame, 
+    description: |
+      SDAH 263. Fire of God, Thou Sacred Flame. 1. Fire of God, Thou sacred flame, Spirit who in splendor came, Let Thy heat my soul refine Till it glows with love divine.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Fire of God, Thou Sacred Flame, Fire of God, Thou sacred flame, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Love of God, Thy grace profound
 Knoweth neither age nor bound:
 Come, my heart’s own guest to be,
 Dwell forevermore in me.
+
 
 
 ```

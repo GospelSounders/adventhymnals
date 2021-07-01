@@ -1,8 +1,10 @@
 ---
 title: 248. O, How I Love Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 248. O, How I Love Jesus. 1. There is a Name I love to hear, I love to sing its worth; It sounds like music in my ears, The sweetest Name on earth. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O, How I Love Jesus, There is a Name I love to hear, ,O how I love Jesus,
+    description: |
+      SDAH 248. O, How I Love Jesus. 1. There is a Name I love to hear, I love to sing its worth; It sounds like music in my ears, The sweetest Name on earth. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O, How I Love Jesus, There is a Name I love to hear, ,O how I love Jesus,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ O how I love Jesus,
 O how I love Jesus,
 O how I love Jesus,
 Because He first loved me.
+
 
 
 

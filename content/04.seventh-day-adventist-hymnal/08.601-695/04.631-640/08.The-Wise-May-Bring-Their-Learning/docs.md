@@ -1,8 +1,10 @@
 ---
 title: 638. The Wise May Bring Their Learning - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 638. The Wise May Bring Their Learning. 1. wise may bring their learning, The rich may bring their wealth, And some may bring their greatness, And some their strength and health: We too would bring our treasures To offer to the King, We have no wealth or learning— What shall we children bring?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Wise May Bring Their Learning, wise may bring their learning, 
+    description: |
+      SDAH 638. The Wise May Bring Their Learning. 1. wise may bring their learning, The rich may bring their wealth, And some may bring their greatness, And some their strength and health: We too would bring our treasures To offer to the King, We have no wealth or learning— What shall we children bring?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Wise May Bring Their Learning, wise may bring their learning, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ And better are these treasures
 To offer to the King
 Than richest gift without them:
 Yet these a child may bring.
+
 
 
 ```

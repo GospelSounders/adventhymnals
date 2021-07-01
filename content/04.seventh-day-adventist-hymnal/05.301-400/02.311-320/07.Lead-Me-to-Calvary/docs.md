@@ -1,8 +1,10 @@
 ---
 title: 317. Lead Me to Calvary - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 317. Lead Me to Calvary. 1. King of my life, I crown Thee now, Thine shall the glory be; Lest I forget Thy thorn crowned brow, Lead me to Calvary. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lead Me to Calvary, King of my life, I crown Thee now, ,Lest I forget Gethsemane,
+    description: |
+      SDAH 317. Lead Me to Calvary. 1. King of my life, I crown Thee now, Thine shall the glory be; Lest I forget Thy thorn crowned brow, Lead me to Calvary. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lead Me to Calvary, King of my life, I crown Thee now, ,Lest I forget Gethsemane,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Lest I forget Gethsemane,
 Lest I forget Thine agony;
 Lest I forget Thy love for me,
 Lead me to Calvary.
+
 
 
 

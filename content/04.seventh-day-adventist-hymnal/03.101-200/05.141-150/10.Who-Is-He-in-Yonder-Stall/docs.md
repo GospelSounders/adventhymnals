@@ -1,8 +1,10 @@
 ---
 title: 150. Who Is He in Yonder Stall? - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 150. Who Is He in Yonder Stall?. 1. Who is He in yonder stall, At whose feet the shepherds fall? 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Who Is He in Yonder Stall?, Who is He in yonder stall, ,‘Tis the Lord, O wondrous story,
+    description: |
+      SDAH 150. Who Is He in Yonder Stall?. 1. Who is He in yonder stall, At whose feet the shepherds fall? 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Who Is He in Yonder Stall?, Who is He in yonder stall, ,‘Tis the Lord, O wondrous story,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -110,6 +113,7 @@ Crown Him, crown Him Lord of all.
 At His feet we humbly fall- the Lord of all.
 Crown Him, crown Him, Jesus, Jesus,
 Crown Him Lord of all.
+
 
 
 

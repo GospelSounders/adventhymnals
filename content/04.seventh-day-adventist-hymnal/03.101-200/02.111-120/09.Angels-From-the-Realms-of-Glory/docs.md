@@ -1,8 +1,10 @@
 ---
 title: 119. Angels From the Realms of Glory - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 119. Angels From the Realms of Glory. 1. Angels from the realms of glory, Wing your flight o
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Angels From the Realms of Glory, Angels from the realms of glory, 
+    description: |
+      SDAH 119. Angels From the Realms of Glory. 1. Angels from the realms of glory, Wing your flight o
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Angels From the Realms of Glory, Angels from the realms of glory, 
     author: Brian Onang'o
 ---
 
@@ -13,9 +15,11 @@ metadata:
 ```txt
 
 
+
 1.
 Angels from the realms of glory,
 Wing your flight o
+
 
 ```
 

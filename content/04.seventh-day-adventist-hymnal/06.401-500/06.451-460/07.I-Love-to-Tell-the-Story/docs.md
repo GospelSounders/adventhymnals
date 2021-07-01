@@ -1,8 +1,10 @@
 ---
 title: 457. I Love to Tell the Story - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 457. I Love to Tell the Story. 1. I love to tell the story of unseen things above, of Jesus and his glory, of Jesus and his love. I love to tell the story, because I know ’tis true; it satisfies my longings as nothing else can do. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Love to Tell the Story, I love to tell the story ,I love to tell the story,
+    description: |
+      SDAH 457. I Love to Tell the Story. 1. I love to tell the story of unseen things above, of Jesus and his glory, of Jesus and his love. I love to tell the story, because I know ’tis true; it satisfies my longings as nothing else can do. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Love to Tell the Story, I love to tell the story ,I love to tell the story,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -80,6 +83,7 @@ I love to tell the story,
 ’twill be my theme in glory,
 to tell the old, old story
 of Jesus and his love.
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 521. Depth of Mercy - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 521. Depth of Mercy. 1. Depth of mercy!–can there be Mercy still reserved for me? Can my God His wrath forbear? Me, the chief of sinners, spare?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Depth of Mercy, Depth of mercy!–can there be 
+    description: |
+      SDAH 521. Depth of Mercy. 1. Depth of mercy!–can there be Mercy still reserved for me? Can my God His wrath forbear? Me, the chief of sinners, spare?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Depth of Mercy, Depth of mercy!–can there be 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ There for me the Savior stands,
 Shows His wounds and spreads His hands;
 God is love! I know, I feel;
 Jesus weeps, and loves me still.
+
 
 
 ```

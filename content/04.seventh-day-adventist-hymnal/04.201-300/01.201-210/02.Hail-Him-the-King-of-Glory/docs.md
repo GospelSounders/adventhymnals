@@ -1,8 +1,10 @@
 ---
 title: 202. Hail Him the King of Glory - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 202. Hail Him the King of Glory. 1. Tell it to every kindred and nation, Tell it far and near; Earth’s darkest night will fade with the dawning, Jesus will soon appear. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hail Him the King of Glory, Tell it to every kindred and nation, ,Hail Him the King of glory,
+    description: |
+      SDAH 202. Hail Him the King of Glory. 1. Tell it to every kindred and nation, Tell it far and near; Earth’s darkest night will fade with the dawning, Jesus will soon appear. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hail Him the King of Glory, Tell it to every kindred and nation, ,Hail Him the King of glory,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Hail Him the King of glory,
 Once the Lamb for sinners slain;
 Tell, tell the wondrous story,
 “Jesus comes to reign.”
+
 
 
 

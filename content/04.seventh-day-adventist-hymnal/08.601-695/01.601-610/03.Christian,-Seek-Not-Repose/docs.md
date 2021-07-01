@@ -1,8 +1,10 @@
 ---
 title: 603. Christian, Seek Not Repose - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 603. Christian, Seek Not Repose. 1. Christian, seek not yet repose, Cast thy dreams of ease away; Thou aret in teh midst of foes; Watch and pray!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christian, Seek Not Repose, Christian, seek not yet repose, Cast thy dreams of ease away; 
+    description: |
+      SDAH 603. Christian, Seek Not Repose. 1. Christian, seek not yet repose, Cast thy dreams of ease away; Thou aret in teh midst of foes; Watch and pray!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christian, Seek Not Repose, Christian, seek not yet repose, Cast thy dreams of ease away; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ Hide within thy heart His word; “Watch and pray!”
 5.
 Watch, as if on that alone Hung the issue of teh day;
 Pray that help may be send down; Watch and pray!
+
 
 
 ```

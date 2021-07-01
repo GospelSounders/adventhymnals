@@ -1,8 +1,10 @@
 ---
 title: 446. Lo, What a Glorious Sight Appears - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 446. Lo, What a Glorious Sight Appears. 1. Lo, what a glorious sight appears To our believing eyes! The earth and seas are passed away And the old rolling skies. And the old rolling skies, And the old rolling skies; The earth and seas are passed away, And the old rolling skies. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lo, What a Glorious Sight Appears, Lo, what a glorious sight appears ,O that will be joyful, joyful, joyful!
+    description: |
+      SDAH 446. Lo, What a Glorious Sight Appears. 1. Lo, what a glorious sight appears To our believing eyes! The earth and seas are passed away And the old rolling skies. And the old rolling skies, And the old rolling skies; The earth and seas are passed away, And the old rolling skies. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lo, What a Glorious Sight Appears, Lo, what a glorious sight appears ,O that will be joyful, joyful, joyful!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -92,6 +95,7 @@ When we meet to part no more
 On Canaan’s happy shore;
 ‘Tis there we’ll meet at Jesus’ feet,
 When we meet to part no more!
+
 
 
 

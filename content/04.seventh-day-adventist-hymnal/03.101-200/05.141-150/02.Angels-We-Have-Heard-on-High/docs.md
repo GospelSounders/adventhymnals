@@ -1,8 +1,10 @@
 ---
 title: 142. Angels We Have Heard on High - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 142. Angels We Have Heard on High. 1. Angels we have heard on high Sweetly singing o’er the plains, And the mountains in reply Echoing their joyous strains. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Angels We Have Heard on High, Angels we have heard on high ,Gloria, in excelsis Deo!
+    description: |
+      SDAH 142. Angels We Have Heard on High. 1. Angels we have heard on high Sweetly singing o’er the plains, And the mountains in reply Echoing their joyous strains. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Angels We Have Heard on High, Angels we have heard on high ,Gloria, in excelsis Deo!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -56,6 +59,7 @@ While our hearts in love we raise.
 Refrain:
 Gloria, in excelsis Deo!
 Gloria, in excelsis Deo!
+
 
 
 

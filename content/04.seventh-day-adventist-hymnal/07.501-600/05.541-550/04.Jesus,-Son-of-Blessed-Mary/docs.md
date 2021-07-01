@@ -1,8 +1,10 @@
 ---
 title: 544. Jesus, Son of Blessed Mary - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 544. Jesus, Son of Blessed Mary. 1. Jesus, Son of blessed Mary, Once on earth a little child, Pattern fair of holy living, Gracious, loving, undefiled;
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Son of Blessed Mary, Jesus, Son of blessed Mary, 
+    description: |
+      SDAH 544. Jesus, Son of Blessed Mary. 1. Jesus, Son of blessed Mary, Once on earth a little child, Pattern fair of holy living, Gracious, loving, undefiled;
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Son of Blessed Mary, Jesus, Son of blessed Mary, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Grant that we, like little children,
 Free from pride and guile my be;
 Cheerful, trusting, safe, protected
 By the blessed Trinity.
+
 
 
 ```

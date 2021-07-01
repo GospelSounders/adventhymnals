@@ -1,8 +1,10 @@
 ---
 title: 454. Don`t You See My Jesus Coming - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 454. Don`t You See My Jesus Coming. 1. Don’t you see my Jesus coming, See Him come in yonder cloud? With ten thousand angels round Him, How they do my Jesus crowd! 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Don`t You See My Jesus Coming, Don’t you see my Jesus coming, ,I am bound for the kingdom,
+    description: |
+      SDAH 454. Don`t You See My Jesus Coming. 1. Don’t you see my Jesus coming, See Him come in yonder cloud? With ten thousand angels round Him, How they do my Jesus crowd! 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Don`t You See My Jesus Coming, Don’t you see my Jesus coming, ,I am bound for the kingdom,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Refrain:
 I am bound for the kingdom,
 Will you go to glory with me?
 Hallelujah! O praise ye the Lord!
+
 
 
 

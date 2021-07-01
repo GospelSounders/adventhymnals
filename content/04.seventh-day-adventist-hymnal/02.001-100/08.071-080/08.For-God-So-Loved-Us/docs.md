@@ -1,8 +1,10 @@
 ---
 title: 78. For God So Loved Us - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 78. For God So Loved Us. 1. For God so loved us, He sent the Savior: For God so loved us, and loves me too. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For God So Loved Us, For God so loved us, ,Love so unending!
+    description: |
+      SDAH 78. For God So Loved Us. 1. For God so loved us, He sent the Savior: For God so loved us, and loves me too. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For God So Loved Us, For God so loved us, ,Love so unending!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Love so unending!
 I’ll sing His praises,
 God loves His children,
 loves even me.
+
 
 
 

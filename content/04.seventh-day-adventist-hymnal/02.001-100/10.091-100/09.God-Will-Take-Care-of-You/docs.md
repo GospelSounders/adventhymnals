@@ -1,8 +1,10 @@
 ---
 title: 99. God Will Take Care of You - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 99. God Will Take Care of You. 1. Be not dismayed whate’er betide, God will take care of you; beneath his wings of love abide, God will take care of you. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Will Take Care of You, Be not dismayed whate’er betide, ,God will take care of you,
+    description: |
+      SDAH 99. God Will Take Care of You. 1. Be not dismayed whate’er betide, God will take care of you; beneath his wings of love abide, God will take care of you. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Will Take Care of You, Be not dismayed whate’er betide, ,God will take care of you,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ God will take care of you,
 through every day, o’er all the way;
 he will take care of you,
 God will take care of you.
+
 
 
 

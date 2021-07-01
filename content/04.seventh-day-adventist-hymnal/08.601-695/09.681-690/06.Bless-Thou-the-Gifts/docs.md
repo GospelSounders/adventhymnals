@@ -1,8 +1,10 @@
 ---
 title: 686. Bless Thou the Gifts - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 686. Bless Thou the Gifts. 1. Bless thou the gifts our hands have brought; bless thou the work our hearts have planned. Ours is the faith, the will, the thought; the rest, O God, is in thy hand. Amen.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Bless Thou the Gifts, Bless thou the gifts our hands have brought; 
+    description: |
+      SDAH 686. Bless Thou the Gifts. 1. Bless thou the gifts our hands have brought; bless thou the work our hearts have planned. Ours is the faith, the will, the thought; the rest, O God, is in thy hand. Amen.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Bless Thou the Gifts, Bless thou the gifts our hands have brought; 
     author: Brian Onang'o
 ---
 
@@ -13,12 +15,14 @@ metadata:
 ```txt
 
 
+
 1.
 Bless thou the gifts our hands have brought;
 bless thou the work our hearts have planned.
 Ours is the faith, the will, the thought;
 the rest, O God, is in thy hand.
 Amen.
+
 
 
 ```

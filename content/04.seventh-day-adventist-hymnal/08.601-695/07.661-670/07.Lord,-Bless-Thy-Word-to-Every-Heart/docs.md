@@ -1,8 +1,10 @@
 ---
 title: 667. Lord, Bless Thy Word to Every Heart - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 667. Lord, Bless Thy Word to Every Heart. 1. Lord, bless Thy word to every heart In this Thy house today, And help us each as now we part, Its precepts to obey. Amen Amen
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Bless Thy Word to Every Heart, Lord, bless Thy word to every heart 
+    description: |
+      SDAH 667. Lord, Bless Thy Word to Every Heart. 1. Lord, bless Thy word to every heart In this Thy house today, And help us each as now we part, Its precepts to obey. Amen Amen
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Bless Thy Word to Every Heart, Lord, bless Thy word to every heart 
     author: Brian Onang'o
 ---
 
@@ -13,6 +15,7 @@ metadata:
 ```txt
 
 
+
 1.
 Lord, bless Thy word to every heart
 In this Thy house today,
@@ -20,6 +23,7 @@ And help us each as now we part,
 Its precepts to obey.
 Amen
 Amen
+
 
 
 ```

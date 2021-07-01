@@ -1,8 +1,10 @@
 ---
 title: 575. Let Your Heart Be Broken - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 575. Let Your Heart Be Broken. 1. Let your heart be broken for a world in need: Feed the mouths that hunger, soothe the wounds that bleed, Give the cup of water and the loaf of bread Be the hands of Jesus, serving in His stead.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Let Your Heart Be Broken, Let your heart be broken for a world in need; 
+    description: |
+      SDAH 575. Let Your Heart Be Broken. 1. Let your heart be broken for a world in need: Feed the mouths that hunger, soothe the wounds that bleed, Give the cup of water and the loaf of bread Be the hands of Jesus, serving in His stead.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Let Your Heart Be Broken, Let your heart be broken for a world in need; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Let your heart be tender and your vision clear;
 See mankind as God sees, serve Him far and near.
 Let your heart be broken by a brother’s pain;
 Share your rich resources, give and give again.
+
 
 
 ```

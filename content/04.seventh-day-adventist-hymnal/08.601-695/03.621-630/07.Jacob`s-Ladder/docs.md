@@ -1,8 +1,10 @@
 ---
 title: 627. Jacob`s Ladder - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 627. Jacob`s Ladder. 1. We are climbing Jacob’s ladder, We are climbing Jacob’s ladder, We are climbing Jacob’s ladder, Soldiers of the cross.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jacob`s Ladder, We are climbing Jacob’s ladder, 
+    description: |
+      SDAH 627. Jacob`s Ladder. 1. We are climbing Jacob’s ladder, We are climbing Jacob’s ladder, We are climbing Jacob’s ladder, Soldiers of the cross.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jacob`s Ladder, We are climbing Jacob’s ladder, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ If you love him, why not serve him?
 If you love him, why not serve him?
 If you love him, why not serve him?
 Soldiers of the cross.
+
 
 
 ```

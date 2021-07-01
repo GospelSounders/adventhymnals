@@ -1,8 +1,10 @@
 ---
 title: 260. Hover O`er Me, Holy Spirit - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 260. Hover O`er Me, Holy Spirit. 1. Hover o’er me, Holy Spirit, Bathe my trembling heart and brow; Fill me with Thy hallowed presence, Come, O come and fill me now. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hover O`er Me, Holy Spirit, Hover o’er me, Holy Spirit, ,Fill me now, fill me now,
+    description: |
+      SDAH 260. Hover O`er Me, Holy Spirit. 1. Hover o’er me, Holy Spirit, Bathe my trembling heart and brow; Fill me with Thy hallowed presence, Come, O come and fill me now. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hover O`er Me, Holy Spirit, Hover o’er me, Holy Spirit, ,Fill me now, fill me now,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Fill me now, fill me now,
 Jesus, come and fill me now.
 Fill me with Thy hallowed presence,
 Come, O come and fill me now.
+
 
 
 

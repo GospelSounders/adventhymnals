@@ -1,8 +1,10 @@
 ---
 title: 118. The First Noel - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 118. The First Noel. 1. The first noel the angel did say Was to certain poor shepherds in fields where they lay; In fields where they lay keeping their sheep, On a cold winter’s night that was so deep. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The First Noel, The first noel the angel did say ,Noel, Noel, Noel, Noel,
+    description: |
+      SDAH 118. The First Noel. 1. The first noel the angel did say Was to certain poor shepherds in fields where they lay; In fields where they lay keeping their sheep, On a cold winter’s night that was so deep. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The First Noel, The first noel the angel did say ,Noel, Noel, Noel, Noel,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -67,6 +70,7 @@ Their gold, and myrrh, and frankincense.
 Refrain:
 Noel, Noel, Noel, Noel,
 Born is the King of Israel
+
 
 
 

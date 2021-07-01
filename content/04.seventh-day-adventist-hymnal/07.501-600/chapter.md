@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 501-600
 metadata:
-    description: Seventh Day Adventist Hymnal - 501-600
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, 501-600
+    description: |
+      Seventh Day Adventist Hymnal - 501-600
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, 501-600
     author: Brian Onang'o
 ---
 

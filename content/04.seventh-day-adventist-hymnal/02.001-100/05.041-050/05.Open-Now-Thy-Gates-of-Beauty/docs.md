@@ -1,8 +1,10 @@
 ---
 title: 45. Open Now Thy Gates of Beauty - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 45. Open Now Thy Gates of Beauty. 1. Open now thy gates of beauty, Zion, let me enter there, Where my soul in joyful duty Waits for God Who answers prayer. Oh, how blessèd is this place, Filled with solace, light, and grace!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Open Now Thy Gates of Beauty, Open now thy gates of beauty, 
+    description: |
+      SDAH 45. Open Now Thy Gates of Beauty. 1. Open now thy gates of beauty, Zion, let me enter there, Where my soul in joyful duty Waits for God Who answers prayer. Oh, how blessèd is this place, Filled with solace, light, and grace!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Open Now Thy Gates of Beauty, Open now thy gates of beauty, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ May I undisturbed draw near Thee
 While Thou dost Thy people feed.
 Here of life the fountain flows;
 Here is balm for all our woes.
+
 
 
 ```

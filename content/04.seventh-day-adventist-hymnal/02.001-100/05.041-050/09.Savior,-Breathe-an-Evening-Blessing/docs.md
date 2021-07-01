@@ -1,8 +1,10 @@
 ---
 title: 49. Savior, Breathe an Evening Blessing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 49. Savior, Breathe an Evening Blessing. 1. Savior, breathe an evening blessing, Ere repose our spirits seal; Sin and want we come confessing; Thou canst save, and Thou canst heal.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Savior, Breathe an Evening Blessing, Savior, breathe an evening blessing, 
+    description: |
+      SDAH 49. Savior, Breathe an Evening Blessing. 1. Savior, breathe an evening blessing, Ere repose our spirits seal; Sin and want we come confessing; Thou canst save, and Thou canst heal.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Savior, Breathe an Evening Blessing, Savior, breathe an evening blessing, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Should swift death this night o’re-take us,
 And our couch become our tomb,
 May the morn of glory wake us,
 Clad in light and deathless bloom.
+
 
 
 ```

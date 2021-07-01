@@ -1,8 +1,10 @@
 ---
 title: 586. What Joy It Is to Worship Here - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 586. What Joy It Is to Worship Here. 1. What joy it is to worship here, And find ourselves at home, Where God, who uses every gift, Has room for all who come!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, What Joy It Is to Worship Here, What joy it is to worship here, 
+    description: |
+      SDAH 586. What Joy It Is to Worship Here. 1. What joy it is to worship here, And find ourselves at home, Where God, who uses every gift, Has room for all who come!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, What Joy It Is to Worship Here, What joy it is to worship here, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -24,6 +27,7 @@ Yet are no two of us alike
 Of all the human race,
 And we must seek a common ground
 If we would share His grace.
+
 
 
 ```

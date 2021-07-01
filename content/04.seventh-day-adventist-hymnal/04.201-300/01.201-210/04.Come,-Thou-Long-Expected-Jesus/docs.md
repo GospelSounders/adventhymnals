@@ -1,8 +1,10 @@
 ---
 title: 204. Come, Thou Long Expected Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 204. Come, Thou Long Expected Jesus. 1. Come, thou long expected Jesus! born to set thy people free; from our fears and sins release us, let us find our rest in thee. Israel’s strength and consolation, hope of all the earth thou art; dear desire of every nation, joy of every longing heart.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Thou Long Expected Jesus, Come, thou long expected Jesus! 
+    description: |
+      SDAH 204. Come, Thou Long Expected Jesus. 1. Come, thou long expected Jesus! born to set thy people free; from our fears and sins release us, let us find our rest in thee. Israel’s strength and consolation, hope of all the earth thou art; dear desire of every nation, joy of every longing heart.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Thou Long Expected Jesus, Come, thou long expected Jesus! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ By thine own eternal spirit
 rule in all our hearts alone;
 by thine all sufficient merit,
 raise us to thy glorious throne.
+
 
 
 ```

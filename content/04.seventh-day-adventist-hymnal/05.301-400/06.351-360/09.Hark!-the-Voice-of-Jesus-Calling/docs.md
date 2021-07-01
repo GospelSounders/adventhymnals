@@ -1,8 +1,10 @@
 ---
 title: 359. Hark! the Voice of Jesus Calling - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 359. Hark! the Voice of Jesus Calling. 1. Hark! the voice of Jesus calling, “Who will go and work today? Fields are white, the harvest waiting, Who will bear the sheaves away?” Loud and long the Master calleth, Rich reward He offers free; Who will answer, gladly saying, “Here am I, O Lord, send me”?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hark! the Voice of Jesus Calling, Hark! the voice of Jesus calling, 
+    description: |
+      SDAH 359. Hark! the Voice of Jesus Calling. 1. Hark! the voice of Jesus calling, “Who will go and work today? Fields are white, the harvest waiting, Who will bear the sheaves away?” Loud and long the Master calleth, Rich reward He offers free; Who will answer, gladly saying, “Here am I, O Lord, send me”?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hark! the Voice of Jesus Calling, Hark! the voice of Jesus calling, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Gladly take the task He gives you,
 Let His work your pleasure be;
 Answer quickly when He calleth,
 “Here am I, O Lord, send me.”
+
 
 
 ```

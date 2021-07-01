@@ -1,8 +1,10 @@
 ---
 title: 423. Glorious Things of Thee Are Spoken - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 423. Glorious Things of Thee Are Spoken. 1. Glorious things of thee are spoken, Zion, city of our God; He whose word cannot be broken Formed thee for His own abode; On the Rock of Ages founded, What can shake thy sure repose? With salvation’s wall surrounded, Thou mayest smile at all thy foes.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Glorious Things of Thee Are Spoken, Glorious things of thee are spoken, 
+    description: |
+      SDAH 423. Glorious Things of Thee Are Spoken. 1. Glorious things of thee are spoken, Zion, city of our God; He whose word cannot be broken Formed thee for His own abode; On the Rock of Ages founded, What can shake thy sure repose? With salvation’s wall surrounded, Thou mayest smile at all thy foes.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Glorious Things of Thee Are Spoken, Glorious things of thee are spoken, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Fading is the worldling’s pleasure,
 All his boasted pomp and show;
 Solid joys and lasting treasure
 None but Zion’s children know.
+
 
 
 ```

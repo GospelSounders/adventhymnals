@@ -1,8 +1,10 @@
 ---
 title: 315. O for a Closer Walk! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 315. O for a Closer Walk!. 1. O for a closer walk with God, A calm and heavenly frame, A light to shine upon the road That leads me to the Lamb!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O for a Closer Walk!, O for a closer walk with God, 
+    description: |
+      SDAH 315. O for a Closer Walk!. 1. O for a closer walk with God, A calm and heavenly frame, A light to shine upon the road That leads me to the Lamb!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O for a Closer Walk!, O for a closer walk with God, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ The dearest idol I have known,
 What-e’er that idol be,
 Help me to tear it from Thy throne,
 And worship only Thee.
+
 
 
 ```

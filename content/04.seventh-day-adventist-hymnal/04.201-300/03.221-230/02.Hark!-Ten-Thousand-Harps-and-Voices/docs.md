@@ -1,8 +1,10 @@
 ---
 title: 222. Hark! Ten Thousand Harps and Voices - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 222. Hark! Ten Thousand Harps and Voices. 1. Hark! ten thousand harps and voices Sound the note of praise above; Jesuse reigns, and heaven rejoices, Jesus reigns, the God of love: See, He sits on yonder throne; Jesus rules the world alone. Alleluia! Alleluia! Alleluia! Amen.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hark! Ten Thousand Harps and Voices, Hark! ten thousand harps and voices 
+    description: |
+      SDAH 222. Hark! Ten Thousand Harps and Voices. 1. Hark! ten thousand harps and voices Sound the note of praise above; Jesuse reigns, and heaven rejoices, Jesus reigns, the God of love: See, He sits on yonder throne; Jesus rules the world alone. Alleluia! Alleluia! Alleluia! Amen.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hark! Ten Thousand Harps and Voices, Hark! ten thousand harps and voices 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Then, with golden harps we’ll sing,
 “Glory, glory to our King!”
 Alleluia! Alleluia!
 Alleluia! Amen.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 148. O Love, How Deep, How Broad - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 148. O Love, How Deep, How Broad. 1. O love, how deep, how broad, how high, Beyond all thought and fantasy, That God, the Son of God, should take Our mortal form for mortal’s sake!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Love, How Deep, How Broad, O love, how deep, how broad, how high, 
+    description: |
+      SDAH 148. O Love, How Deep, How Broad. 1. O love, how deep, how broad, how high, Beyond all thought and fantasy, That God, the Son of God, should take Our mortal form for mortal’s sake!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Love, How Deep, How Broad, O love, how deep, how broad, how high, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ All glory to our Lord and God
 For love so deep, so high, so broad;
 The Trinity whom we adore
 Forevermore and forevermore.
+
 
 
 ```

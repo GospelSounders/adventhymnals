@@ -1,8 +1,10 @@
 ---
 title: 42. Now That the Daylight Fills the Sky - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 42. Now That the Daylight Fills the Sky. 1. Now that the daylight fills the sky, We lift our hearts to God on high, That He, in all we do or say, Would keep us free from harm today;
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now That the Daylight Fills the Sky, Now that the daylight fills the sky, 
+    description: |
+      SDAH 42. Now That the Daylight Fills the Sky. 1. Now that the daylight fills the sky, We lift our hearts to God on high, That He, in all we do or say, Would keep us free from harm today;
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now That the Daylight Fills the Sky, Now that the daylight fills the sky, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Shall praise His name for vict’ry gained.
 All praise to You, eternal Word!
 All praise to You, O Spirit wise!”
 We sing as daylight fills the skies.
+
 
 
 ```

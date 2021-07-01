@@ -1,8 +1,10 @@
 ---
 title: 100. Great Is Thy Faithfulness - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 100. Great Is Thy Faithfulness. 1. Great is Thy faithfulness, O God my Father; There is no shadow of turning with Thee; Thou changest not, Thy compassions, they fail not; As Thou hast been, Thou forever will be. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Great Is Thy Faithfulness, Great is Thy faithfulness, O God my Father; ,Great is Thy faithfulness!
+    description: |
+      SDAH 100. Great Is Thy Faithfulness. 1. Great is Thy faithfulness, O God my Father; There is no shadow of turning with Thee; Thou changest not, Thy compassions, they fail not; As Thou hast been, Thou forever will be. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Great Is Thy Faithfulness, Great is Thy faithfulness, O God my Father; ,Great is Thy faithfulness!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -54,6 +57,7 @@ Great is Thy faithfulness!
 Morning by morning new mercies I see.
 All I have needed Thy hand hath provided;
 Great is Thy faithfulness, Lord, unto me!
+
 
 
 

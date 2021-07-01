@@ -1,8 +1,10 @@
 ---
 title: 613. Fight the Good Fight - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 613. Fight the Good Fight. 1. Fight the good fight with all thy might; Christ is thy strength, and Christ thy right; Lay hold on life and it shall be Thy joy and crown eternally.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Fight the Good Fight, Fight the good fight with all thy might; 
+    description: |
+      SDAH 613. Fight the Good Fight. 1. Fight the good fight with all thy might; Christ is thy strength, and Christ thy right; Lay hold on life and it shall be Thy joy and crown eternally.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Fight the Good Fight, Fight the good fight with all thy might; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Faint not, nor fear, His arms are near;
 He changeth not, and thou art dear.
 Only believe, and thou shalt see
 That Christ is all in all to thee.
+
 
 
 ```

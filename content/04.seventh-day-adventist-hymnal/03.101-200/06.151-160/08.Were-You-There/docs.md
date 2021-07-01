@@ -1,8 +1,10 @@
 ---
 title: 158. Were You There? - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 158. Were You There?. 1. Were you there when they crucified my Lord? Were you there when they crucified my Lord? O! Sometimes it causes me to tremble, tremble, tremble. Were you there when they crucified my Lord?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Were You There?, Were you there when they crucified my Lord? 
+    description: |
+      SDAH 158. Were You There?. 1. Were you there when they crucified my Lord? Were you there when they crucified my Lord? O! Sometimes it causes me to tremble, tremble, tremble. Were you there when they crucified my Lord?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Were You There?, Were you there when they crucified my Lord? 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Were you there when they laid Him in the tomb?
 Were you there when they laid Him in the tomb?
 O! Sometimes it causes me to tremble, tremble, tremble.
 Were you there when they laid Him in the tomb?
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 528. A Shelter in the Time of Storm - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 528. A Shelter in the Time of Storm. 1. The Lord’s our Rock, in Him we hide, A shelter in the time of storm; Secure whatever ill betide, A shelter in the time of storm. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, A Shelter in the Time of Storm, The Lord’s our Rock, in Him we hide, ,Mighty Rock in a weary land,
+    description: |
+      SDAH 528. A Shelter in the Time of Storm. 1. The Lord’s our Rock, in Him we hide, A shelter in the time of storm; Secure whatever ill betide, A shelter in the time of storm. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, A Shelter in the Time of Storm, The Lord’s our Rock, in Him we hide, ,Mighty Rock in a weary land,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Mighty Rock in a weary land,
 Cooling shade on the burning sand,
 Faithful guide for the pilgrim band—
 A shelter in the time of storm.
+
 
 
 

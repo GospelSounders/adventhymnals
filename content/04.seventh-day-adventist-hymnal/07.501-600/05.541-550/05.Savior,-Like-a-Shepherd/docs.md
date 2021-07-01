@@ -1,8 +1,10 @@
 ---
 title: 545. Savior, Like a Shepherd - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 545. Savior, Like a Shepherd. 1. Savior, like a shepherd lead us, much we need thy tenderest care; in thy pleasant pastures feed us, for our use thy folds prepare. Blessed Jesus, blessed Jesus! Thou hast bought us, thine we are. Blessed Jesus, blessed Jesus! Thou hast bought us, thine we are.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Savior, Like a Shepherd, Savior, like a shepherd lead us, 
+    description: |
+      SDAH 545. Savior, Like a Shepherd. 1. Savior, like a shepherd lead us, much we need thy tenderest care; in thy pleasant pastures feed us, for our use thy folds prepare. Blessed Jesus, blessed Jesus! Thou hast bought us, thine we are. Blessed Jesus, blessed Jesus! Thou hast bought us, thine we are.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Savior, Like a Shepherd, Savior, like a shepherd lead us, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Blessed Jesus, blessed Jesus!
 We will early turn to thee.
 Blessed Jesus, blessed Jesus!
 We will early turn to thee.
+
 
 
 ```

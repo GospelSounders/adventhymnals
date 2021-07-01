@@ -1,8 +1,10 @@
 ---
 title: 437. I`m Going Home - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 437. I`m Going Home. 1. My heav’nly home is bright and fair, Nor pain nor death can enter there; It’s glitt’ring tow’rs the sun outshine, That heav’nly mansion shall me mine. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`m Going Home, My heav’nly home is bright and fair, ,I’m going home, I’m going home,
+    description: |
+      SDAH 437. I`m Going Home. 1. My heav’nly home is bright and fair, Nor pain nor death can enter there; It’s glitt’ring tow’rs the sun outshine, That heav’nly mansion shall me mine. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I`m Going Home, My heav’nly home is bright and fair, ,I’m going home, I’m going home,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ I’m going home, I’m going home,
 I’m going home to die no more;
 To die no more; to die no more-
 I’m going home to die no more.
+
 
 
 

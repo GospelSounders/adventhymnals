@@ -1,8 +1,10 @@
 ---
 title: 122. Hark! the Herald Angels Sing - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 122. Hark! the Herald Angels Sing. 1. Hark! the herald angels sing, “Glory to the new born King, peace on earth, and mercy mild, God and sinners reconciled!” Joyful, all ye nations rise, join the triumph of the skies; with th’ angelic host proclaim, “Christ is born in Bethlehem!” Hark! the herald angels sing, “Glory to the new born King!”
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hark! the Herald Angels Sing, Hark! the herald angels sing, 
+    description: |
+      SDAH 122. Hark! the Herald Angels Sing. 1. Hark! the herald angels sing, “Glory to the new born King, peace on earth, and mercy mild, God and sinners reconciled!” Joyful, all ye nations rise, join the triumph of the skies; with th’ angelic host proclaim, “Christ is born in Bethlehem!” Hark! the herald angels sing, “Glory to the new born King!”
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hark! the Herald Angels Sing, Hark! the herald angels sing, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ born to raise us from the earth,
 born to give us second birth.
 Hark! the herald angels sing,
 “Glory to the new born King!”
+
 
 
 ```

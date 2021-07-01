@@ -1,8 +1,10 @@
 ---
 title: 565. For the Beauty of the Earth - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 565. For the Beauty of the Earth. 1. For the beauty of the earth, for the glory of the skies, for the love which from our birth over and around us lies; Lord of all, to Thee we raise this our grateful song of praise.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For the Beauty of the Earth, For the beauty of the earth, 
+    description: |
+      SDAH 565. For the Beauty of the Earth. 1. For the beauty of the earth, for the glory of the skies, for the love which from our birth over and around us lies; Lord of all, to Thee we raise this our grateful song of praise.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For the Beauty of the Earth, For the beauty of the earth, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ for the Spirit’s victory won,
 For the crown when life is past,
 Lord of all, to Thee we raise
 Songs of gratitude and praise.
+
 
 
 ```

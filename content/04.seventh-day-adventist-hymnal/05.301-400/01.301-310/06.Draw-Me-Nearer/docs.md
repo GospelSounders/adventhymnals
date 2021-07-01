@@ -1,8 +1,10 @@
 ---
 title: 306. Draw Me Nearer - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 306. Draw Me Nearer. 1. I am thine, O Lord, I have heard thy voice, and it told thy love to me; but I long to rise in the arms of faith and be closer drawn to thee. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Draw Me Nearer, I am thine, O Lord, I have heard thy voice, ,Draw me nearer, nearer, blessed Lord,
+    description: |
+      SDAH 306. Draw Me Nearer. 1. I am thine, O Lord, I have heard thy voice, and it told thy love to me; but I long to rise in the arms of faith and be closer drawn to thee. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Draw Me Nearer, I am thine, O Lord, I have heard thy voice, ,Draw me nearer, nearer, blessed Lord,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Draw me nearer, nearer, blessed Lord,
 to the cross where thou hast died.
 Draw me nearer, nearer, nearer, blessed Lord,
 to thy precious, bleeding side.
+
 
 
 

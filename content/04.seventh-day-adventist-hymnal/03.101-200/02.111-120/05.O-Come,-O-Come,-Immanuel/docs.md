@@ -1,8 +1,10 @@
 ---
 title: 115. O Come, O Come, Immanuel - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 115. O Come, O Come, Immanuel. 1. O come, O come, Emmanuel, And ransom captive Israel, That mourns in lonely exile here Until the Son of God appear. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Come, O Come, Immanuel, O come, O come, Emmanuel, ,Rejoice! Rejoice!
+    description: |
+      SDAH 115. O Come, O Come, Immanuel. 1. O come, O come, Emmanuel, And ransom captive Israel, That mourns in lonely exile here Until the Son of God appear. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Come, O Come, Immanuel, O come, O come, Emmanuel, ,Rejoice! Rejoice!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Refrain:
 Rejoice! Rejoice!
 Emmanuel shall come to thee,
 O Israel.
+
 
 
 

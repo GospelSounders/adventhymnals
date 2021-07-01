@@ -1,8 +1,10 @@
 ---
 title: 435. The Glory Song - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 435. The Glory Song. 1. When all my labors and trails are o’er, And I am safe on that beautiful shore, Just to be near the Lord I adore, Will through the ages be glory for me. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Glory Song, When all my labors and trails are o’er, ,O that will be
+    description: |
+      SDAH 435. The Glory Song. 1. When all my labors and trails are o’er, And I am safe on that beautiful shore, Just to be near the Lord I adore, Will through the ages be glory for me. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Glory Song, When all my labors and trails are o’er, ,O that will be
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -63,6 +66,7 @@ Glory for me; When by His grace
 Glory for me;
 I shall look on His face,
 That will be glory, be glory for me.
+
 
 
 

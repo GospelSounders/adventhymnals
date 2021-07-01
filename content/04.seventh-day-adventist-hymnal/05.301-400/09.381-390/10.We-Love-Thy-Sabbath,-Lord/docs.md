@@ -1,8 +1,10 @@
 ---
 title: 390. We Love Thy Sabbath, Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 390. We Love Thy Sabbath, Lord. 1. We love Thy Sabbath, Lord, And worship at Thy will; Oh may these hours sweet peace afford And deeper faith instill.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Love Thy Sabbath, Lord, We love Thy Sabbath, Lord, 
+    description: |
+      SDAH 390. We Love Thy Sabbath, Lord. 1. We love Thy Sabbath, Lord, And worship at Thy will; Oh may these hours sweet peace afford And deeper faith instill.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Love Thy Sabbath, Lord, We love Thy Sabbath, Lord, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ And with the white-robed throng,
 Upon Mount Sion be,
 And joyful sing our Sabbath song
 Through all eternity.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 342. Is This a Day of New Beginnings? - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 342. Is This a Day of New Beginnings?. 1. Is this a day of new beginnings, Time to remember and move on, Time too believe what love is bringing, Laying to rest the pain that’s gone?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Is This a Day of New Beginnings?, Is this a day of new beginnings, 
+    description: |
+      SDAH 342. Is This a Day of New Beginnings?. 1. Is this a day of new beginnings, Time to remember and move on, Time too believe what love is bringing, Laying to rest the pain that’s gone?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Is This a Day of New Beginnings?, Is this a day of new beginnings, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Christ is alive, and goes before us
 To show and share what love can do.
 This is a day of new beginnings;
 Our God is making all things new.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 302. Deeper Yet - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 302. Deeper Yet. 1. In the blood from the cross, I have been washed from sin; But to be free from dross, Still I would enter in. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Deeper Yet, In the blood from the cross, ,Deeper yet, deeper yet,
+    description: |
+      SDAH 302. Deeper Yet. 1. In the blood from the cross, I have been washed from sin; But to be free from dross, Still I would enter in. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Deeper Yet, In the blood from the cross, ,Deeper yet, deeper yet,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Deeper yet, deeper yet,
 Into the crimson flood;
 Deeper yet, deeper yet,
 Under the precious blood.
+
 
 
 

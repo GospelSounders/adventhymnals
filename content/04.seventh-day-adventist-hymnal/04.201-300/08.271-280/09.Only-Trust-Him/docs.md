@@ -1,8 +1,10 @@
 ---
 title: 279. Only Trust Him - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 279. Only Trust Him. 1. Come, every soul by sin oppressed, There’s mercy with the Lord, And He will surely give you rest, By trusting in His word. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Only Trust Him, Come, every soul by sin oppressed, ,Only trust Him, only trust Him,
+    description: |
+      SDAH 279. Only Trust Him. 1. Come, every soul by sin oppressed, There’s mercy with the Lord, And He will surely give you rest, By trusting in His word. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Only Trust Him, Come, every soul by sin oppressed, ,Only trust Him, only trust Him,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Only trust Him, only trust Him,
 Only trust Him now;
 He will save you, He will save you,
 He will save you now.
+
 
 
 

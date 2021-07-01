@@ -1,8 +1,10 @@
 ---
 title: 392. Dear Lord, We Come at Set of Sun - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 392. Dear Lord, We Come at Set of Sun. 1. Dear Lord, we come at set of sun, And at Your feet we kneel To worship You, Creator, King, This day, Your sign and seal.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Dear Lord, We Come at Set of Sun, Dear Lord, we come at set of sun, 
+    description: |
+      SDAH 392. Dear Lord, We Come at Set of Sun. 1. Dear Lord, we come at set of sun, And at Your feet we kneel To worship You, Creator, King, This day, Your sign and seal.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Dear Lord, We Come at Set of Sun, Dear Lord, we come at set of sun, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ And when this earth shall be renewed,
 And sin and death destroyed,
 Shall all redeemed each Sabbath day
 Still meet to praise their God.
+
 
 
 ```

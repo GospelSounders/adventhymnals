@@ -1,8 +1,10 @@
 ---
 title: 95. Spring Has Now Unwrapped the Flowers - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 95. Spring Has Now Unwrapped the Flowers. 1. Spring has now unwrapped the flowers, Day is fast reviving, Life in all her growing powers Towards the light is striving: Gone the iron touch of cold, Winter time and frost time, Seedlings, working through the mould, Now make up for lost time.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Spring Has Now Unwrapped the Flowers, Spring has now unwrapped the flowers, 
+    description: |
+      SDAH 95. Spring Has Now Unwrapped the Flowers. 1. Spring has now unwrapped the flowers, Day is fast reviving, Life in all her growing powers Towards the light is striving: Gone the iron touch of cold, Winter time and frost time, Seedlings, working through the mould, Now make up for lost time.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Spring Has Now Unwrapped the Flowers, Spring has now unwrapped the flowers, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ So, as He renews the earth,
 Artist without rival,
 In His grace of glad new birth
 We must seek revival.
+
 
 
 ```

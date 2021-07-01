@@ -1,8 +1,10 @@
 ---
 title: 693. Almighty Father - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 693. Almighty Father. 1. Almighty Father, hear our prayer, and bless all souls that wait before Thee. Amen.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Almighty Father, Almighty Father, hear our prayer, 
+    description: |
+      SDAH 693. Almighty Father. 1. Almighty Father, hear our prayer, and bless all souls that wait before Thee. Amen.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Almighty Father, Almighty Father, hear our prayer, 
     author: Brian Onang'o
 ---
 
@@ -13,10 +15,12 @@ metadata:
 ```txt
 
 
+
 1.
 Almighty Father, hear our prayer,
 and bless all souls that wait before Thee.
 Amen.
+
 
 
 ```

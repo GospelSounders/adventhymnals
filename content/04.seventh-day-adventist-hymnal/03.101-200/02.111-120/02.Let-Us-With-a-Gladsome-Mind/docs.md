@@ -1,8 +1,10 @@
 ---
 title: 112. Let Us With a Gladsome Mind - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 112. Let Us With a Gladsome Mind. 1. Let us with a gladsome mind Praise the Lord, for He is kind: For His mercies shall endure, Ever faithful, ever sure.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Let Us With a Gladsome Mind, Let us with a gladsome mind 
+    description: |
+      SDAH 112. Let Us With a Gladsome Mind. 1. Let us with a gladsome mind Praise the Lord, for He is kind: For His mercies shall endure, Ever faithful, ever sure.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Let Us With a Gladsome Mind, Let us with a gladsome mind 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Let us then with gladsome mind
 Praise the Lord, for He is kind:
 For His mercies shall endure,
 Ever faithful, ever sure.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 640. For Beauty of Meadows - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 640. For Beauty of Meadows. 1. For beauty of meadows, for grandeur of trees, For flowers of woodlands, for creatures of seas, For all You created and gave us to share, We praise You, Creator, extolling your care.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For Beauty of Meadows, For beauty of meadows, for grandeur of trees, 
+    description: |
+      SDAH 640. For Beauty of Meadows. 1. For beauty of meadows, for grandeur of trees, For flowers of woodlands, for creatures of seas, For all You created and gave us to share, We praise You, Creator, extolling your care.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For Beauty of Meadows, For beauty of meadows, for grandeur of trees, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -31,6 +34,7 @@ Teach us once again to be gardeners in peace;
 All nature around us is ours but on lease;
 Your name we would hallow in all that we do,
 Fulfilling our calling, creating with You.
+
 
 
 ```

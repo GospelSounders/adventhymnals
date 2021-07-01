@@ -1,8 +1,10 @@
 ---
 title: 209. That Glorious Day Is Coming - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 209. That Glorious Day Is Coming. 1. That glorious day is coming, The hour is hastening on; Its radiant light is nearing, Far brighter than the sun; In yonder clouds of heaven, The Saviour will appear, And gather all His chosen, To meet Him in the air. The saints, then all victorious Will go to meet their Lord; An earth both bright and glorious, Will then be their reward; And God Himself there reigning, Will wipe all tears away; Nor clouds nor night remaining, But one eternal day.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, That Glorious Day Is Coming, That glorious day is coming, 
+    description: |
+      SDAH 209. That Glorious Day Is Coming. 1. That glorious day is coming, The hour is hastening on; Its radiant light is nearing, Far brighter than the sun; In yonder clouds of heaven, The Saviour will appear, And gather all His chosen, To meet Him in the air. The saints, then all victorious Will go to meet their Lord; An earth both bright and glorious, Will then be their reward; And God Himself there reigning, Will wipe all tears away; Nor clouds nor night remaining, But one eternal day.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, That Glorious Day Is Coming, That glorious day is coming, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -40,6 +43,7 @@ O sinner, hear the warning!
 To Jesus quickly fly!
 Then you, in that blest morning,
 May meet Him in the sky!
+
 
 
 ```

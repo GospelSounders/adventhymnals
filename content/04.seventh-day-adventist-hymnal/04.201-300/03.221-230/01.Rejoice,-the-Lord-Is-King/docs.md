@@ -1,8 +1,10 @@
 ---
 title: 221. Rejoice, the Lord Is King - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 221. Rejoice, the Lord Is King. 1. Rejoice, the Lord is King! Your Lord and King adore! Rejoice, give thanks, and sing and triumph evermore Lift up your heart, lift up your voice! Rejoice, again I say, rejoice!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rejoice, the Lord Is King, Rejoice, the Lord is King! Your Lord and King adore! 
+    description: |
+      SDAH 221. Rejoice, the Lord Is King. 1. Rejoice, the Lord is King! Your Lord and King adore! Rejoice, give thanks, and sing and triumph evermore Lift up your heart, lift up your voice! Rejoice, again I say, rejoice!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rejoice, the Lord Is King, Rejoice, the Lord is King! Your Lord and King adore! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Rejoice in glorious hope! Our Lord the judge shall come,
 And take His servants up To their eternal home
 Lift up your heart, lift up your voice!
 Rejoice, again I say, rejoice!
+
 
 
 ```

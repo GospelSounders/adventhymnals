@@ -1,8 +1,10 @@
 ---
 title: 350. Blest Be the Tie That Binds - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 350. Blest Be the Tie That Binds. 1. Blest be the tie that binds our hearts in Christian love; the fellowship of kindred minds is like to that above.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Blest Be the Tie That Binds, Blest be the tie that binds 
+    description: |
+      SDAH 350. Blest Be the Tie That Binds. 1. Blest be the tie that binds our hearts in Christian love; the fellowship of kindred minds is like to that above.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Blest Be the Tie That Binds, Blest be the tie that binds 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ When we asunder part,
 it gives us inward pain;
 but we shall still be joined in heart,
 and hope to meet again.
+
 
 
 ```

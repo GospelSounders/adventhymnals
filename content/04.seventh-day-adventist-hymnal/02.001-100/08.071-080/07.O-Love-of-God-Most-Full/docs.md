@@ -1,8 +1,10 @@
 ---
 title: 77. O Love of God Most Full - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 77. O Love of God Most Full. 1. O love of God most full, O love of God most free, Come warm my heart, come fill my soul, Come lead me unto Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Love of God Most Full, O love of God most full, 
+    description: |
+      SDAH 77. O Love of God Most Full. 1. O love of God most full, O love of God most free, Come warm my heart, come fill my soul, Come lead me unto Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Love of God Most Full, O love of God most full, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ O love of God most full,
 O love of God most free,
 It warms my heart, it fills my soul,
 With might it strengthens me.
+
 
 
 ```

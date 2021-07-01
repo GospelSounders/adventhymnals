@@ -1,8 +1,10 @@
 ---
 title: 541. Lord, Speak to Me - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 541. Lord, Speak to Me. 1. Lord, speak to me, that I may speak in living echoes of thy tone; as thou has sought, so let me seek thine erring children lost and lone.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Speak to Me, Lord, speak to me, that I may speak 
+    description: |
+      SDAH 541. Lord, Speak to Me. 1. Lord, speak to me, that I may speak in living echoes of thy tone; as thou has sought, so let me seek thine erring children lost and lone.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Speak to Me, Lord, speak to me, that I may speak 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ O strengthen me, that while I stand
 firm on the rock, and strong in thee,
 I may stretch out a loving land
 to wrestlers with the troubled sea.
+
 
 
 ```

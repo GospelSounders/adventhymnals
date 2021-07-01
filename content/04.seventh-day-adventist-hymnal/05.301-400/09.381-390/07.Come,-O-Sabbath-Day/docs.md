@@ -1,8 +1,10 @@
 ---
 title: 387. Come, O Sabbath Day - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 387. Come, O Sabbath Day. 1. Peace and healing on thy wing; And to every troubled breast Speak of the divine behest: Thou shalt rest, Thou shalt rest!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, O Sabbath Day, Peace and healing on thy wing; 
+    description: |
+      SDAH 387. Come, O Sabbath Day. 1. Peace and healing on thy wing; And to every troubled breast Speak of the divine behest: Thou shalt rest, Thou shalt rest!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, O Sabbath Day, Peace and healing on thy wing; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ Banish care and silence fear;
 All things working for the best,
 Teach us the divine behest:
 Thou shalt rest, Thou shalt rest!
+
 
 
 ```

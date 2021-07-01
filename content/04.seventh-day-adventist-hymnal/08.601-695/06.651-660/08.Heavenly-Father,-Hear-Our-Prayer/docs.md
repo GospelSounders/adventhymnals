@@ -1,8 +1,10 @@
 ---
 title: 658. Heavenly Father, Hear Our Prayer - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 658. Heavenly Father, Hear Our Prayer. 1. Heav’nly Father, hear our prayer As we bow before You: Bless them in the life they share, Humble we implore You. Be their guide in all endeavors, Be their hope that nothing severs; Constant source of love divine, Let Your love within them shine!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Heavenly Father, Hear Our Prayer, Heav’nly Father, hear our prayer 
+    description: |
+      SDAH 658. Heavenly Father, Hear Our Prayer. 1. Heav’nly Father, hear our prayer As we bow before You: Bless them in the life they share, Humble we implore You. Be their guide in all endeavors, Be their hope that nothing severs; Constant source of love divine, Let Your love within them shine!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Heavenly Father, Hear Our Prayer, Heav’nly Father, hear our prayer 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Justified by Jesus’ merit,
 Life eternal they inherit.
 When their days on earth have passed,
 Take them to Your home at last!
+
 
 
 ```

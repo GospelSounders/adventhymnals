@@ -1,8 +1,10 @@
 ---
 title: 684. Hear Our Prayer, O Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 684. Hear Our Prayer, O Lord. 1. Hear Our Prayer, O Lord, Hear our prayer, O Lord; Incline Thine ear to us, And grant us Thy peace. Amen.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hear Our Prayer, O Lord, Hear Our Prayer, O Lord, 
+    description: |
+      SDAH 684. Hear Our Prayer, O Lord. 1. Hear Our Prayer, O Lord, Hear our prayer, O Lord; Incline Thine ear to us, And grant us Thy peace. Amen.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hear Our Prayer, O Lord, Hear Our Prayer, O Lord, 
     author: Brian Onang'o
 ---
 
@@ -13,12 +15,14 @@ metadata:
 ```txt
 
 
+
 1.
 Hear Our Prayer, O Lord,
 Hear our prayer, O Lord;
 Incline Thine ear to us,
 And grant us Thy peace.
 Amen.
+
 
 
 ```

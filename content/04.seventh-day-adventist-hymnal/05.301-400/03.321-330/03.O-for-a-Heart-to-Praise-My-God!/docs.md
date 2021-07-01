@@ -1,8 +1,10 @@
 ---
 title: 323. O for a Heart to Praise My God! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 323. O for a Heart to Praise My God!. 1. O for a heart to praise my God, A heart from sin set free, A heart that always feels Thy blood So freely shed for me.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O for a Heart to Praise My God!, O for a heart to praise my God, 
+    description: |
+      SDAH 323. O for a Heart to Praise My God!. 1. O for a heart to praise my God, A heart from sin set free, A heart that always feels Thy blood So freely shed for me.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O for a Heart to Praise My God!, O for a heart to praise my God, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Thy nature, gracious Lord, impart;
 Come quickly from above;
 Write Thy new name upon my heart,
 Thy new, best name of Love.
+
 
 
 ```

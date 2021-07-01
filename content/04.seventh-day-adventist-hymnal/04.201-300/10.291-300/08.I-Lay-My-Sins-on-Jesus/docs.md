@@ -1,8 +1,10 @@
 ---
 title: 298. I Lay My Sins on Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 298. I Lay My Sins on Jesus. 1. I lay my sins on Jesus, The spotless Lamb of God; He bears them all, and frees us From the accursed load, From the accursed load.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Lay My Sins on Jesus, I lay my sins on Jesus, 
+    description: |
+      SDAH 298. I Lay My Sins on Jesus. 1. I lay my sins on Jesus, The spotless Lamb of God; He bears them all, and frees us From the accursed load, From the accursed load.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Lay My Sins on Jesus, I lay my sins on Jesus, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -47,6 +50,7 @@ Amid the heav’nly throng,
 To sing with them His praises,
 And learn the angels’ song.
 And learn the angels’ song.
+
 
 
 ```

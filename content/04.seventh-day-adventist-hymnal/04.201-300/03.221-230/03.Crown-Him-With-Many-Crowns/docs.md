@@ -1,8 +1,10 @@
 ---
 title: 223. Crown Him With Many Crowns - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 223. Crown Him With Many Crowns. 1. Crown him with many crowns, the Lamb upon his throne, Hark! how the heavenly anthem drowns all music but its own. Awake, my soul, and sing of him who died for thee, and hail him as thy matchless King through all eternity.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Crown Him With Many Crowns, Crown him with many crowns, 
+    description: |
+      SDAH 223. Crown Him With Many Crowns. 1. Crown him with many crowns, the Lamb upon his throne, Hark! how the heavenly anthem drowns all music but its own. Awake, my soul, and sing of him who died for thee, and hail him as thy matchless King through all eternity.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Crown Him With Many Crowns, Crown him with many crowns, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ All hail, Redeemer, hail!
 For thou hast died for me;
 thy praise shall never, never fail
 throughout eternity.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 341. To God Be the Glory - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 341. To God Be the Glory. 1. To God be the glory, great things he hath done! So loved he the world that he gave us his Son, who yielded his life an atonement for sin, and opened the lifegate that all may go in. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, To God Be the Glory, To God be the glory, great things he hath done! ,Praise the Lord, praise the Lord,
+    description: |
+      SDAH 341. To God Be the Glory. 1. To God be the glory, great things he hath done! So loved he the world that he gave us his Son, who yielded his life an atonement for sin, and opened the lifegate that all may go in. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, To God Be the Glory, To God be the glory, great things he hath done! ,Praise the Lord, praise the Lord,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -57,6 +60,7 @@ Praise the Lord, praise the Lord,
 let the people rejoice!
 O come to the Father thru Jesus the Son,
 and give him the glory, great things he hath done!
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 594. Heir of the Kingdom - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 594. Heir of the Kingdom. 1. Heir of the kingdom, O why dost thou slumber? Why art thou sleeping so near thy blest home? Wake thee, arouse thee, and gird on thine armor, Speed, for the moments are hurrying on.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Heir of the Kingdom, Heir of the kingdom, O why dost thou slumber? 
+    description: |
+      SDAH 594. Heir of the Kingdom. 1. Heir of the kingdom, O why dost thou slumber? Why art thou sleeping so near thy blest home? Wake thee, arouse thee, and gird on thine armor, Speed, for the moments are hurrying on.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Heir of the Kingdom, Heir of the kingdom, O why dost thou slumber? 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Keep the eye single, the head upward lifted;
 Watch for the glory of earth’s coming King;
 Lo! o’er the mountaintops light is now breaking;
 Heirs of the kingdom, rejoice ye and sing.
+
 
 
 ```

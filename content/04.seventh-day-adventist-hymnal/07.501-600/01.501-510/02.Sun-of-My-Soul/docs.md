@@ -1,8 +1,10 @@
 ---
 title: 502. Sun of My Soul - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 502. Sun of My Soul. 1. Sun of my soul, O Savior dear! It is not night if Thou be near; O may no earth-born cloud arise To hide Thee from Thy servant’s eyes.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sun of My Soul, Sun of my soul, O Savior dear! 
+    description: |
+      SDAH 502. Sun of My Soul. 1. Sun of my soul, O Savior dear! It is not night if Thou be near; O may no earth-born cloud arise To hide Thee from Thy servant’s eyes.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sun of My Soul, Sun of my soul, O Savior dear! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Be near and bless me when I wake,
 Ere through the world my way I take;
 Till in the ocean of Thy love
 I lose myself in heaven above.
+
 
 
 ```

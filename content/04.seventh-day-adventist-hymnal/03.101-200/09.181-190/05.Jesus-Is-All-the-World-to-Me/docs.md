@@ -1,8 +1,10 @@
 ---
 title: 185. Jesus Is All the World to Me - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 185. Jesus Is All the World to Me. 1. Jesus is all the world to me, my life, my joy, my all; he is my strength from day to day, without him I would fall. When I am sad, to him I go, no other one can cheer me so; when I am sad, he makes me glad, he’s my friend.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Is All the World to Me, Jesus is all the world to me, 
+    description: |
+      SDAH 185. Jesus Is All the World to Me. 1. Jesus is all the world to me, my life, my joy, my all; he is my strength from day to day, without him I would fall. When I am sad, to him I go, no other one can cheer me so; when I am sad, he makes me glad, he’s my friend.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Is All the World to Me, Jesus is all the world to me, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Beautiful life with such a friend,
 beautiful life that has no end;
 eternal life, eternal joy,
 he’s my friend.
+
 
 
 ```

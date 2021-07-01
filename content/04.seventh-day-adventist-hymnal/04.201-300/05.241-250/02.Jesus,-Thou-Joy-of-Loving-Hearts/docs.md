@@ -1,8 +1,10 @@
 ---
 title: 242. Jesus, Thou Joy of Loving Hearts - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 242. Jesus, Thou Joy of Loving Hearts. 1. Jesus, Thou joy of loving hearts! Thou fount of life! Thou light of men! From the best bliss that earth imparts, We turn unfilled to Thee again.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Thou Joy of Loving Hearts, Jesus, Thou joy of loving hearts! 
+    description: |
+      SDAH 242. Jesus, Thou Joy of Loving Hearts. 1. Jesus, Thou joy of loving hearts! Thou fount of life! Thou light of men! From the best bliss that earth imparts, We turn unfilled to Thee again.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Thou Joy of Loving Hearts, Jesus, Thou joy of loving hearts! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ O Jesus, ever with us stay;
 Make all our moments calm and bright;
 Chase the dark night of sin away,
 Shed o’r the world Thy holy light!
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 214. We Have This Hope - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 214. We Have This Hope. 1. We have this hope that burns within our heart, Hope in the coming of the Lord. We have this faith that Christ alone imparts, Faith in the promise of His Word. We believe the time is here, When the nations far and near Shall awake, and shout and sing Hallelujah! Christ is King! We have this hope that burns within our heart, Hope in the coming of the Lord.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Have This Hope, We have this hope that burns within our heart, 
+    description: |
+      SDAH 214. We Have This Hope. 1. We have this hope that burns within our heart, Hope in the coming of the Lord. We have this faith that Christ alone imparts, Faith in the promise of His Word. We believe the time is here, When the nations far and near Shall awake, and shout and sing Hallelujah! Christ is King! We have this hope that burns within our heart, Hope in the coming of the Lord.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, We Have This Hope, We have this hope that burns within our heart, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ All the universe will sing
 Hallelujah! Christ is King!
 We have this hope this faith, and God’s great love,
 We are united in Christ.
+
 
 
 ```

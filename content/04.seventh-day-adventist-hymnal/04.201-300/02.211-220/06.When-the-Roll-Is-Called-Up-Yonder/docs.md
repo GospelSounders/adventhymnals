@@ -1,8 +1,10 @@
 ---
 title: 216. When the Roll Is Called Up Yonder - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 216. When the Roll Is Called Up Yonder. 1. When the trumpet of the Lord shall sound, and time shall be no more, And the morning breaks, eternal, bright and fair; When the saved of earth shall gather over on the other shore, And the roll is called up yonder, I’ll be there. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When the Roll Is Called Up Yonder, When the trumpet of the Lord shall sound, ,When the roll is called up yonder,
+    description: |
+      SDAH 216. When the Roll Is Called Up Yonder. 1. When the trumpet of the Lord shall sound, and time shall be no more, And the morning breaks, eternal, bright and fair; When the saved of earth shall gather over on the other shore, And the roll is called up yonder, I’ll be there. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When the Roll Is Called Up Yonder, When the trumpet of the Lord shall sound, ,When the roll is called up yonder,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -57,6 +60,7 @@ When the roll is called up yonder,
 When the roll is called up yonder,
 When the roll is called up yonder,
 When the roll is called up yonder, I’ll be there.
+
 
 
 

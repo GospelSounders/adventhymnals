@@ -1,8 +1,10 @@
 ---
 title: 370. Christ for the World - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 370. Christ for the World. 1. Christ for the world we sing, the world to Christ we bring, with loving zeal; the poor, and them that mourn, the faint and overborne, sinsick and sorrow-worn, whom Christ doth heal.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ for the World, Christ for the world we sing, 
+    description: |
+      SDAH 370. Christ for the World. 1. Christ for the world we sing, the world to Christ we bring, with loving zeal; the poor, and them that mourn, the faint and overborne, sinsick and sorrow-worn, whom Christ doth heal.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ for the World, Christ for the world we sing, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -39,6 +42,7 @@ the newborn souls, whose days,
 reclaimed from error’s ways,
 inspired with hope and praise,
 to Christ belong.
+
 
 
 ```

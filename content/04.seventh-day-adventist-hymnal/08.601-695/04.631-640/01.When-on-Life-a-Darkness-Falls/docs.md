@@ -1,8 +1,10 @@
 ---
 title: 631. When on Life a Darkness Falls - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 631. When on Life a Darkness Falls. 1. When on life a darkness falls, When the mist flows chilling, Paths and sign posts lost in doubt, Loveless, unfulfilling, Reach us, Jesus, from Your cross, Though we feel forsaken; Keep us through the aching night Till new dawns awaken.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When on Life a Darkness Falls, When on life a darkness falls, 
+    description: |
+      SDAH 631. When on Life a Darkness Falls. 1. When on life a darkness falls, When the mist flows chilling, Paths and sign posts lost in doubt, Loveless, unfulfilling, Reach us, Jesus, from Your cross, Though we feel forsaken; Keep us through the aching night Till new dawns awaken.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When on Life a Darkness Falls, When on life a darkness falls, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ All who seek Him, soon are found,
 Made His close relation:
 Christ our pathway, Christ our home,
 Christ our sure foundation.
+
 
 
 ```

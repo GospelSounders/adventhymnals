@@ -1,8 +1,10 @@
 ---
 title: 257. Come Down, O Love Divine - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 257. Come Down, O Love Divine. 1. Come down, O Love divine, seek thou this soul of mine and visit it with thine own ardor glowing; O Comforter, draw near, within my heart appear, and kindle it, thy holy flame bestowing.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come Down, O Love Divine, Come down, O Love divine, seek thou this soul of mine 
+    description: |
+      SDAH 257. Come Down, O Love Divine. 1. Come down, O Love divine, seek thou this soul of mine and visit it with thine own ardor glowing; O Comforter, draw near, within my heart appear, and kindle it, thy holy flame bestowing.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come Down, O Love Divine, Come down, O Love divine, seek thou this soul of mine 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ And so the yearning strong with which the soul will long
 shall far outpass the power of human telling;
 for none can guess its grace, till Love create a place
 wherein the Holy Spirit makes a dwelling.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 533. O for a Faith - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 533. O for a Faith. 1. O, for a faith that will not shrink, Though pressed by many a foe, That will not tremble on the brink of poverty, Of poverty or woe; Of poverty or woe;
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O for a Faith, O, for a faith that will not shrink, 
+    description: |
+      SDAH 533. O for a Faith. 1. O, for a faith that will not shrink, Though pressed by many a foe, That will not tremble on the brink of poverty, Of poverty or woe; Of poverty or woe;
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O for a Faith, O, for a faith that will not shrink, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Lord, give me such a faith as this,
 And then, whate’er may come
 I’ll taste, e’en here the hallowed bliss, the hallowed bliss
 Of an eternal home; Of an eternal home.
+
 
 
 ```

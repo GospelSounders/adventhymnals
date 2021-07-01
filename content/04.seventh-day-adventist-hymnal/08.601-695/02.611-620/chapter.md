@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 611-620
 metadata:
-    description: Seventh Day Adventist Hymnal - 611-620
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 611-620
+    description: |
+      Seventh Day Adventist Hymnal - 611-620
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals 611-620
     author: Brian Onang'o
 ---
 

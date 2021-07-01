@@ -1,8 +1,10 @@
 ---
 title: 93. All Things Bright and Beautiful - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 93. All Things Bright and Beautiful. 1. Each little flow’r that opens Each little bird that sings He made their glowing colours He made their tiny wings.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All Things Bright and Beautiful, Each little flow’r that opens 
+    description: |
+      SDAH 93. All Things Bright and Beautiful. 1. Each little flow’r that opens Each little bird that sings He made their glowing colours He made their tiny wings.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All Things Bright and Beautiful, Each little flow’r that opens 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ He gave us eyes to see them
 And lips that we might tell
 How great is God Almighty
 Who has made all things well.
+
 
 
 ```

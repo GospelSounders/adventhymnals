@@ -1,8 +1,10 @@
 ---
 title: 488. At First I Prayed for Light - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 488. At First I Prayed for Light. 1. At first I prayed for light: Could I but see the way, How gladly, swiftly would I walk To everlasting day!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, At First I Prayed for Light, At first I prayed for light; 
+    description: |
+      SDAH 488. At First I Prayed for Light. 1. At first I prayed for light: Could I but see the way, How gladly, swiftly would I walk To everlasting day!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, At First I Prayed for Light, At first I prayed for light; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ And light and strength and faith
 Are opening everywhere!
 God waited patiently until
 I prayed the larger prayer.
+
 
 
 ```

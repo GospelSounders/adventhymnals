@@ -1,8 +1,10 @@
 ---
 title: 232. At the Name of Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 232. At the Name of Jesus. 1. At the name of Jesus every knee shall bow, Every tongue confess Him King of glory now; “Tis the Father’s pleasure we should call Him Lord, Who from the beginning was the mighty Word.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, At the Name of Jesus, At the name of Jesus every knee shall bow, 
+    description: |
+      SDAH 232. At the Name of Jesus. 1. At the name of Jesus every knee shall bow, Every tongue confess Him King of glory now; “Tis the Father’s pleasure we should call Him Lord, Who from the beginning was the mighty Word.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, At the Name of Jesus, At the name of Jesus every knee shall bow, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Surely, this Lord Jesus shall return again,
 With His Father’s glory, With His angel train;
 For all wreaths of empire meet upon His brow,
 And our hearts confess Him King of glory now.
+
 
 
 ```

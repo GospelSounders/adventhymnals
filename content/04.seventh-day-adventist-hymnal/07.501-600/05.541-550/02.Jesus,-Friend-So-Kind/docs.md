@@ -1,8 +1,10 @@
 ---
 title: 542. Jesus, Friend So Kind - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 542. Jesus, Friend So Kind. 1. Jesus, Friend, so kind and gentle, Little ones we bring to Thee: Grant to them Thy dearest blessing, Let Thine arms around them be; Now enfold them in Thy goodness, From all danger keep them free.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Friend So Kind, Jesus, Friend, so kind and gentle, 
+    description: |
+      SDAH 542. Jesus, Friend So Kind. 1. Jesus, Friend, so kind and gentle, Little ones we bring to Thee: Grant to them Thy dearest blessing, Let Thine arms around them be; Now enfold them in Thy goodness, From all danger keep them free.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus, Friend So Kind, Jesus, Friend, so kind and gentle, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -28,6 +31,7 @@ Give to all who teach and guide them
 Wisdom and humility.
 Vision true to keep them noble,
 Love to serve them faithfully.
+
 
 
 ```

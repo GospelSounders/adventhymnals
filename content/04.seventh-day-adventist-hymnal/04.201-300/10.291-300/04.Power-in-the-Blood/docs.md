@@ -1,8 +1,10 @@
 ---
 title: 294. Power in the Blood - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 294. Power in the Blood. 1. Would you be free from the burden of sin? There’s pow’r in the blood, pow’r in the blood; Would you o’er evil a victory win? There’s wonderful power in the blood. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Power in the Blood, Would you be free from the burden of sin? ,There is pow’r, pow’r, wonder working pow’r
+    description: |
+      SDAH 294. Power in the Blood. 1. Would you be free from the burden of sin? There’s pow’r in the blood, pow’r in the blood; Would you o’er evil a victory win? There’s wonderful power in the blood. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Power in the Blood, Would you be free from the burden of sin? ,There is pow’r, pow’r, wonder working pow’r
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ There is pow’r, pow’r, wonder working pow’r
 In the blood of the Lamb;
 There is pow’r, pow’r, wonder working pow’r
 In the precious blood of the Lamb.
+
 
 
 

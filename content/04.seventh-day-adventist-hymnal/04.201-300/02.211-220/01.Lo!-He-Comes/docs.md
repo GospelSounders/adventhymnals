@@ -1,8 +1,10 @@
 ---
 title: 211. Lo! He Comes - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 211. Lo! He Comes. 1. Lo! He comes, with clouds descending, Once for favored sinners slain; Countless angels, Him attending, Swell the triumph of His train: Hallelujah! Hallelujah! Jesus comes, and comes to reign.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lo! He Comes, Lo! He comes, with clouds descending, 
+    description: |
+      SDAH 211. Lo! He Comes. 1. Lo! He comes, with clouds descending, Once for favored sinners slain; Countless angels, Him attending, Swell the triumph of His train: Hallelujah! Hallelujah! Jesus comes, and comes to reign.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lo! He Comes, Lo! He comes, with clouds descending, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ Savior, take the power and glory,
 Make Thy righteous sentence known;
 O come quickly, O come quickly,
 Claim the kingdom for Thine own!
+
 
 
 ```

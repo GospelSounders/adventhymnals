@@ -1,8 +1,10 @@
 ---
 title: 280. Come, Ye Sinners - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 280. Come, Ye Sinners. 1. Come, ye sinners poor and needy, Weak and wounded, sick and sore; Jesus ready stands to save you, Full of pity, love, and power. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Ye Sinners, Come, ye sinners poor and needy, ,I will arise and go to Jesus,
+    description: |
+      SDAH 280. Come, Ye Sinners. 1. Come, ye sinners poor and needy, Weak and wounded, sick and sore; Jesus ready stands to save you, Full of pity, love, and power. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Ye Sinners, Come, ye sinners poor and needy, ,I will arise and go to Jesus,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ I will arise and go to Jesus,
 He will embrace me in His arms;
 In the arms of my dear Savior,
 O there are ten thousand charms.
+
 
 
 

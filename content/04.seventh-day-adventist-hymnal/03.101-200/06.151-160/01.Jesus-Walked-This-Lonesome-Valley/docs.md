@@ -1,8 +1,10 @@
 ---
 title: 151. Jesus Walked This Lonesome Valley - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 151. Jesus Walked This Lonesome Valley. 1. Jesus walked this lonesome valley; He had to walk it by Himself. O nobody else could walk it for Him. He had to walk it by Himself.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Walked This Lonesome Valley, Jesus walked this lonesome valley; 
+    description: |
+      SDAH 151. Jesus Walked This Lonesome Valley. 1. Jesus walked this lonesome valley; He had to walk it by Himself. O nobody else could walk it for Him. He had to walk it by Himself.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Jesus Walked This Lonesome Valley, Jesus walked this lonesome valley; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Jesus walked this lonesome valley;
 He had to walk it by Himself.
 O nobody else could walk it for Him.
 He had to walk it by Himself.
+
 
 
 ```

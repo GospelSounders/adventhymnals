@@ -1,8 +1,10 @@
 ---
 title: 443. There`ll Be No Sorrow There - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 443. There`ll Be No Sorrow There. 1. There’ll be no night in heaven, In that blest world above; No anxious toil, no weary hours; For labor there is love. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`ll Be No Sorrow There, There’ll be no night in heaven, ,There’ll be no sorrow there,
+    description: |
+      SDAH 443. There`ll Be No Sorrow There. 1. There’ll be no night in heaven, In that blest world above; No anxious toil, no weary hours; For labor there is love. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, There`ll Be No Sorrow There, There’ll be no night in heaven, ,There’ll be no sorrow there,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ There’ll be no sorrow there,
 There’ll be no sorrow there;
 In heaven above, where all is love,
 There’ll be no sorrow there.
+
 
 
 

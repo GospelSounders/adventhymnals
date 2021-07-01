@@ -1,8 +1,10 @@
 ---
 title: 388. Don`t Forget the Sabbath - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 388. Don`t Forget the Sabbath. 1. Don’t forget the Sabbath, The Lord our God hath blest, Of all the week the brightest, Of all the week the best; It brings repose from labor, It tells of joy divine, Its beams of light descending, With heavenly beauty shine. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Don`t Forget the Sabbath, Don’t forget the Sabbath, ,Welcome, welcome, ever welcome,
+    description: |
+      SDAH 388. Don`t Forget the Sabbath. 1. Don’t forget the Sabbath, The Lord our God hath blest, Of all the week the brightest, Of all the week the best; It brings repose from labor, It tells of joy divine, Its beams of light descending, With heavenly beauty shine. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Don`t Forget the Sabbath, Don’t forget the Sabbath, ,Welcome, welcome, ever welcome,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -63,6 +66,7 @@ Welcome, welcome, ever welcome,
 Blessed Sabbath day,
 Welcome, welcome, ever welcome,
 Blessed Sabbath day.
+
 
 
 

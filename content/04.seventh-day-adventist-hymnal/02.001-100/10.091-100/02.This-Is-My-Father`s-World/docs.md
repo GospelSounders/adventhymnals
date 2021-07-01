@@ -1,8 +1,10 @@
 ---
 title: 92. This Is My Father`s World - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 92. This Is My Father`s World. 1. This is my Father’s world, and to my listening ears all nature sings, and round me rings the music of the spheres. This is my Father’s world: I rest me in the thought of rocks and trees, of skies and seas; his hand the wonders wrought.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, This Is My Father`s World, This is my Father’s world, 
+    description: |
+      SDAH 92. This Is My Father`s World. 1. This is my Father’s world, and to my listening ears all nature sings, and round me rings the music of the spheres. This is my Father’s world: I rest me in the thought of rocks and trees, of skies and seas; his hand the wonders wrought.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, This Is My Father`s World, This is my Father’s world, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ This is my Father’s world:
 why should my heart be sad?
 The Lord is King; let the heavens ring!
 God reigns; let the earth be glad!
+
 
 
 ```

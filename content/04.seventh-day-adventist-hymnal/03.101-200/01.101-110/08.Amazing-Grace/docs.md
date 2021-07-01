@@ -1,8 +1,10 @@
 ---
 title: 108. Amazing Grace - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 108. Amazing Grace. 1. Amazing grace! How sweet the sound that saved a wretch like me! I once was lost, but now am found; was blind, but now I see.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Amazing Grace, Amazing grace! How sweet the sound 
+    description: |
+      SDAH 108. Amazing Grace. 1. Amazing grace! How sweet the sound that saved a wretch like me! I once was lost, but now am found; was blind, but now I see.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Amazing Grace, Amazing grace! How sweet the sound 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ When we’ve been there ten thousand years,
 bright shining as the sun,
 we’ve no less days to sing God’s praise
 than when we first begun.
+
 
 
 ```

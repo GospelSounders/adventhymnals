@@ -1,8 +1,10 @@
 ---
 title: 79. O Love of God, How Strong and True! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 79. O Love of God, How Strong and True!. 1. O love of God, how strong and true! Eternal, and yet ever new; Uncomprehended and unbought, Beyond all knowledge and all thought.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Love of God, How Strong and True!, O love of God, how strong and true! 
+    description: |
+      SDAH 79. O Love of God, How Strong and True!. 1. O love of God, how strong and true! Eternal, and yet ever new; Uncomprehended and unbought, Beyond all knowledge and all thought.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Love of God, How Strong and True!, O love of God, how strong and true! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ O love of God, our shield and stay
 Through all the perils of our way!
 Eternal love, in thee we rest,
 Forever safe, forever blest.
+
 
 
 ```

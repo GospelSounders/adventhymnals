@@ -1,8 +1,10 @@
 ---
 title: 141. What Child Is This? - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 141. What Child Is This?. 1. What child is this, who, laid to rest, On Mary
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, What Child Is This?, What child is this, who, laid to rest, 
+    description: |
+      SDAH 141. What Child Is This?. 1. What child is this, who, laid to rest, On Mary
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, What Child Is This?, What child is this, who, laid to rest, 
     author: Brian Onang'o
 ---
 
@@ -13,9 +15,11 @@ metadata:
 ```txt
 
 
+
 1.
 What child is this, who, laid to rest,
 On Mary
+
 
 ```
 

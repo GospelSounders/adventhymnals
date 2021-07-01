@@ -1,8 +1,10 @@
 ---
 title: 593. In Times Like These - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 593. In Times Like These. 1. In times like these you need a Savior, In times like these you need and anchor; Be very sure, be very sure Your anchor holds and grips the Solid rock! This Rock is Jesus, Yes, He’s the One; This Rock is Jesus, The only One! Be very sure, be very sure Your anchor holds and grips the Solid rock!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In Times Like These, In times like these you need a Savior, 
+    description: |
+      SDAH 593. In Times Like These. 1. In times like these you need a Savior, In times like these you need and anchor; Be very sure, be very sure Your anchor holds and grips the Solid rock! This Rock is Jesus, Yes, He’s the One; This Rock is Jesus, The only One! Be very sure, be very sure Your anchor holds and grips the Solid rock!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, In Times Like These, In times like these you need a Savior, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ I’m very sure, be very sure Your anchor holds and grips the Solid rock!
 This Rock is Jesus, Yes, He’s the One;
 This Rock is Jesus, The only One!
 I’m very sure, be very sure Your anchor holds and grips the Solid rock!
+
 
 
 ```

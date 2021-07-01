@@ -1,8 +1,10 @@
 ---
 title: 648. I Vow to Thee, My Country - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 648. I Vow to Thee, My Country. 1. I vow to thee, my country, all earthly things above, Entire and whole and perfect, the service of my love: The love that asks the reason, the love that stands the test, That lays upon the altar the dearest and the best; The love that never falters, the love that pays the price, The love that makes undaunted the final sacrifice.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Vow to Thee, My Country, I vow to thee, my country, all earthly things above, 
+    description: |
+      SDAH 648. I Vow to Thee, My Country. 1. I vow to thee, my country, all earthly things above, Entire and whole and perfect, the service of my love: The love that asks the reason, the love that stands the test, That lays upon the altar the dearest and the best; The love that never falters, the love that pays the price, The love that makes undaunted the final sacrifice.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Vow to Thee, My Country, I vow to thee, my country, all earthly things above, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -28,6 +31,7 @@ We may not count her armies, we may not see her King;
 Her fortress is a faithful heart, her pride is suffering;
 And one by one and fervently we pray for her increase,
 And her ways are ways of gentleness, and all her paths are peace.
+
 
 
 ```

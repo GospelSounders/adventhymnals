@@ -1,8 +1,10 @@
 ---
 title: 680. Holy Spirit, Hear Us - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 680. Holy Spirit, Hear Us. 1. Holy Spirit, hear us; Help us while we sing; Breath into the music Of the praise we bring.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy Spirit, Hear Us, Holy Spirit, hear us; 
+    description: |
+      SDAH 680. Holy Spirit, Hear Us. 1. Holy Spirit, hear us; Help us while we sing; Breath into the music Of the praise we bring.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy Spirit, Hear Us, Holy Spirit, hear us; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Holy Spirit, shine Thou
 On the Book we read;
 Gild it’s holy pages
 With the light we need.
+
 
 
 ```

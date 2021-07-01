@@ -1,8 +1,10 @@
 ---
 title: 272. Give Me the Bible - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 272. Give Me the Bible. 1. Give me the Bible, star of gladness gleaming, To cheer the wanderer lone and tempest tossed, No storm can hide that peaceful radiance beaming Since Jesus came to seek and save the lost. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Give Me the Bible, Give me the Bible, ,Give me the Bible–
+    description: |
+      SDAH 272. Give Me the Bible. 1. Give me the Bible, star of gladness gleaming, To cheer the wanderer lone and tempest tossed, No storm can hide that peaceful radiance beaming Since Jesus came to seek and save the lost. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Give Me the Bible, Give me the Bible, ,Give me the Bible–
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -75,6 +78,7 @@ Precept and promise,
 law and love combining,
 ‘Til night shall vanish
 in eternal day.
+
 
 
 

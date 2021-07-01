@@ -1,8 +1,10 @@
 ---
 title: 412. Cover With His Life - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 412. Cover With His Life. 1. Look upon Jesus, sinless is He; Father, impute His life unto me. My life of scarlet, my sin and woe, Cover with His life, whiter than snow. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Cover With His Life, Look upon Jesus, sinless is He; ,Cover with His life, whiter than snow;
+    description: |
+      SDAH 412. Cover With His Life. 1. Look upon Jesus, sinless is He; Father, impute His life unto me. My life of scarlet, my sin and woe, Cover with His life, whiter than snow. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Cover With His Life, Look upon Jesus, sinless is He; ,Cover with His life, whiter than snow;
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Cover with His life, whiter than snow;
 Fullness of His life then shall I know;
 My life of scarlet, my sin and woe,
 Cover with His life, whither than snow.
+
 
 
 

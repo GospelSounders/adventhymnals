@@ -1,8 +1,10 @@
 ---
 title: 419. Soon Shall the Trump of God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 419. Soon Shall the Trump of God. 1. Soon shall the trump of God Give out the welcome sound, That shakes death’s silent chamber walls, And breaks the turf sealed ground.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Soon Shall the Trump of God, Soon shall the trump of God 
+    description: |
+      SDAH 419. Soon Shall the Trump of God. 1. Soon shall the trump of God Give out the welcome sound, That shakes death’s silent chamber walls, And breaks the turf sealed ground.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Soon Shall the Trump of God, Soon shall the trump of God 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ But bright shall be your spring.
 ‘Twill then be raised in power;
 That which was sown in earthly seed
 Shall rise a heav’nly flower.
+
 
 
 ```

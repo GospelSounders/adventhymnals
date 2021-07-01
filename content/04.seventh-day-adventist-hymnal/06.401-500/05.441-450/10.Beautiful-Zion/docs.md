@@ -1,8 +1,10 @@
 ---
 title: 450. Beautiful Zion - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 450. Beautiful Zion. 1. Beautiful Zion, built above, Beautiful city that I love, Beautiful gates of pearly white, Beautiful temple, God its light.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Beautiful Zion, Beautiful Zion, built above, 
+    description: |
+      SDAH 450. Beautiful Zion. 1. Beautiful Zion, built above, Beautiful city that I love, Beautiful gates of pearly white, Beautiful temple, God its light.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Beautiful Zion, Beautiful Zion, built above, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Beautiful crowns on every brow,
 Beautiful palms the conquerors show,
 Beautiful robes the ransomed wear,
 Beautiful all who enter there.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 274. O Word of God Incarnate - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 274. O Word of God Incarnate. 1. O Word of God incarnate, O Wisdom from on high, O Truth unchanged, unchanging, O Light of our dark sky: we praise you for the radiance that from the hallowed page, a lantern to our footsteps, shines on from age to age.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Word of God Incarnate, O Word of God incarnate, 
+    description: |
+      SDAH 274. O Word of God Incarnate. 1. O Word of God incarnate, O Wisdom from on high, O Truth unchanged, unchanging, O Light of our dark sky: we praise you for the radiance that from the hallowed page, a lantern to our footsteps, shines on from age to age.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, O Word of God Incarnate, O Word of God incarnate, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ O teach your wandering pilgrims
 by this their path to trace,
 till, clouds and darkness ended,
 they see Thee face to face.
+
 
 
 ```

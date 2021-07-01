@@ -1,8 +1,10 @@
 ---
 title: 395. As Birds Unto the Genial Homeland - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 395. As Birds Unto the Genial Homeland. 1. As birds unto the genial homeland fly, The winter’s cold and low’ring skies to flee, So seeks my soul Thy gracious presence here And finds, O God, its rest and peace in Thee.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As Birds Unto the Genial Homeland, As birds unto the genial homeland fly, 
+    description: |
+      SDAH 395. As Birds Unto the Genial Homeland. 1. As birds unto the genial homeland fly, The winter’s cold and low’ring skies to flee, So seeks my soul Thy gracious presence here And finds, O God, its rest and peace in Thee.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As Birds Unto the Genial Homeland, As birds unto the genial homeland fly, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Come, Sabbath joy, each trusting heart now fill,
 And blissful peace within our homes abide,
 May thankful praise each grateful heart now thrill,
 And to God’s loving care their lives confide.
+
 
 
 ```

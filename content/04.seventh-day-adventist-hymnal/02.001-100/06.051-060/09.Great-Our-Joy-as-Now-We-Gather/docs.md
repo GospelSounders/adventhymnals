@@ -1,8 +1,10 @@
 ---
 title: 59. Great Our Joy as Now We Gather - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 59. Great Our Joy as Now We Gather. 1. Great our joy as now we gather Where the Master makes us one: Where we worship God the Father Thro’ the Spirit of His Son. All who search for His church Find it where His will is done.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Great Our Joy as Now We Gather, Great our joy as now we gather 
+    description: |
+      SDAH 59. Great Our Joy as Now We Gather. 1. Great our joy as now we gather Where the Master makes us one: Where we worship God the Father Thro’ the Spirit of His Son. All who search for His church Find it where His will is done.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Great Our Joy as Now We Gather, Great our joy as now we gather 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ Glorious is the church’s mission,
 Long endeavoured, scarce begun!
 Faithful now – this is how
 God’s eternal will is done.
+
 
 
 ```

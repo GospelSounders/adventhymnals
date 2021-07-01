@@ -1,8 +1,10 @@
 ---
 title: 73. Holy, Holy, Holy - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 73. Holy, Holy, Holy. 1. Holy, holy, holy! Lord God Almighty! Early in the morning our song shall rise to Thee; Holy, holy, holy, merciful and mighty! God in three Persons, blessed Trinity!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy, Holy, Holy, Holy, holy, holy! Lord God Almighty! 
+    description: |
+      SDAH 73. Holy, Holy, Holy. 1. Holy, holy, holy! Lord God Almighty! Early in the morning our song shall rise to Thee; Holy, holy, holy, merciful and mighty! God in three Persons, blessed Trinity!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Holy, Holy, Holy, Holy, holy, holy! Lord God Almighty! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Holy, holy, holy! Lord God Almighty!
 All Thy works shall praise Thy name, in earth, and sky, and sea;
 Holy, holy, holy; merciful and mighty!
 God in three Persons, blessed Trinity!
+
 
 
 ```

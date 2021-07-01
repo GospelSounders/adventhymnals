@@ -1,8 +1,10 @@
 ---
 title: 94. Nature With Open Volume Stands - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 94. Nature With Open Volume Stands. 1. Nature with open volume stands, To spread its Maker’s praise abroad; And every labor of His hands Shows something worthy of our God.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Nature With Open Volume Stands, Nature with open volume stands, 
+    description: |
+      SDAH 94. Nature With Open Volume Stands. 1. Nature with open volume stands, To spread its Maker’s praise abroad; And every labor of His hands Shows something worthy of our God.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Nature With Open Volume Stands, Nature with open volume stands, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ We would forever speak His name
 In sounds to mortal ears unknown,
 With angels join to praise the Lamb,
 And worship at His Father’s throne.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 172. The Strife Is O`er - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 172. The Strife Is O`er. 1. The strife is o’er, the battle done; Now is the victor’s triumph won! Now be the song of praise begun. Alleluia!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Strife Is O`er, The strife is o’er, the battle done; 
+    description: |
+      SDAH 172. The Strife Is O`er. 1. The strife is o’er, the battle done; Now is the victor’s triumph won! Now be the song of praise begun. Alleluia!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Strife Is O`er, The strife is o’er, the battle done; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ All glory to our risen head! Alleluia!
 Lord, by the stripes which wounded You,
 From death’s sting free Your servants too,
 That we may live and sing to You. Alleluia!
+
 
 
 ```

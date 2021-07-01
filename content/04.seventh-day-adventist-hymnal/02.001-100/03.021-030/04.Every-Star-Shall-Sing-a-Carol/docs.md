@@ -1,8 +1,10 @@
 ---
 title: 24. Every Star Shall Sing a Carol - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 24. Every Star Shall Sing a Carol. 1. Every star shall sing a carol; Every creatures, high or low, Come and praise the King of heaven By whatever name you know. God above, Man below, Holy is the name I know.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Every Star Shall Sing a Carol, Every star shall sing a carol; 
+    description: |
+      SDAH 24. Every Star Shall Sing a Carol. 1. Every star shall sing a carol; Every creatures, high or low, Come and praise the King of heaven By whatever name you know. God above, Man below, Holy is the name I know.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Every Star Shall Sing a Carol, Every star shall sing a carol; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Come and praise the King of heaven
 By whatever name you know.
 God above, Man below,
 Holy is the name I know.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 240. Fairest Lord Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 240. Fairest Lord Jesus. 1. Fairest Lord Jesus, ruler of all nature, O thou of God and man the Son! Thee will I cherish, Thee will I honor, thou, my soul’s glory, joy, and crown.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Fairest Lord Jesus, Fairest Lord Jesus, ruler of all nature, 
+    description: |
+      SDAH 240. Fairest Lord Jesus. 1. Fairest Lord Jesus, ruler of all nature, O thou of God and man the Son! Thee will I cherish, Thee will I honor, thou, my soul’s glory, joy, and crown.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Fairest Lord Jesus, Fairest Lord Jesus, ruler of all nature, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ Beautiful Savior! Lord of all the nations,
 Son of God and Son of Man!
 Glory and honor, praise, adoration,
 now and forevermore be thine!
+
 
 
 ```

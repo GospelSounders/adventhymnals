@@ -1,8 +1,10 @@
 ---
 title: 682. As You Have Promised, Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 682. As You Have Promised, Lord. 1. As You have promised, Lord, today, You are letting Your servant go away in peace. May eyes have seen You in broad daylight before all nations, planning salvation. Light of revelation for the nations, and glory of Your people Israel.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As You Have Promised, Lord, As You have promised, Lord, today, 
+    description: |
+      SDAH 682. As You Have Promised, Lord. 1. As You have promised, Lord, today, You are letting Your servant go away in peace. May eyes have seen You in broad daylight before all nations, planning salvation. Light of revelation for the nations, and glory of Your people Israel.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, As You Have Promised, Lord, As You have promised, Lord, today, 
     author: Brian Onang'o
 ---
 
@@ -13,6 +15,7 @@ metadata:
 ```txt
 
 
+
 1.
 As You have promised, Lord, today,
 You are letting Your servant go away in peace.
@@ -20,6 +23,7 @@ May eyes have seen You in broad daylight
 before all nations, planning salvation.
 Light of revelation for the nations,
 and glory of Your people Israel.
+
 
 
 ```

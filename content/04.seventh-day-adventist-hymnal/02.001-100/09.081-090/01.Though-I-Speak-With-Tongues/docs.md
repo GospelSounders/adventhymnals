@@ -1,8 +1,10 @@
 ---
 title: 81. Though I Speak With Tongues - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 81. Though I Speak With Tongues. 1. Though I speak with tongues of men and angels, Though I have the prophet’s gift, Though I hold the keys to hidden knowledge, Though my faith can mountains shift; Without love I am no better, Without love it’s all for naught; Lord, You spent Your life in loving others: What this means I would be taught.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Though I Speak With Tongues, Though I speak with tongues of men and angels, 
+    description: |
+      SDAH 81. Though I Speak With Tongues. 1. Though I speak with tongues of men and angels, Though I have the prophet’s gift, Though I hold the keys to hidden knowledge, Though my faith can mountains shift; Without love I am no better, Without love it’s all for naught; Lord, You spent Your life in loving others: What this means I would be taught.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Though I Speak With Tongues, Though I speak with tongues of men and angels, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Without love I am no better,
 Without love it’s all for naught;
 Lord, You gave Your life in saving others:
 What this means I would be taught.
+
 
 
 ```

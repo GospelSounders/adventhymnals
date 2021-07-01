@@ -1,8 +1,10 @@
 ---
 title: 69. Lord, Make Us More Holy - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 69. Lord, Make Us More Holy. 1. Lord, make us more holy; Lord, make us more holy; Lord, make us more holy Until we meet again.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Make Us More Holy, Lord, make us more holy; 
+    description: |
+      SDAH 69. Lord, Make Us More Holy. 1. Lord, make us more holy; Lord, make us more holy; Lord, make us more holy Until we meet again.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord, Make Us More Holy, Lord, make us more holy; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -38,6 +41,7 @@ Lord, make us more loving
 Until we meet again.
 Like Jesus, the Saviour,
 Until we meet again.
+
 
 
 ```

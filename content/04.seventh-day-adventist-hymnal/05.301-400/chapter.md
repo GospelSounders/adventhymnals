@@ -1,8 +1,10 @@
 ---
 title: Seventh Day Adventist Hymnal - 301-400
 metadata:
-    description: Seventh Day Adventist Hymnal - 301-400
-    keywords: Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, 301-400
+    description: |
+      Seventh Day Adventist Hymnal - 301-400
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, 301-400
     author: Brian Onang'o
 ---
 

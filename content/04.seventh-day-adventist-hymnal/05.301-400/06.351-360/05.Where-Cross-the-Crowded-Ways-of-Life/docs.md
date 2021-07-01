@@ -1,8 +1,10 @@
 ---
 title: 355. Where Cross the Crowded Ways of Life - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 355. Where Cross the Crowded Ways of Life. 1. Where cross the crowded ways of life, where sound the cries of race and clan, above the noise of selfish strife, we hear your voice, O Son of Man.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Where Cross the Crowded Ways of Life, Where cross the crowded ways of life, 
+    description: |
+      SDAH 355. Where Cross the Crowded Ways of Life. 1. Where cross the crowded ways of life, where sound the cries of race and clan, above the noise of selfish strife, we hear your voice, O Son of Man.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Where Cross the Crowded Ways of Life, Where cross the crowded ways of life, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Till all the world shall learn your love
 and follow where your feet have trod,
 till, glorious from your heaven above,
 shall come the city of our God.
+
 
 
 ```

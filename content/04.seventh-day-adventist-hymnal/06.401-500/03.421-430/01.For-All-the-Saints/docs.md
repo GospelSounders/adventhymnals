@@ -1,8 +1,10 @@
 ---
 title: 421. For All the Saints - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 421. For All the Saints. 1. For all the saints who from their labors rest, Who thee by faith before the world confessed. Thy name, O Jesus, be forever blest. Alleluia! Alleluia!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For All the Saints, For all the saints 
+    description: |
+      SDAH 421. For All the Saints. 1. For all the saints who from their labors rest, Who thee by faith before the world confessed. Thy name, O Jesus, be forever blest. Alleluia! Alleluia!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For All the Saints, For all the saints 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -62,6 +65,7 @@ Singing to Father,
 Son, and Holy Ghost,
 Alleluia!
 Alleluia!
+
 
 
 ```

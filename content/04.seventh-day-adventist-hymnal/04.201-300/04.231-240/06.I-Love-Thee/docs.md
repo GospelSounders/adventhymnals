@@ -1,8 +1,10 @@
 ---
 title: 236. I Love Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 236. I Love Thee. 1. I love Thee, I love Thee, I love Thee,my Lord; I love Thee, my Savior, I love Thee, my God. I love Thee, I love Thee, and that Thou dost know; But how much I love Thee my actions will show.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Love Thee, I love Thee, I love Thee, I love Thee,my Lord; 
+    description: |
+      SDAH 236. I Love Thee. 1. I love Thee, I love Thee, I love Thee,my Lord; I love Thee, my Savior, I love Thee, my God. I love Thee, I love Thee, and that Thou dost know; But how much I love Thee my actions will show.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Love Thee, I love Thee, I love Thee, I love Thee,my Lord; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ O, who’s like my Savior? He’s Salem’s bright King;
 He smiles, and He loves me, and helps me to sing.
 I’ll praise Him, I’ll praise Him, with notes loud and clear
 While rivers of pleasure my spirit do cheer.
+
 
 
 ```

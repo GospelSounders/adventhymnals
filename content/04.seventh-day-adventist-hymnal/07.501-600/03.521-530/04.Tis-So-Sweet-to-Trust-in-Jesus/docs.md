@@ -1,8 +1,10 @@
 ---
 title: 524. Tis So Sweet to Trust in Jesus - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 524. Tis So Sweet to Trust in Jesus. 1. ‘Tis so sweet to trust in Jesus, and to take him at his word; just to rest upon his promise, and to know, “Thus saith the Lord.” 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tis So Sweet to Trust in Jesus, ‘Tis so sweet to trust in Jesus, ,Jesus, Jesus, how I trust him!
+    description: |
+      SDAH 524. Tis So Sweet to Trust in Jesus. 1. ‘Tis so sweet to trust in Jesus, and to take him at his word; just to rest upon his promise, and to know, “Thus saith the Lord.” 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tis So Sweet to Trust in Jesus, ‘Tis so sweet to trust in Jesus, ,Jesus, Jesus, how I trust him!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Jesus, Jesus, how I trust him!
 How I’ve proved him o’er and o’er!
 Jesus, Jesus, precious Jesus!
 O for grace to trust him more!
+
 
 
 

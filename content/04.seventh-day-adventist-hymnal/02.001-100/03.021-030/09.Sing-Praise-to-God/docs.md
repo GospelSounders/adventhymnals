@@ -1,8 +1,10 @@
 ---
 title: 29. Sing Praise to God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 29. Sing Praise to God. 1. Sing praise to God who reigns above, the God of all creation, the God of power, the God of love, the God of our salvation. With healing balm my soul He fills, and every faithless murmur stills; To God all praise and glory!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sing Praise to God, Sing praise to God who reigns above, 
+    description: |
+      SDAH 29. Sing Praise to God. 1. Sing praise to God who reigns above, the God of all creation, the God of power, the God of love, the God of our salvation. With healing balm my soul He fills, and every faithless murmur stills; To God all praise and glory!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Sing Praise to God, Sing praise to God who reigns above, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ my voice unwearied raises:
 Be joyful in the Lord, my heart!
 both soul and body bear your part!
 To God all praise and glory.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 609. Am I a Soldier of the Cross? - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 609. Am I a Soldier of the Cross?. 1. Am I a soldier of the cross, a follower of the Lamb, and shall I fear to own his cause, or blush to speak his name?
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Am I a Soldier of the Cross?, Am I a soldier of the cross, 
+    description: |
+      SDAH 609. Am I a Soldier of the Cross?. 1. Am I a soldier of the cross, a follower of the Lamb, and shall I fear to own his cause, or blush to speak his name?
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Am I a Soldier of the Cross?, Am I a soldier of the cross, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ When that illustrious day shall rise,
 and all thy armies shine
 in robes of victory through the skies,
 the glory shall be thine
+
 
 
 ```

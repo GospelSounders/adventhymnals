@@ -1,8 +1,10 @@
 ---
 title: 153. Prince of Peace, Control My Will - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 153. Prince of Peace, Control My Will. 1. Prince of Peace, control my will, Bid this struggling heart be still; Bid my fears and doubtings cease, Hush my spirit into peace.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Prince of Peace, Control My Will, Prince of Peace, control my will, 
+    description: |
+      SDAH 153. Prince of Peace, Control My Will. 1. Prince of Peace, control my will, Bid this struggling heart be still; Bid my fears and doubtings cease, Hush my spirit into peace.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Prince of Peace, Control My Will, Prince of Peace, control my will, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ May Thy will, not mine, be done,
 May Thy will and mine be one;
 Chase these doubtings from my heart,
 Now Thy perfect peace impart.
+
 
 
 ```

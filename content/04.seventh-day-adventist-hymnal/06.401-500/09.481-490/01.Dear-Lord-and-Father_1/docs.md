@@ -1,8 +1,10 @@
 ---
 title: 481. Dear Lord and Father - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 481. Dear Lord and Father. 1. Dear Lord and Father of mankind, forgive our foolish ways; reclothe us in our rightful mind, in purer lives thy service find, in deeper reverence, praise.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Dear Lord and Father, Dear Lord and Father of mankind, 
+    description: |
+      SDAH 481. Dear Lord and Father. 1. Dear Lord and Father of mankind, forgive our foolish ways; reclothe us in our rightful mind, in purer lives thy service find, in deeper reverence, praise.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Dear Lord and Father, Dear Lord and Father of mankind, 
     author: Brian Onang'o
 ---
 

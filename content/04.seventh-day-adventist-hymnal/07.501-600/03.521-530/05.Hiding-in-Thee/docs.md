@@ -1,8 +1,10 @@
 ---
 title: 525. Hiding in Thee - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 525. Hiding in Thee. 1. O safe to the Rock that is higher than I, My soul in its conflicts and sorrows would fly; So sinful, so weary, Thine, Thine, would I be; Thou blest “Rock of Ages,” I’m hiding in Thee. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hiding in Thee, O safe to the Rock that is higher than I, ,Hiding in Thee, hiding in Thee,
+    description: |
+      SDAH 525. Hiding in Thee. 1. O safe to the Rock that is higher than I, My soul in its conflicts and sorrows would fly; So sinful, so weary, Thine, Thine, would I be; Thou blest “Rock of Ages,” I’m hiding in Thee. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Hiding in Thee, O safe to the Rock that is higher than I, ,Hiding in Thee, hiding in Thee,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Refrain:
 Hiding in Thee, hiding in Thee,
 Thou blest “Rock of Ages,”
 I’m hiding in Thee.
+
 
 
 

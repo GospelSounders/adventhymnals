@@ -1,8 +1,10 @@
 ---
 title: 630. Rise, My Soul, and Stretch Thy Wings - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 630. Rise, My Soul, and Stretch Thy Wings. 1. Rise, my soul, and stretch thy wings, thy better portion trace; Rise from transitory things toward heaven, thy native place; Sun, and moon, and stars decay; time shall soon this earth remove; Rise, my soul, and haste away to seats prepared above.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rise, My Soul, and Stretch Thy Wings, Rise, my soul, and stretch thy wings, thy better portion trace; 
+    description: |
+      SDAH 630. Rise, My Soul, and Stretch Thy Wings. 1. Rise, my soul, and stretch thy wings, thy better portion trace; Rise from transitory things toward heaven, thy native place; Sun, and moon, and stars decay; time shall soon this earth remove; Rise, my soul, and haste away to seats prepared above.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Rise, My Soul, and Stretch Thy Wings, Rise, my soul, and stretch thy wings, thy better portion trace; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Cease, ye pilgrims, cease to mourn; press onward to the prize;
 Soon our Savior will return, triumphant in the skies;
 Yet a season, and you know happy entrance will be given,
 All our sorrows left below, and earth exhcanged for heaven.
+
 
 
 ```

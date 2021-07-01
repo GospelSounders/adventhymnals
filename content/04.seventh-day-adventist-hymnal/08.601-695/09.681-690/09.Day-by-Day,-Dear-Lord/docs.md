@@ -1,8 +1,10 @@
 ---
 title: 689. Day by Day, Dear Lord - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 689. Day by Day, Dear Lord. 1. Day by day, Dear Lord, of Thee three things I pray: To see Thee more clearly, Love Thee more dearly, Follow Thee more nearly, Day by day.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Day by Day, Dear Lord, Day by day, Dear Lord, of Thee three things I pray; 
+    description: |
+      SDAH 689. Day by Day, Dear Lord. 1. Day by day, Dear Lord, of Thee three things I pray: To see Thee more clearly, Love Thee more dearly, Follow Thee more nearly, Day by day.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Day by Day, Dear Lord, Day by day, Dear Lord, of Thee three things I pray; 
     author: Brian Onang'o
 ---
 
@@ -13,10 +15,12 @@ metadata:
 ```txt
 
 
+
 1.
 Day by day, Dear Lord, of Thee three things I pray:
 To see Thee more clearly, Love Thee more dearly,
 Follow Thee more nearly, Day by day.
+
 
 
 ```

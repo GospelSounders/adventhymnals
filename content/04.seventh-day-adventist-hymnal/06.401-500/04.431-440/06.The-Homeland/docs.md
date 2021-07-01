@@ -1,8 +1,10 @@
 ---
 title: 436. The Homeland - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 436. The Homeland. 1. The homeland! O the homeland! The land of the free born! There’s no night in the homeland, But aye the fadeless morn; I’m sighing for homeland, My heart is aching here; There is no pain in the homeland To which I’m drawing near; There is no pain in the homeland To which I’m drawing near.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Homeland, The homeland! O the homeland! 
+    description: |
+      SDAH 436. The Homeland. 1. The homeland! O the homeland! The land of the free born! There’s no night in the homeland, But aye the fadeless morn; I’m sighing for homeland, My heart is aching here; There is no pain in the homeland To which I’m drawing near; There is no pain in the homeland To which I’m drawing near.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Homeland, The homeland! O the homeland! 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Christ bring us all to the homeland
 Of Thy redeeming love;
 Christ bring us all to the homeland
 Of Thy redeeming love
+
 
 
 ```

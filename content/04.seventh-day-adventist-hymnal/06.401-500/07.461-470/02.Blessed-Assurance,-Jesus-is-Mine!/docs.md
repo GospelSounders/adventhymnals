@@ -1,8 +1,10 @@
 ---
 title: 462. Blessed Assurance, Jesus is Mine! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 462. Blessed Assurance, Jesus is Mine!. 1. Blessed assurance, Jesus is mine! O what a foretaste of glory divine! Heir of salvation, purchase of God, born of his Spirit, washed in his blood. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Blessed Assurance, Jesus is Mine!, Blessed assurance, Jesus is mine! ,This is my story, this is my song,
+    description: |
+      SDAH 462. Blessed Assurance, Jesus is Mine!. 1. Blessed assurance, Jesus is mine! O what a foretaste of glory divine! Heir of salvation, purchase of God, born of his Spirit, washed in his blood. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Blessed Assurance, Jesus is Mine!, Blessed assurance, Jesus is mine! ,This is my story, this is my song,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ This is my story, this is my song,
 praising my Savior all the day long;
 this is my story, this is my song,
 praising my Savior all the day long.
+
 
 
 

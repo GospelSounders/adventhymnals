@@ -1,8 +1,10 @@
 ---
 title: 474. Take the Name of Jesus With You - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 474. Take the Name of Jesus With You. 1. Take the Name of Jesus with you, Child of sorrow and of woe, It will joy and comfort give you; Take it then, where’er you go. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Take the Name of Jesus With You, Take the Name of Jesus with you, ,Precious Name, O how sweet!
+    description: |
+      SDAH 474. Take the Name of Jesus With You. 1. Take the Name of Jesus with you, Child of sorrow and of woe, It will joy and comfort give you; Take it then, where’er you go. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Take the Name of Jesus With You, Take the Name of Jesus with you, ,Precious Name, O how sweet!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Precious Name, O how sweet!
 Hope of earth and joy of Heav’n.
 Precious Name, O how sweet!
 Hope of earth and joy of Heav’n.
+
 
 
 

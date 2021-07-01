@@ -1,8 +1,10 @@
 ---
 title: 307. I Am Coming to the Cross - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 307. I Am Coming to the Cross. 1. I am coming to the cross; I am poor and weak and blind; I am counting all but dross; I shall full salvation find. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Am Coming to the Cross, I am coming to the cross; ,I am trusting, Lord, in Thee.
+    description: |
+      SDAH 307. I Am Coming to the Cross. 1. I am coming to the cross; I am poor and weak and blind; I am counting all but dross; I shall full salvation find. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Am Coming to the Cross, I am coming to the cross; ,I am trusting, Lord, in Thee.
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ I am trusting, Lord, in Thee.
 O thou Lamb of Calvary;
 Humbly at Thy cross I bow.
 Save me, Jesus, save me now.
+
 
 
 

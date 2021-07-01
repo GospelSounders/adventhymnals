@@ -1,8 +1,10 @@
 ---
 title: 121. Go, Tell It On the Mountain - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 121. Go, Tell It On the Mountain. 1. While shepherds kept their watching O’er silent flocks by night, Behold throughout the heavens There shone a holy light.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Go, Tell It On the Mountain, While shepherds kept their watching 
+    description: |
+      SDAH 121. Go, Tell It On the Mountain. 1. While shepherds kept their watching O’er silent flocks by night, Behold throughout the heavens There shone a holy light.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Go, Tell It On the Mountain, While shepherds kept their watching 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Down in a lowly manger
 The humble Christ was born,
 And brought us God’s salvation
 That blessed Christmas morn.
+
 
 
 ```

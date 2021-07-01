@@ -1,8 +1,10 @@
 ---
 title: 145. Songs of Thankfulness and Praise - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 145. Songs of Thankfulness and Praise. 1. Songs of thankfulness and praise, Jesus, Lord, to You we raise, Manifested by the star To the sages from afar; Branch of royal David’s stem In Your birth at Bethlehem; Anthems be to You addressed, God in man made manifest.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Songs of Thankfulness and Praise, Songs of thankfulness and praise, 
+    description: |
+      SDAH 145. Songs of Thankfulness and Praise. 1. Songs of thankfulness and praise, Jesus, Lord, to You we raise, Manifested by the star To the sages from afar; Branch of royal David’s stem In Your birth at Bethlehem; Anthems be to You addressed, God in man made manifest.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Songs of Thankfulness and Praise, Songs of thankfulness and praise, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ That we like You may be
 At Your great epiphany;
 Let us praise You, ever blest,
 God in man made manifest.
+
 
 
 ```

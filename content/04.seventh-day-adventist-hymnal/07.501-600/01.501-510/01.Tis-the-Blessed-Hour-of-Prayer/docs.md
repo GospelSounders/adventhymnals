@@ -1,8 +1,10 @@
 ---
 title: 501. Tis the Blessed Hour of Prayer - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 501. Tis the Blessed Hour of Prayer. 1. ‘Tis the blessed hour of prayer, when our hearts lowly bend, And we gather to Jesus, our Savior and Friend; If we come to Him in faith, His protection to share, 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tis the Blessed Hour of Prayer, ‘Tis the blessed hour of prayer, when our hearts lowly bend, ,What a balm for the weary! O how sweet to be there!
+    description: |
+      SDAH 501. Tis the Blessed Hour of Prayer. 1. ‘Tis the blessed hour of prayer, when our hearts lowly bend, And we gather to Jesus, our Savior and Friend; If we come to Him in faith, His protection to share, 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tis the Blessed Hour of Prayer, ‘Tis the blessed hour of prayer, when our hearts lowly bend, ,What a balm for the weary! O how sweet to be there!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -56,6 +59,7 @@ Refrain:
 What a balm for the weary! O how sweet to be there!
 Blessed hour of prayer, Blessed hour of prayer,
 What a balm for the weary! O how sweet to be there!
+
 
 
 

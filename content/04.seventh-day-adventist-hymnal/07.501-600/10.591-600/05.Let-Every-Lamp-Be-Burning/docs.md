@@ -1,8 +1,10 @@
 ---
 title: 595. Let Every Lamp Be Burning - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 595. Let Every Lamp Be Burning. 1. Let every lamp be burning bright, The darkest hour is nearing; The darkest hour of earth’s long night, Before the Lord’s appearing. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Let Every Lamp Be Burning, Let every lamp be burning bright, ,Then trim your lamps, my brethren dear,
+    description: |
+      SDAH 595. Let Every Lamp Be Burning. 1. Let every lamp be burning bright, The darkest hour is nearing; The darkest hour of earth’s long night, Before the Lord’s appearing. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Let Every Lamp Be Burning, Let every lamp be burning bright, ,Then trim your lamps, my brethren dear,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -64,6 +67,7 @@ Then trim your lamps, my brethren dear,
 Then trim your lamps with godly fear;
 The Master’s coming draweth near,
 Let every lamp be burning.
+
 
 
 

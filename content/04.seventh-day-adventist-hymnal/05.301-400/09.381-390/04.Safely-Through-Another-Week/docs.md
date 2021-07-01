@@ -1,8 +1,10 @@
 ---
 title: 384. Safely Through Another Week - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 384. Safely Through Another Week. 1. Safely through another week God has brought us on our way; Let us now a blessing seek, Waiting in His courts today; Day of all the week the best, Emblem of eternal rest: Day of all the week the best, Emblem of eternal rest.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Safely Through Another Week, Safely through another week 
+    description: |
+      SDAH 384. Safely Through Another Week. 1. Safely through another week God has brought us on our way; Let us now a blessing seek, Waiting in His courts today; Day of all the week the best, Emblem of eternal rest: Day of all the week the best, Emblem of eternal rest.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Safely Through Another Week, Safely through another week 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Thus may all our Sabbaths be,
 Till we we rise to reign with Thee.
 Thus may all our Sabbaths be,
 Till we we rise to reign with Thee.
+
 
 
 ```

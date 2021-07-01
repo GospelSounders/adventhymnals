@@ -1,8 +1,10 @@
 ---
 title: 191. Love Divine - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 191. Love Divine. 1. Love divine, all loves excelling, joy of heaven, to earth come down; fix in us thy humble dwelling; all thy faithful mercies crown! Jesus thou art all compassion, pure, unbounded love thou art; visit us with thy salvation; enter every trembling heart.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Love Divine, Love divine, all loves excelling, 
+    description: |
+      SDAH 191. Love Divine. 1. Love divine, all loves excelling, joy of heaven, to earth come down; fix in us thy humble dwelling; all thy faithful mercies crown! Jesus thou art all compassion, pure, unbounded love thou art; visit us with thy salvation; enter every trembling heart.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Love Divine, Love divine, all loves excelling, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ changed from glory into glory,
 till in heaven we take our place,
 till we cast our crowns before thee,
 lost in wonder, love, and praise.
+
 
 
 ```

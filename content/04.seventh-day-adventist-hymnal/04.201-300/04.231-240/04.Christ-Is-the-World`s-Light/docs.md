@@ -1,8 +1,10 @@
 ---
 title: 234. Christ Is the World`s Light - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 234. Christ Is the World`s Light. 1. Christ is the world’s light, Christ and none other; born in our darkness, He became our brother- if we have seen Him, we have seen the Father: Glory to God on high!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Is the World`s Light, Christ is the world’s light, 
+    description: |
+      SDAH 234. Christ Is the World`s Light. 1. Christ is the world’s light, Christ and none other; born in our darkness, He became our brother- if we have seen Him, we have seen the Father: Glory to God on high!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Christ Is the World`s Light, Christ is the world’s light, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Spirit, Son and Father;
 give God the glory,
 God-with-us our brother:
 Glory to God on high!
+
 
 
 ```

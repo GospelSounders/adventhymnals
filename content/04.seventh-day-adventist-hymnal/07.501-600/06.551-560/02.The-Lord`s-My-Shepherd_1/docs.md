@@ -1,8 +1,10 @@
 ---
 title: 552. The Lord`s My Shepherd - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 552. The Lord`s My Shepherd. 1. The Lord’s my Shepherd, I’ll not want. He makes me down to lie In pastures green; He leadeth me The quiet waters by.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Lord`s My Shepherd, The Lord’s my Shepherd, I’ll not want. 
+    description: |
+      SDAH 552. The Lord`s My Shepherd. 1. The Lord’s my Shepherd, I’ll not want. He makes me down to lie In pastures green; He leadeth me The quiet waters by.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The Lord`s My Shepherd, The Lord’s my Shepherd, I’ll not want. 
     author: Brian Onang'o
 ---
 

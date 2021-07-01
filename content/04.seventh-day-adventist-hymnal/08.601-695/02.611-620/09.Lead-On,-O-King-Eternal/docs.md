@@ -1,8 +1,10 @@
 ---
 title: 619. Lead On, O King Eternal - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 619. Lead On, O King Eternal. 1. Lead on, O King eternal, the day of march has come; henceforth in fields of conquest thy tents shall be our home. Through days of preparation thy grace has made us strong; and now, O King eternal, we lift our battle song.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lead On, O King Eternal, Lead on, O King eternal, 
+    description: |
+      SDAH 619. Lead On, O King Eternal. 1. Lead on, O King eternal, the day of march has come; henceforth in fields of conquest thy tents shall be our home. Through days of preparation thy grace has made us strong; and now, O King eternal, we lift our battle song.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lead On, O King Eternal, Lead on, O King eternal, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Thy cross is lifted o’er us,
 we journey in its light;
 the crown awaits the conquest;
 lead on, O God of might.
+
 
 
 ```

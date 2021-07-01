@@ -1,8 +1,10 @@
 ---
 title: 385. Crowning Jewel of Creation - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 385. Crowning Jewel of Creation. 1. Crowning jewel of creation, Blest and hallowed, sanctified; Time and changes all transcending, Shared forever, glorified. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Crowning Jewel of Creation, Crowning jewel of creation, ,Blessed Sabbath made for man,
+    description: |
+      SDAH 385. Crowning Jewel of Creation. 1. Crowning jewel of creation, Blest and hallowed, sanctified; Time and changes all transcending, Shared forever, glorified. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Crowning Jewel of Creation, Crowning jewel of creation, ,Blessed Sabbath made for man,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ And our shelter ever be.
 Refrain:
 Blessed Sabbath made for man,
 Gift from the Creator’s hand.
+
 
 
 

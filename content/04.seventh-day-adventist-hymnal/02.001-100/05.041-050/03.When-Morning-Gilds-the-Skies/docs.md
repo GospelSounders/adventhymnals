@@ -1,8 +1,10 @@
 ---
 title: 43. When Morning Gilds the Skies - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 43. When Morning Gilds the Skies. 1. When morning gilds the skies my heart awaking cries, May Jesus Christ be praised! Alike at work and prayer, to Jesus I repair: May Jesus Christ be praised!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When Morning Gilds the Skies, When morning gilds the skies my heart awaking cries, 
+    description: |
+      SDAH 43. When Morning Gilds the Skies. 1. When morning gilds the skies my heart awaking cries, May Jesus Christ be praised! Alike at work and prayer, to Jesus I repair: May Jesus Christ be praised!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, When Morning Gilds the Skies, When morning gilds the skies my heart awaking cries, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Be this, while life is mine, my canticle divine:
 May Jesus Christ be praised!
 Be this th’eternal song through all the ages long,
 May Jesus Christ be praised!
+
 
 
 ```

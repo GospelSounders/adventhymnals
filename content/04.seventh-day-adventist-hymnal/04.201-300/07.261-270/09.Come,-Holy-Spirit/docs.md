@@ -1,8 +1,10 @@
 ---
 title: 269. Come, Holy Spirit - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 269. Come, Holy Spirit. 1. Come, Holy Spirit, heavenly Dove, With all Thy quickening powers; Kindle a flame of sacred love In these cold hearts of ours.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Holy Spirit, Come, Holy Spirit, heavenly Dove, 
+    description: |
+      SDAH 269. Come, Holy Spirit. 1. Come, Holy Spirit, heavenly Dove, With all Thy quickening powers; Kindle a flame of sacred love In these cold hearts of ours.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Holy Spirit, Come, Holy Spirit, heavenly Dove, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Come, Holy Spirit, heavenly Dove,
 With all Thy quickening powers;
 Come, shed abroad a Savior’s love,
 And that shall kindle ours.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 196. Tell Me the Old, Old Story - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 196. Tell Me the Old, Old Story. 1. Tell me the old, old story of unseen things above, Of Jesus and His glory, of Jesus and His love. Tell me the story simply, as to a little child, For I am weak and weary, and helpless and defiled. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tell Me the Old, Old Story, Tell me the old, old story of unseen things above, ,Tell me the old, old story, tell me the old, old story,
+    description: |
+      SDAH 196. Tell Me the Old, Old Story. 1. Tell me the old, old story of unseen things above, Of Jesus and His glory, of Jesus and His love. Tell me the story simply, as to a little child, For I am weak and weary, and helpless and defiled. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Tell Me the Old, Old Story, Tell me the old, old story of unseen things above, ,Tell me the old, old story, tell me the old, old story,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ Tell me the old, old story: “Christ Jesus makes thee whole.”
 Refrain:
 Tell me the old, old story, tell me the old, old story,
 Tell me the old, old story, of Jesus and His love.
+
 
 
 

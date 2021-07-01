@@ -1,8 +1,10 @@
 ---
 title: 61. God Is Here! - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 61. God Is Here!. 1. God is here as we his people meet to offer praise and prayer, may we find in fuller measure what it is in Christ we share. Here, as in the world around us, all our varied skills and arts wait the coming of his Spirit into open minds and hearts.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Is Here!, God is here as we his people 
+    description: |
+      SDAH 61. God Is Here!. 1. God is here as we his people meet to offer praise and prayer, may we find in fuller measure what it is in Christ we share. Here, as in the world around us, all our varied skills and arts wait the coming of his Spirit into open minds and hearts.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, God Is Here!, God is here as we his people 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -52,6 +55,7 @@ Here, in this day’s dedication,
 all we have to give, receive:
 we, who cannot live without you,
 we adore you! We believe!
+
 
 
 ```

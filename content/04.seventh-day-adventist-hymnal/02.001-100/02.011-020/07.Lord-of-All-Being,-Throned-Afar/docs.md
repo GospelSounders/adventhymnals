@@ -1,8 +1,10 @@
 ---
 title: 17. Lord of All Being, Throned Afar - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 17. Lord of All Being, Throned Afar. 1. Lord of all being, throned afar, Thy glory flames from sun and star; Center and soul of every sphere Yet to each loving heart how near! Yet to each loving heart how near!
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of All Being, Throned Afar, Lord of all being, throned afar, 
+    description: |
+      SDAH 17. Lord of All Being, Throned Afar. 1. Lord of all being, throned afar, Thy glory flames from sun and star; Center and soul of every sphere Yet to each loving heart how near! Yet to each loving heart how near!
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Lord of All Being, Throned Afar, Lord of all being, throned afar, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -47,6 +50,7 @@ And kindling hearts that burn for Thee;
 Till all Thy living altars claim
 One holy light, one heavenly flame!
 One holy light, one heavenly flame.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 373. Seeking the Lost - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 373. Seeking the Lost. 1. Seeking the lost, yes, kindly entreating Wanderers on the mountain astray; “Come unto Me,” His message repeating, Words of the Master speaking today. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Seeking the Lost, Seeking the lost, yes, kindly entreating ,Going afar (going afar)
+    description: |
+      SDAH 373. Seeking the Lost. 1. Seeking the lost, yes, kindly entreating Wanderers on the mountain astray; “Come unto Me,” His message repeating, Words of the Master speaking today. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Seeking the Lost, Seeking the lost, yes, kindly entreating ,Going afar (going afar)
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -57,6 +60,7 @@ Bringing the wanderer back again, back again,
 Into the fold (into the fold)
 Of my Redeemer (of my Redeemer)
 Jesus the Lamb for sinners slain, for sinners slain.
+
 
 
 

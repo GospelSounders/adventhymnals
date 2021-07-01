@@ -1,8 +1,10 @@
 ---
 title: 511. I Know Whom I Have Believed - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 511. I Know Whom I Have Believed. 1. I know not why God’s wondrous grace To me He hath made known, Nor why, unworthy, Christ in love Redeemed me for His own. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Know Whom I Have Believed, I know not why God’s wondrous grace To me He hath made known, ,But “I know whom I have believed, and am persuaded that His is able
+    description: |
+      SDAH 511. I Know Whom I Have Believed. 1. I know not why God’s wondrous grace To me He hath made known, Nor why, unworthy, Christ in love Redeemed me for His own. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Know Whom I Have Believed, I know not why God’s wondrous grace To me He hath made known, ,But “I know whom I have believed, and am persuaded that His is able
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -48,6 +51,7 @@ Nor if I walk the vale with Him, Or meet Him in the air.
 Refrain:
 But “I know whom I have believed, and am persuaded that His is able
 To keep that which I’ve committed Unto Him against that day.”
+
 
 
 

@@ -1,8 +1,10 @@
 ---
 title: 559. Now Thank We All Our God - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 559. Now Thank We All Our God. 1. Now thank we all our God with heart and hands and voices, who wondrous things hath done, in whom His world rejoices; Who, from our mothers’ arms hath blessed us on our way with countless gifts of love, and still is ours today.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now Thank We All Our God, Now thank we all our God 
+    description: |
+      SDAH 559. Now Thank We All Our God. 1. Now thank we all our God with heart and hands and voices, who wondrous things hath done, in whom His world rejoices; Who, from our mothers’ arms hath blessed us on our way with countless gifts of love, and still is ours today.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Now Thank We All Our God, Now thank we all our God 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ the one eternal God,
 whom earth and heaven adore;
 for thus it was, is now,
 and shall be evermore.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 11. The God of Abraham Praise - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 11. The God of Abraham Praise. 1. The God of Abraham praise, Who reigns enthroned above; Ancient of everlasting days, And God of love; Jehovah! Great I AM! By earth and heaven confessed; I bow and bless the sacred name, Forever blest.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The God of Abraham Praise, The God of Abraham praise, 
+    description: |
+      SDAH 11. The God of Abraham Praise. 1. The God of Abraham praise, Who reigns enthroned above; Ancient of everlasting days, And God of love; Jehovah! Great I AM! By earth and heaven confessed; I bow and bless the sacred name, Forever blest.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, The God of Abraham Praise, The God of Abraham praise, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -42,6 +45,7 @@ Hail, Abraham’s God and mine!
 I join the heavenly lays;
 All might and majesty are Thine,
 And endless praise.
+
 
 
 ```

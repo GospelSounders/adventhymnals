@@ -1,8 +1,10 @@
 ---
 title: 277. For Your Holy Book We Thank You - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 277. For Your Holy Book We Thank You. 1. For Your holy book we thank You, And for all who served You well, Writing, guarding, and translating, That its pages might forth tell Your strong love and tender care For Your people everywhere.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For Your Holy Book We Thank You, For Your holy book we thank You, 
+    description: |
+      SDAH 277. For Your Holy Book We Thank You. 1. For Your holy book we thank You, And for all who served You well, Writing, guarding, and translating, That its pages might forth tell Your strong love and tender care For Your people everywhere.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, For Your Holy Book We Thank You, For Your holy book we thank You, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -44,6 +47,7 @@ Lead us now to see in Jesus
 All the grace Your word imparts:
 All Your love and tender care
 For Your people everywhere.
+
 
 
 ```

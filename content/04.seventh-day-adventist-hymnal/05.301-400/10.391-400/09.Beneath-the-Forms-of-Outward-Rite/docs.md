@@ -1,8 +1,10 @@
 ---
 title: 399. Beneath the Forms of Outward Rite - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 399. Beneath the Forms of Outward Rite. 1. Beneath the forms of outward rite Thy supper, Lord, is spread In every quiet upper room Where fainting souls are fed.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Beneath the Forms of Outward Rite, Beneath the forms of outward rite 
+    description: |
+      SDAH 399. Beneath the Forms of Outward Rite. 1. Beneath the forms of outward rite Thy supper, Lord, is spread In every quiet upper room Where fainting souls are fed.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Beneath the Forms of Outward Rite, Beneath the forms of outward rite 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ O Master, through these symbols shared,
 Thine own dear self impart,
 That in our daily life may flame
 The passion of Thy heart.
+
 
 
 ```

@@ -1,8 +1,10 @@
 ---
 title: 259. Draw Us in the Spirit`s Tether - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 259. Draw Us in the Spirit`s Tether. 1. Draw us in the Spirit’s tether, For when humbly in Thy name, Two or three are met together Thou are in the midst of them; Alleluia! Alleluia! Touch we now Thy garment’s hem.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Draw Us in the Spirit`s Tether, Draw us in the Spirit’s tether, 
+    description: |
+      SDAH 259. Draw Us in the Spirit`s Tether. 1. Draw us in the Spirit’s tether, For when humbly in Thy name, Two or three are met together Thou are in the midst of them; Alleluia! Alleluia! Touch we now Thy garment’s hem.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Draw Us in the Spirit`s Tether, Draw us in the Spirit’s tether, 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -36,6 +39,7 @@ That by caring, helping, giving
 We may true disciples be.
 Alleluia! Alleluia!
 We will serve Thee faithfully.
+
 
 
 ```

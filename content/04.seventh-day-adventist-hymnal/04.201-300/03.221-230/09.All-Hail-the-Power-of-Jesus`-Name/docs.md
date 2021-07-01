@@ -1,8 +1,10 @@
 ---
 title: 229. All Hail the Power of Jesus` Name - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 229. All Hail the Power of Jesus` Name. 1. All hail the power of Jesus’ name! Let angels prostrate fall; Bring forth the royal diadem, and crown Him Lord of all. Bring forth the royal diadem, and crown Him Lord of all.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All Hail the Power of Jesus` Name, All hail the power of Jesus’ name! Let angels prostrate fall; 
+    description: |
+      SDAH 229. All Hail the Power of Jesus` Name. 1. All hail the power of Jesus’ name! Let angels prostrate fall; Bring forth the royal diadem, and crown Him Lord of all. Bring forth the royal diadem, and crown Him Lord of all.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, All Hail the Power of Jesus` Name, All hail the power of Jesus’ name! Let angels prostrate fall; 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -32,6 +35,7 @@ To Him all majesty ascribe, and crown Him Lord of all.
 O that with yonder angel throng we at His feet may fall!
 We’ll join the everlasting song, and crown Him Lord of all.
 We’ll join the everlasting song, and crown Him Lord of all.
+
 
 
 ```

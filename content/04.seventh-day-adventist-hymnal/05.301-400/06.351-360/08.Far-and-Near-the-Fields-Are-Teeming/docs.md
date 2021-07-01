@@ -1,8 +1,10 @@
 ---
 title: 358. Far and Near the Fields Are Teeming - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 358. Far and Near the Fields Are Teeming. 1. Far and near the fields are teeming with the sheaves of ripened grain; Far and near their gold is gleaming O’er the summy slope and plain. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Far and Near the Fields Are Teeming, Far and near the fields are teeming ,Lord of harvest, send forth reapers!
+    description: |
+      SDAH 358. Far and Near the Fields Are Teeming. 1. Far and near the fields are teeming with the sheaves of ripened grain; Far and near their gold is gleaming O’er the summy slope and plain. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Far and Near the Fields Are Teeming, Far and near the fields are teeming ,Lord of harvest, send forth reapers!
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -51,6 +54,7 @@ Lord of harvest, send forth reapers!
 Hear us Lord,to Thee we cry;
 Send them now the sheaves to gather,
 Ere the harvest-time pass by.
+
 
 
 

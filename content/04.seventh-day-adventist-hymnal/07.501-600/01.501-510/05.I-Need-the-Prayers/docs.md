@@ -1,8 +1,10 @@
 ---
 title: 505. I Need the Prayers - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 505. I Need the Prayers. 1. I need the prayers of those I love, While trav’ling o’er life’s rugged way, That I may true and faithful be, And live for Jesus every day. 
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Need the Prayers, I need the prayers of those I love, ,I want my friends to pray for me,
+    description: |
+      SDAH 505. I Need the Prayers. 1. I need the prayers of those I love, While trav’ling o’er life’s rugged way, That I may true and faithful be, And live for Jesus every day. 
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, I Need the Prayers, I need the prayers of those I love, ,I want my friends to pray for me,
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -45,6 +48,7 @@ I want my friends to pray for me,
 To hold me up on wing of faith,
 That I may walk the narrow way,
 Kept by our Father’s glorious grace.
+
 
 
 ```

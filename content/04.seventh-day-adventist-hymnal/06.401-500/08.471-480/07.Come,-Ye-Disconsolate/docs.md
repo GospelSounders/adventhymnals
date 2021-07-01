@@ -1,8 +1,10 @@
 ---
 title: 477. Come, Ye Disconsolate - Seventh Day Adventist Hymnal
 metadata:
-    description: SDAH 477. Come, Ye Disconsolate. 1. Come, ye disconsolate, where’er ye languish. come to the mercy seat, fervently kneel. Here bring your wounded hearts, here tell your anguish; earth has no sorrow that heaven cannot heal.
-    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Ye Disconsolate, Come, ye disconsolate, where’er ye languish. 
+    description: |
+      SDAH 477. Come, Ye Disconsolate. 1. Come, ye disconsolate, where’er ye languish. come to the mercy seat, fervently kneel. Here bring your wounded hearts, here tell your anguish; earth has no sorrow that heaven cannot heal.
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Come, Ye Disconsolate, Come, ye disconsolate, where’er ye languish. 
     author: Brian Onang'o
 ---
 
@@ -11,6 +13,7 @@ metadata:
 #### Seventh Day Adventist Hymnal
 
 ```txt
+
 
 
 1.
@@ -30,6 +33,7 @@ Here see the bread of life; waters flowing
 forth from the throne of God, pure from above.
 Come to the feast of love; come, ever knowing
 earth has no sorrow but heaven can remove.
+
 
 
 ```
