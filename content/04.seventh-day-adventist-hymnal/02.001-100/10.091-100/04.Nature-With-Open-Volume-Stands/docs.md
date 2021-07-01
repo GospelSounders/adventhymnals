@@ -1,0 +1,62 @@
+---
+title: 94. Nature With Open Volume Stands - Seventh Day Adventist Hymnal
+metadata:
+    description: SDAH 94. Nature With Open Volume Stands. 1. Nature with open volume stands, To spread its Maker’s praise abroad; And every labor of His hands Shows something worthy of our God.
+    keywords: SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, Nature With Open Volume Stands, Nature with open volume stands, 
+    author: Brian Onang'o
+---
+
+#### Advent Hymnals
+## 94. NATURE WITH OPEN VOLUME STANDS
+#### Seventh Day Adventist Hymnal
+
+```txt
+
+
+1.
+Nature with open volume stands,
+To spread its Maker’s praise abroad;
+And every labor of His hands
+Shows something worthy of our God.
+
+2.
+But in the grace that rescued us
+His brightest form of glory shines;
+‘Tis fairest drawn upon the cross
+In precious blood and crimson lines.
+
+3.
+Here His whole name appears complete.
+Nor wit can guess, nor reason prove,
+Which of the letters best is writ,
+The pow’r, the wisdom, or the love.
+
+4.
+We would forever speak His name
+In sounds to mortal ears unknown,
+With angels join to praise the Lamb,
+And worship at His Father’s throne.
+
+
+```
+
+- |   -  |
+-------------|------------|
+Title | Nature With Open Volume Stands |
+Key |  |
+Titles | undefined |
+First Line | Nature with open volume stands, |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+  
