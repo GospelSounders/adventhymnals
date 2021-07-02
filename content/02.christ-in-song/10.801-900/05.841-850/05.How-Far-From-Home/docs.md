@@ -1,13 +1,17 @@
 ---
-title: 845. How Far From Home?
+title: |
+    845. How Far From Home? - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, How Far From Home?, How far from home!  I asked, as on , 
+    description: |
+        Christ in Song 845. How Far From Home?. How far from home?  I asked, as on I bent my steps--the watchman spake: "The long, dark night is almost gone, The morning soon will break. Then weep no more, but speed thy flight, With Hope's bright star thy guiding ray, Till thou shalt reach the realms of light, In everlasting day."
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, How Far From Home?, How far from home!  I asked, as on . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 845. HOW FAR FROM HOME?
+####  Christ in Song,
 
 ```txt
 1.
@@ -50,25 +54,26 @@ Where weary footsteps never roam
 Or trials past, our joys complete,
 Safe in our Father's home.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Far From Home? |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | How far from home!  I asked, as on  |
 Author | Annie R. Smith
 Year | 1908
-Composer| Arranged |
+Composer| undefined |
 Hymnal|  - |
 Tune| How far from home?  I asked, as on |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Nearing Home |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

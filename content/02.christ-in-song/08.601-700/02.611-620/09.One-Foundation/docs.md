@@ -1,13 +1,17 @@
 ---
-title: 619. One Foundation
+title: |
+    619. One Foundation - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, One Foundation, The Church has one foundation, 
+    description: |
+        Christ in Song 619. One Foundation. The Church has one foundation, 'Tis Jesus Christ her Lord; She is His new creation, By water and the word; From heav'n He came and sought her To be His holy bride, With His own blood He bo't her, And for her life He died.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, One Foundation, The Church has one foundation. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 619. ONE FOUNDATION
+####  Christ in Song,
 
 ```txt
 1.
@@ -50,13 +54,14 @@ Her longing eyes are blest,
 And the great Church victorious
 Shall be the Church at rest.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | One Foundation |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The Church has one foundation |
 Author | S. J. Stone
 Year | 1908
@@ -64,11 +69,11 @@ Composer| S. S. Wesley |
 Hymnal|  - |
 Tune| AURELIA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ's Church; Christ: Christ Our Foundation |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

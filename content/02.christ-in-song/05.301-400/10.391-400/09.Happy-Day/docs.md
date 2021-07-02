@@ -1,13 +1,17 @@
 ---
-title: 399. Happy Day
+title: |
+    399. Happy Day - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Happy Day, O happy day!  that fixed my choice, 
+    description: |
+        Christ in Song 399. Happy Day. O, happy day!  that fixed my choice On thee, my Saviour and my God; Well may this glowing heart rejoice, And tell its raptures all abroad. Happy day, happy day, When Jesus washed my sins away! He taught me how to watch and pray, And live rejoicing ev'ry day; Happy day, happy day, When Jesus washed my sins away!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Happy Day, O happy day!  that fixed my choice. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 399. HAPPY DAY
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Now rest, my long-divided heart,
 Fixed on this blissful center, rest;
 Nor ever from thy Lord depart,
 With him of ev'ry good possessed.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Happy Day |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | O happy day!  that fixed my choice |
 Author | P. Doddridge
 Year | 1908
@@ -47,11 +52,11 @@ Composer| E. F. Rimbault |
 Hymnal|  - |
 Tune| O happy day!  that fixed my choice |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Precious; Living His Life: Joy of Salvation |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

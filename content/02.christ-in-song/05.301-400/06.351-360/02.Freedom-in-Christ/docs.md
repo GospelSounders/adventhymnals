@@ -1,13 +1,17 @@
 ---
-title: 352. Freedom in Christ
+title: |
+    352. Freedom in Christ - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Freedom in Christ, Conq&#039;ring kings their titles take, 
+    description: |
+        Christ in Song 352. Freedom in Christ. Conq'ring kings their titles take From the foes they captive make; Jesus, by a nobler deed, From the thousands He hath freed. Yes; none other Name is giv'n Unto mortals under heav'n, Which can make the dead arise, And exalt them to the skies.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Freedom in Christ, Conq'ring kings their titles take. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 352. FREEDOM IN CHRIST
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ Glory to the Father be,
 Glory, holy Son, to Thee,
 Glory to the Holy Ghost,
 From the saints and angel host.  Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Freedom in Christ |
 Key | G Major |
-Titles |  |
-First Line | Conq&#039;ring kings their titles take |
+Titles | undefined |
+First Line | Conq'ring kings their titles take |
 Author | Anon.
 Year | 1908
 Composer| W. B. Gilbert |
 Hymnal|  - |
 Tune| MAIDSTONE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

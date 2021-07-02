@@ -1,13 +1,17 @@
 ---
-title: 388. Safely Thro' Another Week
+title: |
+    388. Safely Thro' Another Week - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Safely Thro' Another Week, Safely thro&#039; another week, 
+    description: |
+        Christ in Song 388. Safely Thro' Another Week. Safely thro' another week God has brought us on our way; Let us now a blessing seek, Waiting in his courts today, Day of all the week the best, Emblem of eternal rest, Day of all the week the best, Emblem of eternal rest.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Safely Thro' Another Week, Safely thro' another week. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 388. SAFELY THRO' ANOTHER WEEK
+####  Christ in Song,
 
 ```txt
 1.
@@ -51,25 +55,26 @@ Thus may all our Sabbaths be
 Till we rise to reign with thee.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Safely Thro' Another Week |
 Key | G Major |
-Titles |  |
-First Line | Safely thro&#039; another week |
+Titles | undefined |
+First Line | Safely thro' another week |
 Author | J. Newton
 Year | 1908
 Composer| L. Mason |
 Hymnal|  - |
 Tune| SABBATH |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: The Rest Day |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

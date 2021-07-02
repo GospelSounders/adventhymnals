@@ -1,13 +1,17 @@
 ---
-title: 679. Heir of the Kingdom
+title: |
+    679. Heir of the Kingdom - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Heir of the Kingdom, Heir of the kingdom, O why dost thou slumber?, 
+    description: |
+        Christ in Song 679. Heir of the Kingdom. Heir of the kingdom, O why dost thou slumber? Why art thou sleeping so near thy blest home? Wake thee, arouse thee, and gird on thine armor, Speed, for the moments are hurrying on.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Heir of the Kingdom, Heir of the kingdom, O why dost thou slumber?. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 679. HEIR OF THE KINGDOM
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Keep the eye single, the head upward lifted;
 Watch for the glory of earth's coming King;
 Lo!  o'er the mountaintops light is now breaking;
 Heir of the kingdom, rejoice ye and sing.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Heir of the Kingdom |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Heir of the kingdom, O why dost thou slumber? |
 Author | Anon.
 Year | 1908
@@ -47,11 +52,11 @@ Composer| L. Mason |
 Hymnal|  - |
 Tune| RODMAN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Waiting for Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

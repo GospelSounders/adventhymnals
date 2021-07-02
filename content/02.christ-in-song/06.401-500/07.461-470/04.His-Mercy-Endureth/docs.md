@@ -1,13 +1,17 @@
 ---
-title: 464. His Mercy Endureth
+title: |
+    464. His Mercy Endureth - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, His Mercy Endureth, O give thanks unto the Lord, for He is good, 
+    description: |
+        Christ in Song 464. His Mercy Endureth. O give thanks unto the Lord, for He is good; for His mercy endureth forever. O give thanks unto the God of gods; for His mercy endureth forever.  
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, His Mercy Endureth, O give thanks unto the Lord, for He is good. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 464. HIS MERCY ENDURETH
+####  Christ in Song,
 
 ```txt
 1.
@@ -45,25 +49,26 @@ Who giveth food to all flesh:
 for His mercy endureth forever. 
 O give thanks unto the God of heaven:
 for His mercy endureth forever. Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | His Mercy Endureth |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | O give thanks unto the Lord, for He is good |
-Author | 
+Author | undefined
 Year | 1908
 Composer| Wm. B. Bradbury |
 Hymnal|  - |
 Tune| O give thanks unto the Lord, for He is good |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Love and Mercy; God: Praise to God; Special Selections: Chants |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

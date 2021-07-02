@@ -1,13 +1,17 @@
 ---
-title: 616. Call Them In
+title: |
+    616. Call Them In - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Call Them In, "Call them in," the poor, the wretched, 
+    description: |
+        Christ in Song 616. Call Them In. "Call them in", the wretched, Sin-stained wand'rers from the field; Peace and pardon freely offer; Can you weigh their worth with gold; "Call them in," the weak the weary, Laden with the doom of sin; Bid them come and rest in Jesus; He is waiting, "Call them in."
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Call Them In, "Call them in," the poor, the wretched. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 616. CALL THEM IN
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ See, the shadows lengthen round us,
 Soon the day dawn will begin;
 Can you leave them lost and lonely?
 Christ is coming, "Call them in."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Call Them In |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | "Call them in," the poor, the wretched |
 Author | Miss Anna Shipton
 Year | 1908
@@ -63,11 +68,11 @@ Composer| Ira D. Sankey |
 Hymnal|  - |
 Tune| "Call them in", the poor, the wretched |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
-Subjects |  |
-Texts |  |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects | undefined |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

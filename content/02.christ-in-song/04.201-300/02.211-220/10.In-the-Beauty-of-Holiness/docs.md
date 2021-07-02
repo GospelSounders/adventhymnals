@@ -1,13 +1,17 @@
 ---
-title: 220. In the Beauty of Holiness
+title: |
+    220. In the Beauty of Holiness - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, In the Beauty of Holiness, O worship the Lord in the beauty of holiness, 
+    description: |
+        Christ in Song 220. In the Beauty of Holiness. O worship the Lord in the beauty of holiness, Bow down before him, his glory proclaim; With gold of obedience, and incense of lowliness, Kneel and adore him, the Lord is his name.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, In the Beauty of Holiness, O worship the Lord in the beauty of holiness. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 220. IN THE BEAUTY OF HOLINESS
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ These, tho' we bring them in trembling and fearfulness,
 He will accept for the Name that is dear;
 Mornings of joy give for evenings of tearfulness,
 Trust for our trembling, and hope for our fear.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | In the Beauty of Holiness |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | O worship the Lord in the beauty of holiness |
 Author | Anon.
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Edwin Barnes |
 Hymnal|  - |
 Tune| O worship the Lord in the beauty of holiness |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God; Living His Life: Holy Life; Special Occasions: Reunion |
 Texts | Psalm 96:9 |
 Print Texts | 
 Scripture Song |  |
-  
+    

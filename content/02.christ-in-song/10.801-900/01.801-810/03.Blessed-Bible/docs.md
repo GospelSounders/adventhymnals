@@ -1,13 +1,17 @@
 ---
-title: 803. Blessed Bible
+title: |
+    803. Blessed Bible - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Blessed Bible, Blessed Bible, how I love it!, 
+    description: |
+        Christ in Song 803. Blessed Bible. Blessed Bible, how I love it! How it doth my bosom cheer! What hath earth like this to covet? O, what stores of wealth are here!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Blessed Bible, Blessed Bible, how I love it!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 803. BLESSED BIBLE
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ All the gems in ocean found;
 All its sacred precepts heeding,
 So shall we in grace abound.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Blessed Bible |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Blessed Bible, how I love it! |
 Author | Anon.
 Year | 1908
@@ -48,11 +53,11 @@ Composer| W. O. Perkins |
 Hymnal|  - |
 Tune| GRANNIS |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

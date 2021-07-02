@@ -1,13 +1,17 @@
 ---
-title: 257. Crown Him
+title: |
+    257. Crown Him - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Crown Him, All hail the power of Jesus&#039; name, 
+    description: |
+        Christ in Song 257. Crown Him. All hail the power of Jesus' name, Let angels prostrate fall, Let angels prostrate fall; Bring forth the royal diadem, And crown Him, crown Him, crown Him, crown Him, And crown Him Lord of all, crown Him, And crown Him Lord of all.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Crown Him, All hail the power of Jesus' name. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 257. CROWN HIM
+####  Christ in Song,
 
 ```txt
 1.
@@ -46,25 +50,26 @@ And crown Him, crown Him, crown Him, crown Him,
 And crown Him Lord of all, crown Him,
 And crown Him Lord of all.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Crown Him |
 Key | B♭ Major |
-Titles |  |
-First Line | All hail the power of Jesus&#039; name |
+Titles | undefined |
+First Line | All hail the power of Jesus' name |
 Author | E. Perronet
 Year | 1908
-Composer| T. G. Richards |
+Composer| undefined |
 Hymnal|  - |
-Tune| All hail the power of Jesus&#039; name |
+Tune| All hail the power of Jesus' name |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ King; Christ: Praise to Christ; Special Selections: Choir or Quartet |
 Texts | Revelation 17:14 |
 Print Texts | 
 Scripture Song |  |
-  
+    

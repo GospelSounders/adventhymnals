@@ -1,13 +1,17 @@
 ---
-title: 458. A Present Help
+title: |
+    458. A Present Help - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Present Help, We may not climb the heav&#039;nly steeps, 
+    description: |
+        Christ in Song 458. A Present Help. We may not climb the heav'nly steeps, To bring the Saviour down; In vain we search the lowest deeps, For Him no depths can drown.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Present Help, We may not climb the heav'nly steeps. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 458. A PRESENT HELP
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ O Lord and Master of us all,
 Whate'er our name or sign,
 We own Thy sway, we bear Thy call,
 We test our lives by Thine!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Present Help |
 Key | E Major |
-Titles |  |
-First Line | We may not climb the heav&#039;nly steeps |
+Titles | undefined |
+First Line | We may not climb the heav'nly steeps |
 Author | Whittier
 Year | 1908
 Composer| Wm. Wallace |
 Hymnal|  - |
 Tune| SERENITY |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

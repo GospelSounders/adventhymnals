@@ -1,13 +1,17 @@
 ---
-title: 615. Jesus Only
+title: |
+    615. Jesus Only - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Jesus Only, What tho&#039; clouds are hov&#039;ring o&#039;er me, 
+    description: |
+        Christ in Song 615. Jesus Only. What tho' clouds are hov'ring o'er me, And I seem to walk alone, Longing 'mid my cares and crosses, For the joys that now are flown, If I've Jesus, "Jesus only," Then my sky will have a gem; He's a Sun of brightest splendor, And the Star of Bethlehem.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Jesus Only, What tho' clouds are hov'ring o'er me. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 615. JESUS ONLY
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,25 +53,26 @@ When I join the heav'nly chorus,
 And the angel hosts I see,
 Precious Jesus, "Jesus only,"
 Will my theme of rapture be.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jesus Only |
 Key | A♭ Major |
-Titles |  |
-First Line | What tho&#039; clouds are hov&#039;ring o&#039;er me |
+Titles | undefined |
+First Line | What tho' clouds are hov'ring o'er me |
 Author | Hattie M. Conrey
 Year | 1908
 Composer| Rev. R. Lowry |
 Hymnal|  - |
-Tune| What tho&#039; clouds are hov&#039;ring o&#039;er me |
+Tune| What tho' clouds are hov'ring o'er me |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Precious |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

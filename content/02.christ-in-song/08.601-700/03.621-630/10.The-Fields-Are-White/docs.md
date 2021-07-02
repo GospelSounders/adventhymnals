@@ -1,13 +1,17 @@
 ---
-title: 630. The Fields Are White
+title: |
+    630. The Fields Are White - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Fields Are White, The fields are all white, 
+    description: |
+        Christ in Song 630. The Fields Are White. The fields are all white, And the reapers are few, We children are willing, But what can we do, To work for our Lord in His harvest?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Fields Are White, The fields are all white. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 630. THE FIELDS ARE WHITE
+####  Christ in Song,
 
 ```txt
 1.
@@ -37,13 +41,14 @@ As the years pass at length,
 We too may be reapers,
 And go forth in strength
 To work for our Lord in His harvest.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Fields Are White |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | The fields are all white |
 Author | Anon.
 Year | 1908
@@ -51,11 +56,11 @@ Composer| J. Adcock |
 Hymnal|  - |
 Tune| JUNIOR ENDEAVOR |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Harvest Time |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

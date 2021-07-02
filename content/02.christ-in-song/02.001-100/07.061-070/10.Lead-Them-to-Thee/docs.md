@@ -1,13 +1,17 @@
 ---
-title: 70. Lead Them to Thee
+title: |
+    070. Lead Them to Thee - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Lead Them to Thee, Lead them, my God, to Thee, 
+    description: |
+        Christ in Song 070. Lead Them to Thee. Lead them, my God, to Thee, Lead them to Thee, These children dear of mine, Thou gavest me; O, by Thy love divine, Lead them, my God, to Thee; Lead them, my God, to Thee, Lead them to Thee.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Lead Them to Thee, Lead them, my God, to Thee. 
     author: Brian Onang'o
 ---
 
-
-## 70. LEAD THEM TO THEE
+#### Advent Hymnals
+## 070. LEAD THEM TO THEE
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,25 +53,26 @@ O, take their young hearts now,
 Lead them, my God, to Thee;
 Lead them, my God, to Thee,
 Lead them to Thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lead Them to Thee |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Lead them, my God, to Thee |
-Author | 
+Author | undefined
 Year | 1908
 Composer| F. E. Belden |
 Hymnal|  - |
 Tune| DOANE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Invitation and Repentance: Save the Children |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 428. The Spring-Tide
+title: |
+    428. The Spring-Tide - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Spring-Tide, The spring-tide hour brings leaf and flow&#039;r, 
+    description: |
+        Christ in Song 428. The Spring-Tide. The spring-tide hour brings leaf and flow'r, With songs of life and love, And many a lay to cheer the day In many a leafy grove.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Spring-Tide, The spring-tide hour brings leaf and flow'r. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 428. THE SPRING-TIDE
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ Lord, let thy love, fresh from above,
 Soft as the south wind blow,
 Till my heart bloom in sweet perfume,
 And fragrant spices flow.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Spring-Tide |
 Key | B♭ Major |
-Titles |  |
-First Line | The spring-tide hour brings leaf and flow&#039;r |
+Titles | undefined |
+First Line | The spring-tide hour brings leaf and flow'r |
 Author | Rev. J. Monsell
 Year | 1908
 Composer| Donizetti |
 Hymnal|  - |
 Tune| RAPHAEL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: The Seasons; Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

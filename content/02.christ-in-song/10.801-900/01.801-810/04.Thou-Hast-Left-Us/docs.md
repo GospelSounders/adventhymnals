@@ -1,13 +1,17 @@
 ---
-title: 804. Thou Hast Left Us
+title: |
+    804. Thou Hast Left Us - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Thou Hast Left Us, Sister, thou wast mild and lovely, 
+    description: |
+        Christ in Song 804. Thou Hast Left Us. Sister, thou wast mild and lovely, Gentle as the summer breeze; Pleasant as the air of evening When it floats among the trees.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Thou Hast Left Us, Sister, thou wast mild and lovely. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 804. THOU HAST LEFT US
+####  Christ in Song,
 
 ```txt
 1.
@@ -29,13 +33,14 @@ Then, in heav'n, with joy to greet thee,
 Where no farewell tear is shed.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thou Hast Left Us |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Sister, thou wast mild and lovely |
 Author | S. F. Smith
 Year | 1908
@@ -43,11 +48,11 @@ Composer| L. Mason |
 Hymnal|  - |
 Tune| MT. VERNON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Funeral Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

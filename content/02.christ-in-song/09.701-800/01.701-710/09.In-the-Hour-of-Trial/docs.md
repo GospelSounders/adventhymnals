@@ -1,13 +1,17 @@
 ---
-title: 709. In the Hour of Trial
+title: |
+    709. In the Hour of Trial - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, In the Hour of Trial, In the hour of trial, 
+    description: |
+        Christ in Song 709. In the Hour of Trial. In the hour of trial, Father, strengthen me; Lest by base denial, I depart from thee. When thou see'st me waver, With a touch recall, Nor from thy dear favor, Suffer me to fall.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, In the Hour of Trial, In the hour of trial. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 709. IN THE HOUR OF TRIAL
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Grant that I may never
 Fail thy hand to see;
 Grant that I may ever
 Cast my care on thee.  Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | In the Hour of Trial |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | In the hour of trial |
 Author | J. Montgomery
 Year | 1908
@@ -53,11 +58,11 @@ Composer| Spencer Lane |
 Hymnal|  - |
 Tune| PENITENCE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Trusting; Living His Life: Trusting; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

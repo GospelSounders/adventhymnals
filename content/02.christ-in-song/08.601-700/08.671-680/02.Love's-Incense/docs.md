@@ -1,13 +1,17 @@
 ---
-title: 672. Love's Incense
+title: |
+    672. Love's Incense - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Love's Incense, Master, no offering  , 
+    description: |
+        Christ in Song 672. Love's Incense. Master, no offering   Costly or sweet, Lay we, like Magdalene, Here at Thy feet; Yet may love's incense rise, Sweeter than sacrifice, Dear Lord, to Thee,  Dear Lord, to Thee.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Love's Incense, Master, no offering  . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 672. LOVE'S INCENSE
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ And when earth's labor's cease,
 Bid us depart in peace,
 Dear Lord, to Thee, 
 Dear Lord, to Thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Love's Incense |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Master, no offering   |
 Author | E. P. P.
 Year | 1908
@@ -63,11 +68,11 @@ Composer| Rev. E. P. Parker |
 Hymnal|  - |
 Tune| Master, no offering |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

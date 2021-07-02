@@ -1,13 +1,17 @@
 ---
-title: 375. Our Song of Praise
+title: |
+    375. Our Song of Praise - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Our Song of Praise, For the beauty of the earth, 
+    description: |
+        Christ in Song 375. Our Song of Praise. For the beauty of the earth, For the glory of the skies, For the love which from our birth Over and around us lies, Lord of all, to thee we raise This our grateful song of praise.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Our Song of Praise, For the beauty of the earth. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 375. OUR SONG OF PRAISE
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ For the crown when life is past,
 Lord of all, to thee we raise
 Songs of gratitude and praise.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Our Song of Praise |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | For the beauty of the earth |
 Author | F. S. Pierpont
 Year | 1908
@@ -48,11 +53,11 @@ Composer| Conrad Kocher |
 Hymnal|  - |
 Tune| DIX |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God; Special Occasions: The Seasons |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

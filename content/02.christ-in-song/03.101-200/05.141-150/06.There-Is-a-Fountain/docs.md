@@ -1,13 +1,17 @@
 ---
-title: 146. There Is a Fountain
+title: |
+    146. There Is a Fountain - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, There Is a Fountain, There is a fountain fill&#039;d with blood, 
+    description: |
+        Christ in Song 146. There Is a Fountain. There is a fountain fill'd with blood, Drawn from Immanuel's veins; And sinners plung'd beneath that flood Lose all their guilty stains. Lose all their guilty stains, Lose all their guilty stains, And sinners plung'd beneath that flood Lose all their guilty stains.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, There Is a Fountain, There is a fountain fill'd with blood. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 146. THERE IS A FOUNTAIN
+####  Christ in Song,
 
 ```txt
 1.
@@ -58,25 +62,26 @@ I'll sing thy pow'r to save,
 When this poor lisping, stam'ring tongue
 Is ransom'd from the grave.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | There Is a Fountain |
 Key | C Major |
-Titles |  |
-First Line | There is a fountain fill&#039;d with blood |
+Titles | undefined |
+First Line | There is a fountain fill'd with blood |
 Author | William Cowper
 Year | 1908
 Composer| Unknown |
 Hymnal|  - |
 Tune| FOUNTAIN |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

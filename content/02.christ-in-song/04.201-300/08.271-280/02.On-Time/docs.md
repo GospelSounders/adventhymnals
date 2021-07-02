@@ -1,13 +1,17 @@
 ---
-title: 272. On Time
+title: |
+    272. On Time - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, On Time, List to the chime, &#039;tis meeting time, Ring, ring, ring, ring
+    description: |
+        Christ in Song 272. On Time. List to the chime, 'tis meeting time, The joyous bells are ringing; This is the day, they seem to say, To meet for pray'r and singing. Chorus: Ring, ring, ring, ring, Ring, ye joyous bells; Ring, ring, ring, ring, Ring, ye joyous bells.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, On Time, List to the chime, 'tis meeting time. Ring, ring, ring, ring,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 272. ON TIME
+####  Christ in Song,
 
 ```txt
 1.
@@ -45,25 +49,26 @@ On time, on time,
 Answer to the chime;
 On time, on time,
 Always here on time.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | On Time |
 Key | B♭ Major |
-Titles | Ring, ring, ring, ring |
-First Line | List to the chime, &#039;tis meeting time |
+Titles | Ring, ring, ring, ring, |
+First Line | List to the chime, 'tis meeting time |
 Author | F. E. B.
 Year | 1908
 Composer| F. E. Belden |
 Hymnal|  - |
-Tune| List to the chime, &#039;tis meeting time |
+Tune| List to the chime, 'tis meeting time |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Sabbath School |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

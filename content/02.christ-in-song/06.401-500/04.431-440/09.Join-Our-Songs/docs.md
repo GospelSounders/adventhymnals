@@ -1,13 +1,17 @@
 ---
-title: 439. Join Our Songs
+title: |
+    439. Join Our Songs - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Join Our Songs, Come, let us join our cheerful songs , 
+    description: |
+        Christ in Song 439. Join Our Songs. Come, let us join our cheerful songs With angels round the throne; Ten thousand thousand are their tongues, But all their joys are one; But all their joys are one.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Join Our Songs, Come, let us join our cheerful songs . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 439. JOIN OUR SONGS
+####  Christ in Song,
 
 ```txt
 1.
@@ -30,13 +34,14 @@ Honor and pow'r divine;
 And blessings more than we can give,
 Be, Lord, forever thine;
 Be, Lord, forever thine.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Join Our Songs |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, let us join our cheerful songs  |
 Author | Isaac Watts
 Year | 1908
@@ -44,11 +49,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| ROSE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
-Subjects |  |
-Texts |  |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects | undefined |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

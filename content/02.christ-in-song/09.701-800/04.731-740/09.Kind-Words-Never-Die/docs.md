@@ -1,13 +1,17 @@
 ---
-title: 739. Kind Words Never Die
+title: |
+    739. Kind Words Never Die - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Kind Words Never Die, Kind words can never die, Kind words can never die
+    description: |
+        Christ in Song 739. Kind Words Never Die. Kind words can never die, Cherish'd and blest; God knows how deep they lie, Stored in the breast, Like childhood's simple rhymes, Said o'er a thousand times, Yes, in all years and climes, Distant or near. 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Kind Words Never Die, Kind words can never die. Kind words can never die,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 739. KIND WORDS NEVER DIE
+####  Christ in Song,
 
 ```txt
 1.
@@ -59,25 +63,26 @@ True love can never die,
 No, never die.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Kind Words Never Die |
 Key | D Major |
-Titles | Kind words can never die |
+Titles | Kind words can never die, |
 First Line | Kind words can never die |
-Author | 
+Author | undefined
 Year | 1908
-Composer| Abbie Hutchinson |
+Composer| undefined |
 Hymnal|  - |
 Tune| Kind words can never die |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Kind Words |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

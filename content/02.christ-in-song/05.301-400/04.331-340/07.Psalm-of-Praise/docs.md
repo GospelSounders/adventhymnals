@@ -1,13 +1,17 @@
 ---
-title: 337. Psalm of Praise
+title: |
+    337. Psalm of Praise - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Psalm of Praise, God&#039;s free mercy streameth, 
+    description: |
+        Christ in Song 337. Psalm of Praise. God's free mercy streameth Over all the world, And His banner gleameth, By His church unfurled; Broad and deep and glorious, As the heav'n above, Shines in might victorious His eternal love.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Psalm of Praise, God's free mercy streameth. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 337. PSALM OF PRAISE
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,25 +53,26 @@ Light of light, shine o'er us
 On our pilgrim way,
 Go Thou still before us
 To the endless day.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Psalm of Praise |
 Key | E♭ Major |
-Titles |  |
-First Line | God&#039;s free mercy streameth |
+Titles | undefined |
+First Line | God's free mercy streameth |
 Author | Wm. W. How
 Year | 1908
 Composer| Samuel Smith |
 Hymnal|  - |
 Tune| RUTH |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Love and Mercy; Special Occasions: The Seasons; Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

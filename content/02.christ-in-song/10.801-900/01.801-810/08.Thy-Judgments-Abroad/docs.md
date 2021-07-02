@@ -1,13 +1,17 @@
 ---
-title: 808. Thy Judgments Abroad
+title: |
+    808. Thy Judgments Abroad - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Thy Judgments Abroad, In grief and fear, to thee, O Lord, 
+    description: |
+        Christ in Song 808. Thy Judgments Abroad. In grief and fear, to thee, O Lord, We now for succor fly; Thine awful judgments are abroad, O shield us, lest we die.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Thy Judgments Abroad, In grief and fear, to thee, O Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 808. THY JUDGMENTS ABROAD
+####  Christ in Song,
 
 ```txt
 1.
@@ -29,13 +33,14 @@ Accept the sacrifice we bring,
 And let the plague be stayed.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thy Judgments Abroad |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | In grief and fear, to thee, O Lord |
 Author | W. Bullock
 Year | 1908
@@ -43,11 +48,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| DOWNS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Protection |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

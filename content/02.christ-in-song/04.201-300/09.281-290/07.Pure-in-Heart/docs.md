@@ -1,13 +1,17 @@
 ---
-title: 287. Pure in Heart
+title: |
+    287. Pure in Heart - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Pure in Heart, Saviour, keep me pure in heart, Pure in heart, pure in heart
+    description: |
+        Christ in Song 287. Pure in Heart. Saviour, keep me pure in heart, By thy pow'r renewing; Seal my life of thine a part, All my tho'ts bedewing. 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Pure in Heart, Saviour, keep me pure in heart. Pure in heart, pure in heart,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 287. PURE IN HEART
+####  Christ in Song,
 
 ```txt
 1.
@@ -26,26 +30,13 @@ Here and then forever.
 In thy sinless life I see
 Matchless grace and beauty:
 Perfect Pattern, guide for me,
-Teaching love for duty. 
-
-Refrain:
-Pure in heart, pure in heart,
-Jesus, only giver;
-Seal my life of thine a part,
-Here and then forever.
-
+Teaching love for duty.  [Refrain]
 
 3.
 One with thee!  thus would I live,
 Till the morn immortal;
 Thus myself for others give,
-With them pass the portal. 
-
-Refrain:
-Pure in heart, pure in heart,
-Jesus, only giver;
-Seal my life of thine a part,
-Here and then forever.
+With them pass the portal.  [Refrain]
 
 
 
@@ -55,7 +46,7 @@ Here and then forever.
 -------------|------------|
 Title | Pure in Heart |
 Key | F Major |
-Titles | Pure in heart, pure in heart |
+Titles | Pure in heart, pure in heart, |
 First Line | Saviour, keep me pure in heart |
 Author | F. E. B.
 Year | 1908
@@ -63,11 +54,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| HATTIE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Purity; Living His Life: Purity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

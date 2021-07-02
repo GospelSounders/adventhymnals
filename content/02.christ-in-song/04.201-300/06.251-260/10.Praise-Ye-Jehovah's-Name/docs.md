@@ -1,13 +1,17 @@
 ---
-title: 260. Praise Ye Jehovah's Name
+title: |
+    260. Praise Ye Jehovah's Name - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Praise Ye Jehovah's Name, Praise ye Jehovah&#039;s name, 
+    description: |
+        Christ in Song 260. Praise Ye Jehovah's Name. Praise ye Jehovah's name, Praise thro' His courts proclaim, Rise and adore, High 'er the heav'ns above, Sounds His great acts of love, While His rich grace we prove, Vast as His pow'r.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Praise Ye Jehovah's Name, Praise ye Jehovah's name. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 260. PRAISE YE JEHOVAH'S NAME
+####  Christ in Song,
 
 ```txt
 1.
@@ -36,25 +40,26 @@ He vital breath bestows;
 Let ev'ry breath that flows,
 His noble fame disclose;
 Praise ye the Lord.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Praise Ye Jehovah's Name |
 Key | F Major |
-Titles |  |
-First Line | Praise ye Jehovah&#039;s name |
+Titles | undefined |
+First Line | Praise ye Jehovah's name |
 Author | Wm. Goode
 Year | 1908
 Composer| Henry Carey |
 Hymnal|  - |
 Tune| AMERICA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

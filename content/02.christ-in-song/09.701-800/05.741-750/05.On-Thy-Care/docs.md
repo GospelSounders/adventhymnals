@@ -1,13 +1,17 @@
 ---
-title: 745. On Thy Care
+title: |
+    745. On Thy Care - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, On Thy Care, My spirit on thy care, 
+    description: |
+        Christ in Song 745. On Thy Care. My spirit on thy care, Blest Saviour, I recline; Thou wilt not leave me to despair, For thou art love divine.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, On Thy Care, My spirit on thy care. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 745. ON THY CARE
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Let good or ill befall,
 It must be good for me,
 Secure of having thee in all,
 Of having all in thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | On Thy Care |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | My spirit on thy care |
 Author | H. F. Lyte
 Year | 1908
@@ -47,11 +52,11 @@ Composer| H. Abbott |
 Hymnal|  - |
 Tune| DAY |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Trusting; Living His Life: Trusting |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

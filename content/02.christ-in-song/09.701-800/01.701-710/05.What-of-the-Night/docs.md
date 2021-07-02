@@ -1,13 +1,17 @@
 ---
-title: 705. What of the Night?
+title: |
+    705. What of the Night? - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, What of the Night?, Watchman on the walls of Zion, 
+    description: |
+        Christ in Song 705. What of the Night?. Watchman on the walls of Zion, What, O tell us, of the night? Is the day star now arising? Will the morn soon greet our night? O'er your vision Shine there now some rays of light? O'er your vision Shine there now some rays of light?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, What of the Night?, Watchman on the walls of Zion. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 705. WHAT OF THE NIGHT?
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Let your voices
 Sound aloud your holy cheer.
 Let your voices
 Sound aloud your holy cheer.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | What of the Night? |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Watchman on the walls of Zion |
 Author | Anon.
 Year | 1908
@@ -63,11 +68,11 @@ Composer| T. Hastings |
 Hymnal|  - |
 Tune| ZION |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Return of Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

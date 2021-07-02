@@ -1,13 +1,17 @@
 ---
-title: 259. The Power of Jesus' Name
+title: |
+    259. The Power of Jesus' Name - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Power of Jesus' Name, All hail the pow&#039;r of Jesus&#039; name!, 
+    description: |
+        Christ in Song 259. The Power of Jesus' Name. All hail the pow'r of Jesus' name! Let angels prostrate fall; Bring forth the royal diadem, And crown Him, crown Him, crown Him, Crown Him Lord of all.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Power of Jesus' Name, All hail the pow'r of Jesus' name!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 259. THE POWER OF JESUS' NAME
+####  Christ in Song,
 
 ```txt
 1.
@@ -16,25 +20,26 @@ Let angels prostrate fall;
 Bring forth the royal diadem,
 And crown Him, crown Him, crown Him,
 Crown Him Lord of all.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Power of Jesus' Name |
 Key | B♭ Major |
-Titles |  |
-First Line | All hail the pow&#039;r of Jesus&#039; name! |
-Author | 
+Titles | undefined |
+First Line | All hail the pow'r of Jesus' name! |
+Author | undefined
 Year | 1908
 Composer| W. Shrubsole |
 Hymnal|  - |
 Tune| MILES LANE |
 Metrical pattern | |
-# Stanzas | 1 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ King; Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

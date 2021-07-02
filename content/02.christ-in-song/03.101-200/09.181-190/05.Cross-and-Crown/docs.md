@@ -1,13 +1,17 @@
 ---
-title: 185. Cross and Crown
+title: |
+    185. Cross and Crown - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Cross and Crown, Must Jesus bear the cross alone, 
+    description: |
+        Christ in Song 185. Cross and Crown. Must Jesus bear the cross alone, And all the world go free? No, there's a cross for ev'ry one, And there's a cross for me.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Cross and Crown, Must Jesus bear the cross alone. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 185. CROSS AND CROWN
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ Upon the crystal pavement, down
 At Jesus' pierced feet,
 With joy I'll cast my golden crown,
 And his dear name repeat.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Cross and Crown |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Must Jesus bear the cross alone |
 Author | T. Shepherd
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| MAITLAND |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Cross of Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

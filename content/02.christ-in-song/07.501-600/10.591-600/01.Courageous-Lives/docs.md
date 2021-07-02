@@ -1,13 +1,17 @@
 ---
-title: 591. Courageous Lives
+title: |
+    591. Courageous Lives - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Courageous Lives, Father, hear the prayer we offer!, 
+    description: |
+        Christ in Song 591. Courageous Lives. Father, hear the prayer we offer! Not for ease that prayer shall be, But for strength that we may ever Live our lives courageously.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Courageous Lives, Father, hear the prayer we offer!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 591. COURAGEOUS LIVES
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Ours to sow the seed in sorrow,
 Thine to bid it spring and grow;
 And the golden days of autumn
 Will a precious harvest show.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Courageous Lives |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Father, hear the prayer we offer! |
 Author | Anon.
 Year | 1908
@@ -47,11 +52,11 @@ Composer| D. E. Jones |
 Hymnal|  - |
 Tune| STOCKWELL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Loyalty to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

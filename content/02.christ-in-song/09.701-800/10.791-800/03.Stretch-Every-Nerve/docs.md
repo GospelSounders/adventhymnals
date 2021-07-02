@@ -1,13 +1,17 @@
 ---
-title: 793. Stretch Every Nerve
+title: |
+    793. Stretch Every Nerve - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Stretch Every Nerve, Awake my soul!  stretch ev&#039;ry nerve, 
+    description: |
+        Christ in Song 793. Stretch Every Nerve. Awake my soul!  stretch ev'ry nerve, And press with vigor on; A heav'nly race demands thy zeal, And an immortal crown.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Stretch Every Nerve, Awake my soul!  stretch ev'ry nerve. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 793. STRETCH EVERY NERVE
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ Blest Saviour, introduced by thee,
 Our race have we begun;
 And, crown'd with vict'ry, at thy feet
 We'll lay our trophies down.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Stretch Every Nerve |
 Key | G Major |
-Titles |  |
-First Line | Awake my soul!  stretch ev&#039;ry nerve |
+Titles | undefined |
+First Line | Awake my soul!  stretch ev'ry nerve |
 Author | P. Doddridge
 Year | 1908
 Composer| Thos. Arne |
 Hymnal|  - |
 Tune| ARLINGTON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Call to Activity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

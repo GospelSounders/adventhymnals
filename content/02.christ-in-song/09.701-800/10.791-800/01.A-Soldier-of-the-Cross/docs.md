@@ -1,13 +1,17 @@
 ---
-title: 791. A Soldier of the Cross
+title: |
+    791. A Soldier of the Cross - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Soldier of the Cross, Am I a soldier of the cross, 
+    description: |
+        Christ in Song 791. A Soldier of the Cross. Am I a soldier of the cross, A foll'wer of the Lamb? And shall I fear to own his cause, Or blush to speak his name? Or blush to speak his name?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Soldier of the Cross, Am I a soldier of the cross. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 791. A SOLDIER OF THE CROSS
+####  Christ in Song,
 
 ```txt
 1.
@@ -37,25 +41,26 @@ Increase my courage, Lord;
 I'll hear the toil, endure the pain,
 Supported by thy word,
 Supported by thy word.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Soldier of the Cross |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Am I a soldier of the cross |
 Author | Watts
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| MILES LANE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Prayer and Testimony Meeting; Christ: Warfare and Victory; Living His Life: Prayer and Testimony Meeting<span id='more_topics' style='display:none'>; Living His Life: Warfare and Victory |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

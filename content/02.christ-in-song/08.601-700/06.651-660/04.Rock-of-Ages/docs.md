@@ -1,13 +1,17 @@
 ---
-title: 654. Rock of Ages
+title: |
+    654. Rock of Ages - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Rock of Ages, Rock of Ages, cleft for me!, 
+    description: |
+        Christ in Song 654. Rock of Ages. Rock of Ages, cleft for me! Let me hide myself in thee; Let the water and the blood, From thy riven side that flowed, Be of sin the double cure; Save me from its guilt and pow'r.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Rock of Ages, Rock of Ages, cleft for me!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 654. ROCK OF AGES
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ When I soar to world's unknown,
 See thee on thy Judgment throne,
 Rock of Ages, cleft for me,
 Let me hide myself in thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Rock of Ages |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Rock of Ages, cleft for me! |
 Author | Augustus M. Toplady
 Year | 1908
@@ -55,11 +60,11 @@ Composer| Thomas Hastings |
 Hymnal|  - |
 Tune| Rock of Ages, cleft for me! |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Trust in Trouble; Living His Life: Trust in Trouble |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 629. Harvest Home
+title: |
+    629. Harvest Home - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Harvest Home, We plough the fields and scatter, All good gifts around us
+    description: |
+        Christ in Song 629. Harvest Home. We plough the fields and scatter The good seed on the land, But it is fed and watered By God's almighty hand; He sends the snow in winter, The warmth to swell the grain, The breezes, and the sunshine, And soft, refreshing rain. Chorus: All good gifts around us, Are sent from heav'n above, Then thank the Lord, O thank the Lord, For all His wondrous love.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Harvest Home, We plough the fields and scatter. All good gifts around us,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 629. HARVEST HOME
+####  Christ in Song,
 
 ```txt
 1.
@@ -58,25 +62,26 @@ O may Thy kingdom come!
 At Thy command, in ev'ry land,
 We speed the "harvest home."
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Harvest Home |
 Key | B♭ Major |
-Titles | All good gifts around us |
+Titles | All good gifts around us, |
 First Line | We plough the fields and scatter |
-Author | 
+Author | undefined
 Year | 1908
 Composer| J. A. P. Schulz |
 Hymnal|  - |
 Tune| DRESDEN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Winning Souls; Living His Life: Winning Souls; The Home Eternal: Harvest Time<span id='more_topics' style='display:none'>; Special Occasions: The Seasons; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

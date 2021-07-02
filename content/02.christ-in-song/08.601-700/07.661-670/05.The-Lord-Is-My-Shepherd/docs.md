@@ -1,13 +1,17 @@
 ---
-title: 665. The Lord Is My Shepherd
+title: |
+    665. The Lord Is My Shepherd - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Lord Is My Shepherd, The Lord is my Shepherd, no want shall I know, 
+    description: |
+        Christ in Song 665. The Lord Is My Shepherd. The Lord is my Shepherd, no want shall I know; I feed in green pastures, safe folded I rest; He leadeth my soul where the still waters flow, Restores me when wand'ring, redeems when oppressed.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Lord Is My Shepherd, The Lord is my Shepherd, no want shall I know. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 665. THE LORD IS MY SHEPHERD
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ Let goodness and mercy, my bountiful God,
 Still follow my steps till I meet thee above;
 I seek by the path which my forefathers trod,
 Thro' the land of their sojourn thy kingdom of love.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Lord Is My Shepherd |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | The Lord is my Shepherd, no want shall I know |
 Author | J. Montgomery
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| GOSHEN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Leading |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

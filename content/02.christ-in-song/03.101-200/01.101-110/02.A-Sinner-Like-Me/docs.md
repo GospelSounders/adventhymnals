@@ -1,13 +1,17 @@
 ---
-title: 102. A Sinner Like Me
+title: |
+    102. A Sinner Like Me - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Sinner Like Me, I was once far away from the Saviour , 
+    description: |
+        Christ in Song 102. A Sinner Like Me. I was once far away from the Saviour, And as vile as a sinner could be; I wondered if Christ, the Redeemer, Could save a poor sinner like me.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Sinner Like Me, I was once far away from the Saviour . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 102. A SINNER LIKE ME
+####  Christ in Song,
 
 ```txt
 1.
@@ -51,13 +55,14 @@ And when life's journey is over,
 And I the dear Saviour shall see,
 I'll praise him for ever and ever,
 For saving a sinner like me.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Sinner Like Me |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | I was once far away from the Saviour  |
 Author | C. J. B.
 Year | 1908
@@ -65,11 +70,11 @@ Composer| C. J. Butler |
 Hymnal|  - |
 Tune| I was once far away from the Saviour |
 Metrical pattern | |
-# Stanzas | 7 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Invitation and Repentance: Call Accepted; Living His Life: Joy of Salvation<span id='more_topics' style='display:none'>; Special Selections: Solos |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

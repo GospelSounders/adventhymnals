@@ -1,13 +1,17 @@
 ---
-title: 166. O For That Flame!
+title: |
+    166. O For That Flame! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, O For That Flame!, O for that flame of living fire, 
+    description: |
+        Christ in Song 166. O For That Flame!. O for that flame of living fire Which shone so bright in saints of old; Which bade their souls to heav'n aspire, Calm in distress, in danger bold!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, O For That Flame!, O for that flame of living fire. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 166. O FOR THAT FLAME!
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ Remember, Lord, the ancient days;
 Renew thy work, thy grace restore;
 And while to thee our hearts we raise,
 On us thy Holy Spirit pour.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O For That Flame! |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O for that flame of living fire |
 Author | Wm. H. Bathurst
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| MENDON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Returning to God; Invitation and Repentance: Returning to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

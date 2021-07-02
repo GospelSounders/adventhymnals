@@ -1,13 +1,17 @@
 ---
-title: 167. Return, O Wanderer!
+title: |
+    167. Return, O Wanderer! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Return, O Wanderer!, Return, O wanderer, return , 
+    description: |
+        Christ in Song 167. Return, O Wanderer!. Return, O wanderer, return, And seek thy Father's face; Those new desires which in thee burn, Were kindled by his grace.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Return, O Wanderer!, Return, O wanderer, return . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 167. RETURN, O WANDERER!
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ Return, O wanderer, return,
 And wipe the falling tear;
 Thy Father calls no longer mourn;
 'Tis love invites thee near.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Return, O Wanderer! |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Return, O wanderer, return  |
 Author | Wm. B. Collyer
 Year | 1908
-Composer| R. Simpson |
+Composer| undefined |
 Hymnal|  - |
 Tune| BALERMA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Returning to God; Invitation and Repentance: Returning to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

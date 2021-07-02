@@ -1,13 +1,17 @@
 ---
-title: 390. That Song of Old
+title: |
+    390. That Song of Old - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, That Song of Old, It came upon the midnight clear, 
+    description: |
+        Christ in Song 390. That Song of Old. It came upon the midnight clear, That glorious song of old, From angels bending near the earth To touch their harps of gold; "Peace on the earth, good will to men, From heav'n's all-gracious King." The world in solemn stillness lay, To hear the angels sing.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, That Song of Old, It came upon the midnight clear. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 390. THAT SONG OF OLD
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,13 +44,14 @@ The love-song which they bring;
 O cease, ye mortals, cease your strife,
 And hear the angels sing!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | That Song of Old |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | It came upon the midnight clear |
 Author | E. H. Sears
 Year | 1908
@@ -54,11 +59,11 @@ Composer| R. S. Willis |
 Hymnal|  - |
 Tune| CAROL |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Christmas |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

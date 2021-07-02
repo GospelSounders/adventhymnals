@@ -1,13 +1,17 @@
 ---
-title: 648. At the Feet of Jesus
+title: |
+    648. At the Feet of Jesus - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, At the Feet of Jesus, Sitting at the feet of Jesus, 
+    description: |
+        Christ in Song 648. At the Feet of Jesus. Sitting at the feet of Jesus, O what words I hear him say! Happy place!  so near, so precious! May it find me there each day; Sitting at the feet of Jesus, I would look upon the past, For his love has been so gracious, It has won my heart at last.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, At the Feet of Jesus, Sitting at the feet of Jesus. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 648. AT THE FEET OF JESUS
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Give me, Lord, the mind of Jesus,
 Make me holy as he is,
 May I prove I've been with Jesus,
 Who is all my righteousness.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | At the Feet of Jesus |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Sitting at the feet of Jesus |
 Author | J. H.
 Year | 1908
@@ -53,11 +58,11 @@ Composer| Arr. |
 Hymnal|  - |
 Tune| HUMILITY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 262. The Matchless Worth
+title: |
+    262. The Matchless Worth - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Matchless Worth, O could I speak the matchless worth, 
+    description: |
+        Christ in Song 262. The Matchless Worth. O could I speak the matchless worth, O could I sound the glories forth, Which in my Saviour shine! I'd soar and touch the heav'nly strings, And view with Gabriel while he sings In notes almost divine, In notes almost divine.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Matchless Worth, O could I speak the matchless worth. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 262. THE MATCHLESS WORTH
+####  Christ in Song,
 
 ```txt
 1.
@@ -45,13 +49,14 @@ Then, with my Saviour, Brother, Friend,
 A blest eternity I'll spend,
 Triumphant in his grace,
 Triumphant in his grace.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Matchless Worth |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O could I speak the matchless worth |
 Author | S. Medley
 Year | 1908
@@ -59,11 +64,11 @@ Composer| L. Mason |
 Hymnal|  - |
 Tune| ARIEL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

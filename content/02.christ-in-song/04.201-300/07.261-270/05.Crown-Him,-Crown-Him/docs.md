@@ -1,13 +1,17 @@
 ---
-title: 265. Crown Him, Crown Him
+title: |
+    265. Crown Him, Crown Him - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Crown Him, Crown Him, Look, ye saints, the sight is glorious, 
+    description: |
+        Christ in Song 265. Crown Him, Crown Him. Look, ye saints, the sight is glorious, See the Man of Sorrows now; From the fight returned victorious, Ev'ry knee to Him shall bow; Crown Him, crown Him, crown Him, crown Him, Crowns become the victor's brow.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Crown Him, Crown Him, Look, ye saints, the sight is glorious. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 265. CROWN HIM, CROWN HIM
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Jesus takes the highest station;
 Oh, what joy the sight affords!
 Crown Him, crown Him, crown Him, crown Him,
 King of kings, and Lord of lords.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Crown Him, Crown Him |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Look, ye saints, the sight is glorious |
 Author | T. Kelly
 Year | 1908
@@ -55,11 +60,11 @@ Composer| Henry Smart |
 Hymnal|  - |
 Tune| REGENT SQUARE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ King; Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

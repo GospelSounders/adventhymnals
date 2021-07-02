@@ -1,13 +1,17 @@
 ---
-title: 126. Penitence
+title: |
+    126. Penitence - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Penitence, Jesus, let thy pitying eye, 
+    description: |
+        Christ in Song 126. Penitence. Jesus, let thy pitying eye Call back a wand'ring sheep; False to thee, like Peter, I Would fain like Peter, weep. Speak the reconciling word, And let thy mercy melt me down; Turn, and look upon me, Lord, And break my heart of stone.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Penitence, Jesus, let thy pitying eye. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 126. PENITENCE
+####  Christ in Song,
 
 ```txt
 1.
@@ -50,13 +54,14 @@ Thy name and nature let me prove;
 Fill me with thy fulness, Lord,
 And perfect me in love.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Penitence |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, let thy pitying eye |
 Author | Charles Wesley
 Year | 1908
@@ -64,11 +69,11 @@ Composer| W. Henry Oakley |
 Hymnal|  - |
 Tune| PENITENCE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Invitation and Repentance: Returning to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

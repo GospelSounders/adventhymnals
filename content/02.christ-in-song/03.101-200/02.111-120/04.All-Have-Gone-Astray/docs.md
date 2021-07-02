@@ -1,13 +1,17 @@
 ---
-title: 114. All Have Gone Astray
+title: |
+    114. All Have Gone Astray - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, All Have Gone Astray, We all, O Lord, have gone astray, 
+    description: |
+        Christ in Song 114. All Have Gone Astray. We all, O Lord, have gone astray, And wandered from Thy heav'nly way. The wilds of sin our feet have trod, Far from the paths of Thee, our God, Far from the paths of Thee, our God.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, All Have Gone Astray, We all, O Lord, have gone astray. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 114. ALL HAVE GONE ASTRAY
+####  Christ in Song,
 
 ```txt
 1.
@@ -44,13 +48,14 @@ And grant to life s remotest day,
 By Thine unerring guidance led,
 Our willing feet Thy paths may tread,
 Our willing feet Thy paths may tread.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | All Have Gone Astray |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | We all, O Lord, have gone astray |
 Author | Josiah Pratt
 Year | 1908
@@ -58,11 +63,11 @@ Composer| W. B. Bradbury |
 Hymnal|  - |
 Tune| BACA |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Invitation and Repentance: Returning to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

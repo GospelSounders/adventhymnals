@@ -1,13 +1,17 @@
 ---
-title: 170. Take My Heart
+title: |
+    170. Take My Heart - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Take My Heart, Take my heart, O Father, take it!, 
+    description: |
+        Christ in Song 170. Take My Heart. Take my heart, O Father, take it! Make and keep it all Thine own; Let Thy Spirit melt and break it, This proud heart of sin and stone.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Take My Heart, Take my heart, O Father, take it!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 170. TAKE MY HEART
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ May the blood of Jesus heal me,
 And my sins be all forgiv'n;
 Holy Spirit, take and seal me, 
 Guide me in the path to heav'n.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Take My Heart |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Take my heart, O Father, take it! |
 Author | Anon.
 Year | 1908
@@ -47,11 +52,11 @@ Composer| L. Mason |
 Hymnal|  - |
 Tune| MOUNT VERNON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Call Accepted; Invitation and Repentance: Call Accepted |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 641. Here Am I, Send Me
+title: |
+    641. Here Am I, Send Me - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Here Am I, Send Me, Hark!  the voice of Jesus calling, 
+    description: |
+        Christ in Song 641. Here Am I, Send Me. Hark!  the voice of Jesus calling, "Who will go and work to-day? Fields are white, the harvest waiting, Who will bear the sheaves away?" Loud and long the Master calleth, Rich reward he offers free; Who will answer, gladly saying, "Here am I, O Lord, send me?"
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Here Am I, Send Me, Hark!  the voice of Jesus calling. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 641. HERE AM I, SEND ME
+####  Christ in Song,
 
 ```txt
 1.
@@ -50,13 +54,14 @@ Let his work your pleasure be;
 Answer quickly when he calleth,
 "Here am I, O Lord, send me."
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Here Am I, Send Me |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Hark!  the voice of Jesus calling |
 Author | Daniel March
 Year | 1908
@@ -64,11 +69,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| FILLMORE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Teachers' Meetings; Living His Life: Teachers' Meetings; Living His Life: Call to Activity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 350. Beneath the Cross
+title: |
+    350. Beneath the Cross - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Beneath the Cross, Beneath the cross of Jesus , 
+    description: |
+        Christ in Song 350. Beneath the Cross. Beneath the cross of Jesus I fain would take my stand; The shadow of a mighty rock Within a weary land. A home within the wilderness,  A rest upon the way, From burning of the noontide heat, And burdens of the day.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Beneath the Cross, Beneath the cross of Jesus . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 350. BENEATH THE CROSS
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Content to let the world go by,
 To know no gain nor loss,
 My sinful self, my only shame,
 My glory, all the cross.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Beneath the Cross |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Beneath the cross of Jesus  |
 Author | Elizabeth C. Clephane
 Year | 1908
@@ -53,11 +58,11 @@ Composer| Frederick C. Maker |
 Hymnal|  - |
 Tune| ST. CRISTOPHER |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Cross of Christ; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 61. The Ninety and Nine
+title: |
+    061. The Ninety and Nine - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Ninety and Nine, There were ninety and nine that safely lay, 
+    description: |
+        Christ in Song 061. The Ninety and Nine. There were ninety and nine that safely lay In the shelter of the fold, But one was out on the hills away, Far off from the gates of gold; Away on the mountains wild and bare, Away from the tender Shepherd's care, Away from the tender Shepherd's care.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Ninety and Nine, There were ninety and nine that safely lay. 
     author: Brian Onang'o
 ---
 
-
-## 61. THE NINETY AND NINE
+#### Advent Hymnals
+## 061. THE NINETY AND NINE
+####  Christ in Song,
 
 ```txt
 1.
@@ -53,13 +57,14 @@ There rose a cry to the gate of heaven,
 "Rejoice, I have found my sheep!"
 And the angels sang around the throne,
 "Rejoice for the Lord brings back His own!"
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Ninety and Nine |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | There were ninety and nine that safely lay |
 Author | Elizabeth C. Clephane
 Year | 1908
@@ -67,11 +72,11 @@ Composer| Ira D. Sankey |
 Hymnal|  - |
 Tune| There were ninety and nine that safely lay |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Special Selections: Solos |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

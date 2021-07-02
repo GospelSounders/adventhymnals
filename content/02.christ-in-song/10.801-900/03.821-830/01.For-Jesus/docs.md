@@ -1,13 +1,17 @@
 ---
-title: 821. For Jesus
+title: |
+    821. For Jesus - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, For Jesus, For Jesus, all my morning hours, 
+    description: |
+        Christ in Song 821. For Jesus. For Jesus, all my morning hours, For Jesus, all my noonday pow'rs; For Jesus, evening's gathered flow'rs, For Jesus, all for Jesus.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, For Jesus, For Jesus, all my morning hours. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 821. FOR JESUS
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ For Jesus, all who sigh in sin,
 For Jesus, all that love can win,
 For Jesus, King enthroned within,
 Yes, all, and more, for Jesus.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | For Jesus |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | For Jesus, all my morning hours |
 Author | F. E. B.
 Year | 1908
@@ -47,11 +52,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| For Jesus, all my morning hours |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 330. I Sing the Power of God
+title: |
+    330. I Sing the Power of God - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, I Sing the Power of God, I sing the mighty pow&#039;r of God, 
+    description: |
+        Christ in Song 330. I Sing the Power of God. I sing the mighty pow'r of God, That made the mountains rise, That spread the flowing seas abroad, And built the lofty skies; I sing the wisdom that ordained The sun to rule the day; The moon shines full at his command, And all the stars obey.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, I Sing the Power of God, I sing the mighty pow'r of God. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 330. I SING THE POWER OF GOD
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,25 +44,26 @@ Are subject to thy care;
 There's not a place where we can flee
 But God is present there.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Sing the Power of God |
 Key | E♭ Major |
-Titles |  |
-First Line | I sing the mighty pow&#039;r of God |
+Titles | undefined |
+First Line | I sing the mighty pow'r of God |
 Author | Isaac Watts
 Year | 1908
-Composer| F. Root |
+Composer| undefined |
 Hymnal|  - |
 Tune| VARINA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

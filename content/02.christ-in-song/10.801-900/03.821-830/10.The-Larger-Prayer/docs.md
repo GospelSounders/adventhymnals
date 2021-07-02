@@ -1,13 +1,17 @@
 ---
-title: 830. The Larger Prayer
+title: |
+    830. The Larger Prayer - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Larger Prayer, At first I prayed for light, 
+    description: |
+        Christ in Song 830. The Larger Prayer. At first I prayed for light: Could I but see the way, How gladly, swiftly would I walk To everlasting day!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Larger Prayer, At first I prayed for light. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 830. THE LARGER PRAYER
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ And light and strength and faith
 Are opening everywhere!
 God waited patiently until
 I prayed the larger pray'r.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Larger Prayer |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | At first I prayed for light |
 Author | Mrs. E. D. Cheney
 Year | 1908
@@ -53,11 +58,11 @@ Composer| C. E. Kettle |
 Hymnal|  - |
 Tune| WOOLWICH |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Love; Living His Life: Missions |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

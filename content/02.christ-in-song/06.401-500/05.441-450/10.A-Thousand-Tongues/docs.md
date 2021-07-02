@@ -1,13 +1,17 @@
 ---
-title: 450. A Thousand Tongues
+title: |
+    450. A Thousand Tongues - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Thousand Tongues, O for a thousand tongues to sing , 
+    description: |
+        Christ in Song 450. A Thousand Tongues. O for a thousand tongues to sing My great Redeemer's praise! The glories of my God and King, The triumphs of his grace, The triumphs of his grace.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Thousand Tongues, O for a thousand tongues to sing . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 450. A THOUSAND TONGUES
+####  Christ in Song,
 
 ```txt
 1.
@@ -37,13 +41,14 @@ New life the dead receive;
 The mournful, broken hearts rejoice,
 The humble poor believe,
 The humble poor believe.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Thousand Tongues |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | O for a thousand tongues to sing  |
 Author | Isaac Watts
 Year | 1908
@@ -51,11 +56,11 @@ Composer| G. F. Handel |
 Hymnal|  - |
 Tune| CHRISTMAS |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

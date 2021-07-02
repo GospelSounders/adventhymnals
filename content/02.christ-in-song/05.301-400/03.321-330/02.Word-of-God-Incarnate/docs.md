@@ -1,13 +1,17 @@
 ---
-title: 322. Word of God Incarnate
+title: |
+    322. Word of God Incarnate - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Word of God Incarnate, O Word of God incarnate, 
+    description: |
+        Christ in Song 322. Word of God Incarnate. O Word of God incarnate, O Wisdom from on high, O Truth unchanged, unchanging, O Light of our dark sky! We praise Thee for the radiance That from the hallow'd page, A lamp to guide our footsteps, Shine on from age to age.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Word of God Incarnate, O Word of God incarnate. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 322. WORD OF GOD INCARNATE
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ O teach Thy wand'ring pilgrims
 By this their path to trace,
 Till, clouds and darkness ended,
 They see Thee face to face.  Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Word of God Incarnate |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | O Word of God incarnate |
 Author | W. W. How
 Year | 1908
@@ -63,11 +68,11 @@ Composer| Mendelssohn |
 Hymnal|  - |
 Tune| MUNICH |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

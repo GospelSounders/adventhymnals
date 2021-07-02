@@ -1,13 +1,17 @@
 ---
-title: 723. O For a Faith!
+title: |
+    723. O For a Faith! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, O For a Faith!, O for a faith that will not shrink, 
+    description: |
+        Christ in Song 723. O For a Faith!. O for a faith that will not shrink, Tho' press'd by many a foe; That will not tremble on the brink Of poverty or woe;
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, O For a Faith!, O for a faith that will not shrink. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 723. O FOR A FAITH!
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Lord, give me such a faith as this,
 And then, whate'er may come,
 I'll taste e'en here the hallowed bliss
 Of an eternal home.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O For a Faith! |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O for a faith that will not shrink |
 Author | Bathurst
 Year | 1908
@@ -53,11 +58,11 @@ Composer| J. Ingalls |
 Hymnal|  - |
 Tune| NORTHFIELD |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Faith; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

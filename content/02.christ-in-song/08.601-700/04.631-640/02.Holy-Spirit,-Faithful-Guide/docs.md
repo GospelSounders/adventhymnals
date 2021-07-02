@@ -1,13 +1,17 @@
 ---
-title: 632. Holy Spirit, Faithful Guide
+title: |
+    632. Holy Spirit, Faithful Guide - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Holy Spirit, Faithful Guide, Holy Spirit, faithful Guide, 
+    description: |
+        Christ in Song 632. Holy Spirit, Faithful Guide. Holy Spirit, faithful Guide, Ever near the Christian's side; Gently lead us by the hand, Pilgrims in a desert land; Weary souls for e'er rejoice, When they hear that sweetest voice, Whisper softly, "Wand'rer, come!  Follow me, I'll guide thee home."
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Holy Spirit, Faithful Guide, Holy Spirit, faithful Guide. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 632. HOLY SPIRIT, FAITHFUL GUIDE
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Wading deep the dismal flood,
 Pleading nought but Jesus' blood,
 Whisper softly, "Wand'rer, come!
 Follow me, I'll guide thee home."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Holy Spirit, Faithful Guide |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Holy Spirit, faithful Guide |
 Author | M. M. W.
 Year | 1908
@@ -53,11 +58,11 @@ Composer| M. M. Wells |
 Hymnal|  - |
 Tune| GUIDE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Holy Spirit: Guide |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 299. My Jesus, I Love Thee
+title: |
+    299. My Jesus, I Love Thee - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, My Jesus, I Love Thee, My Jesus, I love thee, I know thou art mine, 
+    description: |
+        Christ in Song 299. My Jesus, I Love Thee. My Jesus, I love thee, I know thou art mine, For thee all the follies of sin I resign; My gracious Redeemer, my Saviour art thou; If ever I loved thee, my Jesus, 'tis now.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, My Jesus, I Love Thee, My Jesus, I love thee, I know thou art mine. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 299. MY JESUS, I LOVE THEE
+####  Christ in Song,
 
 ```txt
 1.
@@ -35,13 +39,14 @@ And sing with the glittering crown on my brow,
 If ever I loved thee, my Jesus, 'tis now.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | My Jesus, I Love Thee |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | My Jesus, I love thee, I know thou art mine |
 Author | Anon.
 Year | 1908
@@ -49,11 +54,11 @@ Composer| A. J. Gordon |
 Hymnal|  - |
 Tune| My Jesus, I love thee |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Precious |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

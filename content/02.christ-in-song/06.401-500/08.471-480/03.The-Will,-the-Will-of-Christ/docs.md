@@ -1,13 +1,17 @@
 ---
-title: 473. The Will, the Will of Christ
+title: |
+    473. The Will, the Will of Christ - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Will, the Will of Christ, Around the world the chorus rings, 
+    description: |
+        Christ in Song 473. The Will, the Will of Christ. Around the world the chorus rings, And hands are joined with hands; A Brotherhood of Service sings In all the happy lands; United sounds the watchword still That ever has sufficed;  "The will, the will, the blessed will! The will of Jesus Christ!"
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Will, the Will of Christ, Around the world the chorus rings. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 473. THE WILL, THE WILL OF CHRIST
+####  Christ in Song,
 
 ```txt
 1.
@@ -51,13 +55,14 @@ Is One that keepeth tryst;
 Our Master, Jesus Christ!"
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Will, the Will of Christ |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Around the world the chorus rings |
 Author | Amos R. Wells
 Year | 1908
@@ -65,11 +70,11 @@ Composer| W. S. Weeden |
 Hymnal|  - |
 Tune| Around the world the chorus rings |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Service and Dependence; Living His Life: Consecration |
 Texts | Philippians 2:13 |
 Print Texts | 
 Scripture Song |  |
-  
+    

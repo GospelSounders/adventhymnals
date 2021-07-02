@@ -1,13 +1,17 @@
 ---
-title: 175. Angels Hovering Round
+title: |
+    175. Angels Hovering Round - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Angels Hovering Round, There are angels hov&#039;ring round, 
+    description: |
+        Christ in Song 175. Angels Hovering Round. There are angels hov'ring round, There are angels hov'ring round, There are angels, angels hov'ring round.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Angels Hovering Round, There are angels hov'ring round. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 175. ANGELS HOVERING ROUND
+####  Christ in Song,
 
 ```txt
 1.
@@ -24,25 +28,26 @@ There are, etc.
 Let him that heareth, come,
 O come, while yet there's room;
 There are, etc.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Angels Hovering Round |
 Key | G Major |
-Titles |  |
-First Line | There are angels hov&#039;ring round |
-Author | 
+Titles | undefined |
+First Line | There are angels hov'ring round |
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune| There are angels hov&#039;ring round |
+Tune| There are angels hov'ring round |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

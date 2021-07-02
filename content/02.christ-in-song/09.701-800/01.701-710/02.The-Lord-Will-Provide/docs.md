@@ -1,13 +1,17 @@
 ---
-title: 702. The Lord Will Provide
+title: |
+    702. The Lord Will Provide - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Lord Will Provide, In some way or other, the Lord will provide, 
+    description: |
+        Christ in Song 702. The Lord Will Provide. In some way or other the Lord will provide, It may not be my way, It may not be thy way, And yet in his own way, "the Lord will provide."
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Lord Will Provide, In some way or other, the Lord will provide. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 702. THE LORD WILL PROVIDE
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ March on, then, right boldly; the sea shall divide;
 The path shall be glorious;
 With shoutings victorious
 We'll join in the chorus, "the Lord will provide."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Lord Will Provide |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | In some way or other, the Lord will provide |
 Author | Mrs. M. A. W. Cook
 Year | 1908
@@ -47,11 +52,11 @@ Composer| C. S. Harrington |
 Hymnal|  - |
 Tune| In some way or other the Lord will provide |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God Provides |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

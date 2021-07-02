@@ -1,13 +1,17 @@
 ---
-title: 255. Sweetly Sing
+title: |
+    255. Sweetly Sing - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Sweetly Sing, Sweetly sing, sweetly sing , 
+    description: |
+        Christ in Song 255. Sweetly Sing. Sweetly sing, sweetly sing, Praises to our heav'nly King; Let us raise, let us raise High our notes of praise; Praise to Him whose name is Love, Praise to Him who reigns above; Raise your songs, raise your songs, Now with thankful tongues.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Sweetly Sing, Sweetly sing, sweetly sing . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 255. SWEETLY SING
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ He redeem'd us by his grace,
 Then prepar'd in heav'n a place
 To receive, to receive,
 All who will believe.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sweetly Sing |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Sweetly sing, sweetly sing  |
 Author | Miss J. W. Sampson
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| Sweetly sing, sweetly sing |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Children's Hymns |
 Texts | Jeremiah 20:13 |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 421. The Best of Days
+title: |
+    421. The Best of Days - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Best of Days, This is the day of rest, 
+    description: |
+        Christ in Song 421. The Best of Days. This is the day of rest; Our failing strength renew; On weary brain and troubled breast Shed thou thy fresh'ning dew.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Best of Days, This is the day of rest. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 421. THE BEST OF DAYS
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ This is the best of days;
 Send forth thy quick'ning breath,
 And wake dead souls to love and praise,
 O Vanquisher of death!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Best of Days |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | This is the day of rest |
 Author | Rev. J. Ellerton
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Schumann |
 Hymnal|  - |
 Tune| SCHUMANN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: The Rest Day |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

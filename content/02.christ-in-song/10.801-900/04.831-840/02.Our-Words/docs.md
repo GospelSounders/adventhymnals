@@ -1,13 +1,17 @@
 ---
-title: 832. Our Words
+title: |
+    832. Our Words - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Our Words, Words are things of little cost, 
+    description: |
+        Christ in Song 832. Our Words. Words are things of little cost, Quickly spoken, quickly lost; We forget them, but they stand Witnesses at God's right hand, And their testimony bear For us or against us there.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Our Words, Words are things of little cost. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 832. OUR WORDS
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ May our lips from sin kept free,
 Love to speak and sing of Thee;
 Till in heav'n we learn to raise
 Hymns of everlasting praise.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Our Words |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Words are things of little cost |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| SPANISH HYMN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Kind Words |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

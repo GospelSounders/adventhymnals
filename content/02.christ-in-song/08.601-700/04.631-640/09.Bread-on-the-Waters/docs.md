@@ -1,13 +1,17 @@
 ---
-title: 639. Bread on the Waters
+title: |
+    639. Bread on the Waters - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Bread on the Waters, "Cast thy bread upon the waters", 
+    description: |
+        Christ in Song 639. Bread on the Waters. "Cast thy bread upon the waters, Ye who have but scant supply; Angel eyes will watch above it; You shall find it by and by; He who in his righteous balance, Doth each human action weigh, Will your sacrifice remember, Will your loving deeds repay.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Bread on the Waters, "Cast thy bread upon the waters". 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 639. BREAD ON THE WATERS
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ You may think it lost forever,
 But, as sure as God is true,
 In this life, or in the other,
 It will yet return to you.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Bread on the Waters |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | "Cast thy bread upon the waters" |
 Author | Anon.
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| CHARITY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Giving |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 681. A Mighty Fortress
+title: |
+    681. A Mighty Fortress - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Mighty Fortress, A mighty fortress is our God, 
+    description: |
+        Christ in Song 681. A Mighty Fortress. A mighty fortress is our God, A bulwark never failing; Our helper he, amid the flood Of mortal ills prevailing. For still our ancient foe Doth seek to work his woe; His craft and pow'r are great, And arm'd with cruel hate; On earth is not his equal.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Mighty Fortress, A mighty fortress is our God. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 681. A MIGHTY FORTRESS
+####  Christ in Song,
 
 ```txt
 1.
@@ -43,25 +47,26 @@ The body they may kill;
 God's truth abideth still,
 His kingdom is forever.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Mighty Fortress |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | A mighty fortress is our God |
 Author | Luther
 Year | 1908
 Composer| Martin Luther |
 Hymnal|  - |
-Tune| EIN&#039; FESTE BURG |
+Tune| EIN' FESTE BURG |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God Our Helper; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

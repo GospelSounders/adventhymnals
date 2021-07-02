@@ -1,13 +1,17 @@
 ---
-title: 741. Sweet Hour of Prayer
+title: |
+    741. Sweet Hour of Prayer - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Sweet Hour of Prayer, Sweet hour of pray&#039;r, sweet hour of pray&#039;r, 
+    description: |
+        Christ in Song 741. Sweet Hour of Prayer. Sweet hour of pray'r, sweet hour of pray'r, That calls me from a world of care, And bids me, at my Father's throne Make all my wants and wishes known! In seasons of distress and grief, My soul has often found relief, And oft escaped the tempter's snare, By thy return, sweet hour of pray'r.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Sweet Hour of Prayer, Sweet hour of pray'r, sweet hour of pray'r. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 741. SWEET HOUR OF PRAYER
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,25 +45,26 @@ And shout while passing thro' the air,
 "Farewell, farewell, sweet hour of prayer!" 
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sweet Hour of Prayer |
 Key | D Major |
-Titles |  |
-First Line | Sweet hour of pray&#039;r, sweet hour of pray&#039;r |
+Titles | undefined |
+First Line | Sweet hour of pray'r, sweet hour of pray'r |
 Author | W. W. Walford
 Year | 1908
 Composer| W. B. Bradbury |
 Hymnal|  - |
-Tune| Sweet hour of pray&#039;r, sweet hour of pray&#039;r |
+Tune| Sweet hour of pray'r, sweet hour of pray'r |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Prayer; Living His Life: Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

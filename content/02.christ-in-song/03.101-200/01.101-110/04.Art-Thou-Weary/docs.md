@@ -1,13 +1,17 @@
 ---
-title: 104. Art Thou Weary?
+title: |
+    104. Art Thou Weary? - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Art Thou Weary?, Art thou weary, art thou languid, 
+    description: |
+        Christ in Song 104. Art Thou Weary?. Art thou weary, art thou languid, Art thou sore distrest? "Come to Me," saith One,  "and, coming, Be at rest."
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Art Thou Weary?, Art thou weary, art thou languid. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 104. ART THOU WEARY?
+####  Christ in Song,
 
 ```txt
 1.
@@ -52,13 +56,14 @@ Is He sure to bless?
 "Saints, apostles, prophets, martyrs, 
 Answer, Yes."  Amen.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Art Thou Weary? |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Art thou weary, art thou languid |
 Author | J. M. Neale
 Year | 1908
@@ -66,11 +71,11 @@ Composer| H. W. Baker |
 Hymnal|  - |
 Tune| STEPHANOS |
 Metrical pattern | |
-# Stanzas | 7 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Christ: Rest in Christ; Living His Life: Rest in Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

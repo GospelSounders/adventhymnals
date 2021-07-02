@@ -1,13 +1,17 @@
 ---
-title: 819. Let Us Work Too
+title: |
+    819. Let Us Work Too - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Let Us Work Too, The Lord worketh, let us work too, 
+    description: |
+        Christ in Song 819. Let Us Work Too. The Lord worketh, let us work too; In his vineyard there's much to do, And souls perish for need of you: The Lord worketh, let us work too.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Let Us Work Too, The Lord worketh, let us work too. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 819. LET US WORK TOO
+####  Christ in Song,
 
 ```txt
 1.
@@ -35,13 +39,14 @@ With hearts loving and pure and true:
 The Christ liveth, let us live too.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Let Us Work Too |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | The Lord worketh, let us work too |
 Author | F. E. B.
 Year | 1908
@@ -49,11 +54,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| The Lord worketh, let us work too |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Call to Activity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

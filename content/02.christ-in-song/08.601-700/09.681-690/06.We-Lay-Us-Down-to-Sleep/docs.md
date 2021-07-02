@@ -1,13 +1,17 @@
 ---
-title: 686. We Lay Us Down to Sleep
+title: |
+    686. We Lay Us Down to Sleep - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, We Lay Us Down to Sleep, We lay us calmly down to sleep, 
+    description: |
+        Christ in Song 686. We Lay Us Down to Sleep. We lay us calmly down to sleep When friendly night is come, and leave To God the rest; Whether we wake to smile or weep, Or wake no more on time's fair shore, He knoweth best, He knoweth best. O Father, us in safety keep! We lay us down to sleep.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, We Lay Us Down to Sleep, We lay us calmly down to sleep. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 686. WE LAY US DOWN TO SLEEP
+####  Christ in Song,
 
 ```txt
 1.
@@ -50,25 +54,26 @@ Beneath the sun, Beneath the sun.
 O Father, us in safety keep!
 We lay us down to sleep.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Lay Us Down to Sleep |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | We lay us calmly down to sleep |
 Author | Anon.
 Year | 1908
-Composer| Schumann |
+Composer| undefined |
 Hymnal|  - |
 Tune| We lay us calmly down to sleep |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Funeral Hymns; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

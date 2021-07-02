@@ -1,13 +1,17 @@
 ---
-title: 627. Soldiers of the Cross
+title: |
+    627. Soldiers of the Cross - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Soldiers of the Cross, Soldiers of the cross, arise!, 
+    description: |
+        Christ in Song 627. Soldiers of the Cross. Soldiers of the cross, arise! Lo!  your Leader from the skies Waves before you glory's prize, Prize of victory. Seize your armor, gird it on: Soon the battle will be won; See!  the strife is almost done; Struggle manfully.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Soldiers of the Cross, Soldiers of the cross, arise!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 627. SOLDIERS OF THE CROSS
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,25 +44,26 @@ Who can doubt, or who can fear?
 God our strength and shield, is near;
 Can we suffer loss?
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Soldiers of the Cross |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Soldiers of the cross, arise! |
 Author | Waterbury
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| CALEDONIA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Warfare and Victory; Living His Life: Warfare and Victory |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

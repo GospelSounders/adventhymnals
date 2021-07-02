@@ -1,13 +1,17 @@
 ---
-title: 652. Pilot Me
+title: |
+    652. Pilot Me - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Pilot Me, Jesus, Saviour, pilot me, 
+    description: |
+        Christ in Song 652. Pilot Me. Jesus, Saviour, pilot me Over life's tempestuous sea; Unknown waves before me roll, Hiding rock and treach'rous shoal; Chart and compass came from thee; Jesus, Saviour, pilot me.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Pilot Me, Jesus, Saviour, pilot me. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 652. PILOT ME
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ And the fearful breakers roar
 Then, while leaning on thy breast,
 May I hear thee say to me,
 "Fear not, I will pilot thee."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Pilot Me |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, Saviour, pilot me |
 Author | Edward Hopper
 Year | 1908
@@ -47,11 +52,11 @@ Composer| John E. Gould |
 Hymnal|  - |
 Tune| GOULD |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Voyagers; Living His Life: Voyagers |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

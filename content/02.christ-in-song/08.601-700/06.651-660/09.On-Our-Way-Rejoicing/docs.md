@@ -1,13 +1,17 @@
 ---
-title: 659. On Our Way Rejoicing
+title: |
+    659. On Our Way Rejoicing - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, On Our Way Rejoicing, On our way rejoicing, On our way rejoicing
+    description: |
+        Christ in Song 659. On Our Way Rejoicing. On our way rejoicing, As we homeward move, Hearken to our praises, O thou God of love! Is there grief or sadness? Thine it cannot be! Is our sky beclouded? Clouds are not from Thee! 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, On Our Way Rejoicing, On our way rejoicing. On our way rejoicing,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 659. ON OUR WAY REJOICING
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,14 +38,7 @@ Doing what we can;
 Thou who giv'st the seed-time
 Wilt give large increase,
 Crown the head with blessings
-Fill the heart with peace. 
-
-Refrain:
-On our way rejoicing,
-As we homeward move,
-Hearken to our praises,
-O Thou God of love!
-
+Fill the heart with peace.  [Refrain]
 
 3.
 On our way rejoicing
@@ -51,14 +48,7 @@ Vanquished is our foe!
 Christ without, our safety;
 Christ within, our joy;
 Who, if we be faithful,
-Can our hope destroy? 
-
-Refrain:
-On our way rejoicing,
-As we homeward move,
-Hearken to our praises,
-O Thou God of love!
-
+Can our hope destroy?  [Refrain]
 
 4.
 Unto God the Father
@@ -68,33 +58,27 @@ Thankful hearts we bring.
 Unto God the Spirit
 Bow we and adore,
 On our way rejoicing
-Now and evermore! 
-
-Refrain:
-On our way rejoicing,
-As we homeward move,
-Hearken to our praises,
-O Thou God of love!
+Now and evermore!  [Refrain]
 
 ```
 
 - |   -  |
 -------------|------------|
 Title | On Our Way Rejoicing |
-Key |  |
-Titles | On our way rejoicing |
+Key | undefined |
+Titles | On our way rejoicing, |
 First Line | On our way rejoicing |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| ST. GERTRUDE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Precious; Hymns for Worship: Closing Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

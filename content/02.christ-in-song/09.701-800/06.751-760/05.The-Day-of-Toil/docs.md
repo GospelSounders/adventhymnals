@@ -1,13 +1,17 @@
 ---
-title: 755. The Day of Toil
+title: |
+    755. The Day of Toil - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Day of Toil, This is the day of toil, 
+    description: |
+        Christ in Song 755. The Day of Toil. This is the day of toil Beneath earth's sultry noon; This is the day of service true, But resting cometh soon.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Day of Toil, This is the day of toil. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 755. THE DAY OF TOIL
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ The way may rougher grow,
 The weariness increase,
 We gird our loins and hasten on,
 The end, the end is peace.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Day of Toil |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | This is the day of toil |
 Author | Bonar
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Mornington |
 Hymnal|  - |
 Tune| MORNINGTON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Call to Activity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

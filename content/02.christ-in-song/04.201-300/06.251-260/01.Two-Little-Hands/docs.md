@@ -1,13 +1,17 @@
 ---
-title: 251. Two Little Hands
+title: |
+    251. Two Little Hands - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Two Little Hands, I&#039;ve two little hands to work for Jesus, Lord, we come, Lord, we come
+    description: |
+        Christ in Song 251. Two Little Hands. I've two little hands to work for Jesus, One little tongue his praise to tell, Two little ears to hear his counsel, One little voice a song to swell. Chorus: Lord, we come, Lord, we come, In our childhood's early morning, Lord, we come, Lord, we come, Come to learn of thee.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Two Little Hands, I've two little hands to work for Jesus. Lord, we come, Lord, we come,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 251. TWO LITTLE HANDS
+####  Christ in Song,
 
 ```txt
 1.
@@ -26,26 +30,13 @@ Come to learn of thee.
 I've two little feet to tread the pathway
 Up to the heav'nly courts above;
 Two little eyes to read the Bible,
-Telling of Jesus' wondrous love. 
-
-Chorus:
-Lord, we come, Lord, we come,
-In our childhood's early morning,
-Lord, we come, Lord, we come,
-Come to learn of thee.
-
+Telling of Jesus' wondrous love.  [Chorus]
 
 3.
 I've one little heart to give to Jesus,
 One little soul for him to save,
 One little life for his dear service,
-One little self that he must have. 
-
-Chorus:
-Lord, we come, Lord, we come,
-In our childhood's early morning,
-Lord, we come, Lord, we come,
-Come to learn of thee.
+One little self that he must have.  [Chorus]
 
 ```
 
@@ -53,19 +44,19 @@ Come to learn of thee.
 -------------|------------|
 Title | Two Little Hands |
 Key | D Major |
-Titles | Lord, we come, Lord, we come |
-First Line | I&#039;ve two little hands to work for Jesus |
+Titles | Lord, we come, Lord, we come, |
+First Line | I've two little hands to work for Jesus |
 Author | W. A. O.
 Year | 1908
 Composer| W. A. Ogden |
 Hymnal|  - |
-Tune| I&#039;ve two little hands to work for Jesus |
+Tune| I've two little hands to work for Jesus |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Children's Hymns |
 Texts | 1 Samuel 1:28 |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 798. Though Nature Weeps
+title: |
+    798. Though Nature Weeps - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Though Nature Weeps, Lovely this child, asleep in death, 
+    description: |
+        Christ in Song 798. Though Nature Weeps. Lovely this child, asleep in death; How beautiful and fair! Yes, even now, tho' void of breath, God's impress still is there.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Though Nature Weeps, Lovely this child, asleep in death. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 798. THOUGH NATURE WEEPS
+####  Christ in Song,
 
 ```txt
 1.
@@ -29,25 +33,26 @@ Yet faith the Saviour's word applies,
 "Of such the realms of heav'n."
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Though Nature Weeps |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Lovely this child, asleep in death |
 Author | Anon.
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| PATMOS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Funeral Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

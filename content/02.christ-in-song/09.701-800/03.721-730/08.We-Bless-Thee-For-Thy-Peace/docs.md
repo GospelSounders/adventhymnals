@@ -1,13 +1,17 @@
 ---
-title: 728. We Bless Thee For Thy Peace
+title: |
+    728. We Bless Thee For Thy Peace - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, We Bless Thee For Thy Peace, We bless Thee for Thy peace, O God, 
+    description: |
+        Christ in Song 728. We Bless Thee For Thy Peace. We bless Thee for Thy peace, O God, Deep as th' unfathomed sea, Which falls like sunshine on the road Of those who trust in Thee.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, We Bless Thee For Thy Peace, We bless Thee for Thy peace, O God. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 728. WE BLESS THEE FOR THY PEACE
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ O Father, give our hearts this peace,
 Whate'er the outward be,
 Till all life's discipline shall cease,
 And we go home to Thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Bless Thee For Thy Peace |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | We bless Thee for Thy peace, O God |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Peace; Living His Life: Peace |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

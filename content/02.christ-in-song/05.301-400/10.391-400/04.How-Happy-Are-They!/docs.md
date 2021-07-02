@@ -1,13 +1,17 @@
 ---
-title: 394. How Happy Are They!
+title: |
+    394. How Happy Are They! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, How Happy Are They!, O, how happy are they , 
+    description: |
+        Christ in Song 394. How Happy Are They!. O, how happy are they Who their Saviour obey, And have laid up their treasure above! Tongue can never express The sweet comfort and peace Of a soul in its earliest love.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, How Happy Are They!, O, how happy are they . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 394. HOW HAPPY ARE THEY!
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ All my sin, and temptation, and pain;
 O, that all would believe,
 And by sin never grieve,
 And thus cause him to suffer again.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Happy Are They! |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O, how happy are they  |
 Author | Charles Wesley
 Year | 1908
@@ -63,11 +68,11 @@ Composer| Arranged |
 Hymnal|  - |
 Tune| CONVERT |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
-Subjects |  |
-Texts |  |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects | undefined |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 161. Come, Holy Spirit
+title: |
+    161. Come, Holy Spirit - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Come, Holy Spirit, Come, Holy Spirit, come, 
+    description: |
+        Christ in Song 161. Come, Holy Spirit. Come, Holy Spirit, come, Let thy bright beams arise, Dispel the sorrow from our minds, The darkness from our eyes.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Come, Holy Spirit, Come, Holy Spirit, come. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 161. COME, HOLY SPIRIT
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ The mercies of our God.
 To sanctify the soul,
 To pour fresh life in ev'ry part,
 And new create the whole.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come, Holy Spirit |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, Holy Spirit, come |
 Author | Joseph Hart
 Year | 1908
@@ -41,11 +46,11 @@ Composer| Handel |
 Hymnal|  - |
 Tune| ST. THOMAS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Holy Spirit: Refiner |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

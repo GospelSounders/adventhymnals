@@ -1,13 +1,17 @@
 ---
-title: 298. Bliss of the Pure
+title: |
+    298. Bliss of the Pure - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Bliss of the Pure, O bliss of the pure ones!, 
+    description: |
+        Christ in Song 298. Bliss of the Pure. O bliss of the pure ones! O bliss of the free! I've plung'd in the fountain once open'd for me! O'er sin and uncleanness exulting I stand, And point to the nailprints in his holy hands, And point to the nailprints in his holy hands.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Bliss of the Pure, O bliss of the pure ones!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 298. BLISS OF THE PURE
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,25 +44,26 @@ My blessed Redeemer, my God and my King;
 My soul fill'd with rapture, shall shout o'er the grave;
 In him will I triumph, the "Mighty to Save!"  
 In him will I triumph, the "Mighty to Save!"
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Bliss of the Pure |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O bliss of the pure ones! |
-Author | 
+Author | undefined
 Year | 1908
-Composer| Koschat |
+Composer| undefined |
 Hymnal|  - |
 Tune| O bliss of the pure ones! |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Purity; Living His Life: Purity; Special Selections: Male Voices |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

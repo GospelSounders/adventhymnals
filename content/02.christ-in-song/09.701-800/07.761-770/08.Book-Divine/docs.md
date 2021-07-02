@@ -1,13 +1,17 @@
 ---
-title: 768. Book Divine
+title: |
+    768. Book Divine - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Book Divine, Holy Bible!  book divine!  , 
+    description: |
+        Christ in Song 768. Book Divine. Holy Bible!  book divine! Precious treasure, thou art mine! Mine to tell me whence I came; Mine to teach me what I am;
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Book Divine, Holy Bible!  book divine!  . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 768. BOOK DIVINE
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ In the saints' eternal home:
 O thou holy Book divine,
 Precious treasure, thou art mine!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Book Divine |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Holy Bible!  book divine!   |
 Author | John Burton
 Year | 1908
@@ -48,11 +53,11 @@ Composer| Wartensee |
 Hymnal|  - |
 Tune| HORTON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

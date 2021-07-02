@@ -1,13 +1,17 @@
 ---
-title: 116. The Sprinkled Blood
+title: |
+    116. The Sprinkled Blood - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Sprinkled Blood, The sprinkled blood is speaking, 
+    description: |
+        Christ in Song 116. The Sprinkled Blood. The sprinkled blood is speaking Before the Father's throne, The Spirit's pow'r is seeking To make its virtues known; The sprinkled blood is telling Jehovah's love to man, While heav'nly harps are swelling, Sweet notes to mercy's plan.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Sprinkled Blood, The sprinkled blood is speaking. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 116. THE SPRINKLED BLOOD
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ The sprinkled blood is shedding
 Its fragrance all around,
 It gilds the path we're treading,
 It makes our joys abound. 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Sprinkled Blood |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The sprinkled blood is speaking |
 Author | Anon.
 Year | 1908
@@ -63,11 +68,11 @@ Composer| Webb |
 Hymnal|  - |
 Tune| WEBB |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Christ: Christ Mediator |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

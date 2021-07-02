@@ -1,13 +1,17 @@
 ---
-title: 644. Courage, Brother!
+title: |
+    644. Courage, Brother! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Courage, Brother!, Courage, brother!  do not stumble, 
+    description: |
+        Christ in Song 644. Courage, Brother!. Courage, brother!  do not stumble, Tho' thy path be dark as night; There's a star to guide the humble: Trust in God, and do the right. Let the road be rough and dreary, And its end far out of sight, Foot it bravely; strong or weary, Trust in God, trust in God, Trust in God and do the right.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Courage, Brother!, Courage, brother!  do not stumble. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 644. COURAGE, BROTHER!
+####  Christ in Song,
 
 ```txt
 1.
@@ -44,13 +48,14 @@ Trust in God, trust in God,
 Trust in God and do the right.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Courage, Brother! |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Courage, brother!  do not stumble |
 Author | Norman Macleod
 Year | 1908
@@ -58,11 +63,11 @@ Composer| A. S. Sullivan |
 Hymnal|  - |
 Tune| TRUST |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Trusting; Living His Life: Trusting; Living His Life: Loyalty to Christ<span id='more_topics' style='display:none'>; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

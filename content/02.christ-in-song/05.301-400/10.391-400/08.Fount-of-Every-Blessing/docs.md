@@ -1,13 +1,17 @@
 ---
-title: 398. Fount of Every Blessing
+title: |
+    398. Fount of Every Blessing - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Fount of Every Blessing, Come, thou Fount of ev&#039;ry blessing, 
+    description: |
+        Christ in Song 398. Fount of Every Blessing. Come, thou Fount of ev'ry blessing, Tune my heart to sing thy grace; Streams of mercy, never ceasing,  Call for songs of loudest praise. Teach me ever to adore thee, May I still thy goodness prove, While the hope of endless glory Fills my heart with joy and love.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Fount of Every Blessing, Come, thou Fount of ev'ry blessing. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 398. FOUNT OF EVERY BLESSING
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ Prone to wander, Lord, I feel it,
 Prone to leave the God I love,
 Here's my heart, O, take and seal it;
 Seal it for thy courts above.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Fount of Every Blessing |
 Key | E♭ Major |
-Titles |  |
-First Line | Come, thou Fount of ev&#039;ry blessing |
+Titles | undefined |
+First Line | Come, thou Fount of ev'ry blessing |
 Author | R. Robinson
 Year | 1908
 Composer| Nettleton |
 Hymnal|  - |
 Tune| NETTLETON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

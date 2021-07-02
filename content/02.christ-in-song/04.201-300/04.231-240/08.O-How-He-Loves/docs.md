@@ -1,13 +1,17 @@
 ---
-title: 238. O How He Loves
+title: |
+    238. O How He Loves - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, O How He Loves, One there is above all others, 
+    description: |
+        Christ in Song 238. O How He Loves. One there is above all others, O how He loves! His is love beyond a brother's, O how He loves! Earthly friends may fail or leave us, One day soothe, the next day grieve us; But this Friend will ne'er deceive us, O how He loves!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, O How He Loves, One there is above all others. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 238. O HOW HE LOVES
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,25 +53,26 @@ Best of blessings He'll provide us,
 Naught but good shall e'er betide us,
 Safe to glory He will guide us,
 O how He loves!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O How He Loves |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | One there is above all others |
-Author | 
+Author | undefined
 Year | 1908
 Composer| Hubert P. Main |
 Hymnal|  - |
 Tune| One there is above all others |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ's Best Friend; Christ: Christ Best Friend; Christ: Christ Precious |
 Texts | Jeremiah 31:3 |
 Print Texts | 
 Scripture Song |  |
-  
+    

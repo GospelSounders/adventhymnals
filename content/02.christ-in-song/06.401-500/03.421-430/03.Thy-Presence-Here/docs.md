@@ -1,13 +1,17 @@
 ---
-title: 423. Thy Presence Here
+title: |
+    423. Thy Presence Here - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Thy Presence Here, God of the universe, to thee, 
+    description: |
+        Christ in Song 423. Thy Presence Here. God of the universe, to thee These sacred walls we rear; And now, with songs and bended knee, Invoke thy presence here.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Thy Presence Here, God of the universe, to thee. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 423. THY PRESENCE HERE
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ And when the last long Sabbath morn
 Upon the just shall rise,
 May all who own thee here, be borne
 To mansions in the skies.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thy Presence Here |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | God of the universe, to thee |
 Author | Anon.
 Year | 1908
@@ -41,11 +46,11 @@ Composer| John Chetham |
 Hymnal|  - |
 Tune| MARLOW |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Dedication of Church |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

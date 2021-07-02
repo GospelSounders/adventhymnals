@@ -1,13 +1,17 @@
 ---
-title: 345. Love Divine
+title: |
+    345. Love Divine - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Love Divine, Love divine, all love excelling, 
+    description: |
+        Christ in Song 345. Love Divine. Love divine, all love excelling, Joy of heav'n to earth come down! Fix in us thy humble dwelling; All thy faithful mercies crown. Jesus, thou art all compassion, Pure, unbounded love thou art; Visit us with thy salvation; Enter ev'ry trembling heart.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Love Divine, Love divine, all love excelling. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 345. LOVE DIVINE
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Till we cast our crowns before thee,
 Lost in wonder, love, and praise.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Love Divine |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Love divine, all love excelling |
 Author | C. Wesley
 Year | 1908
@@ -55,11 +60,11 @@ Composer| John Zundel |
 Hymnal|  - |
 Tune| BEECHER |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

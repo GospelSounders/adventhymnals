@@ -1,13 +1,17 @@
 ---
-title: 838. Spirit of Truth
+title: |
+    838. Spirit of Truth - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Spirit of Truth, Spirit of truth and might, 
+    description: |
+        Christ in Song 838. Spirit of Truth. Spirit of truth and might, 'Tis Thou alone canst teach Both young and old to use aright The wondrous power of speech.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Spirit of Truth, Spirit of truth and might. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 838. SPIRIT OF TRUTH
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ May all our words below
 Be prompted by Thy love,
 Till we are called to hear and know
 The speech of saints above.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Spirit of Truth |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | Spirit of truth and might |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Loyalty to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

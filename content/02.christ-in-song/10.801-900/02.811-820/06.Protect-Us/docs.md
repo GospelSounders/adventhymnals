@@ -1,13 +1,17 @@
 ---
-title: 816. Protect Us
+title: |
+    816. Protect Us - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Protect Us, My country, &#039;tis of thee, 
+    description: |
+        Christ in Song 816. Protect Us. My country, 'tis of thee, Sweet land of liberty, Of thee I sing; Land where my fathers died, Land of the pilgrims' pride, From ev'ry mountain side Let freedom ring.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Protect Us, My country, 'tis of thee. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 816. PROTECT US
+####  Christ in Song,
 
 ```txt
 1.
@@ -45,25 +49,26 @@ Long may our land be bright
 With freedom's holy light;
 Protect us by thy might,
 Great God, our King.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Protect Us |
 Key | G Major |
-Titles |  |
-First Line | My country, &#039;tis of thee |
+Titles | undefined |
+First Line | My country, 'tis of thee |
 Author | Rev. Samuel Smith
 Year | 1908
 Composer| Henry Carey |
 Hymnal|  - |
 Tune| AMERICA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Protection; Special Occasions: Patriotic Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

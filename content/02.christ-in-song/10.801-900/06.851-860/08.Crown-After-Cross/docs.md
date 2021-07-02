@@ -1,13 +1,17 @@
 ---
-title: 858. Crown After Cross
+title: |
+    858. Crown After Cross - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Crown After Cross, Light after darkness, Now comes the weeping
+    description: |
+        Christ in Song 858. Crown After Cross. Light after darkness, Gain after loss, Strength after weariness, Crown after cross. Sweet after bitter,  Song after sigh, Home after wandering, Praise after cry. 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Crown After Cross, Light after darkness. Now comes the weeping,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 858. CROWN AFTER CROSS
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,14 +38,7 @@ Peace after pain.
 Joy after sorrow,
 Calm after blast,
 Rest after weariness 
-Sweet rest at last. 
-
-Refrain:
-Now comes the weeping,
-Then the glad reaping,
-Now comes the labor hard,
-Then the reward.
-
+Sweet rest at last.  [Refrain]
 
 3.
 Near after distant,
@@ -51,13 +48,7 @@ Life after tomb,
 After long agony,
 Rapture of bliss!
 Right was the pathway
-Leading to this. 
-
-Refrain:
-Now comes the weeping,
-Then the glad reaping,
-Now comes the labor hard,
-Then the reward.
+Leading to this.  [Refrain]
 
 ```
 
@@ -65,7 +56,7 @@ Then the reward.
 -------------|------------|
 Title | Crown After Cross |
 Key | E♭ Major |
-Titles | Now comes the weeping |
+Titles | Now comes the weeping, |
 First Line | Light after darkness |
 Author | Frances R. Havergal
 Year | 1908
@@ -73,11 +64,11 @@ Composer| E. S. Lorenz |
 Hymnal|  - |
 Tune| Light after darkness |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal |
 Texts | Hebrews 12:2 |
 Print Texts | 
 Scripture Song |  |
-  
+    

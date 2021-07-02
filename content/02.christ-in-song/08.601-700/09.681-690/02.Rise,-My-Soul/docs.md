@@ -1,13 +1,17 @@
 ---
-title: 682. Rise, My Soul
+title: |
+    682. Rise, My Soul - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Rise, My Soul, Rise, my soul, and stretch thy wings, 
+    description: |
+        Christ in Song 682. Rise, My Soul. Rise, my soul, and stretch thy wings, Thy better portion trace; Rise from transitory things Tow'rds heav'n thy native place. Sun and moon and stars decay, Time shall soon this earth remove; Rise, my soul, and haste away To joys prepared above.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Rise, My Soul, Rise, my soul, and stretch thy wings. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 682. RISE, MY SOUL
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Yet a season, and you know
 Happy entrance will be giv'n,
 All our sorrows left below,
 And earth exchanged for heav'n.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Rise, My Soul |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Rise, my soul, and stretch thy wings |
 Author | Robert Seagrave
 Year | 1908
@@ -53,11 +58,11 @@ Composer| James Nares |
 Hymnal|  - |
 Tune| AMSTERDAM |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Nearer to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

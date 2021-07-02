@@ -1,13 +1,17 @@
 ---
-title: 749. Sweet the Time
+title: |
+    749. Sweet the Time - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Sweet the Time, Sweet the time, exceeding sweet!, 
+    description: |
+        Christ in Song 749. Sweet the Time. Sweet the time, exceeding sweet! When the saints together meet When the Saviour is the theme, When they join to sing of him.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Sweet the Time, Sweet the time, exceeding sweet!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 749. SWEET THE TIME
+####  Christ in Song,
 
 ```txt
 1.
@@ -35,13 +39,14 @@ Jesus still will be the theme,
 They shall always sing of him.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sweet the Time |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Sweet the time, exceeding sweet! |
 Author | G. Burder
 Year | 1908
@@ -49,11 +54,11 @@ Composer| A. F. Thibaut |
 Hymnal|  - |
 Tune| "INNOCENTS" |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Prayer and Testimony Meeting; Living His Life: Prayer and Testimony Meeting; Special Occasions: Reunion |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

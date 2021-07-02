@@ -1,13 +1,17 @@
 ---
-title: 273. Welcome Here
+title: |
+    273. Welcome Here - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Welcome Here, Children singing, sweet bells ringing!, Welcome, welcome, joyous welcome
+    description: |
+        Christ in Song 273. Welcome Here. Children singing, sweet bells ringing! Welcome, welcome, happy day! Pray'rs of thousands now are winging Up to heav'n their silent way. Chorus: Welcome, welcome, joyous welcome; Teachers, scholars, welcome here!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Welcome Here, Children singing, sweet bells ringing!. Welcome, welcome, joyous welcome;
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 273. WELCOME HERE
+####  Christ in Song,
 
 ```txt
 1.
@@ -24,22 +28,13 @@ Teachers, scholars, welcome here!
 'Tis an hour of happy meeting,
 We have met for praise and pray'r;
 But the hour is short and fleeting;
-This is why we're early here. 
-
-Chorus:
-Welcome, welcome, joyous welcome;
-Teachers, scholars, welcome here!
-
+This is why we're early here.  [Chorus]
 
 3.
 We'll not keep our teachers waiting,
 While we tarry by the way,
 Nor disturb the school reciting,
-'Tis the holy Sabbath day. 
-
-Chorus:
-Welcome, welcome, joyous welcome;
-Teachers, scholars, welcome here!
+'Tis the holy Sabbath day.  [Chorus]
 
 ```
 
@@ -47,7 +42,7 @@ Teachers, scholars, welcome here!
 -------------|------------|
 Title | Welcome Here |
 Key | B♭ Major |
-Titles | Welcome, welcome, joyous welcome |
+Titles | Welcome, welcome, joyous welcome; |
 First Line | Children singing, sweet bells ringing! |
 Author | F. E. B.
 Year | 1908
@@ -55,11 +50,11 @@ Composer| F. J. E. |
 Hymnal|  - |
 Tune| Children singing, sweet bells ringing! |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Sabbath School; Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

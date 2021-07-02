@@ -1,13 +1,17 @@
 ---
-title: 321. We Worship Thee
+title: |
+    321. We Worship Thee - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, We Worship Thee, O Saviour, precious Saviour, 
+    description: |
+        Christ in Song 321. We Worship Thee. O Saviour, precious Saviour, Whom yet unseen we love, O Name of might and favor, All other names above! We worship Thee, we bless Thee, To thee, O Christ, we sing; We praise thee, and confess Thee Our holy Lord and King.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, We Worship Thee, O Saviour, precious Saviour. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 321. WE WORSHIP THEE
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,25 +53,26 @@ Then shall we praise and bless Thee
 Where perfect praises ring,
 And evermore confess Thee
 Our Saviour and our King.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Worship Thee |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O Saviour, precious Saviour |
 Author | F. Havergal
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| GREENLAND |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

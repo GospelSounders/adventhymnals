@@ -1,13 +1,17 @@
 ---
-title: 295. Walking With God
+title: |
+    295. Walking With God - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Walking With God, O let me walk with thee, my God, 
+    description: |
+        Christ in Song 295. Walking With God. O let me walk with thee, my God, As Enoch walked in days of old; Place thou my trembling hand in thine, And sweet communion with me hold; E'en tho' the path I May not see, Yet, Jesus, let me walk with thee.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Walking With God, O let me walk with thee, my God. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 295. WALKING WITH GOD
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ And firmly, bravely journey on;
 I'll bear the banner of the cross
 Till Zion's glorious gates I see:
 Yet, Saviour, let me walk with thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Walking With God |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O let me walk with thee, my God |
 Author | Mrs. L. D. A. Stuttle
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Edwin Barnes |
 Hymnal|  - |
 Tune| MORTON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

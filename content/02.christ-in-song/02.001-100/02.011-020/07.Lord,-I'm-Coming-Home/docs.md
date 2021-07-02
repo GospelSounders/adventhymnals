@@ -1,13 +1,17 @@
 ---
-title: 17. Lord, I'm Coming Home
+title: |
+    017. Lord, I'm Coming Home - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Lord, I'm Coming Home, I&#039;ve wandered far away from God, Coming home, coming home
+    description: |
+        Christ in Song 017. Lord, I'm Coming Home. I've wandered far away from God, Now I'm coming home; The paths of sin too long I've trod; Lord, I'm coming home. Chorus: Coming home, coming home Nevermore to roam; Open wide Thine arms of love; Lord, I'm coming home.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Lord, I'm Coming Home, I've wandered far away from God. Coming home, coming home
     author: Brian Onang'o
 ---
 
-
-## 17. LORD, I'M COMING HOME
+#### Advent Hymnals
+## 017. LORD, I'M COMING HOME
+####  Christ in Song,
 
 ```txt
 1.
@@ -26,52 +30,25 @@ Lord, I'm coming home.
 I've wasted many precious years
 Now I'm coming home;
 I now repent with bitter tears;
-Lord, I'm coming home. 
-
-Chorus:
-Coming home, coming home
-Nevermore to roam;
-Open wide Thine arms of love;
-Lord, I'm coming home.
-
+Lord, I'm coming home.  [Chorus]
 
 3.
 I'm tired of sin and straying, Lord,
 Now I'm coming home;
 I'll trust Thy love, believe Thy word;
-Lord, I'm coming home. 
-
-Chorus:
-Coming home, coming home
-Nevermore to roam;
-Open wide Thine arms of love;
-Lord, I'm coming home.
-
+Lord, I'm coming home.  [Chorus]
 
 4.
 My only hope, my only plea,
 Now I'm coming home;
 That Jesus died, and died for me;
-Lord, I'm coming home. 
-
-Chorus:
-Coming home, coming home
-Nevermore to roam;
-Open wide Thine arms of love;
-Lord, I'm coming home.
-
+Lord, I'm coming home.  [Chorus]
 
 5.
 I need His cleansing blood I know,
 Now I'm coming home;
 O wash me whiter than the snow;
-Lord' I'm coming home. 
-
-Chorus:
-Coming home, coming home
-Nevermore to roam;
-Open wide Thine arms of love;
-Lord, I'm coming home.
+Lord' I'm coming home.  [Chorus]
 
 ```
 
@@ -80,18 +57,18 @@ Lord, I'm coming home.
 Title | Lord, I'm Coming Home |
 Key | A Major |
 Titles | Coming home, coming home |
-First Line | I&#039;ve wandered far away from God |
+First Line | I've wandered far away from God |
 Author | W. J. K.
 Year | 1908
 Composer| Wm. J. Kirkpatrick |
 Hymnal|  - |
-Tune| I&#039;ve wandered far away from God |
+Tune| I've wandered far away from God |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Invitation and Repentance: Returning to God |
 Texts | Luke 15:20 |
 Print Texts | 
 Scripture Song |  |
-  
+    

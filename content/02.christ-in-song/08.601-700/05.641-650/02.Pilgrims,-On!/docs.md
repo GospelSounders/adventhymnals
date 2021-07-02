@@ -1,13 +1,17 @@
 ---
-title: 642. Pilgrims, On!
+title: |
+    642. Pilgrims, On! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Pilgrims, On!, Pilgrims on!  the day is dawning, 
+    description: |
+        Christ in Song 642. Pilgrims, On!. Pilgrims on!  the day is dawning; Strike your tents, and homeward haste: Sleep not while the blush of morning Calls you on the dessert waste. Tho' the way be dark and dreary, Life's sharp anguish must be borne. Courage, then, ye faint and weary, Linger not to weep and mourn.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Pilgrims, On!, Pilgrims on!  the day is dawning. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 642. PILGRIMS, ON!
+####  Christ in Song,
 
 ```txt
 1.
@@ -50,13 +54,14 @@ O, 't were well the cross to bear,
 If at last in joy and gladness
 We may rest forever there!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Pilgrims, On! |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Pilgrims on!  the day is dawning |
 Author | Anon.
 Year | 1908
@@ -64,11 +69,11 @@ Composer| Arranged |
 Hymnal|  - |
 Tune| ONWARD |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Pilgrimage; Living His Life: Pilgrimage |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

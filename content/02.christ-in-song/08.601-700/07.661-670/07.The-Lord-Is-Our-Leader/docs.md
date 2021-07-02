@@ -1,13 +1,17 @@
 ---
-title: 667. The Lord Is Our Leader
+title: |
+    667. The Lord Is Our Leader - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Lord Is Our Leader, Tho&#039; faint, yet pursuing, we go on our way, 
+    description: |
+        Christ in Song 667. The Lord Is Our Leader. Tho' faint, yet pursuing, we go on our way; The Lord is our Leader, His word is our stay; Tho' suff'ring and sorrow, and trial be near, The Lord is our Refuge, and whom can we fear? The Lord is our Refuge, and whom can we fear?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Lord Is Our Leader, Tho' faint, yet pursuing, we go on our way. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 667. THE LORD IS OUR LEADER
+####  Christ in Song,
 
 ```txt
 1.
@@ -37,25 +41,26 @@ Tho' foes would confound us, our God is our might;
 So, faint yet pursuing, still onward we come;
 The Lord is our Leader, and heaven our home!
 The Lord is our Leader, and heaven our home!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Lord Is Our Leader |
 Key | F Major |
-Titles |  |
-First Line | Tho&#039; faint, yet pursuing, we go on our way |
+Titles | undefined |
+First Line | Tho' faint, yet pursuing, we go on our way |
 Author | B. Beddome
 Year | 1908
-Composer| Koschat |
+Composer| undefined |
 Hymnal|  - |
-Tune| Tho&#039; faint, yet pursuing, we go on our way |
+Tune| Tho' faint, yet pursuing, we go on our way |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Leading; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 142. Cleansed
+title: |
+    142. Cleansed - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Cleansed, Cast out the buyers, Lord, 
+    description: |
+        Christ in Song 142. Cleansed. Cast out the buyers, Lord, The sellers bid depart; Cleanse me from carnal thought and word, And purify my heart. A temple would I be, Meet for the royal Son: Ye money-changers, fear and flee Before the Sinless One.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Cleansed, Cast out the buyers, Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 142. CLEANSED
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ The hopeless ones to cheer,
 And broken hearts make whole;
 In me do thou alone appear
 To ev'ry sin-sick soul.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Cleansed |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | Cast out the buyers, Lord |
 Author | F. E. B.
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Call Accepted; Invitation and Repentance: Call Accepted |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

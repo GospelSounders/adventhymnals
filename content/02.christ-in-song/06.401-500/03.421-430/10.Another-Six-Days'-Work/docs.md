@@ -1,13 +1,17 @@
 ---
-title: 430. Another Six Days' Work
+title: |
+    430. Another Six Days' Work - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Another Six Days' Work, Another six days&#039; work is done, 
+    description: |
+        Christ in Song 430. Another Six Days' Work. Another six days' work is done, Another Sabbath is begun; Return, my soul, enjoy thy rest, Improve the day that God has blessed.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Another Six Days' Work, Another six days' work is done. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 430. ANOTHER SIX DAYS' WORK
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ This heav'nly calm within the breast
 Is the best pledge of glorious rest,
 Which for the church of God remains,
 The end of cares, the end of pains.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Another Six Days' Work |
 Key | B♭ Major |
-Titles |  |
-First Line | Another six days&#039; work is done |
+Titles | undefined |
+First Line | Another six days' work is done |
 Author | J. Stennett
 Year | 1908
 Composer| L. Mason |
 Hymnal|  - |
 Tune| HEBRON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: The Rest Day |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 196. Tread Softly
+title: |
+    196. Tread Softly - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Tread Softly, Be silent, be silent, Tread softly, tread softly
+    description: |
+        Christ in Song 196. Tread Softly. Be silent, be silent, A whisper is heard, Be silent, and listen, Oh, treasure each word. Chorus: Tread softly, tread softly, The Master is here; Tread softly, tread softly, He bids us draw near.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Tread Softly, Be silent, be silent. Tread softly, tread softly,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 196. TREAD SOFTLY
+####  Christ in Song,
 
 ```txt
 1.
@@ -26,39 +30,19 @@ He bids us draw near.
 Be silent, be silent,
 For holy this place,
 This altar that echoes
-The message of grace. 
-
-Chorus:
-Tread softly, tread softly,
-The Master is here;
-Tread softly, tread softly,
-He bids us draw near.
-
+The message of grace.  [Chorus]
 
 3.
 Be silent, be silent,
 Breathe humbly our pray'r,
 A foretaste of Eden
-This moment we share. 
-
-Chorus:
-Tread softly, tread softly,
-The Master is here;
-Tread softly, tread softly,
-He bids us draw near.
-
+This moment we share.  [Chorus]
 
 4.
 Be silent, be silent,
 His mercy record;
 Be silent, be silent,
-And wait on the Lord. 
-
-Chorus:
-Tread softly, tread softly,
-The Master is here;
-Tread softly, tread softly,
-He bids us draw near.
+And wait on the Lord.  [Chorus]
 
 ```
 
@@ -66,7 +50,7 @@ He bids us draw near.
 -------------|------------|
 Title | Tread Softly |
 Key | B♭ Major |
-Titles | Tread softly, tread softly |
+Titles | Tread softly, tread softly, |
 First Line | Be silent, be silent |
 Author | Fanny J. Crosby
 Year | 1908
@@ -74,11 +58,11 @@ Composer| W. H. Doane |
 Hymnal|  - |
 Tune| Be silent, be silent |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Opening Hymns; Special Selections: Choir or Quartet; Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

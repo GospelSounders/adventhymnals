@@ -1,13 +1,17 @@
 ---
-title: 668. Still, Still With Thee
+title: |
+    668. Still, Still With Thee - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Still, Still With Thee, Still, still with Thee, when purple morning breaketh, 
+    description: |
+        Christ in Song 668. Still, Still With Thee. Still, still with Thee, when purple morning breaketh, When the bird waketh, and the shadows flee; Fairer than morning, lovelier than the daylight, Dawns the sweet consciousness, I am with Thee!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Still, Still With Thee, Still, still with Thee, when purple morning breaketh. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 668. STILL, STILL WITH THEE
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,13 +44,14 @@ When the soul waketh, and life's shadows flee;
 Oh, in that glad hour, fairer than day dawning,
 Shall rise the glorious tho't, I am with Thee!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Still, Still With Thee |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Still, still with Thee, when purple morning breaketh |
 Author | Mrs. H. B. Stowe
 Year | 1908
@@ -54,11 +59,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| BARNES |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 746. Not Less to Bear
+title: |
+    746. Not Less to Bear - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Not Less to Bear, I ask not, Lord, for less to bear, 
+    description: |
+        Christ in Song 746. Not Less to Bear. I ask not, Lord, for less to bear Here in the narrow way, But that I may thy blessing share In all I do or say, In all I do or say.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Not Less to Bear, I ask not, Lord, for less to bear. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 746. NOT LESS TO BEAR
+####  Christ in Song,
 
 ```txt
 1.
@@ -30,13 +34,14 @@ These precious moments giv'n;
 For they a faithful record bear,
 Of good or ill, to Heav'n,
 Of good or ill, to Heav'n.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Not Less to Bear |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | I ask not, Lord, for less to bear |
 Author | Annie R. Smith
 Year | 1908
@@ -44,11 +49,11 @@ Composer| L. Mason |
 Hymnal|  - |
 Tune| HERBERT |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

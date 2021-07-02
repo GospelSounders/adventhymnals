@@ -1,13 +1,17 @@
 ---
-title: 823. Keep Me Calm
+title: |
+    823. Keep Me Calm - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Keep Me Calm, Calm me, my God, and keep me calm, 
+    description: |
+        Christ in Song 823. Keep Me Calm. Calm me, my God, and keep me calm, Reclining on Thy breast; Soothe me with holy hymn and psalm, And bid my spirit rest.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Keep Me Calm, Calm me, my God, and keep me calm. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 823. KEEP ME CALM
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Calm as the ray of sun or star,
 Which storms assail in vain,
 Moving unruffled thro' earth's war,
 Th' eternal calm to gain.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Keep Me Calm |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Calm me, my God, and keep me calm |
 Author | H. Bonar
 Year | 1908
@@ -53,11 +58,11 @@ Composer| S. Weber |
 Hymnal|  - |
 Tune| LAMBETH |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Rest in Christ; Living His Life: Rest in Christ; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

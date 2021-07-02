@@ -1,13 +1,17 @@
 ---
-title: 363. Glorious
+title: |
+    363. Glorious - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Glorious, A glory gilds the sacred page, 
+    description: |
+        Christ in Song 363. Glorious. A glory gilds the sacred page, Majestic, like the sun; It gives a light to every age, It gives, but borrows none. It gives, but borrows none.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Glorious, A glory gilds the sacred page. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 363. GLORIOUS
+####  Christ in Song,
 
 ```txt
 1.
@@ -37,25 +41,26 @@ For such a bright display;
 It makes a world of darkness shine
 With beams of heav'nly day.
 With beams of heav'nly day.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Glorious |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | A glory gilds the sacred page |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

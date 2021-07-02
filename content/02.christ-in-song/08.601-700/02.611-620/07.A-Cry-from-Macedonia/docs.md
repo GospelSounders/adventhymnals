@@ -1,13 +1,17 @@
 ---
-title: 617. A Cry from Macedonia
+title: |
+    617. A Cry from Macedonia - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Cry from Macedonia, There&#039;s a cry from Macedonia  Come and help us, They shall gather from the East
+    description: |
+        Christ in Song 617. A Cry from Macedonia. There's a cry from Macedonia  Come and help us, The light of the precious gospel bring, Let us hear the joyful tidings of salvation, We thirst for the living spring. O, ye heralds of the cross, be up and doing, Remember the Saviour's great command, Go ye forth and preach the word to ev'ry creature, Proclaim it in ev'ry land.  Chorus: They shall gather from the East, They shall gather from the West, With the patriarchs of old. And the ransom'd shall return To the kingdom of the blest, With their harps and crowns of gold. There's a cry from Macedonia  Come and help us, The light of the precious gospel bring, Let us hear the joyful tidings of salvation, We thirst for the living spring. O, ye heralds of the cross, be up and doing, Remember the Saviour's great command, Go ye forth and preach the word to ev'ry creature, Proclaim it in ev'ry land.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Cry from Macedonia, There's a cry from Macedonia  Come and help us. They shall gather from the East,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 617. A CRY FROM MACEDONIA
+####  Christ in Song,
 
 ```txt
 1.
@@ -61,25 +65,26 @@ O, ye heralds of the cross, be up and doing,
 Remember the Saviour's great command,
 Go ye forth and preach the word to ev'ry creature,
 Proclaim it in ev'ry land.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Cry from Macedonia |
 Key | E♭ Major |
-Titles | They shall gather from the East |
-First Line | There&#039;s a cry from Macedonia  Come and help us |
+Titles | They shall gather from the East, |
+First Line | There's a cry from Macedonia  Come and help us |
 Author | Fanny J. Crosby
 Year | 1908
 Composer| Wm. B. Bradbury |
 Hymnal|  - |
-Tune| There&#039;s a cry from Macedonia  Come and help us |
+Tune| There's a cry from Macedonia  Come and help us |
 Metrical pattern | |
-# Stanzas | 2 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Missions |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

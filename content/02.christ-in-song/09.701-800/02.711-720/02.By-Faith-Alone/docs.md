@@ -1,13 +1,17 @@
 ---
-title: 712. By Faith Alone
+title: |
+    712. By Faith Alone - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, By Faith Alone, If, through unruffled seas, 
+    description: |
+        Christ in Song 712. By Faith Alone. If, through unruffled seas, Calmly to'ard heav'n we sail, With grateful hearts, O God, to thee, We'll own the fav'ring gale. With grateful hearts, O God, to thee, We'll own the fav'ring gale.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, By Faith Alone, If, through unruffled seas. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 712. BY FAITH ALONE
+####  Christ in Song,
 
 ```txt
 1.
@@ -42,25 +46,26 @@ To live by faith alone.
 And when the joys of sense depart,
 To live by faith alone.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | By Faith Alone |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | If, through unruffled seas |
 Author | A. M. Toplady
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| SELVIN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Trust in Trouble; Living His Life: Trust in Trouble; Living His Life: Faith |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

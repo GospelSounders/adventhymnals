@@ -1,13 +1,17 @@
 ---
-title: 402. Thy Word Is Like a Garden
+title: |
+    402. Thy Word Is Like a Garden - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Thy Word Is Like a Garden, Thy Word is like a garden, Lord, 
+    description: |
+        Christ in Song 402. Thy Word Is Like a Garden. Thy Word is like a garden, Lord, With flowers bright and fair; And ev'ry one who seeks may pluck And weave a garland rare.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Thy Word Is Like a Garden, Thy Word is like a garden, Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 402. THY WORD IS LIKE A GARDEN
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ O may I love Thy precious Word,
 May I explore the mine,
 May I the fragrant flowers glean,
 Thy graces all divine.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thy Word Is Like a Garden |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Thy Word is like a garden, Lord |
 Author | E. Hodder
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| TIVERTON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 246. The Lily of the Valley
+title: |
+    246. The Lily of the Valley - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Lily of the Valley, I&#039;ve found a friend in Jesus, He&#039;s ev&#039;rything to me, 
+    description: |
+        Christ in Song 246. The Lily of the Valley. I've found a friend in Jesus, He's everything to me, He's the fairest of ten thousand to my soul; The Lily of the Valley, in him alone I see All I need to cleanse and make me fully whole. In sorrow he's my comfort, in trouble he's my stay, He tells me ev'ry care on him to roll. He's the Lily of the Valley, the bright and Morning Star; He's the fairest of ten thousand to my soul!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Lily of the Valley, I've found a friend in Jesus, He's ev'rything to me. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 246. THE LILY OF THE VALLEY
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ Then sweeping up to glory, I'll see his blessed face,
 Where rivers of delight shall ever roll.
 He's the Lily of the Valley, the bright and Morning Star;
 He's the fairest of ten thousand to my soul!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Lily of the Valley |
 Key | F Major |
-Titles |  |
-First Line | I&#039;ve found a friend in Jesus, He&#039;s ev&#039;rything to me |
+Titles | undefined |
+First Line | I've found a friend in Jesus, He's ev'rything to me |
 Author | C. W. Fry
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune| I&#039;ve found a friend in Jesus, He&#039;s ev&#039;rything to me |
+Tune| I've found a friend in Jesus, He's ev'rything to me |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Precious; Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

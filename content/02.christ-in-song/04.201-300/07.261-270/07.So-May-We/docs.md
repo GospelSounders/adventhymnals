@@ -1,13 +1,17 @@
 ---
-title: 267. So May We
+title: |
+    267. So May We - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, So May We, As with gladness men of old, 
+    description: |
+        Christ in Song 267. So May We. As with gladness men of old Did the guiding star behold; As with joy they hailed its light, Leading onward, beaming bright; So, most gracious Lord, may we Evermore be led to Thee.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, So May We, As with gladness men of old. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 267. SO MAY WE
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,25 +45,26 @@ And, when earthly things are past,
 Bring our ransomed souls at last
 Where they need no star to guide,
 Where no clouds Thy glory hide.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | So May We |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | As with gladness men of old |
 Author | Wm. C. Dix
 Year | 1908
-Composer| Wm. H. Monk |
+Composer| undefined |
 Hymnal|  - |
 Tune| DIX |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration; Special Occasions: Christmas |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

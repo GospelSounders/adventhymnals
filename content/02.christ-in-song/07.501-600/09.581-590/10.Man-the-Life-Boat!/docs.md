@@ -1,13 +1,17 @@
 ---
-title: 590. Man the Life-Boat!
+title: |
+    590. Man the Life-Boat! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Man the Life-Boat!, Man the life-boat!  Man the life-boat!, Man the life-boat!  Man the life-boat!
+    description: |
+        Christ in Song 590. Man the Life-Boat!. Man the life-boat!  Man the life-boat! Strong and short above the roar, Sounds the order to the watchers On the tempest-beaten shore, Hark!  again the guns appealing! Signals burn for a swift relief; There are men and wives and children, Facing death, on yonder reef! Chorus:   Man the life-boat!  Man the life-boat! Help, for Christ's sake, them that drown! In the peril of great waters, Let them not go down!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Man the Life-Boat!, Man the life-boat!  Man the life-boat!. Man the life-boat!  Man the life-boat!
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 590. MAN THE LIFE-BOAT!
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,14 +38,7 @@ And eternal jeopardy.
 Thou, who bid'st us dare the surges,
 Stay us at the struggling oar!
 Nay!  go with us to the rescue!
-Shall they sink in sight of shore? 
-
-Chorus:  
-Man the life-boat!  Man the life-boat!
-Help, for Christ's sake, them that drown!
-In the peril of great waters,
-Let them not go down!
-
+Shall they sink in sight of shore?  [Chorus]
 
 3.
 Man the life-boat!  Man the life-boat!
@@ -51,14 +48,7 @@ Once that trod the Galilee!
 And the boat that carries Jesus,
 Floods of death shall not o'erwhelm;
 Scourging storms but urge us homeward;
-Life and love are at the helm! 
-
-Chorus:  
-Man the life-boat!  Man the life-boat!
-Help, for Christ's sake, them that drown!
-In the peril of great waters,
-Let them not go down!
-
+Life and love are at the helm!  [Chorus]
 
 4.
 Man the life-boat!  Man the life-boat!
@@ -68,13 +58,7 @@ Bro't thee from the lurching wreck.
 To the oars then!  O Redeemer,
 Let Thy heart throb thro' our hand,
 Till the souls in mortal danger,
-Find thro' Thee the solid land. 
-
-Chorus:  
-Man the life-boat!  Man the life-boat!
-Help, for Christ's sake, them that drown!
-In the peril of great waters,
-Let them not go down!
+Find thro' Thee the solid land.  [Chorus]
 
 
 ```
@@ -91,11 +75,11 @@ Composer| Hubert P. Main |
 Hymnal|  - |
 Tune| Man the life-boat!  Man the life-boat! |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Holy Spirit: Guide; Living His Life: Call to Activity; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

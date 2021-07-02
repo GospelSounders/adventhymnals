@@ -1,13 +1,17 @@
 ---
-title: 135. Write Thy Law
+title: |
+    135. Write Thy Law - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Write Thy Law, O that the Lord would guide my ways, 
+    description: |
+        Christ in Song 135. Write Thy Law. O that the Lord would guide my ways To keep his statutes still! O that my God would grant me grace To know and do his will!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Write Thy Law, O that the Lord would guide my ways. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 135. WRITE THY LAW
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Order my footsteps by thy word,
 And make my heart sincere;
 Let sin have no dominion, Lord,
 But keep my conscience clear.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Write Thy Law |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O that the Lord would guide my ways |
 Author | Isaac Watts
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| LITCHFIELD |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Law |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

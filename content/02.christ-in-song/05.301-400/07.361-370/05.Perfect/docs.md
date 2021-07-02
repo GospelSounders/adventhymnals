@@ -1,13 +1,17 @@
 ---
-title: 365. Perfect
+title: |
+    365. Perfect - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Perfect, Let all the heathen writers join, 
+    description: |
+        Christ in Song 365. Perfect. Let all the heathen writers join To form one perfect book; Great God, if once compared with thine, How mean their writings look! How mean their writings look!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Perfect, Let all the heathen writers join. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 365. PERFECT
+####  Christ in Song,
 
 ```txt
 1.
@@ -38,25 +42,26 @@ But perfect truth and righteousness
 Dwell only in the Lord.
 Dwell only in the Lord.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Perfect |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | Let all the heathen writers join |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

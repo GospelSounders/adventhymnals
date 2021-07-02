@@ -1,13 +1,17 @@
 ---
-title: 647. Evening Prayer
+title: |
+    647. Evening Prayer - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Evening Prayer, Saviour, breathe an evening blessing, 
+    description: |
+        Christ in Song 647. Evening Prayer. Saviour, breathe an evening blessing, Ere repose our spirits seal: Sin and want we come confessing, Thou canst save and Thou canst heal.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Evening Prayer, Saviour, breathe an evening blessing. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 647. EVENING PRAYER
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Should swift death this night o'ertake us,
 And our couch become our tomb,
 May the morn of glory wake us,
 Clad in heav'n's eternal bloom.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Evening Prayer |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Saviour, breathe an evening blessing |
 Author | J. Edmeston
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Geo. C. Stebbins |
 Hymnal|  - |
 Tune| Saviour, breathe an evening blessing |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Evening Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 181. Give Thy Youth to God
+title: |
+    181. Give Thy Youth to God - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Give Thy Youth to God, Give, thou, thy youth to God, 
+    description: |
+        Christ in Song 181. Give Thy Youth to God. Give, thou, thy youth to God, With all its budding love; Send up thy op'ning heart to him, Fix it on things above.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Give Thy Youth to God, Give, thou, thy youth to God. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 181. GIVE THY YOUTH TO GOD
+####  Christ in Song,
 
 ```txt
 1.
@@ -29,13 +33,14 @@ So shall he ever take thy side,
 And bear thee safe thro' all.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Give Thy Youth to God |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Give, thou, thy youth to God |
 Author | H. Bonar
 Year | 1908
@@ -43,11 +48,11 @@ Composer| John G. Nageli |
 Hymnal|  - |
 Tune| DENNIS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Save the Children; Invitation and Repentance: Save the Children |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

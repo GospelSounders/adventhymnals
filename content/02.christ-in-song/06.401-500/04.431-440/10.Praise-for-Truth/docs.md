@@ -1,13 +1,17 @@
 ---
-title: 440. Praise for Truth
+title: |
+    440. Praise for Truth - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Praise for Truth, Praise to Him by whose kind favor, 
+    description: |
+        Christ in Song 440. Praise for Truth. Praise to Him by whose kind favor Heav'nly truth has reached our ears; May its sweet reviving savor Fill our hearts and calm our fears.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Praise for Truth, Praise to Him by whose kind favor. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 440. PRAISE FOR TRUTH
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ What of truth we have been hearing,
 Fix, O Lord, in ev'ry heart;
 In the day of thy appearing
 May we share thy people's part.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Praise for Truth |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Praise to Him by whose kind favor |
 Author | Anon.
 Year | 1908
@@ -41,11 +46,11 @@ Composer| Mendelssohn |
 Hymnal|  - |
 Tune| HOPE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Closing Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

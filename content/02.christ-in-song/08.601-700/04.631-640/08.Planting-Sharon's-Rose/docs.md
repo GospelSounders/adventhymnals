@@ -1,13 +1,17 @@
 ---
-title: 638. Planting Sharon's Rose
+title: |
+    638. Planting Sharon's Rose - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Planting Sharon's Rose, Lord, thou callest for the workers, 
+    description: |
+        Christ in Song 638. Planting Sharon's Rose. Lord, thou callest for the workers, Glad we come at thy command; Give us each the worker's outfit, Loving heart and ready hand. Great the honor, sweet the duty That thy love on us bestows, In the soul, howe'er unfertile, Planting Sharon's fadeless Rose!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Planting Sharon's Rose, Lord, thou callest for the workers. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 638. PLANTING SHARON'S ROSE
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,25 +53,26 @@ Come, Beloved, to thy garden;
 All its sweets to thee it owes;
 Shed thy holy fragrance o'er us,
 Sharon's fair and fadeless Rose!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Planting Sharon's Rose |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, thou callest for the workers |
-Author | 
+Author | undefined
 Year | 1908
 Composer| Jas. M. North |
 Hymnal|  - |
 Tune| NORTH |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Winning Souls; Living His Life: Winning Souls; Living His Life: Call to Activity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 335. O Worship the King!
+title: |
+    335. O Worship the King! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, O Worship the King!, O worship the King, all glorious above, 
+    description: |
+        Christ in Song 335. O Worship the King!. O worship the King, all glorious above, And gratefully sing his wonderful love; Our Shield and Defender, the Ancient of Days, Pavilion'd in splendor, and girded with praise.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, O Worship the King!, O worship the King, all glorious above. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 335. O WORSHIP THE KING!
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Frail children of dust, and feeble as frail,
 In Thee do we trust, nor find thee to fail;
 Thy mercies, how tender!  how firm to the end!
 Our Maker, Defender, Redeemer, and Friend.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Worship the King! |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | O worship the King, all glorious above |
 Author | Robert Grant
 Year | 1908
@@ -47,11 +52,11 @@ Composer| F. J. Haydn |
 Hymnal|  - |
 Tune| LYONS |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

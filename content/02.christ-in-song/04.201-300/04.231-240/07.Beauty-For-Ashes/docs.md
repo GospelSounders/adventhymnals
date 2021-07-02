@@ -1,13 +1,17 @@
 ---
-title: 237. Beauty For Ashes
+title: |
+    237. Beauty For Ashes - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Beauty For Ashes, I sing the love of God, my Father, He gives me joy in place of sorrow
+    description: |
+        Christ in Song 237. Beauty For Ashes. I sing the love of God, my Father, Whose Spirit abides within, Who changes all my grief to gladness, And pardons me all my sin. Tho' clouds may lower, dark and dreary, Yet He has promised to be near; He gives me sunshine for my shadow, And "beauty for ashes," here.  He gives me joy in place of sorrow; He gives me love that casts out fear; He gives me sunshine for my shadow, And "beauty for ashes," here.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Beauty For Ashes, I sing the love of God, my Father. He gives me joy in place of sorrow
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 237. BEAUTY FOR ASHES
+####  Christ in Song,
 
 ```txt
 1.
@@ -53,6 +57,7 @@ He gives me sunshine for my shadow,
 And "beauty for ashes," here.
 
 
+
 ```
 
 - |   -  |
@@ -67,11 +72,11 @@ Composer| J. G. Crabbe |
 Hymnal|  - |
 Tune| I sing the love of God, my Father |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God; Living His Life: Joy of Salvation; Special Selections: Choir or Quartet |
 Texts | Isaiah 61:3 |
 Print Texts | 
 Scripture Song |  |
-  
+    

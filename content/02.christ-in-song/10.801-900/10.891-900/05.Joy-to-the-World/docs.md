@@ -1,13 +1,17 @@
 ---
-title: 895. Joy to the World
+title: |
+    895. Joy to the World - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Joy to the World, Joy to the world, the Lord will come!, 
+    description: |
+        Christ in Song 895. Joy to the World. Joy to the world, the Lord will come! Let earth receive her King; Let ev'ry heart prepare him room, And heav'n and nature sing, And heav'n and nature sing, And heav'n, and heav'n and nature sing.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Joy to the World, Joy to the world, the Lord will come!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 895. JOY TO THE WORLD
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ The glories of his righteousness,
 And wonders of his love,
 And wonders of his love,
 And won- and wonders of his love.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Joy to the World |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Joy to the world, the Lord will come! |
-Author | 
+Author | undefined
 Year | 1908
 Composer| George F. Handel |
 Hymnal|  - |
 Tune| ANTIOCH |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Return of Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

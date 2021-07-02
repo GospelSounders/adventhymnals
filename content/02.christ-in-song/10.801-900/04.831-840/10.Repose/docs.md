@@ -1,13 +1,17 @@
 ---
-title: 840. Repose
+title: |
+    840. Repose - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Repose, Now the day is over, 
+    description: |
+        Christ in Song 840. Repose. Now the day is over, Night is drawing nigh, Shadows of the evening Steal across the sky.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Repose, Now the day is over. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 840. REPOSE
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Thro' the long night watches,
 May thine angels spread
 Their white wings above me,
 Watching round my bed.  Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Repose |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Now the day is over |
 Author | Baring-Gould
 Year | 1908
@@ -41,11 +46,11 @@ Composer| J. Barnby |
 Hymnal|  - |
 Tune| GUIDANCE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Evening Hymns; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 360. I Heard the Voice of Jesus
+title: |
+    360. I Heard the Voice of Jesus - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, I Heard the Voice of Jesus, I heard the voice of Jesus say, 
+    description: |
+        Christ in Song 360. I Heard the Voice of Jesus. I heard the voice of Jesus say, "Come unto Me and rest; Lay down, thou weary one, lay down Thy head upon My breast; I came to Jesus as I was, Weary and worn and sad; I found in Him a resting place, And He has made me glad.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, I Heard the Voice of Jesus, I heard the voice of Jesus say. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 360. I HEARD THE VOICE OF JESUS
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,13 +44,14 @@ In Him my Star, my Sun;
 And in that light of life I'll walk,
 Till all my journey's done.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Heard the Voice of Jesus |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | I heard the voice of Jesus say |
 Author | H. Bonar
 Year | 1908
@@ -54,11 +59,11 @@ Composer| J. B. Dykes |
 Hymnal|  - |
 Tune| VOX DILECTI |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Call Accepted; Invitation and Repentance: Call Accepted; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 159. Shall Our Cheeks Be Dry?
+title: |
+    159. Shall Our Cheeks Be Dry? - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Shall Our Cheeks Be Dry?, Did Christ o&#039;er sinners weep?, 
+    description: |
+        Christ in Song 159. Shall Our Cheeks Be Dry?. Did Christ o'er sinners weep? And shall our cheeks be dry? Let floods of penitential grief Burst forth from ev'ry eye.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Shall Our Cheeks Be Dry?, Did Christ o'er sinners weep?. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 159. SHALL OUR CHEEKS BE DRY?
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ He wept; shall we not weep?
 He died; shall we not die?
 He rose; shall we not rise from sleep,
 To reign with him on high?
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Shall Our Cheeks Be Dry? |
 Key | c minor |
-Titles |  |
-First Line | Did Christ o&#039;er sinners weep? |
-Author | 
+Titles | undefined |
+First Line | Did Christ o'er sinners weep? |
+Author | undefined
 Year | 1908
 Composer| Edwin Barnes |
 Hymnal|  - |
 Tune| CONTRITION |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
-Subjects |  |
-Texts |  |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects | undefined |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

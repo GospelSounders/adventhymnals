@@ -1,13 +1,17 @@
 ---
-title: 809. What Is the Chaff?
+title: |
+    809. What Is the Chaff? - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, What Is the Chaff?, What is the chaff, the word of man, 
+    description: |
+        Christ in Song 809. What Is the Chaff?. What is the chaff, the word of man, When set against the wheat? Can it a dying soul sustain Like that immortal meat?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, What Is the Chaff?, What is the chaff, the word of man. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 809. WHAT IS THE CHAFF?
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ Their souls shall never die.
 The pearl of price unknown,
 And he indeed is truly wise
 Who makes this pearl his own.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | What Is the Chaff? |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | What is the chaff, the word of man |
 Author | I. Watts
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| WINCHESTER |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

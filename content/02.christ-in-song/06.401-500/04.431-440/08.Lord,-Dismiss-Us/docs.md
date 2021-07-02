@@ -1,13 +1,17 @@
 ---
-title: 438. Lord, Dismiss Us
+title: |
+    438. Lord, Dismiss Us - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Lord, Dismiss Us, Lord, dismiss us with Thy blessing, 
+    description: |
+        Christ in Song 438. Lord, Dismiss Us. Lord, dismiss us with Thy blessing, Fill out hearts with joy and peace; Let us each Thy love possessing, Triumph in redeeming grace. O refresh us, O refresh us, Traveling thro' this wilderness!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Lord, Dismiss Us, Lord, dismiss us with Thy blessing. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 438. LORD, DISMISS US
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,25 +38,26 @@ May we run, nor weary be.
 Till Thy glory, till Thy glory
 Without clouds in heav'n we see.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord, Dismiss Us |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, dismiss us with Thy blessing |
 Author | Fawcett
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| SICILY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Closing Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

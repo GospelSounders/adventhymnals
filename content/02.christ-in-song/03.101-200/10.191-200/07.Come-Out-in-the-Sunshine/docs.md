@@ -1,13 +1,17 @@
 ---
-title: 197. Come Out in the Sunshine
+title: |
+    197. Come Out in the Sunshine - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Come Out in the Sunshine, Come out in the sunshine!, O beautiful healing light
+    description: |
+        Christ in Song 197. Come Out in the Sunshine. Come out in the sunshine! O gather its wealth! There's joy in the sunshine, And beauty and health. Why stay in the shadow? Why weep in the gloom? Come out in the sunshine, And let your soul bloom.  [Chorus]
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Come Out in the Sunshine, Come out in the sunshine!. O beautiful healing light
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 197. COME OUT IN THE SUNSHINE
+####  Christ in Song,
 
 ```txt
 1.
@@ -18,10 +22,7 @@ And beauty and health.
 Why stay in the shadow?
 Why weep in the gloom?
 Come out in the sunshine,
-And let your soul bloom. 
-
-null
-
+And let your soul bloom.  [Chorus]
 
 2.
 A flow'r in the shadow
@@ -31,10 +32,7 @@ And so 'tis with you.
 We fade in the shadow
 Of thought or of room;
 But out in the sunshine
-We blossom and bloom. 
-
-null
-
+We blossom and bloom.  [Chorus]
 
 3.
 Come out in the sunshine!
@@ -44,10 +42,7 @@ With you will rejoice.
 You'll sing with the angels,
 Wherever you go,
 You'll gladly tell others
-The way out of woe. 
-
-null
-
+The way out of woe.  [Chorus]
 
 4.
 Live out in the sunshine,
@@ -57,9 +52,7 @@ Thro' love's endless years.
 O dwell in his presence,
 Where no shadow mars;
 Reflecting his beauty,
-You'll shine as the stars. 
-
-null
+You'll shine as the stars.  [Chorus]
 
 ```
 
@@ -75,11 +68,11 @@ Composer| Fannie E. Bolton |
 Hymnal|  - |
 Tune| Come out in the sunshine! |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Sunlight; Living His Life: Sunlight |
 Texts | John 8:12 |
 Print Texts | 
 Scripture Song |  |
-  
+    

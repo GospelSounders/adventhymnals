@@ -1,13 +1,17 @@
 ---
-title: 320. God Loves Us
+title: |
+    320. God Loves Us - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, God Loves Us, How dearly God doth love us, 
+    description: |
+        Christ in Song 320. God Loves Us. How dearly God doth love us, And this poor world of ours, To spread blue skies above us, And deck the earth with flow'rs! There's not a blossom lowly, Nor bird that cleaves the air, But tells, in accents holy, His kindness and his care.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, God Loves Us, How dearly God doth love us. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 320. GOD LOVES US
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ O may God's mercies move us
 To serve him with our pow'rs;
 For O, how he doth love us,
 And this poor world of ours!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God Loves Us |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | How dearly God doth love us |
 Author | Samuel Partridge
 Year | 1908
@@ -53,11 +58,11 @@ Composer| Geo. J. Webb |
 Hymnal|  - |
 Tune| WEBB |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

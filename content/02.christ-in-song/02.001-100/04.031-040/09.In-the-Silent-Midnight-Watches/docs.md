@@ -1,13 +1,17 @@
 ---
-title: 39. In the Silent Midnight Watches
+title: |
+    039. In the Silent Midnight Watches - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, In the Silent Midnight Watches, In the silent midnight watches, 
+    description: |
+        Christ in Song 039. In the Silent Midnight Watches. In the silent midnight watches, List thy bosom's door! How it knocketh, knocketh, knocketh, Knocketh, evermore! Say not 'tis thy pulses beating, 'Tis thy heart of sin; 'Tis thy Saviour knock, and crieth, "Rise and let me in!'
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, In the Silent Midnight Watches, In the silent midnight watches. 
     author: Brian Onang'o
 ---
 
-
-## 39. IN THE SILENT MIDNIGHT WATCHES
+#### Advent Hymnals
+## 039. IN THE SILENT MIDNIGHT WATCHES
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,25 +44,26 @@ Hast thou then forgot?
 Jesus waited long to know thee,
 Now he knows thee not!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | In the Silent Midnight Watches |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | In the silent midnight watches |
-Author | 
+Author | undefined
 Year | 1908
 Composer| Geo. F. Root |
 Hymnal|  - |
 Tune| In the silent midnight watches |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
 Texts | Revelation 3:20 |
 Print Texts | 
 Scripture Song |  |
-  
+    

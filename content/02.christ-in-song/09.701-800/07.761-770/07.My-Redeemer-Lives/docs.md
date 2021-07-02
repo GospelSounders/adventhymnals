@@ -1,13 +1,17 @@
 ---
-title: 767. My Redeemer Lives
+title: |
+    767. My Redeemer Lives - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, My Redeemer Lives, I know that my Redeemer lives, 
+    description: |
+        Christ in Song 767. My Redeemer Lives. I know that my Redeemer lives, And ever prays for me; A token of his love he gives, A pledge of liberty.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, My Redeemer Lives, I know that my Redeemer lives. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 767. MY REDEEMER LIVES
+####  Christ in Song,
 
 ```txt
 1.
@@ -28,13 +32,14 @@ Of paradise possessed,
 I taste unutterable bliss,
 And everlasting rest.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | My Redeemer Lives |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | I know that my Redeemer lives |
 Author | C. Wesley
 Year | 1908
@@ -42,11 +47,11 @@ Composer| G. F. Handel |
 Hymnal|  - |
 Tune| BRADFORD |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Assurance; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

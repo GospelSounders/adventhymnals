@@ -1,13 +1,17 @@
 ---
-title: 807. Day By Day
+title: |
+    807. Day By Day - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Day By Day, Day by day the manna fell, 
+    description: |
+        Christ in Song 807. Day By Day. Day by day the manna fell; O to learn this lesson well! Still by constant mercy fed, Give me, Lord, our daily bread.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Day By Day, Day by day the manna fell. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 807. DAY BY DAY
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ Day by day to thee we live;
 So shall added years fulfil
 Not our own, our Father's will.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Day By Day |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Day by day the manna fell |
 Author | Josiah Conder
 Year | 1908
@@ -48,11 +53,11 @@ Composer| C. M. Von Weber |
 Hymnal|  - |
 Tune| SEYMOUR |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God Provides |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

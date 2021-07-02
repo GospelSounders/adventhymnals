@@ -1,13 +1,17 @@
 ---
-title: 434. The Thought of God
+title: |
+    434. The Thought of God - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Thought of God, One thot&#039; I have, my ample creed, 
+    description: |
+        Christ in Song 434. The Thought of God. One thot' I have, my ample creed, So deep it is and broad; And equal to my ev'ry need, It is the tho't of God.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Thought of God, One thot' I have, my ample creed. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 434. THE THOUGHT OF GOD
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ I ask not far before to see,
 But take in trust my road;
 Life, death, and immortality
 Are in my tho't of God
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Thought of God |
 Key | F Major |
-Titles |  |
-First Line | One thot&#039; I have, my ample creed |
+Titles | undefined |
+First Line | One thot' I have, my ample creed |
 Author | F. L. Hosmer 
 Year | 1908
 Composer| James Turle |
 Hymnal|  - |
-Tune| ST. JOHN&#039;S |
+Tune| ST. JOHN'S |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Love and Mercy; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

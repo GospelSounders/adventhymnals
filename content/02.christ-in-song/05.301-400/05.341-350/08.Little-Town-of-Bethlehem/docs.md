@@ -1,13 +1,17 @@
 ---
-title: 348. Little Town of Bethlehem
+title: |
+    348. Little Town of Bethlehem - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Little Town of Bethlehem, O little town of Bethlehem, 
+    description: |
+        Christ in Song 348. Little Town of Bethlehem. O little town of Bethlehem, How still we see thee lie! Above thy deep and dreamless sleep The silent stars go by; Yet in thy dark streets shineth The Everlasting Light; The hopes and fears of all the years Are met in thee tonight.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Little Town of Bethlehem, O little town of Bethlehem. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 348. LITTLE TOWN OF BETHLEHEM
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ We hear the Christmas angels
 The great glad tidings tell,
 Oh, come to us, abide with us,
 Our Lord Emmanuel!  Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Little Town of Bethlehem |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | O little town of Bethlehem |
 Author | Brooks
 Year | 1908
@@ -63,11 +68,11 @@ Composer| L. H. Redner |
 Hymnal|  - |
 Tune| ST. LOUIS |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Christmas |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

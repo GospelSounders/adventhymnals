@@ -1,13 +1,17 @@
 ---
-title: 422. All Things Are Thine
+title: |
+    422. All Things Are Thine - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, All Things Are Thine, All things are thine; no gift have we, 
+    description: |
+        Christ in Song 422. All Things Are Thine. All things are thine; no gift have we, Lord of all gifts!  to offer thee; And hence, with grateful hearts to-day, Thine own, before thy feet we lay.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, All Things Are Thine, All things are thine: no gift have we. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 422. ALL THINGS ARE THINE
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ Make this th' abode of righteousness,
 And let these doors a gateway be
 To lead us from ourselves to thee.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | All Things Are Thine |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | All things are thine: no gift have we |
 Author | Anon.
 Year | 1908
@@ -48,11 +53,11 @@ Composer| Geo. Kingsley |
 Hymnal|  - |
 Tune| WARE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Dedication of Church |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 373. The Spreading Gospel
+title: |
+    373. The Spreading Gospel - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Spreading Gospel, The heav&#039;ns declare Thy glory, Lord, 
+    description: |
+        Christ in Song 373. The Spreading Gospel. The heav'ns declare Thy glory, Lord, In ev'ry star Thy wisdom shines, But viewing Christ within Thy word, We read Thy love in clearer lines.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Spreading Gospel, The heav'ns declare Thy glory, Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 373. THE SPREADING GOSPEL
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ Great Sun of Righteousness, arise;
 Bless the dark world with heav'nly light:
 Thy gospel makes the simple wise,
 Thy laws are pure, Thy judgments right.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Spreading Gospel |
 Key | A♭ Major |
-Titles |  |
-First Line | The heav&#039;ns declare Thy glory, Lord |
-Author | 
+Titles | undefined |
+First Line | The heav'ns declare Thy glory, Lord |
+Author | undefined
 Year | 1908
 Composer| L. Van Beethoven |
 Hymnal|  - |
 Tune| GERMANY |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Teaching the Gospel; Living His Life: Teaching the Gospel |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

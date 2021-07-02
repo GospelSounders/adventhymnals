@@ -1,13 +1,17 @@
 ---
-title: 115. The Gospel Trump Is Sounding
+title: |
+    115. The Gospel Trump Is Sounding - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Gospel Trump Is Sounding, The gospel trump is sounding, 
+    description: |
+        Christ in Song 115. The Gospel Trump Is Sounding. The gospel trump is sounding The year of jubilee, And grace is all abounding, To set the bondmen free. Forsake your wretched service, Your Master's claims are o'er; Avail yourselves of freedom, Be Satan's slaves no more.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Gospel Trump Is Sounding, The gospel trump is sounding. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 115. THE GOSPEL TRUMP IS SOUNDING
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ Return, return, ye captives,
 Return unto your home,
 The gospel trump is sounding, 
 The jubilee is come.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Gospel Trump Is Sounding |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | The gospel trump is sounding |
-Author | 
+Author | undefined
 Year | 1908
 Composer| F. E. Belden |
 Hymnal|  - |
 Tune| OSCAR |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

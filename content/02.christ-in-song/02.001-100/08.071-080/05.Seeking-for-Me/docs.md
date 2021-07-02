@@ -1,13 +1,17 @@
 ---
-title: 75. Seeking for Me
+title: |
+    075. Seeking for Me - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Seeking for Me, Jesus, my Saviour, to Bethlehem came, 
+    description: |
+        Christ in Song 075. Seeking for Me. Jesus, my Saviour, to Bethlehem came, Born in a manger to sorrow and shame; O, it was wonderful, blest be His name! Seeking for me, for me. Seeking for me, seeking for me, Seeking for me, seeking for me; O, it was wonderful, blest be His name! Seeking for me, for me.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Seeking for Me, Jesus, my Saviour, to Bethlehem came. 
     author: Brian Onang'o
 ---
 
-
-## 75. SEEKING FOR ME
+#### Advent Hymnals
+## 075. SEEKING FOR ME
+####  Christ in Song,
 
 ```txt
 1.
@@ -50,25 +54,26 @@ Coming for me, coming for me.
 O, I shall see Him descending the sky,
 Coming for me, for me.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Seeking for Me |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, my Saviour, to Bethlehem came |
-Author | 
+Author | undefined
 Year | 1908
 Composer| E. E. Hasty |
 Hymnal|  - |
 Tune| Jesus, my Saviour, to Bethlehem came |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ's Life and Love; Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

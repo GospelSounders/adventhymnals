@@ -1,13 +1,17 @@
 ---
-title: 364. Secure
+title: |
+    364. Secure - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Secure, How shall the young secure their hearts, 
+    description: |
+        Christ in Song 364. Secure. How shall the young secure their hearts, And guard their lives from sin? Thy word the choicest rules imparts, To keep the conscience clean. To keep the conscience clean.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Secure, How shall the young secure their hearts. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 364. SECURE
+####  Christ in Song,
 
 ```txt
 1.
@@ -38,25 +42,26 @@ That holy book shall guide my youth,
 And well support my age.
 And well support my age.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Secure |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | How shall the young secure their hearts |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

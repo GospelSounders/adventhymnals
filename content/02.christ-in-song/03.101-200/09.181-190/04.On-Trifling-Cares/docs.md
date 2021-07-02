@@ -1,13 +1,17 @@
 ---
-title: 184. On Trifling Cares
+title: |
+    184. On Trifling Cares - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, On Trifling Cares, Why do we waste on trifling cares, 
+    description: |
+        Christ in Song 184. On Trifling Cares. Why do we waste on trifling cares That life which God's compassion spares, While in the various range of thought, The one thing needful is forgot?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, On Trifling Cares, Why do we waste on trifling cares. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 184. ON TRIFLING CARES
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Almighty God, thy grace impart;
 Fix deep conviction on each heart;
 Nor let us waste on trifling cares
 That life in which thy compassion spares.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | On Trifling Cares |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Why do we waste on trifling cares |
 Author | P. Doddridge
 Year | 1908
@@ -47,11 +52,11 @@ Composer| C. H. A. Malan |
 Hymnal|  - |
 Tune| WELTON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

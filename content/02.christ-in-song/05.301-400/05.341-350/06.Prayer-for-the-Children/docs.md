@@ -1,13 +1,17 @@
 ---
-title: 346. Prayer for the Children
+title: |
+    346. Prayer for the Children - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Prayer for the Children, Heav&#039;nly Father, send Thy blessing, 
+    description: |
+        Christ in Song 346. Prayer for the Children. Heav'nly Father, send Thy blessing On the children gathered here, May they all, Thy name confessing, Hold Thy truth forever dear; May they be like Joseph, loving, Dutiful, and kind, and pure, And their faith, like Samuel proving, Steadfast in the right endure.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Prayer for the Children, Heav'nly Father, send Thy blessing. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 346. PRAYER FOR THE CHILDREN
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ Temples of thy glorious Godhead,
 May they with Thy presence shine,
 And immortal bliss inherit,
 And forevermore be Thine.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Prayer for the Children |
 Key | F Major |
-Titles |  |
-First Line | Heav&#039;nly Father, send Thy blessing |
+Titles | undefined |
+First Line | Heav'nly Father, send Thy blessing |
 Author | C. Wordsworth
 Year | 1908
 Composer| G. F. LeJeune |
 Hymnal|  - |
 Tune| LOVE DIVINE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Save the Children; Invitation and Repentance: Save the Children |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

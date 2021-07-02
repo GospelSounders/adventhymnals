@@ -1,13 +1,17 @@
 ---
-title: 789. Firm As a Rock
+title: |
+    789. Firm As a Rock - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Firm As a Rock, Unshaken as the sacred hills, 
+    description: |
+        Christ in Song 789. Firm As a Rock. Unshaken as the sacred hills, And fix'd as mountains stand; Firm as a rock the soul shall rest That trusts th' Almighty hand.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Firm As a Rock, Unshaken as the sacred hills. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 789. FIRM AS A ROCK
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Do good, O Lord, do good to those
 Who cleave to thee in heart,
 Who on thy truth alone repose,
 Nor from thy law depart.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Firm As a Rock |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Unshaken as the sacred hills |
 Author | Isaac Watts
 Year | 1908
@@ -41,11 +46,11 @@ Composer| G. Franc |
 Hymnal|  - |
 Tune| DUNDEE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Protection |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

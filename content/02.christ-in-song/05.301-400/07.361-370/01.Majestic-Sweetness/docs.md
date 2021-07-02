@@ -1,13 +1,17 @@
 ---
-title: 361. Majestic Sweetness
+title: |
+    361. Majestic Sweetness - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Majestic Sweetness, Majestic sweetness sits enthron&#039;d, 
+    description: |
+        Christ in Song 361. Majestic Sweetness. Majestic sweetness sits enthron'd Upon the Saviour's brow; His head with radiant light is crown'd, His lips with grace o'erflow, His lips with grace o'erflow.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Majestic Sweetness, Majestic sweetness sits enthron'd. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 361. MAJESTIC SWEETNESS
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,25 +53,26 @@ Since from his bounty I receive
 Such proofs of love divine,
 Had I a thousand hearts to give,
 Lord, they should all be thine.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Majestic Sweetness |
 Key | A♭ Major |
-Titles |  |
-First Line | Majestic sweetness sits enthron&#039;d |
+Titles | undefined |
+First Line | Majestic sweetness sits enthron'd |
 Author | S. Stennett
 Year | 1908
 Composer| T. Hastings |
 Hymnal|  - |
 Tune| ORTONVILLE |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

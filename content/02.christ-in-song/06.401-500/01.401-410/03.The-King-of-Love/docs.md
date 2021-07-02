@@ -1,13 +1,17 @@
 ---
-title: 403. The King of Love
+title: |
+    403. The King of Love - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The King of Love, The King of love my Shepherd is, 
+    description: |
+        Christ in Song 403. The King of Love. The King of love my Shepherd is, Whose goodness faileth never; I nothing lack if I am His, And He is mine forever.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The King of Love, The King of love my Shepherd is. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 403. THE KING OF LOVE
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ And so thro' all the length of days
 Thy goodness faileth never
 Good Shepherd!  I would sing Thy praise
 Within Thy house forever.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The King of Love |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | The King of love my Shepherd is |
 Author | H. W. Baker
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Dykes |
 Hymnal|  - |
 Tune| DOMINUS REGIT ME |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Leading; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

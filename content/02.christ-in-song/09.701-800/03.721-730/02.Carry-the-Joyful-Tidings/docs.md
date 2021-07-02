@@ -1,13 +1,17 @@
 ---
-title: 722. Carry the Joyful Tidings
+title: |
+    722. Carry the Joyful Tidings - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Carry the Joyful Tidings, Carry the joyful tidings, 
+    description: |
+        Christ in Song 722. Carry the Joyful Tidings. Carry the joyful tidings To every land and sea; Banish the heart dividings, Brothers should brothers be; Christ died for all the nations, "One flesh and blood," saith he; There are no tribes or stations; One in the Lord are we.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Carry the Joyful Tidings, Carry the joyful tidings. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 722. CARRY THE JOYFUL TIDINGS
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ Souls out of Christ the Saviour;
 O for a Church of love,
 Bearing the priceless favor,
 Pointing the lost above!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Carry the Joyful Tidings |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | Carry the joyful tidings |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| WORK |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Call to Activity; Special Occasions: Reunion |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

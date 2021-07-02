@@ -1,13 +1,17 @@
 ---
-title: 258. Crown Him Lord of All
+title: |
+    258. Crown Him Lord of All - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Crown Him Lord of All, All hail the power of Jesus&#039; name!, 
+    description: |
+        Christ in Song 258. Crown Him Lord of All. All hail the pow'r of Jesus' name! Let angels prostrate fall; Bring forth the royal diadem, And crown Him Lord of all; Bring forth the royal diadem, And crown Him Lord of all.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Crown Him Lord of All, All hail the power of Jesus' name!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 258. CROWN HIM LORD OF ALL
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,25 +45,26 @@ We'll join the everlasting song,
 And crown Him Lord of all;
 We'll join the everlasting song,
 And crown Him Lord of all.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Crown Him Lord of All |
 Key | G Major |
-Titles |  |
-First Line | All hail the power of Jesus&#039; name! |
+Titles | undefined |
+First Line | All hail the power of Jesus' name! |
 Author | Edward Perronet
 Year | 1908
 Composer| Oliver Holden |
 Hymnal|  - |
 Tune| CORONATION |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ King; Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

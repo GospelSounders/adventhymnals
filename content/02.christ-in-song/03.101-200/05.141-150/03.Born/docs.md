@@ -1,13 +1,17 @@
 ---
-title: 143. Born
+title: |
+    143. Born - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Born, How solemn are the words, 
+    description: |
+        Christ in Song 143. Born. How solemn are the words, And yet to faith how plain, Which Jesus uttered while on earth "Ye must be born again!" "Ye must be born again!" For so hath God decreed; No reformation will suffice 'Tis life poor sinners need.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Born, How solemn are the words. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 143. BORN
+####  Christ in Song,
 
 ```txt
 1.
@@ -30,25 +34,26 @@ Or never enter heav'n;
 'Tis only blood-washed ones are there
 The ransomed and forgiv'n. 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Born |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | How solemn are the words |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 2 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | New Birth; Invitation and Repentance: New Birth |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

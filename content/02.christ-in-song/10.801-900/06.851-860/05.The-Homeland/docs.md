@@ -1,13 +1,17 @@
 ---
-title: 855. The Homeland
+title: |
+    855. The Homeland - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Homeland, The Homeland!  O the Homeland!, 
+    description: |
+        Christ in Song 855. The Homeland. The Homeland!  O the Homeland! The land of the freeborn! There's no night in the Homeland, But aye the fadeless morn; I'm sighing for the Homeland, My heart is aching here; There is no pain in the Homeland To which I'm drawing near; There is no pain in the Homeland To which I'm drawing near.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Homeland, The Homeland!  O the Homeland!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 855. THE HOMELAND
+####  Christ in Song,
 
 ```txt
 1.
@@ -47,13 +51,14 @@ Christ bring us all to the Homeland
 Of Thy redeeming love.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Homeland |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | The Homeland!  O the Homeland! |
 Author | Hugh R. Haweis
 Year | 1908
@@ -61,11 +66,11 @@ Composer| Geo. C. Stebbins |
 Hymnal|  - |
 Tune| The Homeland!  O the Homeland! |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal; Special Selections: Solos; Special Selections: Choir or Quartet |
 Texts | Revelation 21:1 |
 Print Texts | 
 Scripture Song |  |
-  
+    

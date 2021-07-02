@@ -1,13 +1,17 @@
 ---
-title: 11. Only Two Ways
+title: |
+    011. Only Two Ways - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Only Two Ways, There are two ways for trav&#039;lers, only two ways, 
+    description: |
+        Christ in Song 011. Only Two Ways. There are two ways for trav'lers, only two ways: One's a hill pathway of battle and praise; The other leads downward; tho flow'ry it seem Its joy is a phantom, its love is a dream Its love is a dream, 'tis only a dream.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Only Two Ways, There are two ways for trav'lers, only two ways. 
     author: Brian Onang'o
 ---
 
-
-## 11. ONLY TWO WAYS
+#### Advent Hymnals
+## 011. ONLY TWO WAYS
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ The Saviour is waiting to welcome you home;
 To welcome you home, to welcome you home.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Only Two Ways |
 Key | G Major |
-Titles |  |
-First Line | There are two ways for trav&#039;lers, only two ways |
+Titles | undefined |
+First Line | There are two ways for trav'lers, only two ways |
 Author | F. E. B.
 Year | 1908
 Composer| F. E. B. |
 Hymnal|  - |
-Tune| There are two ways for trav&#039;lers, only two ways |
+Tune| There are two ways for trav'lers, only two ways |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Invitation and Repentance: Decision Day; Special Selections: Male Voices |
 Texts | Matthew 7:13 |
 Print Texts | 
 Scripture Song |  |
-  
+    

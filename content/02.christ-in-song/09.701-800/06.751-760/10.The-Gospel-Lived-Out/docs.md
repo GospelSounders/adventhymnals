@@ -1,13 +1,17 @@
 ---
-title: 760. The Gospel Lived Out
+title: |
+    760. The Gospel Lived Out - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Gospel Lived Out, So let our lips and lives express, 
+    description: |
+        Christ in Song 760. The Gospel Lived Out. So let our lips and lives express The holy gospel we profess; So let our works and virtues shine, To prove the doctrine all divine.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Gospel Lived Out, So let our lips and lives express. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 760. THE GOSPEL LIVED OUT
+####  Christ in Song,
 
 ```txt
 1.
@@ -29,13 +33,14 @@ While justice, temp'rance, truth, and love,
 Our inward piety approve.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Gospel Lived Out |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | So let our lips and lives express |
 Author | Anon.
 Year | 1908
@@ -43,11 +48,11 @@ Composer| Crasselius |
 Hymnal|  - |
 Tune| CRASSELIUS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Christian Character; Living His Life: Love |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

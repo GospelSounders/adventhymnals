@@ -1,13 +1,17 @@
 ---
-title: 565. Christian, Onward!
+title: |
+    565. Christian, Onward! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Christian, Onward!, Christian, onward!  Christ is coming, 
+    description: |
+        Christ in Song 565. Christian, Onward!. Christian, onward!  Christ is coming, Wake the hour of jubilee; Nations waiting for the message Onward, Christian, victory! Hell's proud cohorts almost vanquished, Vanquished for eternity.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Christian, Onward!, Christian, onward!  Christ is coming. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 565. CHRISTIAN, ONWARD!
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Bear the banner bravely forward,
 Let there be no more delay.
 Christian, onward!  Christ is coming,
 Wake the hour of jubilee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Christian, Onward! |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Christian, onward!  Christ is coming |
 Author | W. C. J.
 Year | 1908
@@ -55,11 +60,11 @@ Composer| Walton C. John |
 Hymnal|  - |
 Tune| Christian, onward!  Christ is coming |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Call to Activity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 296. Walking With Thee
+title: |
+    296. Walking With Thee - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Walking With Thee, Walking with thee, my God, 
+    description: |
+        Christ in Song 296. Walking With Thee. Walking with thee, my God, Saviour benign, Daily confer on me Converse divine; Jesus, in thee restores, Brother, and blessed Lord, Let it be mine, Let it be mine.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Walking With Thee, Walking with thee, my God. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 296. WALKING WITH THEE
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ E'en as a friend with friend,
 Chee'rd to the journey's end,
 Walking with thee,
 Walking with thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Walking With Thee |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Walking with thee, my God |
 Author | Geo. Rawson
 Year | 1908
@@ -53,11 +58,11 @@ Composer| W. H. Pontius |
 Hymnal|  - |
 Tune| Walking with thee, my God |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us; Special Selections: Male Voices |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

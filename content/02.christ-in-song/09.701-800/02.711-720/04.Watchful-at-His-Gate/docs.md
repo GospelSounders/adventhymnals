@@ -1,13 +1,17 @@
 ---
-title: 714. Watchful at His Gate
+title: |
+    714. Watchful at His Gate - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Watchful at His Gate, Ye servants of the Lord, 
+    description: |
+        Christ in Song 714. Watchful at His Gate. Ye servants of the Lord, Each in his office wait; Observant of his heavn'ly word, And watchful at his gate. Observant of his heav'nly word, And watchful at his gate.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Watchful at His Gate, Ye servants of the Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 714. WATCHFUL AT HIS GATE
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ He shall his Lord with rapture see,
 And be with honor crown'd.
 He shall his Lord with rapture see,
 And be with honor crown'd.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Watchful at His Gate |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Ye servants of the Lord |
 Author | Philip Doddridge
 Year | 1908
@@ -55,11 +60,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| EL KADER |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Waiting for Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

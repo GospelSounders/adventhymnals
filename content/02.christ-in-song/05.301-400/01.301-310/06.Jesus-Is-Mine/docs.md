@@ -1,13 +1,17 @@
 ---
-title: 306. Jesus Is Mine
+title: |
+    306. Jesus Is Mine - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Jesus Is Mine, Fade, fade each earthly joy, 
+    description: |
+        Christ in Song 306. Jesus Is Mine. Fade, fade each earthly joy, Jesus is mine! Break ev'ry tender tie, Jesus is mine! Dark is the wilderness, Earth has no resting place, Jesus alone can bless, Jesus is mine!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Jesus Is Mine, Fade, fade each earthly joy. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 306. JESUS IS MINE
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Welcome, O lov'd and blest,
 Welcome, sweet scenes of rest,
 Welcome my Saviour's breast,
 Jesus is mine!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jesus Is Mine |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Fade, fade each earthly joy |
 Author | Mrs. Catherine J. Bonar
 Year | 1908
@@ -63,11 +68,11 @@ Composer| T. E. Perkins |
 Hymnal|  - |
 Tune| Fade, fade each earthly joy |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Precious |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 384. Break Thou the Bread of Life
+title: |
+    384. Break Thou the Bread of Life - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Break Thou the Bread of Life, Break Thou the bread of life, 
+    description: |
+        Christ in Song 384. Break Thou the Bread of Life. Break Thou the bread of life, Dear Lord, to me, As Thou didst break the loaves Beside the sea; Beyond the sacred page I seek Thee, Lord; My spirit pants for Thee, O living Word!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Break Thou the Bread of Life, Break Thou the bread of life. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 384. BREAK THOU THE BREAD OF LIFE
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Heeding Thy holy word
 I win the strife.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Break Thou the Bread of Life |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Break Thou the bread of life |
 Author | Mary A. Lathbuy
 Year | 1908
@@ -55,11 +60,11 @@ Composer| W. F. Sherwin |
 Hymnal|  - |
 Tune| LATHBURY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Opening Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

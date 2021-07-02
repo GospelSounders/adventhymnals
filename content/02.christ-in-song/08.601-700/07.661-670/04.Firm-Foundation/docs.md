@@ -1,13 +1,17 @@
 ---
-title: 664. Firm Foundation
+title: |
+    664. Firm Foundation - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Firm Foundation, How firm a foundation, ye saints of the Lord, 
+    description: |
+        Christ in Song 664. Firm Foundation. How firm a foundation, ye saints of the Lord Is laid for your faith in his excellent word! What more can he say than to you he hath said Who unto the Saviour for refuge have fled, Who unto the Saviour for refuge have fled?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Firm Foundation, How firm a foundation, ye saints of the Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 664. FIRM FOUNDATION
+####  Christ in Song,
 
 ```txt
 1.
@@ -37,13 +41,14 @@ I will not, I will not, desert to his foes;
 That soul, tho' all hell should endeavor to shake,
 I'll never, no never, no never forsake,
 I'll never, no never, no never forsake."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Firm Foundation |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | How firm a foundation, ye saints of the Lord |
 Author | G. Keith
 Year | 1908
@@ -51,11 +56,11 @@ Composer| J. Reading |
 Hymnal|  - |
 Tune| PORTUGUESE HYMN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Faith |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

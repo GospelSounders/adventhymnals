@@ -1,13 +1,17 @@
 ---
-title: 775. Sun of My Soul
+title: |
+    775. Sun of My Soul - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Sun of My Soul, Sun of my soul, O Saviour dear!  , 
+    description: |
+        Christ in Song 775. Sun of My Soul. Sun of my soul, O Saviour dear! It is not night if thou be near: O may no earth-born cloud arise To hide thee from thy servant's eyes.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Sun of My Soul, Sun of my soul, O Saviour dear!  . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 775. SUN OF MY SOUL
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Be near and bless me when I wake,
 Ere thro' the world my way I take;
 Till in the ocean of thy love
 I lose myself in heav'n above.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sun of My Soul |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Sun of my soul, O Saviour dear!   |
 Author | John Keble
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Peter Ritter |
 Hymnal|  - |
 Tune| HURSLEY |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

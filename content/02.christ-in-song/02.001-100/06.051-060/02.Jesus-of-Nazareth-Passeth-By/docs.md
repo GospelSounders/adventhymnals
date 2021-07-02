@@ -1,13 +1,17 @@
 ---
-title: 52. Jesus of Nazareth Passeth By
+title: |
+    052. Jesus of Nazareth Passeth By - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Jesus of Nazareth Passeth By, What means this eager, anxious throng, 
+    description: |
+        Christ in Song 052. Jesus of Nazareth Passeth By. What means this eager, anxious throng Which moves with busy haste along, These wondrous gath'rings day by day? What means this strange commotion, pray? In accents hush'd the throng reply; "Jesus of Nazareth passeth by." In accents hush'd the throng reply: "Jesus of Nazareth passeth by."
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Jesus of Nazareth Passeth By, What means this eager, anxious throng. 
     author: Brian Onang'o
 ---
 
-
-## 52. JESUS OF NAZARETH PASSETH BY
+#### Advent Hymnals
+## 052. JESUS OF NAZARETH PASSETH BY
+####  Christ in Song,
 
 ```txt
 1.
@@ -69,13 +73,14 @@ Who now his invitation spurn.
 "Jesus of Nazareth has passed by."
 "Too late!  too late!"  will be the cry
 "Jesus of Nazareth has passed by."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jesus of Nazareth Passeth By |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | What means this eager, anxious throng |
 Author | Emma Campbell
 Year | 1908
@@ -83,11 +88,11 @@ Composer| Theo. E. Perkins |
 Hymnal|  - |
 Tune| What means this eager, anxious throng |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
 Texts | Mark 10:47 |
 Print Texts | 
 Scripture Song |  |
-  
+    

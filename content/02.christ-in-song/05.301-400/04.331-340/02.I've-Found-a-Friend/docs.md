@@ -1,13 +1,17 @@
 ---
-title: 332. I've Found a Friend
+title: |
+    332. I've Found a Friend - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, I've Found a Friend, I&#039;ve found a Friend; oh, such a Friend!, 
+    description: |
+        Christ in Song 332. I've Found a Friend. I've found a Friend; oh, such a Friend! He loved me ere I knew Him: He drew me with the cords of love, And thus He bound me to Him. And 'round my heart still closely twine These ties which naught can sever, For I am His, and He is mine, Forever and forever.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, I've Found a Friend, I've found a Friend; oh, such a Friend!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 332. I'VE FOUND A FRIEND
+####  Christ in Song,
 
 ```txt
 1.
@@ -51,25 +55,26 @@ Shall life or death, or earth or hell?
 No; I am His forever.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I've Found a Friend |
 Key | A Major |
-Titles |  |
-First Line | I&#039;ve found a Friend; oh, such a Friend! |
+Titles | undefined |
+First Line | I've found a Friend; oh, such a Friend! |
 Author | J. G. Small
 Year | 1908
 Composer| Geo. C. Stebbins |
 Hymnal|  - |
 Tune| FRIEND |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ's Best Friend; Christ: Christ Best Friend; Special Selections: Solos |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

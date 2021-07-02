@@ -1,13 +1,17 @@
 ---
-title: 763. Heavenly Dove
+title: |
+    763. Heavenly Dove - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Heavenly Dove, Come, Holy Spirit, heav&#039;nly Dove, 
+    description: |
+        Christ in Song 763. Heavenly Dove. Come, Holy Spirit, heav'nly Dove, With all thy quick'ning pow'rs; Kindle a flame of sacred love In these cold hearts of ours.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Heavenly Dove, Come, Holy Spirit, heav'nly Dove. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 763. HEAVENLY DOVE
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ Awake our souls to joyful songs;
 Let pure devotions rise;
 Till praise employs our thankful tongues,
 And doubt forever dies.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Heavenly Dove |
 Key | G Major |
-Titles |  |
-First Line | Come, Holy Spirit, heav&#039;nly Dove |
+Titles | undefined |
+First Line | Come, Holy Spirit, heav'nly Dove |
 Author | I. Watts
 Year | 1908
 Composer| Wm. Tansur |
 Hymnal|  - |
-Tune| ST. MARTIN&#039;S |
+Tune| ST. MARTIN'S |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Holy Spirit: Refiner |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 355. The Only Lord
+title: |
+    355. The Only Lord - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Only Lord, O God, we praise thee, and confess, 
+    description: |
+        Christ in Song 355. The Only Lord. O God, we praise thee, and confess That thou the only Lord And Everlasting Father art; By all be thou adored. To thee all angels cry aloud; To thee the pow'rs on high, Both cherubim and seraphim, Continually do cry,
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Only Lord, O God, we praise thee, and confess. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 355. THE ONLY LORD
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ Thee day by day we magnify,
 Thy mercy we implore,
 To keep us this day without sin,
 And guard us evermore.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Only Lord |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | O God, we praise thee, and confess |
-Author | 
+Author | undefined
 Year | 1908
 Composer| Henry Hiles |
 Hymnal|  - |
 Tune| ST. LEONARD |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

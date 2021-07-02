@@ -1,13 +1,17 @@
 ---
-title: 764. The Sacred Book
+title: |
+    764. The Sacred Book - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Sacred Book, I love the sacred book of God, 
+    description: |
+        Christ in Song 764. The Sacred Book. I love the sacred book of God, No other can its place supply; It points me to the saints' abode, And bids me from destruction fly.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Sacred Book, I love the sacred book of God. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 764. THE SACRED BOOK
+####  Christ in Song,
 
 ```txt
 1.
@@ -28,25 +32,26 @@ His place, and tell me of his love;
 I'll read with faith's discerning eye,
 And thus partake of joys above.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Sacred Book |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | I love the sacred book of God |
 Author | T. Kelly
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| HAMBURG |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

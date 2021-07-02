@@ -1,13 +1,17 @@
 ---
-title: 78. Jesus Saves
+title: |
+    078. Jesus Saves - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Jesus Saves, We have heard a joyful sound, 
+    description: |
+        Christ in Song 078. Jesus Saves. We have heard a joyful sound, Jesus saves, Jesus saves; Spread the gladness all around, Jesus saves, Jesus saves. Bear the news to ev'ry land, Climb the steeps and cross the waves, Onward, 'tis our Lord's command, Jesus saves, Jesus saves.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Jesus Saves, We have heard a joyful sound. 
     author: Brian Onang'o
 ---
 
-
-## 78. JESUS SAVES
+#### Advent Hymnals
+## 078. JESUS SAVES
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Shout salvation full and free,
 Highest hills and deepest caves,
 This our song of victory,
 Jesus saves, Jesus saves.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jesus Saves |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | We have heard a joyful sound |
 Author | Priscilla J. Owens
 Year | 1908
@@ -63,11 +68,11 @@ Composer| Wm. J. Kirkpatrick |
 Hymnal|  - |
 Tune| We have heard a joyful sound |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ's Power; Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 669. Lead Thou Me On
+title: |
+    669. Lead Thou Me On - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Lead Thou Me On, Lead Thou me on, and then my feet tho&#039; weary, 
+    description: |
+        Christ in Song 669. Lead Thou Me On. Lead Thou me on, and then my feet tho' weary, Shall never falter in life's rugged way; And tho' my pathway lead thro' wilds most dreary, Guided by thee my feet shall never stray.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Lead Thou Me On, Lead Thou me on, and then my feet tho' weary. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 669. LEAD THOU ME ON
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,25 +44,26 @@ With Christ in whom all heav'nly riches dwell;
 In Him by faith I grasp the joys of heaven,
 And taste the bliss my tongue now fails to tell.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lead Thou Me On |
 Key | F Major |
-Titles |  |
-First Line | Lead Thou me on, and then my feet tho&#039; weary |
+Titles | undefined |
+First Line | Lead Thou me on, and then my feet tho' weary |
 Author | Harry Armstrong
 Year | 1908
 Composer| F. Abt |
 Hymnal|  - |
 Tune| WILLINGHAM |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
-Subjects |  |
-Texts |  |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects | undefined |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

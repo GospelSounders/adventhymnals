@@ -1,13 +1,17 @@
 ---
-title: 780. The One Thing Needful
+title: |
+    780. The One Thing Needful - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The One Thing Needful, Jesus, engrave it on my heart, 
+    description: |
+        Christ in Song 780. The One Thing Needful. Jesus, engrave it on my heart That thou the one thing needful art; I could from all things parted be, But never, never, Lord, from thee.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The One Thing Needful, Jesus, engrave it on my heart. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 780. THE ONE THING NEEDFUL
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Needful art thou, my Guide, my Stay,
 Thro' all life's dark and weary way;
 Nor will at last less needful be
 To bring me home to heav'n and thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The One Thing Needful |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, engrave it on my heart |
 Author | S. Medley
 Year | 1908
@@ -41,11 +46,11 @@ Composer| Beethhoven |
 Hymnal|  - |
 Tune| GERMANY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Our Need; Christ: Christ Precious |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

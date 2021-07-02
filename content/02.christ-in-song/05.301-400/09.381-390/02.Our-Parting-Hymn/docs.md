@@ -1,13 +1,17 @@
 ---
-title: 382. Our Parting Hymn
+title: |
+    382. Our Parting Hymn - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Our Parting Hymn, Saviour, again to thy dear name we raise, 
+    description: |
+        Christ in Song 382. Our Parting Hymn. Saviour, again to thy dear name we raise With one accord our parting hymn of praise; We stand to bless thee ere our worship cease, Then, lowly kneeling, wait thy word of peace.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Our Parting Hymn, Saviour, again to thy dear name we raise. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 382. OUR PARTING HYMN
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Grant us thy peace thro'out our earthly life,
 Our balm in sorrow, and our stay in strife;
 Then when thy voice shall bid our conflict cease,
 Call us, O Lord, to thine eternal peace!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Our Parting Hymn |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Saviour, again to thy dear name we raise |
 Author | Rev. John Ellerton
 Year | 1908
@@ -41,11 +46,11 @@ Composer| E. J. Hopkins |
 Hymnal|  - |
 Tune| ELLERS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Closing Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 329. The Hand That Made Us
+title: |
+    329. The Hand That Made Us - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Hand That Made Us, The spacious firmament on high, 
+    description: |
+        Christ in Song 329. The Hand That Made Us. The spacious firmament on high, With all the blue, ethereal sky, And spangled heav'ns, a shining frame, Their great Original proclaim: Th' unwearied sun, from day to day Does his Creator's pow'r display, And publishes to ev'ry land The work of an almighty hand.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Hand That Made Us, The spacious firmament on high. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 329. THE HAND THAT MADE US
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ In reason's ear they all rejoice,
 And utter forth a glorious voice,
 Forever singing as they shine,
 "The hand that made us is divine."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Hand That Made Us |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The spacious firmament on high |
 Author | Addison
 Year | 1908
@@ -53,11 +58,11 @@ Composer| Haydn |
 Hymnal|  - |
 Tune| CREATION |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

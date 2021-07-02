@@ -1,13 +1,17 @@
 ---
-title: 218. "None of Self And All of Thee"
+title: |
+    218. "None of Self And All of Thee" - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, "None of Self And All of Thee", O, the bitter pain and sorrow, 
+    description: |
+        Christ in Song 218. "None of Self And All of Thee". O, the bitter pain and sorrow, That a time could ever be, When I proudly said to Jesus, "All of self and none of Thee!" All of self and none of Thee, All of self and none of Thee, When I proudly said to Jesus,  "All of self and none of Thee!"
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, "None of Self And All of Thee", O, the bitter pain and sorrow. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 218. "NONE OF SELF AND ALL OF THEE"
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ None of self and all of Thee,
 None of self and all of Thee,
 Lord, Thy love at last has conquered,
 "None of self and all of Thee!"
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | "None of Self And All of Thee" |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | O, the bitter pain and sorrow |
 Author | Rev. Theo. Monod
 Year | 1908
@@ -63,11 +68,11 @@ Composer| James McGranahan |
 Hymnal|  - |
 Tune| O, the bitter pain and sorrow |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration |
 Texts | Colossians 3:11 |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 777. The Living Law
+title: |
+    777. The Living Law - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Living Law, My blest Redeemer and my Lord, 
+    description: |
+        Christ in Song 777. The Living Law. My blest Redeemer and my Lord, I read my duty in thy word; But in thy life the law appears, Drawn out in living characters.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Living Law, My blest Redeemer and my Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 777. THE LIVING LAW
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Be thou my pattern; make me bear
 More of thy gracious image;
 Then God, the Judge, shall own my name
 Among the foll'wers of the Lamb.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Living Law |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | My blest Redeemer and my Lord |
 Author | Watts
 Year | 1908
@@ -47,11 +52,11 @@ Composer| L. Mason |
 Hymnal|  - |
 Tune| ROCKINGHAM |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Law; Christ: Christ's Life and Love |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

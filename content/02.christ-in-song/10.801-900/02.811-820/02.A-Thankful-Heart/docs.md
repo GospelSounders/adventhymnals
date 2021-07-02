@@ -1,13 +1,17 @@
 ---
-title: 812. A Thankful Heart
+title: |
+    812. A Thankful Heart - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Thankful Heart, Father, whate&#039;er of earthly bliss, 
+    description: |
+        Christ in Song 812. A Thankful Heart. Father, whate'er of earthly bliss Thy sov'reign will denies, Accepted at thy throne of grace, Let this petition rise:
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Thankful Heart, Father, whate'er of earthly bliss. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 812. A THANKFUL HEART
+####  Christ in Song,
 
 ```txt
 1.
@@ -28,25 +32,26 @@ My life and death attend;
 Thy presence thro' my journey shine,
 And crown my journey's end.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Thankful Heart |
 Key | A♭ Major |
-Titles |  |
-First Line | Father, whate&#039;er of earthly bliss |
+Titles | undefined |
+First Line | Father, whate'er of earthly bliss |
 Author | Anne Steele
 Year | 1908
 Composer| E. Hamilton |
 Hymnal|  - |
 Tune| DENTON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

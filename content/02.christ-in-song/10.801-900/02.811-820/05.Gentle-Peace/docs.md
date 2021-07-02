@@ -1,13 +1,17 @@
 ---
-title: 815. Gentle Peace
+title: |
+    815. Gentle Peace - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Gentle Peace, Gentle Peace, from heav&#039;n descended, 
+    description: |
+        Christ in Song 815. Gentle Peace. Gentle Peace, from heav'n descended, We would live beneath thy law; Thou hast home and life befriended Born of nobler deeds than war.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Gentle Peace, Gentle Peace, from heav'n descended. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 815. GENTLE PEACE
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ Stay thou with us, still replenish
 Fields with fruit, ourselves with love;
 Discord and dissension banish,
 Peaceful spirits from above.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Gentle Peace |
 Key | C Major |
-Titles |  |
-First Line | Gentle Peace, from heav&#039;n descended |
+Titles | undefined |
+First Line | Gentle Peace, from heav'n descended |
 Author | Unknown
 Year | 1908
 Composer| Ithamar Conkey |
 Hymnal|  - |
 Tune| RATHBUN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Peace of Nation |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

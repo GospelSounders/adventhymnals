@@ -1,13 +1,17 @@
 ---
-title: 414. With Willing Hearts
+title: |
+    414. With Willing Hearts - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, With Willing Hearts, With willing hearts we tread, 
+    description: |
+        Christ in Song 414. With Willing Hearts. With willing hearts we tread The path our Saviour trod; We love th' example of our Head, The glorious Lamb of God.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, With Willing Hearts, With willing hearts we tread. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 414. WITH WILLING HEARTS
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ We trust thy sacrifice,
 To thy dear cross we flee;
 O may we die to sin, and rise
 To life and bliss in thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | With Willing Hearts |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | With willing hearts we tread |
 Author | Anon.
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| BADEA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Baptism |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

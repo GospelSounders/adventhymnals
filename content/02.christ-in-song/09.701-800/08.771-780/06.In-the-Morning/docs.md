@@ -1,13 +1,17 @@
 ---
-title: 776. In the Morning
+title: |
+    776. In the Morning - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, In the Morning, Lord, in the morning thou shalt hear , 
+    description: |
+        Christ in Song 776. In the Morning. Lord, in the morning thou shalt hear My voice ascending high; To thee will I direct my prayer, To thee lift up mine eye,
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, In the Morning, Lord, in the morning thou shalt hear . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 776. IN THE MORNING
+####  Christ in Song,
 
 ```txt
 1.
@@ -28,13 +32,14 @@ Shall see their hopes fulfilled;
 The mighty God will compass them
 With favor as a shield.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | In the Morning |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, in the morning thou shalt hear  |
 Author | Watts
 Year | 1908
@@ -42,11 +47,11 @@ Composer| Aaron Williams |
 Hymnal|  - |
 Tune| MEAR |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Morning Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

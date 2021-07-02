@@ -1,13 +1,17 @@
 ---
-title: 139. Chief of Sinners
+title: |
+    139. Chief of Sinners - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Chief of Sinners, Chief of sinners tho&#039; I be, 
+    description: |
+        Christ in Song 139. Chief of Sinners. Chief of sinners tho' I be, Jesus shed his blood for me, Died that I might live on high, Died that I might never die; As the branch is to the vine, I am his, and he is mine.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Chief of Sinners, Chief of sinners tho' I be. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 139. CHIEF OF SINNERS
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,25 +38,26 @@ All my sorrows are his own;
 Safe with him from earthly strife,
 He sustains the hidden life.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Chief of Sinners |
 Key | A♭ Major |
-Titles |  |
-First Line | Chief of sinners tho&#039; I be |
+Titles | undefined |
+First Line | Chief of sinners tho' I be |
 Author | McComb
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| SPANISH HYMN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
-Subjects |  |
-Texts |  |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects | undefined |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

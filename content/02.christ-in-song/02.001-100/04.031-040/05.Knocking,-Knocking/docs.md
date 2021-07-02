@@ -1,13 +1,17 @@
 ---
-title: 35. Knocking, Knocking
+title: |
+    035. Knocking, Knocking - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Knocking, Knocking, Knocking, knocking, who is there?, 
+    description: |
+        Christ in Song 035. Knocking, Knocking. Knocking, knocking, who is there? Waiting, waiting, O how fair! 'Tis a Pilgrim, strange and kingly, Never such was seen before; Ah!  my soul, for such a wonder Wilt thou not undo the door? Wilt thou not undo the door?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Knocking, Knocking, Knocking, knocking, who is there?. 
     author: Brian Onang'o
 ---
 
-
-## 35. KNOCKING, KNOCKING
+#### Advent Hymnals
+## 035. KNOCKING, KNOCKING
+####  Christ in Song,
 
 ```txt
 1.
@@ -36,25 +40,26 @@ And beneath the thorn-wreath'd hair
 Beam the patient eyes, so tender,
 Of thy Savior waiting there;
 Wilt thou keep him waiting there?
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Knocking, Knocking |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Knocking, knocking, who is there? |
-Author | 
+Author | undefined
 Year | 1908
 Composer| F. E. Belden |
 Hymnal|  - |
 Tune| Knocking, knocking, who is there? |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Special Selections: Male Voices |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

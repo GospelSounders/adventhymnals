@@ -1,13 +1,17 @@
 ---
-title: 172. The Wondrous Cross
+title: |
+    172. The Wondrous Cross - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Wondrous Cross, When I survey the wondrous cross, 
+    description: |
+        Christ in Song 172. The Wondrous Cross. When I survey the wondrous cross On which the prince of glory died, My richest gain I count but loss, And pour contempt on all my pride.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Wondrous Cross, When I survey the wondrous cross. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 172. THE WONDROUS CROSS
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Were the whole realm of nature mine,
 That were a tribute far too small;
 Love so amazing, so divine,
 Demands my life, my soul, my all.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Wondrous Cross |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | When I survey the wondrous cross |
 Author | Isaac Watts
 Year | 1908
@@ -47,11 +52,11 @@ Composer| E. S. Widdemer |
 Hymnal|  - |
 Tune| McCABE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Cross of Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

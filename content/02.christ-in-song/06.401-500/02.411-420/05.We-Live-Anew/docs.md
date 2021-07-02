@@ -1,13 +1,17 @@
 ---
-title: 415. We Live Anew
+title: |
+    415. We Live Anew - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, We Live Anew, Baptized into our Saviour&#039;s death, 
+    description: |
+        Christ in Song 415. We Live Anew. Baptized into our Saviour's death, Our souls to sin must die; With Christ our Lord we live anew, With Christ ascend on high, With Christ ascend on high.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, We Live Anew, Baptized into our Saviour's death. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 415. WE LIVE ANEW
+####  Christ in Song,
 
 ```txt
 1.
@@ -30,25 +34,26 @@ On wings of faith and love;
 Above, our choicest treasure lies,
 And be our hearts above,
 And be our hearts above.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Live Anew |
 Key | D Major |
-Titles |  |
-First Line | Baptized into our Saviour&#039;s death |
+Titles | undefined |
+First Line | Baptized into our Saviour's death |
 Author | Anon.
 Year | 1908
 Composer| Unknown |
 Hymnal|  - |
 Tune| NEWELL |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Baptism |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

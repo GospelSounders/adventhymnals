@@ -1,13 +1,17 @@
 ---
-title: 826. Thou Art Near
+title: |
+    826. Thou Art Near - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Thou Art Near, O love divine, that stooped to share, 
+    description: |
+        Christ in Song 826. Thou Art Near. O Love divine, that stooped to share Our sharpest pang, our bitterest tear! On thee we cast each earth-born care; We smile at pain while thou art near.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Thou Art Near, O love divine, that stooped to share. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 826. THOU ART NEAR
+####  Christ in Song,
 
 ```txt
 1.
@@ -28,13 +32,14 @@ O love divine, forever dear;
 Content to suffer while we know,
 Living or dying, thou art near.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thou Art Near |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | O love divine, that stooped to share |
 Author | Oliver W. Holmes
 Year | 1908
@@ -42,11 +47,11 @@ Composer| Edwin Barnes |
 Hymnal|  - |
 Tune| YORK |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Funeral Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

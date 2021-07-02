@@ -1,13 +1,17 @@
 ---
-title: 595. The Hour of Prayer
+title: |
+    595. The Hour of Prayer - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Hour of Prayer, My God, is any hour so sweet, 
+    description: |
+        Christ in Song 595. The Hour of Prayer. My God, is any hour so sweet, From blush of morn to evening star, As that which calls me to Thy feet, The hour of pray'r?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Hour of Prayer, My God, is any hour so sweet. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 595. THE HOUR OF PRAYER
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Lord, till I reach that blissful shore,
 No privilege so dear shall be
 As thus my inmost soul to pour
 In pray'r to Thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Hour of Prayer |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | My God, is any hour so sweet |
 Author | Charlotte Elliott
 Year | 1908
@@ -47,11 +52,11 @@ Composer| J. B. Dykes |
 Hymnal|  - |
 Tune| ALMSGIVING |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Prayer; Living His Life: Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 796. Gently Think and Speak
+title: |
+    796. Gently Think and Speak - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Gently Think and Speak, Gently think, and gently speak, 
+    description: |
+        Christ in Song 796. Gently Think and Speak. Gently think, and gently speak, Art thou strong?  respect the weak; Art thou weak?  from what thou art, Gently touch another's heart.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Gently Think and Speak, Gently think, and gently speak. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 796. GENTLY THINK AND SPEAK
+####  Christ in Song,
 
 ```txt
 1.
@@ -35,13 +39,14 @@ If thou must in aught decide,
 Err upon the gentle side.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Gently Think and Speak |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Gently think, and gently speak |
 Author | John Monsell
 Year | 1908
@@ -49,11 +54,11 @@ Composer| J. R. Ahle |
 Hymnal|  - |
 Tune| NUREMBERG |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Kind Words |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

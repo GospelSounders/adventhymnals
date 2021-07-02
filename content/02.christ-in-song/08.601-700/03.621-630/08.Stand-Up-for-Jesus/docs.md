@@ -1,13 +1,17 @@
 ---
-title: 628. Stand Up for Jesus
+title: |
+    628. Stand Up for Jesus - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Stand Up for Jesus, Stand up! stand up for Jesus!, 
+    description: |
+        Christ in Song 628. Stand Up for Jesus. Stand up!  stand up for Jesus! Ye soldiers of the cross; Lift high his royal banner, It must not suffer loss: From vict'ry unto vict'ry. His army shall he lead. Till ev'ry foe is vanquished, And Christ is Lord indeed.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Stand Up for Jesus, Stand up! stand up for Jesus!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 628. STAND UP FOR JESUS
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,25 +53,26 @@ To him that overcometh,
 A crown of life shall be;
 He with the King of Glory
 Shall reign eternally.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Stand Up for Jesus |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Stand up! stand up for Jesus! |
 Author | Duffield
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| ELLACOMBE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Loyalty to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

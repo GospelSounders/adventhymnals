@@ -1,13 +1,17 @@
 ---
-title: 386. Day of Rest and Gladness!
+title: |
+    386. Day of Rest and Gladness! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Day of Rest and Gladness!, O day of rest and gladness, 
+    description: |
+        Christ in Song 386. Day of Rest and Gladness!. O day of rest and gladness, O day of joy and light, O balm of care and sadness, Most beautiful, most bright; On thee, the high and lowly, Who bend before the throne, Sing, Holy, holy, holy, To the Eternal One.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Day of Rest and Gladness!, O day of rest and gladness. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 386. DAY OF REST AND GLADNESS!
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,25 +45,26 @@ We seek the rest remaining
 In mansions of the blest.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Day of Rest and Gladness! |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | O day of rest and gladness |
 Author | Wordsworth
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| MENDEBRAS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: The Rest Day |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

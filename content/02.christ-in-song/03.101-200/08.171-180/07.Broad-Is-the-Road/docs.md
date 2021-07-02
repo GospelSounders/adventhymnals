@@ -1,13 +1,17 @@
 ---
-title: 177. Broad Is the Road
+title: |
+    177. Broad Is the Road - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Broad Is the Road, Broad is the road that leads to death , 
+    description: |
+        Christ in Song 177. Broad Is the Road. Broad is the road that leads to death, And thousands walk together there; But wisdom shows a narrow path, With here and there a traveler.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Broad Is the Road, Broad is the road that leads to death . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 177. BROAD IS THE ROAD
+####  Christ in Song,
 
 ```txt
 1.
@@ -28,13 +32,14 @@ And walks the ways of God no more;
 Is but esteem'd almost a saint,
 And makes his own destruction sure.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Broad Is the Road |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Broad is the road that leads to death  |
 Author | Isaac Watts
 Year | 1908
@@ -42,11 +47,11 @@ Composer| H. C. Zeuner |
 Hymnal|  - |
 Tune| MISSIONARY CHANT |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

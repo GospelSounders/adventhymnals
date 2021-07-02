@@ -1,13 +1,17 @@
 ---
-title: 625. I Could Not Do Without
+title: |
+    625. I Could Not Do Without - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, I Could Not Do Without, I could not do without Thee, 
+    description: |
+        Christ in Song 625. I Could Not Do Without. I could not do without Thee, O Saviour of the lost, Whose wondrous love redeemed me, At such tremendous cost; Thy righteousness, Thy pardon, Thy precious blood must be My only hope and comfort,  My glory and my plea.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, I Could Not Do Without, I could not do without Thee. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 625. I COULD NOT DO WITHOUT
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ But Thou wilt never leave me,
 And tho' the waves roll high,
 I know Thou wilt be near me,
 And whisper "It is I."  Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Could Not Do Without |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | I could not do without Thee |
 Author | F. R. Havergal
 Year | 1908
@@ -63,11 +68,11 @@ Composer| J. B. Dykes |
 Hymnal|  - |
 Tune| UNION SQUARE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Precious; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

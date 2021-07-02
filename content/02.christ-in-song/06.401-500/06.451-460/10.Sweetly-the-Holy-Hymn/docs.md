@@ -1,13 +1,17 @@
 ---
-title: 460. Sweetly the Holy Hymn
+title: |
+    460. Sweetly the Holy Hymn - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Sweetly the Holy Hymn, Sweetly the holy hymn , 
+    description: |
+        Christ in Song 460. Sweetly the Holy Hymn. Sweetly the holy hymn Breaks on the morning air; Before the world with smoke is dim, We meet to offer prayer.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Sweetly the Holy Hymn, Sweetly the holy hymn . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 460. SWEETLY THE HOLY HYMN
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Oh, hear us then, for we
 Are very weak and frail,
 We make the Saviour's name our plea,
 And surely must prevail.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sweetly the Holy Hymn |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Sweetly the holy hymn  |
 Author | Rev. C. H. Spurgeon
 Year | 1908
@@ -53,11 +58,11 @@ Composer| Joseph E. Sweetser |
 Hymnal|  - |
 Tune| GREENWOOD |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Morning Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

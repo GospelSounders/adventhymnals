@@ -1,13 +1,17 @@
 ---
-title: 640. Abide With Us
+title: |
+    640. Abide With Us - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Abide With Us, Blessed Jesus, meek and lowly, 
+    description: |
+        Christ in Song 640. Abide With Us. Blessed Jesus, meek and lowly, With us here take thine abode; We would fain like thee be holy, Humbly walking with our God. We would thy sweet Spirit cherish, Welcome in our hearts thy stay; Lest without thine aid we perish, O, abide with us, we pray.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Abide With Us, Blessed Jesus, meek and lowly. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 640. ABIDE WITH US
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,25 +53,26 @@ There to praise the matchless Giver,
 There with angels to adore
 Him who did thro' grace deliver
 Us from death forevermore.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Abide With Us |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Blessed Jesus, meek and lowly |
 Author | Annie R. Smith
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| AUTUMN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

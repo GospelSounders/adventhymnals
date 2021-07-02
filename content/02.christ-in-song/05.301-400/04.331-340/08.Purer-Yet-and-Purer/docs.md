@@ -1,13 +1,17 @@
 ---
-title: 338. Purer Yet and Purer
+title: |
+    338. Purer Yet and Purer - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Purer Yet and Purer, Purer yet and purer , 
+    description: |
+        Christ in Song 338. Purer Yet and Purer. Purer yet and purer I would be in mind, Dearer yet and dearer Ev'ry duty find; Hoping still and trusting God without a fear, Patiently believing He will make all clear.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Purer Yet and Purer, Purer yet and purer . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 338. PURER YET AND PURER
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Oft these earnest longings
 Swell within my breast,
 Yet their inner meaning
 Ne'er can be express'd.  Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Purer Yet and Purer |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Purer yet and purer  |
 Author | Goethe
 Year | 1908
@@ -63,11 +68,11 @@ Composer| J. B. Dykes |
 Hymnal|  - |
 Tune| MARY MAGDALENE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Purity; Living His Life: Purity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

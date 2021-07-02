@@ -1,13 +1,17 @@
 ---
-title: 311. Tell Me the Old, Old Story
+title: |
+    311. Tell Me the Old, Old Story - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Tell Me the Old, Old Story, Tell me the old, old story , Tell me the old, old story
+    description: |
+        Christ in Song 311. Tell Me the Old, Old Story. Tell me the old, old story, Of unseen things above, Of Jesus and His glory, Of Jesus and His love. Tell me the story simply, As to a little child, For I am weak and weary, And helpless and defiled. Chorus; Tell me the old, old story, Tell me the old, old story, Tell me the old, old story Of Jesus and His love.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Tell Me the Old, Old Story, Tell me the old, old story . Tell me the old, old story
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 311. TELL ME THE OLD, OLD STORY
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,10 +38,7 @@ God's remedy for sin.
 Tell me the story often,
 For I forget so soon;
 The "early dew" of morning
-Has passed away at noon. 
-
-null
-
+Has passed away at noon.  [Chorus]
 
 3.
 Tell me the same old story
@@ -47,9 +48,7 @@ Is costing me too dear.
 Yes, and when that world's glory
 Is dawning on my soul,
 Tell me the old, old story:
-Christ Jesus makes thee whole. 
-
-null
+Christ Jesus makes thee whole.  [Chorus]
 
 ```
 
@@ -65,11 +64,11 @@ Composer| W. H. Doane |
 Hymnal|  - |
 Tune| Tell me the old, old story |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ's Life and Love |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

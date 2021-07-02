@@ -1,13 +1,17 @@
 ---
-title: 726. Mysterious Way
+title: |
+    726. Mysterious Way - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Mysterious Way, God moves in a mysterious way, 
+    description: |
+        Christ in Song 726. Mysterious Way. God moves in a mysterious way His wonders to perform: He plants His footsteps in the sea, And rides upon the storm.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Mysterious Way, God moves in a mysterious way. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 726. MYSTERIOUS WAY
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,25 +44,26 @@ And scan His work in vain;
 God is His own interpreter,
 And He will make it plain.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Mysterious Way |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | God moves in a mysterious way |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Protection |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 171. One Above All Others
+title: |
+    171. One Above All Others - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, One Above All Others, One there is above all others, 
+    description: |
+        Christ in Song 171. One Above All Others. One there is above all others, Well deserves the name of Friend; His is love beyond a brother's, Costly, free, and knows no end.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, One Above All Others, One there is above all others. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 171. ONE ABOVE ALL OTHERS
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ O for grace our hearts to soften!
 Teach us, Lord, to truly love;
 We, alas!  forget too often
 What a Friend we have above.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | One Above All Others |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | One there is above all others |
 Author | J. Newton
 Year | 1908
@@ -41,11 +46,11 @@ Composer| I. B. Woodbury |
 Hymnal|  - |
 Tune| DORRNANCE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Precious |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

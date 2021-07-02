@@ -1,13 +1,17 @@
 ---
-title: 393. Thy Mercies
+title: |
+    393. Thy Mercies - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Thy Mercies, When all thy mercies, O my God!, 
+    description: |
+        Christ in Song 393. Thy Mercies. When all thy mercies, O my God! My rising soul surveys, Transported with the view,  I'm lost in wonder, love, and praise.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Thy Mercies, When all thy mercies, O my God!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 393. THY MERCIES
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Through all eternity, to thee
 A joyful song I'll raise:
 But O, eternity's too short
 To utter all thy praise!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thy Mercies |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | When all thy mercies, O my God! |
 Author | Joseph Addison
 Year | 1908
@@ -53,11 +58,11 @@ Composer| John Cole |
 Hymnal|  - |
 Tune| GENEVA |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Love and Mercy; Special Occasions: The Seasons; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 451. Before Jehovah's Throne
+title: |
+    451. Before Jehovah's Throne - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Before Jehovah's Throne, Before Jehovah&#039;s awful throne, 
+    description: |
+        Christ in Song 451. Before Jehovah's Throne. Before Jehovah's awful throne, Ye nations bow with sacred joy; Know that the Lord is God alone; He can create, and he destroy.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Before Jehovah's Throne, Before Jehovah's awful throne. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 451. BEFORE JEHOVAH'S THRONE
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ Wide as the world is thy command,
 Vast as eternity thy love;
 Firm as a rock thy truth shall stand,
 When rolling years shall cease to move.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Before Jehovah's Throne |
 Key | E♭ Major |
-Titles |  |
-First Line | Before Jehovah&#039;s awful throne |
+Titles | undefined |
+First Line | Before Jehovah's awful throne |
 Author | I. Watts
 Year | 1908
 Composer| Hatton |
 Hymnal|  - |
 Tune| DUKE STREET |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

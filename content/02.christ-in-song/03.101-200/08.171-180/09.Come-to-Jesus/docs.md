@@ -1,13 +1,17 @@
 ---
-title: 179. Come to Jesus
+title: |
+    179. Come to Jesus - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Come to Jesus, Come to Jesus, Come to Jesus, 
+    description: |
+        Christ in Song 179. Come to Jesus. Come to Jesus, Come to Jesus, Come to Jesus just now; Just now come to Jesus, Come to Jesus just now.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Come to Jesus, Come to Jesus, Come to Jesus. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 179. COME TO JESUS
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ Only trust him, etc.
 
 7.
 He will bless you, etc.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come to Jesus |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Come to Jesus, Come to Jesus |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| Come to Jesus, Come to Jesus |
 Metrical pattern | |
-# Stanzas | 7 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

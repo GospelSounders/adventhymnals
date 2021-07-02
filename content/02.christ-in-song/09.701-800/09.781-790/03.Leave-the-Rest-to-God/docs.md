@@ -1,13 +1,17 @@
 ---
-title: 783. Leave the Rest to God
+title: |
+    783. Leave the Rest to God - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Leave the Rest to God, He who seeks the truth, and trembles, 
+    description: |
+        Christ in Song 783. Leave the Rest to God. He who seeks the truth, and trembles At the dangers he must brave, Merits not the name of Freeman; He at best is but a slave.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Leave the Rest to God, He who seeks the truth, and trembles. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 783. LEAVE THE REST TO GOD
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ Fearlessly face thine accusers!
 Scorn the prison, rack, or rod!
 If thou hast a truth to utter,
 Speak, and leave the rest to God.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Leave the Rest to God |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | He who seeks the truth, and trembles |
-Author | 
+Author | undefined
 Year | 1908
 Composer| Edwin Barnes |
 Hymnal|  - |
 Tune| SHIRLEY |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Loyalty to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 655. Abide With Me
+title: |
+    655. Abide With Me - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Abide With Me, Abide with me!  Fast falls the eventide, 
+    description: |
+        Christ in Song 655. Abide With Me. Abide with me!  Fast falls the eventide; The darkness deepens; Lord, with me abide! When other helpers fail, and comforts flee, Help of the helpless, O, abide with me!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Abide With Me, Abide with me!  Fast falls the eventide. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 655. ABIDE WITH ME
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Where is death's sting?  where, grave, thy victory?
 I triumph still, if thou abide with me.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Abide With Me |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Abide with me!  Fast falls the eventide |
 Author | Henry F. Lyte
 Year | 1908
@@ -55,11 +60,11 @@ Composer| Wm. H. Monk |
 Hymnal|  - |
 Tune| EVENTIDE |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

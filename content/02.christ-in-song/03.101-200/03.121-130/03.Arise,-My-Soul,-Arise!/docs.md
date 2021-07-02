@@ -1,13 +1,17 @@
 ---
-title: 123. Arise, My Soul, Arise!
+title: |
+    123. Arise, My Soul, Arise! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Arise, My Soul, Arise!, Arise, my soul, arise, 
+    description: |
+        Christ in Song 123. Arise, My Soul, Arise!. Arise, my soul, arise, Shake off thy guilty fears; The bleeding Sacrifice In my behalf appears; Before the throne my Surety stands, Before the throne my Surety stands; My name is written on his hands.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Arise, My Soul, Arise!, Arise, my soul, arise. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 123. ARISE, MY SOUL, ARISE!
+####  Christ in Song,
 
 ```txt
 1.
@@ -45,13 +49,14 @@ The presence of his Son:
 His Spirit answers to the blood,
 His Spirit answers to the blood,
 And tells me I am born of God.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Arise, My Soul, Arise! |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Arise, my soul, arise |
 Author | Charles Wesley
 Year | 1908
@@ -59,11 +64,11 @@ Composer| Lewis Edson |
 Hymnal|  - |
 Tune| LENOX |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Christ: Christ Mediator |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

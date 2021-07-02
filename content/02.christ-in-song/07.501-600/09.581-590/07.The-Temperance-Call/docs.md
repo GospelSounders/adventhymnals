@@ -1,13 +1,17 @@
 ---
-title: 587. The Temperance Call
+title: |
+    587. The Temperance Call - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Temperance Call, Hear the temp&#039;rance call, Starve the monster from our shore
+    description: |
+        Christ in Song 587. The Temperance Call. Hear the temp'rance call, Freemen one and all, Hear your country's  earnest cry; See your native land Life her beck'ning hand; Sons of freedom, come ye nigh. Chorus: Starve the monster from our shore, Let his cruel reign be o'er; Starve the monster from our shore, Let his cruel reign be o'er.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Temperance Call, Hear the temp'rance call. Starve the monster from our shore,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 587. THE TEMPERANCE CALL
+####  Christ in Song,
 
 ```txt
 1.
@@ -30,14 +34,7 @@ Leave your bright hearths warm;
 Work and pray the lost to save;
 Let your leaders be 
 True and noble, free,
-Fearless, temp'rate, good, and grave. 
-
-Chorus:
-Starve the monster from our shore,
-Let his cruel reign be o'er;
-Starve the monster from our shore,
-Let his cruel reign be o'er.
-
+Fearless, temp'rate, good, and grave.  [Chorus]
 
 3.
 Hail!  our Fatherland,
@@ -45,13 +42,7 @@ Here thy children stand,
 All resolv'd, united, true;
 In the temp'rance cause 
 Ne'er to faint or pause!
-This our purpose is, and vow. 
-
-Chorus:
-Starve the monster from our shore,
-Let his cruel reign be o'er;
-Starve the monster from our shore,
-Let his cruel reign be o'er.
+This our purpose is, and vow.  [Chorus]
 
 ```
 
@@ -59,19 +50,19 @@ Let his cruel reign be o'er.
 -------------|------------|
 Title | The Temperance Call |
 Key | C Major |
-Titles | Starve the monster from our shore |
-First Line | Hear the temp&#039;rance call |
+Titles | Starve the monster from our shore, |
+First Line | Hear the temp'rance call |
 Author | Anon.
 Year | 1908
 Composer| Franz Abt |
 Hymnal|  - |
-Tune| Hear the temp&#039;rance call |
+Tune| Hear the temp'rance call |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Temperance; Special Selections: Choir or Quartet |
 Texts | 1 Corinthians 9:25 |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 621. Men of God, Arise!
+title: |
+    621. Men of God, Arise! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Men of God, Arise!, The whole wide world is pleading, 
+    description: |
+        Christ in Song 621. Men of God, Arise!. The whole wide world is pleading: Ye men of God arise! His providence is leading To many'a glad surprise, Lo!  ev'ry sky is bright'ning, Rich promise clothes the soil; Wide fields for harvest whit'ning, Invite the reaper's; toil.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Men of God, Arise!, The whole wide world is pleading. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 621. MEN OF GOD, ARISE!
+####  Christ in Song,
 
 ```txt
 1.
@@ -42,25 +46,26 @@ Haste, haste the glorious day
 Foretold by revelation,
 Thy universal sway,
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Men of God, Arise! |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | The whole wide world is pleading |
-Author | 
+Author | undefined
 Year | 1908
 Composer| J. Holbrook |
 Hymnal|  - |
 Tune| MIRIAM |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Call to Activity; Living His Life: Missions |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

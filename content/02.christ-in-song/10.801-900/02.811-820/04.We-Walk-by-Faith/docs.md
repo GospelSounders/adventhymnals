@@ -1,13 +1,17 @@
 ---
-title: 814. We Walk by Faith
+title: |
+    814. We Walk by Faith - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, We Walk by Faith, &#039;Tis by the faith of joys to come, 
+    description: |
+        Christ in Song 814. We Walk by Faith. 'Tis by the faith of joys to come We walk thro' deserts dark as night; Till we arrive at heav'n, our home, Truth is our guide, and faith our light.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, We Walk by Faith, 'Tis by the faith of joys to come. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 814. WE WALK BY FAITH
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ Tho' lions roar, and tempests blow,
 And rocks and dangers fill the way,
 With joy we tread the desert thro',
 While faith inspires a heav'nly ray.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Walk by Faith |
 Key | A♭ Major |
-Titles |  |
-First Line | &#039;Tis by the faith of joys to come |
+Titles | undefined |
+First Line | 'Tis by the faith of joys to come |
 Author | I. Watts
 Year | 1908
 Composer| Virgil C. Taylor |
 Hymnal|  - |
 Tune| LOUVAN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Faith |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

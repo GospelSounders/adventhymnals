@@ -1,13 +1,17 @@
 ---
-title: 475. A Year of Precious Blessings
+title: |
+    475. A Year of Precious Blessings - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Year of Precious Blessings, A year of precious blessings, 
+    description: |
+        Christ in Song 475. A Year of Precious Blessings. A year of precious blessings, And glorious vict'ries won, Of earnest work progressing, Its onward course has run; To Thee, O God, our Refuge, Whose goodness crowns our days, Within Thy earthly temple We lift our souls in praise; Within Thy earthly temple We lift our souls in praise.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Year of Precious Blessings, A year of precious blessings. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 475. A YEAR OF PRECIOUS BLESSINGS
+####  Christ in Song,
 
 ```txt
 1.
@@ -45,13 +49,14 @@ One Hallelujah chorus
 Shall crown Him Lord of all;
 One Hallelujah chorus 
 Shall crown Him Lord of all.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Year of Precious Blessings |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | A year of precious blessings |
 Author | Fanny J. Crosby
 Year | 1908
@@ -59,11 +64,11 @@ Composer| I. Allan Sankey |
 Hymnal|  - |
 Tune| A year of precious blessings |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: New Year; Special Occasions: Reunion |
 Texts | Psalm 3:8 |
 Print Texts | 
 Scripture Song |  |
-  
+    

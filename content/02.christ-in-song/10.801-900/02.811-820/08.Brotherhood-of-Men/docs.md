@@ -1,13 +1,17 @@
 ---
-title: 818. Brotherhood of Men
+title: |
+    818. Brotherhood of Men - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Brotherhood of Men, God bless our native land!, 
+    description: |
+        Christ in Song 818. Brotherhood of Men. God bless our native land! May Heaven's protecting hand Still guard our shore. May peace her pow'r extend, Foe be transformed to friend, And all our rights depend On war no more.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Brotherhood of Men, God bless our native land!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 818. BROTHERHOOD OF MEN
+####  Christ in Song,
 
 ```txt
 1.
@@ -37,13 +41,14 @@ That they should brothers be,
 And form one family,
 The wide world o'er!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Brotherhood of Men |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | God bless our native land! |
 Author | J. S. Dwight
 Year | 1908
@@ -51,11 +56,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| DORT |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Love; Special Occasions: Patriotic Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

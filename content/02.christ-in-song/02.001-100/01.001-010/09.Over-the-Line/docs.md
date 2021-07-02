@@ -1,13 +1,17 @@
 ---
-title: 9. Over the Line
+title: |
+    009. Over the Line - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Over the Line, O tender and sweet was the Father&#039;s voice, "Over the line," hear the sweet refrain
+    description: |
+        Christ in Song 009. Over the Line. O tender and sweet was the Father's voice, As he lovingly called to me, "Come over the line, it is only a step, I'm waiting, my child, for thee."  Chorus: "Over the line," hear the sweet 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Over the Line, O tender and sweet was the Father's voice. Angels are chanting the heavenly strain;
     author: Brian Onang'o
 ---
 
-
-## 9. OVER THE LINE
+#### Advent Hymnals
+## 009. OVER THE LINE
+####  Christ in Song,
 
 ```txt
 1.
@@ -26,39 +30,19 @@ With a step between me and Jesus?
 "But my sins are so many, my faith so small,"
 Lo!  the answer came quick and clear,
 "Thou needest not trust in thyself at all,
-Step over the line, I'm here." 
-
-Chorus:
-"Over the line," hear the sweet refrain,
-Angels are chanting the heavenly strain;
-"Over the line," Why should I remain
-With a step between me and Jesus?
-
+Step over the line, I'm here."  [Chorus]
 
 3.
 "But my flesh is so feeble," with tears I said,
 "And the pathway I cannot see;
 I fear if I try I may sadly fail,
-And thus dishonor thee." 
-
-Chorus:
-"Over the line," hear the sweet refrain,
-Angels are chanting the heavenly strain;
-"Over the line," Why should I remain
-With a step between me and Jesus?
-
+And thus dishonor thee."  [Chorus]
 
 4.
 The world is so cold I cannot go back,
 Press forward I surely must:
 I'll lay my weak hand in his wounded palm.
-Step over the line and trust. 
-
-Chorus:
-"Over the line," hear the sweet refrain,
-Angels are chanting the heavenly strain;
-"Over the line," Why should I remain
-With a step between me and Jesus?
+Step over the line and trust.  [Chorus]
 
 ```
 
@@ -66,19 +50,19 @@ With a step between me and Jesus?
 -------------|------------|
 Title | Over the Line |
 Key | G Major |
-Titles | "Over the line," hear the sweet refrain |
-First Line | O tender and sweet was the Father&#039;s voice |
+Titles | Angels are chanting the heavenly strain; |
+First Line | O tender and sweet was the Father's voice |
 Author | Mrs. N. K. Bradford
 Year | 1908
 Composer| F. E. Belden |
 Hymnal|  - |
-Tune| O tender and sweet was the Father&#039;s voice |
+Tune| O tender and sweet was the Father's voice |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
 Texts | Acts 17:27 |
 Print Texts | 
 Scripture Song |  |
-  
+    

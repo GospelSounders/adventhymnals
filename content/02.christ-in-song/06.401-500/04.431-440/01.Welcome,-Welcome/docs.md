@@ -1,13 +1,17 @@
 ---
-title: 431. Welcome, Welcome
+title: |
+    431. Welcome, Welcome - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Welcome, Welcome, Welcome, welcome, day of rest, 
+    description: |
+        Christ in Song 431. Welcome, Welcome. Welcome, welcome, day of rest, To the world in kindness giv'n; Welcome to this humble breast, As the beaming light from heaven.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Welcome, Welcome, Welcome, welcome, day of rest. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 431. WELCOME, WELCOME
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Holy day that most we prize,
 Day of solemn praise and prayer,
 Day to make the simple wise,
 O, how great thy blessings are!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Welcome, Welcome |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Welcome, welcome, day of rest |
 Author | Anon.
 Year | 1908
@@ -41,11 +46,11 @@ Composer| Ignace Pleyel |
 Hymnal|  - |
 Tune| PLEYEL |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: The Rest Day |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

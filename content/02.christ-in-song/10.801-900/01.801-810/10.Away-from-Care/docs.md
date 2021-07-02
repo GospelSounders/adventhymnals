@@ -1,13 +1,17 @@
 ---
-title: 810. Away from Care
+title: |
+    810. Away from Care - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Away from Care, I love to steal awhile away, 
+    description: |
+        Christ in Song 810. Away from Care. I love to steal awhile away From ev'ry cumb'ring care, And spend the hours of setting day In humble, grateful prayer.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Away from Care, I love to steal awhile away. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 810. AWAY FROM CARE
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ I love by faith to take a view
 Of brighter scenes to come;
 The prospect doth my strength renew
 While here away from home.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Away from Care |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | I love to steal awhile away |
 Author | Phoebe H. Brown
 Year | 1908
@@ -47,11 +52,11 @@ Composer| W. B. Bradbury |
 Hymnal|  - |
 Tune| BROWN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Prayer; Living His Life: Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

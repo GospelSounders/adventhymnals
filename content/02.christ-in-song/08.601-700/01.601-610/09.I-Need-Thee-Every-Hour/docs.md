@@ -1,13 +1,17 @@
 ---
-title: 609. I Need Thee Every Hour
+title: |
+    609. I Need Thee Every Hour - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, I Need Thee Every Hour, I need Thee every hour, I need Thee, O I need Thee!
+    description: |
+        Christ in Song 609. I Need Thee Every Hour. I need Thee every hour, Most gracious Lord; No tender voice like Thine Can peace afford. 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, I Need Thee Every Hour, I need Thee every hour. I need Thee, O I need Thee!
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 609. I NEED THEE EVERY HOUR
+####  Christ in Song,
 
 ```txt
 1.
@@ -26,52 +30,25 @@ I come to Thee.
 I need Thee every hour;
 Stay Thou near by;
 Temptations lose their pow'r
-When Thou art nigh. 
-
-Refrain:
-I need Thee, O I need Thee!
-Every hour I need Thee;
-O bless me now, my Saviour!
-I come to Thee.
-
+When Thou art nigh.  [Refrain]
 
 3.
 I need Thee every hour,
 In joy or pain;
 Come quickly and abide,
-Or life is vain. 
-
-Refrain:
-I need Thee, O I need Thee!
-Every hour I need Thee;
-O bless me now, my Saviour!
-I come to Thee.
-
+Or life is vain.  [Refrain]
 
 4.
 I need Thee every hour;
 Teach me Thy will,
 And Thy rich promises
-In me fulfil. 
-
-Refrain:
-I need Thee, O I need Thee!
-Every hour I need Thee;
-O bless me now, my Saviour!
-I come to Thee.
-
+In me fulfil.  [Refrain]
 
 5.
 I need Thee every hour,
 Most Holy One;
 O make me Thine indeed,
-Thou blessed Son. 
-
-Refrain:
-I need Thee, O I need Thee!
-Every hour I need Thee;
-O bless me now, my Saviour!
-I come to Thee.
+Thou blessed Son.  [Refrain]
 
 ```
 
@@ -87,11 +64,11 @@ Composer| Rev. Robert Lowry |
 Hymnal|  - |
 Tune| I need Thee every hour |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Our Need |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

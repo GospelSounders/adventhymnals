@@ -1,13 +1,17 @@
 ---
-title: 747. Children of the King
+title: |
+    747. Children of the King - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Children of the King, Children of the heav&#039;nly King, 
+    description: |
+        Christ in Song 747. Children of the King. Children of the heav'nly King As we journey, sweetly sing; Sing your Saviour's worthy praise, Glorious in his works and ways.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Children of the King, Children of the heav'nly King. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 747. CHILDREN OF THE KING
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ Fear not, brethren, joyful stand
 On the borders of your land;
 Jesus Christ, your Father's Son,
 Bids you undismayed go on.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Children of the King |
 Key | A Major |
-Titles |  |
-First Line | Children of the heav&#039;nly King |
+Titles | undefined |
+First Line | Children of the heav'nly King |
 Author | John Cennick
 Year | 1908
 Composer| Hart |
 Hymnal|  - |
 Tune| HART |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Nearing Home |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

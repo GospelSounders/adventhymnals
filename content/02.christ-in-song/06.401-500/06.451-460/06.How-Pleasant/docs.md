@@ -1,13 +1,17 @@
 ---
-title: 456. How Pleasant
+title: |
+    456. How Pleasant - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, How Pleasant, How pleasant, how divinely fair, 
+    description: |
+        Christ in Song 456. How Pleasant. How pleasant, how divinely fair, O Lord of hosts, thy dwellings are! With long desire my spirit faints To meet th' assemblies of the saints.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, How Pleasant, How pleasant, how divinely fair. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 456. HOW PLEASANT
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Blest are the men whose hearts are set
 To find the way to Zion's gate;
 God is their strength; and thro' the road
 They lean upon their helper, God.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Pleasant |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | How pleasant, how divinely fair |
 Author | Watts
 Year | 1908
@@ -41,11 +46,11 @@ Composer| Woodbury |
 Hymnal|  - |
 Tune| BURTON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Opening Hymns; Special Occasions: Reunion |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

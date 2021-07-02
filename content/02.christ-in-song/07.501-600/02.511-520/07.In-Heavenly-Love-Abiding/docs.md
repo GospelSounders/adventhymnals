@@ -1,13 +1,17 @@
 ---
-title: 517. In Heavenly Love Abiding
+title: |
+    517. In Heavenly Love Abiding - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, In Heavenly Love Abiding, In heav&#039;nly love abiding, 
+    description: |
+        Christ in Song 517. In Heavenly Love Abiding. In heav'nly love abiding, No change my heart shall fear; And safe is such confiding, For nothing changes here. The storm may roar without me, My heart may low be laid, But God is round about me, And can I be dismayed? But God is round about me, And can I be dismayed?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, In Heavenly Love Abiding, In heav'nly love abiding. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 517. IN HEAVENLY LOVE ABIDING
+####  Christ in Song,
 
 ```txt
 1.
@@ -45,25 +49,26 @@ My Saviour has my treasure,
 And he will walk with me,
 My Saviour has my treasure,
 And he will walk with me.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | In Heavenly Love Abiding |
 Key | E♭ Major |
-Titles |  |
-First Line | In heav&#039;nly love abiding |
+Titles | undefined |
+First Line | In heav'nly love abiding |
 Author | Anna L. Waring
 Year | 1908
 Composer| Mendelssohn-Bartholdy |
 Hymnal|  - |
-Tune| In heav&#039;nly love abiding |
+Tune| In heav'nly love abiding |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Assurance; Special Selections: Choir or Quartet |
 Texts | John 15:10 |
 Print Texts | 
 Scripture Song |  |
-  
+    

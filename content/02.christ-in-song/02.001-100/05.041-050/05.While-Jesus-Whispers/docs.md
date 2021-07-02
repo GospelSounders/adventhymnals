@@ -1,13 +1,17 @@
 ---
-title: 45. While Jesus Whispers
+title: |
+    045. While Jesus Whispers - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, While Jesus Whispers, While Jesus whispers to you, 
+    description: |
+        Christ in Song 045. While Jesus Whispers. While Jesus whispers to you, Come, sinner, come! While we are praying for you, Come, sinner, come! Now is the time to own him, Come, sinner, come! Now is the time to know him, Come, sinner, come!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, While Jesus Whispers, While Jesus whispers to you. 
     author: Brian Onang'o
 ---
 
-
-## 45. WHILE JESUS WHISPERS
+#### Advent Hymnals
+## 045. WHILE JESUS WHISPERS
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ While Jesus whispers to you,
 Come, sinner, come!
 While we are praying for you,
 Come, sinner, come!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | While Jesus Whispers |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | While Jesus whispers to you |
 Author | Will E. Witter
 Year | 1908
@@ -53,11 +58,11 @@ Composer| H. R. Palmer |
 Hymnal|  - |
 Tune| While Jesus whispers to you |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
 Texts | Matthew 11:28 |
 Print Texts | 
 Scripture Song |  |
-  
+    

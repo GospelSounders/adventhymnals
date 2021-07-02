@@ -1,13 +1,17 @@
 ---
-title: 633. Jesus, Lover of My Soul
+title: |
+    633. Jesus, Lover of My Soul - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Jesus, Lover of My Soul, Jesus, lover of my soul, 
+    description: |
+        Christ in Song 633. Jesus, Lover of My Soul. Jesus, lover of my soul, Let me to Thy bosom fly, While the billows near me roll, While the tempest still is high! Hide me, O my Saviour hide, Till the storm of life be past; Safe into the haven guide; Oh, receive my soul at last!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Jesus, Lover of My Soul, Jesus, lover of my soul. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 633. JESUS, LOVER OF MY SOUL
+####  Christ in Song,
 
 ```txt
 1.
@@ -50,13 +54,14 @@ Freely let me take of Thee;
 Spring Thou up within my heart,
 Rise to all eternity!  Amen.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jesus, Lover of My Soul |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, lover of my soul |
 Author | C. Wesley
 Year | 1908
@@ -64,11 +69,11 @@ Composer| J. B. Dykes |
 Hymnal|  - |
 Tune| HOLLINGSIDE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Precious |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 202. Nearer, Still Nearer
+title: |
+    202. Nearer, Still Nearer - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Nearer, Still Nearer, Nearer, still nearer, close to Thy heart, 
+    description: |
+        Christ in Song 202. Nearer, Still Nearer. Nearer, still nearer, close to Thy heart, Draw me, my Saviour, so precious Thou art; Fold me, O fold me close to Thy breast, Shelter me safe in that "Haven of Rest," Shelter me safe in that "Haven of Rest."
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Nearer, Still Nearer, Nearer, still nearer, close to Thy heart. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 202. NEARER, STILL NEARER
+####  Christ in Song,
 
 ```txt
 1.
@@ -38,13 +42,14 @@ Thro' endless ages, ever to be,
 Nearer, my Saviour, still nearer to Thee,
 Nearer, my Saviour, still nearer to Thee.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Nearer, Still Nearer |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Nearer, still nearer, close to Thy heart |
 Author | C. H. M.
 Year | 1908
@@ -52,11 +57,11 @@ Composer| Mrs. C. H. Morris |
 Hymnal|  - |
 Tune| Nearer, still nearer, close to Thy heart |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Nearer to God; Special Selections: Solos |
 Texts | James 4:8 |
 Print Texts | 
 Scripture Song |  |
-  
+    

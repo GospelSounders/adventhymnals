@@ -1,13 +1,17 @@
 ---
-title: 453. Sing of Jesus Forever
+title: |
+    453. Sing of Jesus Forever - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Sing of Jesus Forever, Sing of Jesus, sing forever, 
+    description: |
+        Christ in Song 453. Sing of Jesus Forever. Sing of Jesus, sing forever, Of the love that changes never; Who or what from Him can sever Those He makes His own?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Sing of Jesus Forever, Sing of Jesus, sing forever. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 453. SING OF JESUS FOREVER
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ Thro' the desert drear He leads us,
 With the bread of heav'n He feeds us,
 And thro' all the journey speeds us
 To His glorious throne.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sing of Jesus Forever |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Sing of Jesus, sing forever |
 Author | Thomas Kelly
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| Sing of Jesus, sing forever |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

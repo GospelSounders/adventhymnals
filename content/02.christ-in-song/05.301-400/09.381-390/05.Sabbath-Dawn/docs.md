@@ -1,13 +1,17 @@
 ---
-title: 385. Sabbath Dawn
+title: |
+    385. Sabbath Dawn - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Sabbath Dawn, The dawn of God&#039;s dear Sabbath, 
+    description: |
+        Christ in Song 385. Sabbath Dawn. The dawn of God's dear Sabbath Breaks o'er the earth again, As some sweet summer morning After a night of pain; It comes as cooling showers To some exhausted land, As shade of cluster'd palm trees 'Mid weary wastes of sand.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Sabbath Dawn, The dawn of God's dear Sabbath. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 385. SABBATH DAWN
+####  Christ in Song,
 
 ```txt
 1.
@@ -51,25 +55,26 @@ And then the peace so lasting
 Celestial peace indeed.  Amen.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sabbath Dawn |
 Key | E♭ Major |
-Titles |  |
-First Line | The dawn of God&#039;s dear Sabbath |
+Titles | undefined |
+First Line | The dawn of God's dear Sabbath |
 Author | A. Cross
 Year | 1908
 Composer| J. Walch |
 Hymnal|  - |
-Tune| ST. GEORGE&#039;S, BOLTON |
+Tune| ST. GEORGE'S, BOLTON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Morning Hymns; Hymns for Worship: The Rest Day; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

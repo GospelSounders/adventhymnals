@@ -1,13 +1,17 @@
 ---
-title: 425. Coming Saviour
+title: |
+    425. Coming Saviour - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Coming Saviour, Coming Saviour, now in faith, 
+    description: |
+        Christ in Song 425. Coming Saviour. Coming Saviour, now in faith We remember still thy death; Thou wast broken thou hast died; For us thou wast crucified.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Coming Saviour, Coming Saviour, now in faith. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 425. COMING SAVIOUR
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Lord, we thus remember thee,
 But we long thy face to see
 Long to reach our heav'nly home;
 Come, Lord Jesus, quickly come!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Coming Saviour |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Coming Saviour, now in faith |
 Author | Anon.
 Year | 1908
@@ -41,11 +46,11 @@ Composer| George Hews |
 Hymnal|  - |
 Tune| HOLLEY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Lord's Supper |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

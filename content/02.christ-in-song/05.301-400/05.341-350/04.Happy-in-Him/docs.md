@@ -1,13 +1,17 @@
 ---
-title: 344. Happy in Him
+title: |
+    344. Happy in Him - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Happy in Him, How tedious and tasteless the hours, 
+    description: |
+        Christ in Song 344. Happy in Him. How tedious and tasteless the hours When Jesus no longer I see! Sweet prospects, sweet birds, and sweet flow'rs, Have all lost their sweetness to me; The midsummer sun shines but dim, The fields strive in vain to look gay; But when I am happy in him, December's as pleasant as May.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Happy in Him, How tedious and tasteless the hours. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 344. HAPPY IN HIM
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Or take me to thee up on high,
 Where winter and clouds are no more.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Happy in Him |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | How tedious and tasteless the hours |
 Author | John Newton
 Year | 1908
@@ -55,11 +60,11 @@ Composer| Lewis Edson |
 Hymnal|  - |
 Tune| CONTRAST |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
-Subjects |  |
-Texts |  |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects | undefined |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

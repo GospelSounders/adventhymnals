@@ -1,13 +1,17 @@
 ---
-title: 426. God Made Them
+title: |
+    426. God Made Them - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, God Made Them, Each little flow&#039;r that opens, 
+    description: |
+        Christ in Song 426. God Made Them. Each little flow'r that opens, Each little bird that sings; God made their glowing colors, He made their tiny wings;
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, God Made Them, Each little flow'r that opens. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 426. GOD MADE THEM
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ He gave us eyes to see them,
 And lips that we might tell
 How great is God Almighty,
 Who has made all things well.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God Made Them |
 Key | D Major |
-Titles |  |
-First Line | Each little flow&#039;r that opens |
+Titles | undefined |
+First Line | Each little flow'r that opens |
 Author | Cecil Alexander
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| EDEN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

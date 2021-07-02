@@ -1,13 +1,17 @@
 ---
-title: 703. Speed Away!
+title: |
+    703. Speed Away! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Speed Away!, Speed away!  speed away, over mountains and sea, 
+    description: |
+        Christ in Song 703. Speed Away!. Speed away!  speed away, over mountain and sea, To the hearts that are waiting with welcome for thee; There are eyes that will gleam with the glad gospel light, There are feet that will walk in the pathway of right, There are voices to sing   Praise to Jesus the King: Speed away!  speed away!  Speed away!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Speed Away!, Speed away!  speed away, over mountains and sea. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 703. SPEED AWAY!
+####  Christ in Song,
 
 ```txt
 1.
@@ -37,25 +41,26 @@ Free salvation proclaim
 Thro' Immanuel's name:  
 Speed away!  speed away!  Speed away!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Speed Away! |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Speed away!  speed away, over mountains and sea |
 Author | F. E. Belden
 Year | 1908
-Composer| I. B. Woodbury |
+Composer| undefined |
 Hymnal|  - |
 Tune| Speed away!  speed away! over mountain and sea |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Call to Activity; Special Selections: Male Voices |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

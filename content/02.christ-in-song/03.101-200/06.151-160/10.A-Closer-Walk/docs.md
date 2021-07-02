@@ -1,13 +1,17 @@
 ---
-title: 160. A Closer Walk
+title: |
+    160. A Closer Walk - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Closer Walk, O, for a closer walk with God!, 
+    description: |
+        Christ in Song 160. A Closer Walk. O, for a closer walk with God! A calm and heav'nly frame, A light to shine upon the road That leads me to the Lamb.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Closer Walk, O, for a closer walk with God!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 160. A CLOSER WALK
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ The dearest idol I have known,
 Whate'er that idol be,
 Help me to tear it from thy throne,
 And worship only thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Closer Walk |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O, for a closer walk with God! |
 Author | Cowper
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Haydn |
 Hymnal|  - |
 Tune| MANOAH |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Nearer to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

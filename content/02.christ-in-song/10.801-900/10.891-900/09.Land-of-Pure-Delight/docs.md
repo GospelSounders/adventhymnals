@@ -1,13 +1,17 @@
 ---
-title: 899. Land of Pure Delight
+title: |
+    899. Land of Pure Delight - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Land of Pure Delight, There is a land of pure delight, 
+    description: |
+        Christ in Song 899. Land of Pure Delight. There is a land of pure delight, Where saints immortal reign; Infinite day excludes the night, And pleasures banish pain. There everlasting spring abides, And never with'ring flow'rs, And but a little space divides This heav'nly land from ours.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Land of Pure Delight, There is a land of pure delight. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 899. LAND OF PURE DELIGHT
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,13 +44,14 @@ And view the landscape o'er,
 Not all this world's pretended good
 Could ever charm us more.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Land of Pure Delight |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | There is a land of pure delight |
 Author | Watts
 Year | 1908
@@ -54,11 +59,11 @@ Composer| G. F. Root |
 Hymnal|  - |
 Tune| VARINA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

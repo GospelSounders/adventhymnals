@@ -1,13 +1,17 @@
 ---
-title: 700. Pray for Reapers
+title: |
+    700. Pray for Reapers - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Pray for Reapers, Saints of God, the dawn is bright&#039;ning, 
+    description: |
+        Christ in Song 700. Pray for Reapers. Saints of God, the dawn is bright'ning, Tokens of the coming Lord; O'er the earth the fields are whit'ning, Louder rings the Master's word: Pray for reapers, Pray for reapers, In the harvest of the Lord.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Pray for Reapers, Saints of God, the dawn is bright'ning. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 700. PRAY FOR REAPERS
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,25 +45,26 @@ Heav'n and earth together keeping
 God's eternal harvest home;
 Saints and angels, Saints and angels,
 Shout the world's great harvest home.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Pray for Reapers |
 Key | C Major |
-Titles |  |
-First Line | Saints of God, the dawn is bright&#039;ning |
+Titles | undefined |
+First Line | Saints of God, the dawn is bright'ning |
 Author | Maxwell
 Year | 1908
 Composer| Henry Smart |
 Hymnal|  - |
 Tune| REGENT SQUARE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Harvest Time |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

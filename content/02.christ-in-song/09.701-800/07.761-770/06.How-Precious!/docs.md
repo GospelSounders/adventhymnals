@@ -1,13 +1,17 @@
 ---
-title: 766. How Precious!
+title: |
+    766. How Precious! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, How Precious!, How precious is the book divine, 
+    description: |
+        Christ in Song 766. How Precious!. How precious is the book divine, By inspiration giv'n! Bright as a lamp its doctrines shine, To guide our souls to heav'n.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, How Precious!, How precious is the book divine. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 766. HOW PRECIOUS!
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ This lamp, thro' all the tedious night
 Of life, shall guide our way,
 Till we behold the clearer light
 Of an eternal day.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Precious! |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | How precious is the book divine |
 Author | J. Fawcett
 Year | 1908
@@ -41,11 +46,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| LAUREL HILL |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

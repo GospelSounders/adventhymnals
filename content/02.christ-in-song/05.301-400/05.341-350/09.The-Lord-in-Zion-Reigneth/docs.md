@@ -1,13 +1,17 @@
 ---
-title: 349. The Lord in Zion Reigneth
+title: |
+    349. The Lord in Zion Reigneth - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Lord in Zion Reigneth, The Lord in Zion reigneth!, 
+    description: |
+        Christ in Song 349. The Lord in Zion Reigneth. The Lord in Zion reigneth!   Let all the earth rejoice, And come before his throne of grace With tuneful heart and voice; The Lord in Zion reigneth, And there his praise shall ring, To him shall princes bend the knee, And kings their glory bring.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Lord in Zion Reigneth, The Lord in Zion reigneth!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 349. THE LORD IN ZION REIGNETH
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Exalt the King of heav'n and earth,
 "And crown him Lord of all!"
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Lord in Zion Reigneth |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The Lord in Zion reigneth! |
 Author | Fanny Crosby
 Year | 1908
@@ -55,11 +60,11 @@ Composer| H. P. Danks |
 Hymnal|  - |
 Tune| DANKS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ King; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

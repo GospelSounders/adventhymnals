@@ -1,13 +1,17 @@
 ---
-title: 190. Hallelujahs to Jesus
+title: |
+    190. Hallelujahs to Jesus - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Hallelujahs to Jesus, Hallelujahs to Jesus!  , 
+    description: |
+        Christ in Song 190. Hallelujahs to Jesus. Hallelujahs to Jesus!  Hallelujahs forever! His wondrous salvation our tongues shall declare. Sound the life invitation, Call the glad coronation; The Lord of creation the crown shall wear.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Hallelujahs to Jesus, Hallelujahs to Jesus!  . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 190. HALLELUJAHS TO JESUS
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Both here and in heav'n shall our joy anthem ring.
 For his love ever vernal,
 For his mercy eternal, 
 Let glory supernal crown Jesus Christ.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Hallelujahs to Jesus |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Hallelujahs to Jesus!   |
 Author | F. E. B.
 Year | 1908
@@ -47,11 +52,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| Hallelujahs to Jesus! |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
 Texts | Luke 1:46-47 |
 Print Texts | 
 Scripture Song |  |
-  
+    

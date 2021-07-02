@@ -1,13 +1,17 @@
 ---
-title: 156. For Others' Guilt
+title: |
+    156. For Others' Guilt - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, For Others' Guilt, &#039;Tis midnight; and on Olives&#039; brow, 
+    description: |
+        Christ in Song 156. For Others' Guilt. 'Tis midnight; and on Olives' brow The star is dimmed that lately shone; 'Tis midnight; in the garden now The suff'ring Saviour prays alone.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, For Others' Guilt, 'Tis midnight; and on Olives' brow. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 156. FOR OTHERS' GUILT
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ Is not forsaken by his God.
 Is borne the song that angels know;
 Unheard by mortals are the strains
 That sweetly soothe the Saviour's woe.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | For Others' Guilt |
 Key | A♭ Major |
-Titles |  |
-First Line | &#039;Tis midnight; and on Olives&#039; brow |
+Titles | undefined |
+First Line | 'Tis midnight; and on Olives' brow |
 Author | W. B. Tappan
 Year | 1908
 Composer| Bradbury |
 Hymnal|  - |
-Tune| OLIVE&#039;S BROW |
+Tune| OLIVE'S BROW |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ's Sufferings |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

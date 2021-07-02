@@ -1,13 +1,17 @@
 ---
-title: 264. Singing As We Journey
+title: |
+    264. Singing As We Journey - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Singing As We Journey, We are children of a King, 
+    description: |
+        Christ in Song 264. Singing As We Journey. We are children of a King, Heav'nly King, Heav'nly King, We are children of a King, Singing as we journey; Jesus Christ, our guard and guide, Bids us, nothing terrified, Follow closely at His side, Singing as we journey.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Singing As We Journey, We are children of a King. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 264. SINGING AS WE JOURNEY
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Singing till our home we view,
 Singing as we journey.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Singing As We Journey |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | We are children of a King |
 Author | L. J. R.
 Year | 1908
@@ -55,11 +60,11 @@ Composer| Lucy J. Rider |
 Hymnal|  - |
 Tune| We are children of a King |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

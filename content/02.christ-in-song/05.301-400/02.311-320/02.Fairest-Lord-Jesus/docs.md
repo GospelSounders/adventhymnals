@@ -1,13 +1,17 @@
 ---
-title: 312. Fairest Lord Jesus
+title: |
+    312. Fairest Lord Jesus - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Fairest Lord Jesus, Fairest Lord Jesus, 
+    description: |
+        Christ in Song 312. Fairest Lord Jesus. Fairest Lord Jesus, Ruler of all nature, O Thou of God and man the Son! Thee will I cherish, Thee will I honor, Thou art my glory, joy, and crown.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Fairest Lord Jesus, Fairest Lord Jesus. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 312. FAIREST LORD JESUS
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ And all the twinkling, starry host;
 Jesus shines brighter,
 Jesus shines purer
 Than all the angels heav'n can boast.  Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Fairest Lord Jesus |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Fairest Lord Jesus |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| CRUSADER |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

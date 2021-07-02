@@ -1,13 +1,17 @@
 ---
-title: 151. The Waters Are Troubled
+title: |
+    151. The Waters Are Troubled - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Waters Are Troubled, The waters are troubled , 
+    description: |
+        Christ in Song 151. The Waters Are Troubled. The waters are troubled, The angel is here; The fountain of mercy Flows healing and clear: O come in your sorrow, And come in your sin; The waters are troubled: Step in, O step in!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Waters Are Troubled, The waters are troubled . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 151. THE WATERS ARE TROUBLED
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ The waters are troubled:
 Step in, O step in!
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Waters Are Troubled |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The waters are troubled  |
 Author | J. E. Rankin
 Year | 1908
@@ -55,11 +60,11 @@ Composer| Rev. S. Morrison |
 Hymnal|  - |
 Tune| RANKIN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Special Selections: Solos |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 21. Let Him In
+title: |
+    021. Let Him In - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Let Him In, There&#039;s a Stranger at the door, 
+    description: |
+        Christ in Song 021. Let Him In. There's a Stranger at the door,  Let him in; He has been there oft before,  Let him in; Let him in, ere he is gone, Let him in, the Holy One, Jesus Christ, the Father's Son,  Let him in.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Let Him In, There's a Stranger at the door. 
     author: Brian Onang'o
 ---
 
-
-## 21. LET HIM IN
+#### Advent Hymnals
+## 021. LET HIM IN
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,25 +53,26 @@ He will speak your sins forgiv'n,
 And when earth ties all are riv'n,
 He will take your home to heav'n,
 Let him in.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Let Him In |
 Key | D♭ Major |
-Titles |  |
-First Line | There&#039;s a Stranger at the door |
+Titles | undefined |
+First Line | There's a Stranger at the door |
 Author | Rev. J. B. Atchinson
 Year | 1908
 Composer| E. O. Excell |
 Hymnal|  - |
-Tune| There&#039;s a Stranger at the door |
+Tune| There's a Stranger at the door |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Special Selections: Choir or Quartet |
 Texts | Revelation 3:20 |
 Print Texts | 
 Scripture Song |  |
-  
+    

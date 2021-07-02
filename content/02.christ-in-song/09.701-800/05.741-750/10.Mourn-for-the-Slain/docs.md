@@ -1,13 +1,17 @@
 ---
-title: 750. Mourn for the Slain
+title: |
+    750. Mourn for the Slain - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Mourn for the Slain, Mourn for the thousands slain, 
+    description: |
+        Christ in Song 750. Mourn for the Slain. Mourn for the thousands slain, The youthful and the strong, Mourn for the wine-cup's fearful reign, And the deluded throng.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Mourn for the Slain, Mourn for the thousands slain. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 750. MOURN FOR THE SLAIN
+####  Christ in Song,
 
 ```txt
 1.
@@ -29,25 +33,26 @@ To break the fell destroyer's sway.
 And show his saving love.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Mourn for the Slain |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Mourn for the thousands slain |
-Author | 
+Author | undefined
 Year | 1908
 Composer| L. Mason |
 Hymnal|  - |
 Tune| BOYLSTON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Temperance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 113. God Calling Yet
+title: |
+    113. God Calling Yet - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, God Calling Yet, God calling yet!  shall I not hear?, 
+    description: |
+        Christ in Song 113. God Calling Yet. God calling yet!  shall I not hear? Earth's pleasures shall I still hold dear? Shall life's swift passing years all fly, And still my soul in slumber lie?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, God Calling Yet, God calling yet!  shall I not hear?. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 113. GOD CALLING YET
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ God calling yet!  I cannot stay;
 My heart I yield without delay;
 Vain world, farewell!  from thee I part;
 The voice of God hath reached my heart.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God Calling Yet |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | God calling yet!  shall I not hear? |
 Author | Jane Borthwick
 Year | 1908
@@ -53,11 +58,11 @@ Composer| C. H. A. Malan |
 Hymnal|  - |
 Tune| WELTON |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

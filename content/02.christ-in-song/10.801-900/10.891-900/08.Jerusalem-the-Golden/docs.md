@@ -1,13 +1,17 @@
 ---
-title: 898. Jerusalem the Golden
+title: |
+    898. Jerusalem the Golden - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Jerusalem the Golden, Jerusalem the golden, 
+    description: |
+        Christ in Song 898. Jerusalem the Golden. Jerusalem the golden, With milk and honey blest, Beneath thy contemplation Sink heart and voice oppress'd: I know not, O I know not What holy joy are there; What radiancy of glory, What bliss beyond compare.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Jerusalem the Golden, Jerusalem the golden. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 898. JERUSALEM THE GOLDEN
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Who art with God the Father,
 And Spirit ever blest.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jerusalem the Golden |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Jerusalem the golden |
 Author | Bernard of Cluny
 Year | 1908
@@ -55,11 +60,11 @@ Composer| Alexander Ewing |
 Hymnal|  - |
 Tune| EWING |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: City of God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

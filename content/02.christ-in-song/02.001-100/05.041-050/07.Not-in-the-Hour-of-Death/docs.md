@@ -1,13 +1,17 @@
 ---
-title: 47. Not in the Hour of Death
+title: |
+    047. Not in the Hour of Death - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Not in the Hour of Death, Not in the hour of death, Come to Him now, come.
+    description: |
+        Christ in Song 047. Not in the Hour of Death. Not in the hour of death, Not when the pulse is low, Not with the failing breath, Not when you fear to go; 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Not in the Hour of Death, Not in the hour of death. Come to Him now, come.
     author: Brian Onang'o
 ---
 
-
-## 47. NOT IN THE HOUR OF DEATH
+#### Advent Hymnals
+## 047. NOT IN THE HOUR OF DEATH
+####  Christ in Song,
 
 ```txt
 1.
@@ -28,30 +32,13 @@ O come to him now.
 Not when the frost of time 
 Has changed the gold to gray;
 Come in the golden prime
-Of manhood's summer day. 
-
-Refrain:
-Come to Him now, come.
-Come to Him now.
-Jesus can save,
-O come to him now;
-Jesus will save,
-O come to him now.
-
+Of manhood's summer day.  [Refrain]
 
 3.
 Not when the noon of care
 Has robbed the flow'rs of dew;
 Come in the morning fair,
-Of life's glad springtime new. 
-
-Refrain:
-Come to Him now, come.
-Come to Him now.
-Jesus can save,
-O come to him now;
-Jesus will save,
-O come to him now.
+Of life's glad springtime new.  [Refrain]
 
 
 ```
@@ -68,11 +55,11 @@ Composer| Franz Abt |
 Hymnal|  - |
 Tune| Not in the hour of death |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Special Selections: Solos |
 Texts | Psalm 6:5 |
 Print Texts | 
 Scripture Song |  |
-  
+    

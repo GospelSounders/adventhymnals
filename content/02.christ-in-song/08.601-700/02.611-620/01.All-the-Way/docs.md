@@ -1,13 +1,17 @@
 ---
-title: 611. All the Way
+title: |
+    611. All the Way - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, All the Way, All the way my Saviour leads me, 
+    description: |
+        Christ in Song 611. All the Way. All the way my Saviour leads me; What have I to ask beside? Can I doubt His tender mercy, Who thro' life has been my guide? Heav'nly peace, divinest comfort, Here by faith in Him to dwell! For I know whate'er befall me, Jesus doeth all things well; For I know whate'er befall me, Jesus doeth all things well.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, All the Way, All the way my Saviour leads me. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 611. ALL THE WAY
+####  Christ in Song,
 
 ```txt
 1.
@@ -46,13 +50,14 @@ Jesus led me all the way;
 This my song thro' endless ages
 Jesus led me all the way.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | All the Way |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | All the way my Saviour leads me |
 Author | Fanny J. Crosby
 Year | 1908
@@ -60,11 +65,11 @@ Composer| Rev. R. Lowry |
 Hymnal|  - |
 Tune| All the way my Saviour leads me |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Leading |
 Texts | Deuteronomy 32:12 |
 Print Texts | 
 Scripture Song |  |
-  
+    

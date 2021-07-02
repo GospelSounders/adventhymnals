@@ -1,13 +1,17 @@
 ---
-title: 841. Keep Us Safe This Night
+title: |
+    841. Keep Us Safe This Night - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Keep Us Safe This Night, Lord, keep us safe this night, 
+    description: |
+        Christ in Song 841. Keep Us Safe This Night. Lord, keep us safe this night, Secure from all our fears; May angels guard us while we sleep, Till morning light appears.  Amen.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Keep Us Safe This Night, Lord, keep us safe this night. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 841. KEEP US SAFE THIS NIGHT
+####  Christ in Song,
 
 ```txt
 1.
@@ -15,25 +19,26 @@ Lord, keep us safe this night,
 Secure from all our fears;
 May angels guard us while we sleep,
 Till morning light appears.  Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Keep Us Safe This Night |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, keep us safe this night |
-Author | 
+Author | undefined
 Year | 1908
-Composer| Beethoven |
+Composer| undefined |
 Hymnal|  - |
 Tune| Lord, keep us safe this night |
 Metrical pattern | |
-# Stanzas | 1 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Evening Hymns; Special Selections: Chants |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

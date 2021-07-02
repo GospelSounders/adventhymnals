@@ -1,13 +1,17 @@
 ---
-title: 23. Repeating Calvary
+title: |
+    023. Repeating Calvary - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Repeating Calvary, I cannot drive the nails again, 
+    description: |
+        Christ in Song 023. Repeating Calvary. I cannot drive the nails again, I cannot thrust the spear of pain, I cannot bear to see His grief and agony, Repeating Calvary  By tho't of sin, Repeating Calvary   By tho't of sin.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Repeating Calvary, I cannot drive the nails again. 
     author: Brian Onang'o
 ---
 
-
-## 23. REPEATING CALVARY
+#### Advent Hymnals
+## 023. REPEATING CALVARY
+####  Christ in Song,
 
 ```txt
 1.
@@ -48,13 +52,14 @@ Enthroned forevermore,
 Gives pow'r to win,
 Enthroned forevermore,
 Gives pow'r to win.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Repeating Calvary |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | I cannot drive the nails again |
 Author | F. E. B.
 Year | 1908
@@ -62,11 +67,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| I cannot drive the nails again |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Christ: Christ's Sufferings; Invitation and Repentance: New Birth<span id='more_topics' style='display:none'>; Special Selections: Choir or Quartet |
 Texts | Romans 6:1-2 |
 Print Texts | 
 Scripture Song |  |
-  
+    

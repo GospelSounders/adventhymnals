@@ -1,13 +1,17 @@
 ---
-title: 765. Amazing Grace
+title: |
+    765. Amazing Grace - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Amazing Grace, Amazing grace!  how sweet the sound, 
+    description: |
+        Christ in Song 765. Amazing Grace. Amazing grace!  how sweet the sound That saved a wretch like me! I once was lost, but now am found; Was blind, but now I see.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Amazing Grace, Amazing grace!  how sweet the sound. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 765. AMAZING GRACE
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Thro' many dangers, toils, and snares,
 I have already come;
 'Tis grace hath brought me safe thus far,
 And grace will lead me home.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Amazing Grace |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Amazing grace!  how sweet the sound |
 Author | J. Newton
 Year | 1908
@@ -41,11 +46,11 @@ Composer| S. Webbe |
 Hymnal|  - |
 Tune| BELMONT |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Joy of Salvation |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

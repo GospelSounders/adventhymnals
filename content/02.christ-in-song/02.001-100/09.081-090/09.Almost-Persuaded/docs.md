@@ -1,13 +1,17 @@
 ---
-title: 89. Almost Persuaded
+title: |
+    089. Almost Persuaded - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Almost Persuaded, Almost persuaded now to believe, 
+    description: |
+        Christ in Song 089. Almost Persuaded. Almost persuaded now to believe. Almost persuaded Christ to receive. Seems now some soul to say,  "Go, Spirit, go Thy way, Some more convenient day On Thee I'll call."
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Almost Persuaded, Almost persuaded now to believe. 
     author: Brian Onang'o
 ---
 
-
-## 89. ALMOST PERSUADED
+#### Advent Hymnals
+## 089. ALMOST PERSUADED
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ Almost persuaded; doom comes at last!
 Sad, and that bitter wail
 "Almost, but lost!"
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Almost Persuaded |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Almost persuaded now to believe |
 Author | P. P. B.
 Year | 1908
@@ -48,11 +53,11 @@ Composer| P. P. Bliss |
 Hymnal|  - |
 Tune| Almost persuaded now to believe |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

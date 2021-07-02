@@ -1,13 +1,17 @@
 ---
-title: 571. Master, Hast Thou Work for Me
+title: |
+    571. Master, Hast Thou Work for Me - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Master, Hast Thou Work for Me, Master, hast thou work for me?, Tho' my hands are small and weak
+    description: |
+        Christ in Song 571. Master, Hast Thou Work for Me. Master, hast thou work for me? I would gladly toil for thee; I have neither strength nor skill, Yet some place I long to fill; 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Master, Hast Thou Work for Me, Master, hast thou work for me?. Tho' my hands are small and weak,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 571. MASTER, HAST THOU WORK FOR ME
+####  Christ in Song,
 
 ```txt
 1.
@@ -45,13 +49,14 @@ Trusting thee to teach me how,
 Let me serve thee, here and now.
 Master, hast thou work for me?
 I would gladly toil for thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Master, Hast Thou Work for Me |
 Key | D Major |
-Titles | Tho' my hands are small and weak |
+Titles | Tho' my hands are small and weak, |
 First Line | Master, hast thou work for me? |
 Author | Jessie H. Brown 
 Year | 1908
@@ -59,11 +64,11 @@ Composer| J. H. Fillmore |
 Hymnal|  - |
 Tune| Master, hast thou work for me? |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

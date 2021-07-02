@@ -1,13 +1,17 @@
 ---
-title: 711. Revive Thy Work
+title: |
+    711. Revive Thy Work - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Revive Thy Work, Revive Thy work, O Lord, Thy mighty arm make bare, 
+    description: |
+        Christ in Song 711. Revive Thy Work. Revive Thy work, O Lord, Thy mighty arm make bare; Speak with the voice that wakes the dead, and make Thy people hear.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Revive Thy Work, Revive Thy work, O Lord, Thy mighty arm make bare. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 711. REVIVE THY WORK
+####  Christ in Song,
 
 ```txt
 1.
@@ -26,25 +30,26 @@ And hung'ring for the bread of life, oh, may our spirits be.
 Revive Thy work, O Lord, exalt Thy precious name;
 And by the Holy Ghost our love for Thee and Thine inflame.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Revive Thy Work |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | Revive Thy work, O Lord, Thy mighty arm make bare |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Call to Activity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

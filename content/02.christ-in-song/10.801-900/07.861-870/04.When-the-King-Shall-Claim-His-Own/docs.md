@@ -1,13 +1,17 @@
 ---
-title: 864. When the King Shall Claim His Own
+title: |
+    864. When the King Shall Claim His Own - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, When the King Shall Claim His Own, In the glad time of the harvest, 
+    description: |
+        Christ in Song 864. When the King Shall Claim His Own.  In the glad time of the harvest, In the grand millennial year, When the King shall take His scepter, And to judge the world appear, Earth and sea shall yield their treasure, All shall stand before the throne; Just awards will then be given, When the King shall claim His own.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, When the King Shall Claim His Own, In the glad time of the harvest. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 864. WHEN THE KING SHALL CLAIM HIS OWN
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Never grieved with sin or sorrow,
 Never weary or alone;
 O, we long for that glad morrow
 When the King shall claim His own.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | When the King Shall Claim His Own |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | In the glad time of the harvest |
 Author | L. D. Santee
 Year | 1908
@@ -63,11 +68,11 @@ Composer| Edwin Barnes |
 Hymnal|  - |
 Tune| In the glad time of the harvest |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Harvest Time; The Home Eternal: Return of Christ |
 Texts | Matthew 16:27 |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 839. Bless and Keep Us
+title: |
+    839. Bless and Keep Us - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Bless and Keep Us, The Lord bless us and keep us, 
+    description: |
+        Christ in Song 839. Bless and Keep Us. The Lord bless us and keep us; the Lord make His face shine upon us,  and be gracious unto us;
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Bless and Keep Us, The Lord bless us and keep us. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 839. BLESS AND KEEP US
+####  Christ in Song,
 
 ```txt
 1.
@@ -19,25 +23,26 @@ and be gracious unto us;
 The Lord lift up His countenance upon us,
 and give us peace.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Bless and Keep Us |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | The Lord bless us and keep us |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 2 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Closing Hymns; Special Selections: Chants |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

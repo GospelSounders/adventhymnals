@@ -1,13 +1,17 @@
 ---
-title: 371. God, in the Gospel
+title: |
+    371. God, in the Gospel - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, God, in the Gospel, God, in the gospel of His Son, 
+    description: |
+        Christ in Song 371. God, in the Gospel. God, in the gospel of His Son, Makes His eternal counsels known; Where love in all its glory shines, And truth is drawn in fairest lines.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, God, in the Gospel, God, in the gospel of His Son. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 371. GOD, IN THE GOSPEL
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Oh, grant us grace, Almighty Lord,
 To read aright Thy holy word,
 Its truth with meekness to receive,
 And by its holy precepts live.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God, in the Gospel |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | God, in the gospel of His Son |
 Author | Benj. Beddome
 Year | 1908
@@ -47,11 +52,11 @@ Composer| L. Mason |
 Hymnal|  - |
 Tune| UXBRIDGE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Teaching the Gospel; Living His Life: Teaching the Gospel |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

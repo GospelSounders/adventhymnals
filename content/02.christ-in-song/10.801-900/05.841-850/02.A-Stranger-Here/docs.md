@@ -1,13 +1,17 @@
 ---
-title: 842. A Stranger Here
+title: |
+    842. A Stranger Here - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Stranger Here, I&#039;m but a stranger here, 
+    description: |
+        Christ in Song 842. A Stranger Here. I'm but a stranger here, Heav'n is my home; Earth is a desert drear, Heav'n is my home; Danger and sorrow stand  Round me on ev'ry hand, Heav'n is my Fatherland, Heav'n is my home.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Stranger Here, I'm but a stranger here. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 842. A STRANGER HERE
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ There'll be the good and blest,
 Those I love most and best;
 There, too, I soon shall rest;
 Heaven is my home.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Stranger Here |
 Key | G Major |
-Titles |  |
-First Line | I&#039;m but a stranger here |
+Titles | undefined |
+First Line | I'm but a stranger here |
 Author | Thos. R. Taylor
 Year | 1908
 Composer| Lowell Mason |
 Hymnal|  - |
 Tune| OAK |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Pilgrimage; Living His Life: Pilgrimage |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

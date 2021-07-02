@@ -1,13 +1,17 @@
 ---
-title: 362. The Word
+title: |
+    362. The Word - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Word, A glory in the word we find, 
+    description: |
+        Christ in Song 362. The Word. A glory in the word we find When grace restores our sight; But sin has darkened all the mind, And vail'd the heav'nly light. And vail'd the heav'nly light.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Word, A glory in the word we find. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 362. THE WORD
+####  Christ in Song,
 
 ```txt
 1.
@@ -38,25 +42,26 @@ That we may long to see and know
 Thy glorious face above.
 Thy glorious face above.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Word |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | A glory in the word we find |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 731. Always With Us
+title: |
+    731. Always With Us - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Always With Us, Always with us, always with us, 
+    description: |
+        Christ in Song 731. Always With Us. Always with us, always with us, Words of cheer and words of love; Thus the risen Saviour whispers, From his dwelling place above. With us when we toil in sadness, Sowing much and reaping none; Telling us that in the future,  Golden harvest shall be won.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Always With Us, Always with us, always with us. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 731. ALWAYS WITH US
+####  Christ in Song,
 
 ```txt
 1.
@@ -31,25 +35,26 @@ Lighting up the gloomy shadows
 With salvation's radiant beam.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Always With Us |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | Always with us, always with us |
-Author | 
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| RIPLEY |
 Metrical pattern | |
-# Stanzas | 2 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

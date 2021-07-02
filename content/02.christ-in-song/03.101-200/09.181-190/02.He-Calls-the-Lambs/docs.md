@@ -1,13 +1,17 @@
 ---
-title: 182. He Calls the Lambs
+title: |
+    182. He Calls the Lambs - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, He Calls the Lambs, See, Israel&#039;s gentle shepherd stands, 
+    description: |
+        Christ in Song 182. He Calls the Lambs. See, Israel's gentle shepherd stands, With all-engaging charms; Hark, how He calls the tender lambs. And folds them in His arms!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, He Calls the Lambs, See, Israel's gentle shepherd stands. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 182. HE CALLS THE LAMBS
+####  Christ in Song,
 
 ```txt
 1.
@@ -29,25 +33,26 @@ Joyful that we ourselves are Thine,
 Thine let our offspring be.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | He Calls the Lambs |
 Key | A♭ Major |
-Titles |  |
-First Line | See, Israel&#039;s gentle shepherd stands |
+Titles | undefined |
+First Line | See, Israel's gentle shepherd stands |
 Author | P. Doddridge
 Year | 1908
 Composer| W. H. Havergal |
 Hymnal|  - |
 Tune| EVAN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Save the Children; Invitation and Repentance: Save the Children |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

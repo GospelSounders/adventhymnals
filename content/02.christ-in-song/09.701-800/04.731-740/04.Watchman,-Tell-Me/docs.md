@@ -1,13 +1,17 @@
 ---
-title: 734. Watchman, Tell Me
+title: |
+    734. Watchman, Tell Me - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Watchman, Tell Me, Watchman, tell me, does the morning, 
+    description: |
+        Christ in Song 734. Watchman, Tell Me. Watchman, tell me, does the morning Of fair Zion's glory dawn? Have the signs that marks His coming Yet upon thy pathway shone? Pilgrim, yes!  arise, look round thee; Light is breaking in the skies; Gird thy bridal robes around thee, Morning dawns, arise!  arise!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Watchman, Tell Me, Watchman, tell me, does the morning. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 734. WATCHMAN, TELL ME
+####  Christ in Song,
 
 ```txt
 1.
@@ -61,13 +65,14 @@ See the millions, hear them singing,
 Soon the pilgrim will be there.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Watchman, Tell Me |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Watchman, tell me, does the morning |
 Author | S. S. Brewer
 Year | 1908
@@ -75,11 +80,11 @@ Composer| W. B. Bradbury |
 Hymnal|  - |
 Tune| DAWNING |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Return of Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

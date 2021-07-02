@@ -1,13 +1,17 @@
 ---
-title: 697. I Will Never Leave Thee
+title: |
+    697. I Will Never Leave Thee - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, I Will Never Leave Thee, I will never, never leave thee, 
+    description: |
+        Christ in Song 697. I Will Never Leave Thee. I will never, never leave thee, I will never thee forsake; I will guide, and save, and keep thee, For my name and mercy's sake; Fear no evil, Fear no evil, Only all my counsel take.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, I Will Never Leave Thee, I will never, never leave thee. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 697. I WILL NEVER LEAVE THEE
+####  Christ in Song,
 
 ```txt
 1.
@@ -42,13 +46,14 @@ I will make the light appear,
 And the banner, And the banner
 Of my love I will uprear.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Will Never Leave Thee |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | I will never, never leave thee |
 Author | Anon.
 Year | 1908
@@ -56,11 +61,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| PROMISE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

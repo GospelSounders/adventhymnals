@@ -1,13 +1,17 @@
 ---
-title: 391. Almighty King
+title: |
+    391. Almighty King - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Almighty King, Come, thou almighty King, 
+    description: |
+        Christ in Song 391. Almighty King. Come, thou almighty King, Help us thy name to sing, Help us to praise. Father all glorious, O'er all victorious, Come, and reign over us, Ancient of Days.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Almighty King, Come, thou almighty King. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 391. ALMIGHTY KING
+####  Christ in Song,
 
 ```txt
 1.
@@ -37,13 +41,14 @@ May we in glory see,
 And to eternity
 Love and adore.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Almighty King |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, thou almighty King |
 Author | C. Wesley
 Year | 1908
@@ -51,11 +56,11 @@ Composer| Giardini |
 Hymnal|  - |
 Tune| ITALY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

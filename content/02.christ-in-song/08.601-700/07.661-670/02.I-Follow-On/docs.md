@@ -1,13 +1,17 @@
 ---
-title: 662. I Follow On
+title: |
+    662. I Follow On - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, I Follow On, Saviour!  I follow on, 
+    description: |
+        Christ in Song 662. I Follow On. Saviour!  I follow on, Guided by thee, Seeing not yet the hand That leadeth me; Hushed be my heart, and still, Fear I no further ill; Only to meet thy will My will shall be.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, I Follow On, Saviour!  I follow on. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 662. I FOLLOW ON
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Constantly near thy side,
 Quickened and purified,
 Living for him who died
 Freely for me.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Follow On |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Saviour!  I follow on |
 Author | C. S. Robinson
 Year | 1908
@@ -63,11 +68,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| DOANE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Following Jesus |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

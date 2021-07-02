@@ -1,13 +1,17 @@
 ---
-title: 443. By Thee We Rise
+title: |
+    443. By Thee We Rise - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, By Thee We Rise, Christ is ris&#039;n, our Lord and King, 
+    description: |
+        Christ in Song 443. By Thee We Rise. Christ is ris'n, our Lord and King, Let the whole creation sing; Raise your joys and triumphs high; Sing, ye heav'ns, let earth reply.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, By Thee We Rise, Christ is ris'n, our Lord and King. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 443. BY THEE WE RISE
+####  Christ in Song,
 
 ```txt
 1.
@@ -29,25 +33,26 @@ Made like thee, by thee we rise;
 Ours the cross, the grave, the skies.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | By Thee We Rise |
 Key | G Major |
-Titles |  |
-First Line | Christ is ris&#039;n, our Lord and King |
+Titles | undefined |
+First Line | Christ is ris'n, our Lord and King |
 Author | C. Wesley
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| VIENNA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Easter |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

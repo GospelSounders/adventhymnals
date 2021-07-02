@@ -1,13 +1,17 @@
 ---
-title: 333. Lord of All Being
+title: |
+    333. Lord of All Being - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Lord of All Being, Lord of all being, throned afar, 
+    description: |
+        Christ in Song 333. Lord of All Being. Lord of all being, throned afar, Thy glory flames from sun and star, Center and soul of ev'ry sphere, Yet to each loving heart how near! Yet to each loving heart how near!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Lord of All Being, Lord of all being, throned afar. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 333. LORD OF ALL BEING
+####  Christ in Song,
 
 ```txt
 1.
@@ -44,13 +48,14 @@ And kindling hearts that burn for Thee,
 Till all Thy living altars claim
 One holy light, one heav'nly flame!
 One holy light, one heav'nly flame.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord of All Being |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord of all being, throned afar |
 Author | O. W. Holmes
 Year | 1908
@@ -58,11 +63,11 @@ Composer| F. M. A. Venna |
 Hymnal|  - |
 Tune| PARK STREET |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

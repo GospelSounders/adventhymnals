@@ -1,13 +1,17 @@
 ---
-title: 268. Praise the King of Heaven
+title: |
+    268. Praise the King of Heaven - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Praise the King of Heaven, Praise, my soul, the King of Heaven, 
+    description: |
+        Christ in Song 268. Praise the King of Heaven. Praise, my soul, the King of Heaven, To His feet thy tribute bring; Ransomed, healed, restored, forgiven, Who like thee His praise should sing? Praise Him!  praise Him! Praise Him!  praise Him! Praise the everlasting King!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Praise the King of Heaven, Praise, my soul, the King of Heaven. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 268. PRAISE THE KING OF HEAVEN
+####  Christ in Song,
 
 ```txt
 1.
@@ -45,13 +49,14 @@ Dwellers all in time and space,
 Praise Him!  praise Him!
 Praise Him!  praise Him!  
 Praise with us the God of grace!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Praise the King of Heaven |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Praise, my soul, the King of Heaven |
 Author | H. F. Lyte
 Year | 1908
@@ -59,11 +64,11 @@ Composer| H. Smart |
 Hymnal|  - |
 Tune| REGENT SQUARE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 41. Mighty to Save
+title: |
+    041. Mighty to Save - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Mighty to Save, O who is this that cometh , Mighty to save
+    description: |
+        Christ in Song 041. Mighty to Save. O who is this that cometh From Edom's crimson plain, With wounded side, with garments dyed? O tell me now thy name. "I that saw thy soul's distress, A ransom gave; I that speak in righteousness, Mighty to save." 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Mighty to Save, O who is this that cometh . Mighty to save,
     author: Brian Onang'o
 ---
 
-
-## 41. MIGHTY TO SAVE
+#### Advent Hymnals
+## 041. MIGHTY TO SAVE
+####  Christ in Song,
 
 ```txt
 1.
@@ -35,10 +39,7 @@ O why this bloody tide?
 I the wine-press trod alone, 
 "Neath dark'ning skies;
 Of the people there was none
-Mighty to save." 
-
-null
-
+Mighty to save."  [Chorus]
 
 3.
 O bleeding Lamb, my Saviour!
@@ -48,9 +49,7 @@ Salvation in my name;
 I the bloody fight have won,
 Conquer'd the grave,
 Now the year of joy has come,
-Mighty to save." 
-
-null
+Mighty to save."  [Chorus]
 
 
 
@@ -60,7 +59,7 @@ null
 -------------|------------|
 Title | Mighty to Save |
 Key | A♭ Major |
-Titles | Mighty to save |
+Titles | Mighty to save, |
 First Line | O who is this that cometh  |
 Author | Rev. R. W. Todd
 Year | 1908
@@ -68,11 +67,11 @@ Composer| Harry Sanders |
 Hymnal|  - |
 Tune| O who is this that cometh |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Christ: Christ's Power |
 Texts | Isaiah 63:1 |
 Print Texts | 
 Scripture Song |  |
-  
+    

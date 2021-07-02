@@ -1,13 +1,17 @@
 ---
-title: 462. In Sweet Communion
+title: |
+    462. In Sweet Communion - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, In Sweet Communion, While in sweet communion feeding, 
+    description: |
+        Christ in Song 462. In Sweet Communion. While in sweet communion feeding On this earthly bread and wine, Saviour, may we see thee bleeding On the cross, to make us thine. Tho' unseen, Lord, thou art near us, With thy still small voice of love; Whisper words of peace to cheer us, Ev'ry doubt and fear remove.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, In Sweet Communion, While in sweet communion feeding. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 462. IN SWEET COMMUNION
+####  Christ in Song,
 
 ```txt
 1.
@@ -30,13 +34,14 @@ To thy pierc'd and bleeding side,
 Till our view of self grows clearer
 In the light of Him who died.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | In Sweet Communion |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | While in sweet communion feeding |
 Author | E. Denny
 Year | 1908
@@ -44,11 +49,11 @@ Composer| Rousseau |
 Hymnal|  - |
 Tune| GREENVILLE |
 Metrical pattern | |
-# Stanzas | 2 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Lord's Supper |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

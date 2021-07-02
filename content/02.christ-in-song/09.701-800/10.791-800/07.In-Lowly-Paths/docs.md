@@ -1,13 +1,17 @@
 ---
-title: 797. In Lowly Paths
+title: |
+    797. In Lowly Paths - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, In Lowly Paths, O Master, let me walk with thee , 
+    description: |
+        Christ in Song 797. In Lowly Paths. O Master, let me walk with thee In lowly paths of service free; Tell me thy secret, help me bear The strain of toil, the fret o care.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, In Lowly Paths, O Master, let me walk with thee . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 797. IN LOWLY PATHS
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ Far down the future's broad'ning way;
 In peace that wealth can never give,
 With thee, O Master, let me live.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | In Lowly Paths |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O Master, let me walk with thee  |
 Author | Rev. W. Gladden
 Year | 1908
@@ -48,11 +53,11 @@ Composer| John E. Gould |
 Hymnal|  - |
 Tune| BERA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

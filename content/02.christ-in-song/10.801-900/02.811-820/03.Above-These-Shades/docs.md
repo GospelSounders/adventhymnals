@@ -1,13 +1,17 @@
 ---
-title: 813. Above These Shades
+title: |
+    813. Above These Shades - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Above These Shades, O could our thoughts and wishes fly, 
+    description: |
+        Christ in Song 813. Above These Shades. O could our thoughts and wishes fly, Above these gloomy shades, To those bright worlds beyond the sky, Where sorrow ne'er invades!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Above These Shades, O could our thoughts and wishes fly. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 813. ABOVE THESE SHADES
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ O then, on faith's sublimest wing,
 Our ardent souls shall rise,
 To those bright scenes where pleasures spring
 Immortal in the skies.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Above These Shades |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | O could our thoughts and wishes fly |
 Author | Anne Steele
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| COVENTRY |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Faith; The Home Eternal |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

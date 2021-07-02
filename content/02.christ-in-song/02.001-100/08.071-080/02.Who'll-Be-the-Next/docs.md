@@ -1,13 +1,17 @@
 ---
-title: 72. Who'll Be the Next?
+title: |
+    072. Who'll Be the Next? - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Who'll Be the Next?, Who&#039;ll be the next to follow Jesus?, Who'll be the next?
+    description: |
+        Christ in Song 072. Who'll Be the Next?. Who'll be the next to follow Jesus? Who'll be the next His cross to bear? Some one is ready, some one is waiting; Who'll be the next a crown to wear? 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Who'll Be the Next?, Who'll be the next to follow Jesus?. Who'll be the next?
     author: Brian Onang'o
 ---
 
-
-## 72. WHO'LL BE THE NEXT?
+#### Advent Hymnals
+## 072. WHO'LL BE THE NEXT?
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,18 +31,13 @@ Follow Jesus now?
 Who'll be the next to follow Jesus
 Follow His weary bleeding feet?
 Who'll be the next to lay ev'ry burden
-Down at the Father's mercy-seat? 
-
-null
-
+Down at the Father's mercy-seat?  [Chorus]
 
 3.
 Who'll be the next to follow Jesus?
 Who'll be the next to praise His name?
 Who'll swell the chorus of free redemption
-Sing, hallelujah!  praise the Lamb? 
-
-null
+Sing, hallelujah!  praise the Lamb?  [Chorus]
 
 ```
 
@@ -47,18 +46,18 @@ null
 Title | Who'll Be the Next? |
 Key | B♭ Major |
 Titles | Who'll be the next? |
-First Line | Who&#039;ll be the next to follow Jesus? |
+First Line | Who'll be the next to follow Jesus? |
 Author | Annie S. Hawks
 Year | 1908
 Composer| Robert Lowry |
 Hymnal|  - |
-Tune| Who&#039;ll be the next to follow Jesus? |
+Tune| Who'll be the next to follow Jesus? |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

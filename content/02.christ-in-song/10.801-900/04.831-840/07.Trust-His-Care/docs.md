@@ -1,13 +1,17 @@
 ---
-title: 837. Trust His Care
+title: |
+    837. Trust His Care - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Trust His Care, How gentle God&#039;s commands!, 
+    description: |
+        Christ in Song 837. Trust His Care. How gentle God's commands! How kind his precepts are! Come, cast your burdens on the Lord, And trust his constant care.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Trust His Care, How gentle God's commands!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 837. TRUST HIS CARE
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ His goodness stands approved
 Thro' each succeeding day:
 I'll drop my burden at his feet,
 And bear a song away.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Trust His Care |
 Key | D Major |
-Titles |  |
-First Line | How gentle God&#039;s commands! |
+Titles | undefined |
+First Line | How gentle God's commands! |
 Author | P. Doddridge
 Year | 1908
 Composer| W. B. Bradbury |
 Hymnal|  - |
 Tune| DOVE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Trusting; Living His Life: Trusting |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

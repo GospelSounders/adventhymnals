@@ -1,13 +1,17 @@
 ---
-title: 401. Love That Will Not Let Me Go
+title: |
+    401. Love That Will Not Let Me Go - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Love That Will Not Let Me Go, O Love that will not let me go, 
+    description: |
+        Christ in Song 401. Love That Will Not Let Me Go. O Love that will not let me go, I rest my weary soul in Thee; I give Thee back the life I owe, That in thine ocean depths its flow May richer, fuller be!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Love That Will Not Let Me Go, O Love that will not let me go. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 401. LOVE THAT WILL NOT LET ME GO
+####  Christ in Song,
 
 ```txt
 1.
@@ -38,13 +42,14 @@ I lay in dust life's glory dead,
 And from the ground there blossom red,
 Life that shall endless be!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Love That Will Not Let Me Go |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O Love that will not let me go |
 Author | G. Matheson
 Year | 1908
@@ -52,11 +57,11 @@ Composer| A. L. Peace |
 Hymnal|  - |
 Tune| MARGARET |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Love and Mercy; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

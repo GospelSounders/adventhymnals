@@ -1,13 +1,17 @@
 ---
-title: 400. The Sweetest Name
+title: |
+    400. The Sweetest Name - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Sweetest Name, There is no name so sweet on earth, We love to sing around our King
+    description: |
+        Christ in Song 400. The Sweetest Name. There is no name so sweet on earth, No name so sweet in heaven, The name before his wondrous birth To Christ the Saviour given. 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Sweetest Name, There is no name so sweet on earth. We love to sing around our King,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 400. THE SWEETEST NAME
+####  Christ in Song,
 
 ```txt
 1.
@@ -26,26 +30,13 @@ So dear, so sweet, as Jesus.
 And when he hung upon the tree,
 They wrote this name above him,
 That all might see the reason we
-For evermore must love him. 
-
-Refrain:
-We love to sing around our King,
-And hail him blessed Jesus;
-For there's no word ear ever heard
-So dear, so sweet, as Jesus.
-
+For evermore must love him.  [Refrain]
 
 3.
 So now, upon his Father's throne,
 Almighty to release us
 From sin and pains, he ever reigns,
-The Prince and Saviour, Jesus. 
-
-Refrain:
-We love to sing around our King,
-And hail him blessed Jesus;
-For there's no word ear ever heard
-So dear, so sweet, as Jesus.
+The Prince and Saviour, Jesus.  [Refrain]
 
 
 
@@ -55,7 +46,7 @@ So dear, so sweet, as Jesus.
 -------------|------------|
 Title | The Sweetest Name |
 Key | G Major |
-Titles | We love to sing around our King |
+Titles | We love to sing around our King, |
 First Line | There is no name so sweet on earth |
 Author | W. Bethune
 Year | 1908
@@ -63,11 +54,11 @@ Composer| W. B. Bradbury |
 Hymnal|  - |
 Tune| There is no name so sweet on earth |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

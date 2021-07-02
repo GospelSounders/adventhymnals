@@ -1,13 +1,17 @@
 ---
-title: 324. Praise to Jesus
+title: |
+    324. Praise to Jesus - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Praise to Jesus, Come, praise your Lord and Saviour, 
+    description: |
+        Christ in Song 324. Praise to Jesus. Come, praise your Lord and Saviour, In strains of holy mirth; Give thanks to him, O children, Who lived a child on earth. He loved the little children And call'd them to his side, His loving arms embraced them, And for their sake he died.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Praise to Jesus, Come, praise your Lord and Saviour. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 324. PRAISE TO JESUS
+####  Christ in Song,
 
 ```txt
 1.
@@ -47,25 +51,26 @@ And lead us ever onward,
 That, while we stay below,
 We may like thee, O Jesus,
 In grace and wisdom grow.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Praise to Jesus |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, praise your Lord and Saviour |
 Author | Br. Wm. How
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| ELLACOMBE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

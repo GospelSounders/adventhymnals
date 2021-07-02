@@ -1,13 +1,17 @@
 ---
-title: 341. Thy Glory Fills the Heavens
+title: |
+    341. Thy Glory Fills the Heavens - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Thy Glory Fills the Heavens, Lord, thy glory fills the heaven, 
+    description: |
+        Christ in Song 341. Thy Glory Fills the Heavens. Lord, thy glory fills the heaven; Earth is with its fulness stored; Unto thee be glory given, Holy, holy, holy Lord! Heav'n is still with anthems ringing; Earth takes up the angel's cry, Holy, holy, holy, singing, Lord of hosts, thou Lord most high.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Thy Glory Fills the Heavens, Lord, thy glory fills the heaven. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 341. THY GLORY FILLS THE HEAVENS
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Thus thy glorious name confessing,
 We adopt the angel's cry,
 Holy, holy, holy, blessing 
 Thee, the Lord our God most high!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thy Glory Fills the Heavens |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, thy glory fills the heaven |
 Author | R. Mant
 Year | 1908
@@ -53,11 +58,11 @@ Composer| J. H. Wilcox |
 Hymnal|  - |
 Tune| FABEN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

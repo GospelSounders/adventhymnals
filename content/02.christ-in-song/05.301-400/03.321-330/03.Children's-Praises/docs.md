@@ -1,13 +1,17 @@
 ---
-title: 323. Children's Praises
+title: |
+    323. Children's Praises - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Children's Praises, When, His salvation bringing, 
+    description: |
+        Christ in Song 323. Children's Praises. When, His salvation bringing, To Zion Jesus came, The children all stood singing "Hosanna" to his name. Nor did their zeal offend him, But, as he rode along, He let them still attend him And smiled to hear their song.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Children's Praises, When, His salvation bringing. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 323. CHILDREN'S PRAISES
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Nor, while our hearts are tender,
 They too shall be the Lord's.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Children's Praises |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | When, His salvation bringing |
 Author | Rev. John King
 Year | 1908
@@ -55,11 +60,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| LINNIE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ; Hymns for Worship: Closing Hymns; Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 636. The Watching Church
+title: |
+    636. The Watching Church - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Watching Church, Lord, her watch Thy Church is keeping, 
+    description: |
+        Christ in Song 636. The Watching Church. Lord, her watch Thy Church is keeping; When shall earth Thy rule obey? When shall end the night of weeping? When shall break the promised day? See the whit'ning harvest languish, Waiting still the lab'rers' toil; Was it vain, Thy Son's deep anguish! Shall the strong retain the spoil?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Watching Church, Lord, her watch Thy Church is keeping. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 636. THE WATCHING CHURCH
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Lo!  her watch Thy church is keeping,
 Come, Lord Jesus; come to reign.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Watching Church |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, her watch Thy Church is keeping |
 Author | H. Downton
 Year | 1908
@@ -55,11 +60,11 @@ Composer| J. Langran |
 Hymnal|  - |
 Tune| DEERHURST |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ's Church |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

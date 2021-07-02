@@ -1,13 +1,17 @@
 ---
-title: 291. I Know My Redeemer Lives
+title: |
+    291. I Know My Redeemer Lives - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, I Know My Redeemer Lives, "I know that my Redeemer lives", 
+    description: |
+        Christ in Song 291. I Know My Redeemer Lives. "I know that my Redeemer lives," And ever prays for me; A token of His love He gives, A pledge of liberty.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, I Know My Redeemer Lives, "I know that my Redeemer lives". 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 291. I KNOW MY REDEEMER LIVES
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ He lives, my mansion to prepare,
 My Jesus, still the same;
 He lives to bring me safely there,
 All glory to His name.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Know My Redeemer Lives |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | "I know that my Redeemer lives" |
 Author | Charles Wesley
 Year | 1908
-Composer| Samuel Medley |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Assurance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

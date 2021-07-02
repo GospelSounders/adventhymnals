@@ -1,13 +1,17 @@
 ---
-title: 353. The Herald Angels Sing
+title: |
+    353. The Herald Angels Sing - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Herald Angels Sing, Hark! the herald angels sing, 
+    description: |
+        Christ in Song 353. The Herald Angels Sing. Hark!  the herald angels sing, "Glory to the newborn King; Peace on earth, and mercy mild, God and sinners reconciled!" Joyful, all ye nations, rise, Join the triumph of the skies; With the angel host proclaim, "Christ is born in Bethlehem!" With the angel host proclaim, "Christ is born in Bethlehem!"
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Herald Angels Sing, Hark! the herald angels sing. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 353. THE HERALD ANGELS SING
+####  Christ in Song,
 
 ```txt
 1.
@@ -47,13 +51,14 @@ Born to raise the sons of earth,
 Born to give them second birth.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Herald Angels Sing |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Hark! the herald angels sing |
 Author | Charles Wesley
 Year | 1908
@@ -61,11 +66,11 @@ Composer| Mendelssohn |
 Hymnal|  - |
 Tune| HERALD |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Christmas |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

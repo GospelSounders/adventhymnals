@@ -1,13 +1,17 @@
 ---
-title: 372. Salvation!
+title: |
+    372. Salvation! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Salvation!, Salvation!  O the joyful sound, 
+    description: |
+        Christ in Song 372. Salvation!. Salvation!  O the joyful sound, 'Tis pleasure to our ears, A sov'reign balm for ev'ry wound, A cordial for our fears.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Salvation!, Salvation!  O the joyful sound. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 372. SALVATION!
+####  Christ in Song,
 
 ```txt
 1.
@@ -29,25 +33,26 @@ While all the armies of the sky
 Unite to swell the sound.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Salvation! |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Salvation!  O the joyful sound |
 Author | Isaac Watts
 Year | 1908
-Composer| Lowell Mason |
+Composer| undefined |
 Hymnal|  - |
 Tune| AZMON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Joy of Salvation |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

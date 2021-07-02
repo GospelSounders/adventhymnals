@@ -1,13 +1,17 @@
 ---
-title: 693. Who Follows?
+title: |
+    693. Who Follows? - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Who Follows?, The Son of God goes forth to war, 
+    description: |
+        Christ in Song 693. Who Follows?. The Son of God goes forth to war, A kingly crown to gain; His blood-red banner streams afar; Who follows in His train? Who best can drink His cup of woe, Triumphant over pain; Who patient bears His cross below, He follows in His train.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Who Follows?, The Son of God goes forth to war. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 693. WHO FOLLOWS?
+####  Christ in Song,
 
 ```txt
 1.
@@ -51,13 +55,14 @@ O God, to us may grace be giv'n
 To follow in their train.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Who Follows? |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The Son of God goes forth to war |
 Author | Reginald Heber
 Year | 1908
@@ -65,11 +70,11 @@ Composer| Henry S. Cutler |
 Hymnal|  - |
 Tune| CUTLER |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Warfare and Victory; Living His Life: Warfare and Victory; Living His Life: Call to Activity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

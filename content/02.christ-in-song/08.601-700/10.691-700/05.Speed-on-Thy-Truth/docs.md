@@ -1,13 +1,17 @@
 ---
-title: 695. Speed on Thy Truth
+title: |
+    695. Speed on Thy Truth - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Speed on Thy Truth, Speed on Thy truth, Eternal One, 
+    description: |
+        Christ in Song 695. Speed on Thy Truth. Speed on Thy truth, Eternal One, Thy holy law proclaim, Till ev'ry land beneath the sun, Has heard Jehovah's name. We own, O Lord, Thy sov'reign pow'r, And bow before Thy throne, To sing Thy glories in this hour, Immortal God alone.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Speed on Thy Truth, Speed on Thy truth, Eternal One. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 695. SPEED ON THY TRUTH
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Long as the promised years shall roll
 Long as eternity
 We'll bow to Thy benign control,
 And worship only Thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Speed on Thy Truth |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Speed on Thy truth, Eternal One |
 Author | C. M. Snow
 Year | 1908
@@ -63,11 +68,11 @@ Composer| H. DeFluiter |
 Hymnal|  - |
 Tune| CONSUMMATION |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
-Subjects |  |
-Texts |  |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects | undefined |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

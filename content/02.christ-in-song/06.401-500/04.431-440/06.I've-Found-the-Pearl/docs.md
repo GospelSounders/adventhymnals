@@ -1,13 +1,17 @@
 ---
-title: 436. I've Found the Pearl
+title: |
+    436. I've Found the Pearl - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, I've Found the Pearl, I&#039;ve found the Pearl of greatest price!, 
+    description: |
+        Christ in Song 436. I've Found the Pearl. I've found the Pearl of greatest price! My heart doth sing for joy; And sing I must, for Christ is mine! He shall my song employ, He shall my song employ.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, I've Found the Pearl, I've found the Pearl of greatest price!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 436. I'VE FOUND THE PEARL
+####  Christ in Song,
 
 ```txt
 1.
@@ -38,25 +42,26 @@ My life below, and he shall be
 My joy and crown above,
 My joy and crown above.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I've Found the Pearl |
 Key | D Major |
-Titles |  |
-First Line | I&#039;ve found the Pearl of greatest price! |
+Titles | undefined |
+First Line | I've found the Pearl of greatest price! |
 Author | Rev. John Mason
 Year | 1908
 Composer| Geo. F. Handel |
 Hymnal|  - |
 Tune| CHRISTMAS |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Precious |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

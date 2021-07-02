@@ -1,13 +1,17 @@
 ---
-title: 120. He Speaks Within
+title: |
+    120. He Speaks Within - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, He Speaks Within, Go not, my soul, in search of Him, 
+    description: |
+        Christ in Song 120. He Speaks Within. Go not, my soul, in search of Him, Thou wilt not find him there, Not in the depths of shadow dim, Nor heights of upper air. For not in far off realms of space The Spirit hath its throne; In ev'ry heart it findeth place, And waiteth to be known.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, He Speaks Within, Go not, my soul, in search of Him. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 120. HE SPEAKS WITHIN
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,13 +44,14 @@ The Spirit hath its throne;
 In ev'ry heart it findeth place,
 And waiteth to be known.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | He Speaks Within |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Go not, my soul, in search of Him |
 Author | Rev. F. L. Hosmer 
 Year | 1908
@@ -54,11 +59,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| PERSEVERANCE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Holy Spirit: Guide |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 132. Heaven Is Not Far Away
+title: |
+    132. Heaven Is Not Far Away - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Heaven Is Not Far Away, Heaven is not far away, 
+    description: |
+        Christ in Song 132. Heaven Is Not Far Away. Heaven is not far away, When Jesus is near; Give your heart to him today, When Jesus is near. Place your trust in this dear Friend, He will keep you to the end; Heaven is not far away, When Jesus is near.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Heaven Is Not Far Away, Heaven is not far away. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 132. HEAVEN IS NOT FAR AWAY
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Cast your burdens on the Lord,
 He has promised in his word
 Heaven is not far away,
 When Jesus is near.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Heaven Is Not Far Away |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Heaven is not far away |
 Author | C. E. L.
 Year | 1908
@@ -53,11 +58,11 @@ Composer| C. E. Leslie |
 Hymnal|  - |
 Tune| Heaven is not far away |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

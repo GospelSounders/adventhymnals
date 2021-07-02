@@ -1,13 +1,17 @@
 ---
-title: 370. Fling Out the Banner!
+title: |
+    370. Fling Out the Banner! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Fling Out the Banner!, Fling out the banner!, 
+    description: |
+        Christ in Song 370. Fling Out the Banner!. Fling out the banner!  let it float Skyward and seaward, high and wide; Our glory only in the cross; Our only hope, the Crucified.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Fling Out the Banner!, Fling out the banner!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 370. FLING OUT THE BANNER!
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Fling out the banner!  wide and high,
 Seaward and skyward, let it shine:
 Nor skill, nor might, nor merit ours;
 We conquer only in that sign.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Fling Out the Banner! |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Fling out the banner! |
 Author | G. W. Doane
 Year | 1908
@@ -47,11 +52,11 @@ Composer| J. B. Calkin |
 Hymnal|  - |
 Tune| WALTHAM |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Called to Activity; Living His Life: Call to Activity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

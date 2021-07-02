@@ -1,13 +1,17 @@
 ---
-title: 692. On the Mountain
+title: |
+    692. On the Mountain - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, On the Mountain, I am dwelling on the mountain, 
+    description: |
+        Christ in Song 692. On the Mountain. I am dwelling on the mountain, Where the golden sunlight gleams O'er a land whose wondrous beauty Far exceeds my fondest dreams, Where the air is pure ethereal, Laden with the breath of flow'rs. They are blooming by th' fountain, Neath the amarinthin' bow'rs.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, On the Mountain, I am dwelling on the mountain. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 692. ON THE MOUNTAIN
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,25 +53,26 @@ Yes, I've reached the land of Beulah,
 Blessed land of love and light.
 Here the flowers bloom forever.
 And the sun is always bright.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | On the Mountain |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | I am dwelling on the mountain |
-Author | 
+Author | undefined
 Year | 1908
 Composer| W. B. Bradbury |
 Hymnal|  - |
 Tune| DAWNING |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Holy Life |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

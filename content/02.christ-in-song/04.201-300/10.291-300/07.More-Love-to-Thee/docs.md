@@ -1,13 +1,17 @@
 ---
-title: 297. More Love to Thee
+title: |
+    297. More Love to Thee - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, More Love to Thee, More love to thee, O Christ!, More love, O Christ, to thee
+    description: |
+        Christ in Song 297. More Love to Thee. More love to thee, O Christ! More love to thee; Hear thou the pray'r I make On bended knee. This is my earnest plea, More love, O Christ, to thee, More love to thee! More love to thee!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, More Love to Thee, More love to thee, O Christ!. More love, O Christ, to thee
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 297. MORE LOVE TO THEE
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,6 +53,7 @@ This still its pray'r shall be:
 More love, O Christ, to thee,
 More love to thee!
 More love to thee!
+
 ```
 
 - |   -  |
@@ -63,11 +68,11 @@ Composer| W. H. Doane |
 Hymnal|  - |
 Tune| More love to thee |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Nearer to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

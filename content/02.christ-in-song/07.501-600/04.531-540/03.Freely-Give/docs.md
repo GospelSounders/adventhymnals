@@ -1,13 +1,17 @@
 ---
-title: 533. Freely Give
+title: |
+    533. Freely Give - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Freely Give, Would you win a Saviour&#039;s blessing?, 
+    description: |
+        Christ in Song 533. Freely Give. Would you win a Saviour's blessing? Freely, freely give; Would you see his work progressing? Freely, freely give; Let your souls with love expand, Open wide a liberal hand; Would you follow God's command? Freely, freely give.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Freely Give, Would you win a Saviour's blessing?. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 533. FREELY GIVE
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,25 +44,26 @@ In the harvest of the Lord?
 Then obedient to his word,
 Freely, freely give.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Freely Give |
 Key | D Major |
-Titles |  |
-First Line | Would you win a Saviour&#039;s blessing? |
+Titles | undefined |
+First Line | Would you win a Saviour's blessing? |
 Author | Fanny J. Crosby
 Year | 1908
 Composer| Theo. E. Perkins |
 Hymnal|  - |
-Tune| Would you win a Saviour&#039;s blessing? |
+Tune| Would you win a Saviour's blessing? |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Giving |
 Texts | Luke 6:38 |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 125. Come Unto Me
+title: |
+    125. Come Unto Me - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Come Unto Me, Come unto me when shadows darkly gather, 
+    description: |
+        Christ in Song 125. Come Unto Me. Come unto me when shadows darkly gather, When the sad heart is weary and distressed; Seeking for comfort from your heav'nly Father, Come unto me, and I will give you rest.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Come Unto Me, Come unto me when shadows darkly gather. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 125. COME UNTO ME
+####  Christ in Song,
 
 ```txt
 1.
@@ -29,13 +33,14 @@ Come unto him all ye who droop in sadness,
 "Come unto me, and I will give you rest."
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come Unto Me |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | Come unto me when shadows darkly gather |
 Author | Anon.
 Year | 1908
@@ -43,11 +48,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| HENLEY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Christ: Rest in Christ; Living His Life: Rest in Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

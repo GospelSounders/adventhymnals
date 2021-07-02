@@ -1,13 +1,17 @@
 ---
-title: 279. God of Life and Light
+title: |
+    279. God of Life and Light - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, God of Life and Light, God of life and God of light, 
+    description: |
+        Christ in Song 279. God of Life and Light. God of life and God of light, Robed in all Thy glory might, Shed upon us from above Beams of Thine abiding love. Bless us with Thy peace today, While within Thy courts we stay.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, God of Life and Light, God of life and God of light. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 279. GOD OF LIFE AND LIGHT
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ May the future hold in store
 Cups of service running o'er.
 Bless us with Thy peace today,
 While within Thy courts we stay.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God of Life and Light |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | God of life and God of light |
 Author | John R. Clements
 Year | 1908
@@ -55,11 +60,11 @@ Composer| John B. Sumner |
 Hymnal|  - |
 Tune| SUMNER |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Opening Hymns; Special Occasions: Reunion |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

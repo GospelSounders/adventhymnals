@@ -1,13 +1,17 @@
 ---
-title: 308. Fill Me Now
+title: |
+    308. Fill Me Now - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Fill Me Now, Hover o&#039;er me, Holy Spirit, Fill me now, fill me now
+    description: |
+        Christ in Song 308. Fill Me Now. Hover o'er me, Holy Spirit, Bathe my trembling heart and brow; Fill me with thy hallow'd presence, Come, O come and fill me now. Fill me now, fill me now, Jesus, come and fill me now. Fill me with thy hallow'd presence, Come, O come and fill me now.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Fill Me Now, Hover o'er me, Holy Spirit. Fill me now, fill me now
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 308. FILL ME NOW
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,6 +53,7 @@ Fill me now, fill me now,
 Jesus, come and fill me now.
 Fill me with thy hallow'd presence,
 Come, O come and fill me now.
+
 ```
 
 - |   -  |
@@ -56,18 +61,18 @@ Come, O come and fill me now.
 Title | Fill Me Now |
 Key | G Major |
 Titles | Fill me now, fill me now |
-First Line | Hover o&#039;er me, Holy Spirit |
+First Line | Hover o'er me, Holy Spirit |
 Author | Stokes
 Year | 1908
 Composer| Jno. R. Sweney |
 Hymnal|  - |
-Tune| Hover o&#039;er me, Holy Spirit |
+Tune| Hover o'er me, Holy Spirit |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Holy Spirit: Pentecost |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

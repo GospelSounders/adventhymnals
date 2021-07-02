@@ -1,13 +1,17 @@
 ---
-title: 622. Why Stand With Rusty Blade?
+title: |
+    622. Why Stand With Rusty Blade? - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Why Stand With Rusty Blade?, Ho!   reapers of life&#039;s harvest , 
+    description: |
+        Christ in Song 622. Why Stand With Rusty Blade?. Ho!  reaper of life's harvest, Why stand with rusty blade, Until the night draws round thee, And day begins to fade? Why stand ye idle, waiting For reapers more to come? The golden morn is passing, Why stand ye idle, dumb?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Why Stand With Rusty Blade?, Ho!   reapers of life's harvest . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 622. WHY STAND WITH RUSTY BLADE?
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,25 +44,26 @@ In service of thy Lord,
 And soon a golden chaplet
 Will be thy rich reward.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Why Stand With Rusty Blade? |
 Key | C Major |
-Titles |  |
-First Line | Ho!   reapers of life&#039;s harvest  |
+Titles | undefined |
+First Line | Ho!   reapers of life's harvest  |
 Author | Woodbury
 Year | 1908
 Composer| I. B. Woodbury |
 Hymnal|  - |
-Tune| LIFE&#039;S HARVEST |
+Tune| LIFE'S HARVEST |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Call to Activity |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

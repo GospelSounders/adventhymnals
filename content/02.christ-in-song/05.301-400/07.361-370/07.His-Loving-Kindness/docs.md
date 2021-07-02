@@ -1,13 +1,17 @@
 ---
-title: 367. His Loving Kindness
+title: |
+    367. His Loving Kindness - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, His Loving Kindness, Awake, my soul, to joyful lays, 
+    description: |
+        Christ in Song 367. His Loving Kindness. Awake, my soul, to joyful lays, And sing thy great Redeemer's praise; He justly claims a song from me, His loving kindness, O how free! Loving kindness, loving kindness, His loving kindness, etc.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, His Loving Kindness, Awake, my soul, to joyful lays. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 367. HIS LOVING KINDNESS
+####  Christ in Song,
 
 ```txt
 1.
@@ -42,25 +46,26 @@ His loving kindness, O how good!
 Loving kindness, loving kindness,
 His loving kindness, etc.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | His Loving Kindness |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Awake, my soul, to joyful lays |
 Author | Samuel Medley
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| Awake, my soul, to joyful lays |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

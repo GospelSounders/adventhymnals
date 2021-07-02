@@ -1,13 +1,17 @@
 ---
-title: 653. Till He Come
+title: |
+    653. Till He Come - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Till He Come, "Till He come!"  O let the words, 
+    description: |
+        Christ in Song 653. Till He Come. "Till He come!"  O let the words Linger on the trembling chords; Let the "little while" between, In their golden light be seen; Let us think how heav'n and home Lie beyond that "Till He come!"
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Till He Come, "Till He come!"  O let the words. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 653. TILL HE COME
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ All that tells the world is loss,
 Death and darkness and the tomb,
 Pain us only "Till He come!"
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Till He Come |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | "Till He come!"  O let the words |
 Author | E. H. Bickersteth
 Year | 1908
@@ -48,11 +53,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| ELTHAM |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Waiting for Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

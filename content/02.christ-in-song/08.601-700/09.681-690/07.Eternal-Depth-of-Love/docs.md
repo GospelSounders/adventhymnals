@@ -1,13 +1,17 @@
 ---
-title: 687. Eternal Depth of Love
+title: |
+    687. Eternal Depth of Love - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Eternal Depth of Love, Eternal depth of love divine, 
+    description: |
+        Christ in Song 687. Eternal Depth of Love. Eternal depth of love divine, In Jesus, God with us, displayed, How brightly thy beaming glories shine! How wide thy healing streams are spread, How wide thy healing streams are spread!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Eternal Depth of Love, Eternal depth of love divine. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 687. ETERNAL DEPTH OF LOVE
+####  Christ in Song,
 
 ```txt
 1.
@@ -37,13 +41,14 @@ Our flesh, soul, spirit, we resign;
 O, fix thy sacred presence there,
 And seal th' abode forever thine!
 And seal th' abode forever thine!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Eternal Depth of Love |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | Eternal depth of love divine |
 Author | Zinzendorf
 Year | 1908
@@ -51,11 +56,11 @@ Composer| W. Tansur |
 Hymnal|  - |
 Tune| ROTHWELL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Praise to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

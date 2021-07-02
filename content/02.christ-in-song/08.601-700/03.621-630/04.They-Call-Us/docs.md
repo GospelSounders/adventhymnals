@@ -1,13 +1,17 @@
 ---
-title: 624. They Call Us
+title: |
+    624. They Call Us - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, They Call Us, From Greenland&#039;s icy mountains, 
+    description: |
+        Christ in Song 624. They Call Us. From Greenland's icy mountains, From India's coral strand, Where Afric's sunny fountains Roll down their golden sand, From many an ancient river, From many a palmy plain, They call us to deliver Their land from error's chain.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, They Call Us, From Greenland's icy mountains. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 624. THEY CALL US
+####  Christ in Song,
 
 ```txt
 1.
@@ -50,25 +54,26 @@ The Lamb for sinners slain
 Redeemer, King, Creator--
 In bliss returns to reign.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | They Call Us |
 Key | F Major |
-Titles |  |
-First Line | From Greenland&#039;s icy mountains |
+Titles | undefined |
+First Line | From Greenland's icy mountains |
 Author | Heber
 Year | 1908
 Composer| Mason |
 Hymnal|  - |
 Tune| MISSIONARY HYMN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Missions |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

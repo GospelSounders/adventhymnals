@@ -1,13 +1,17 @@
 ---
-title: 680. Morn Breaks O'er Thee
+title: |
+    680. Morn Breaks O'er Thee - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Morn Breaks O'er Thee, Christian, the morn breaks sweetly o&#039;er thee, 
+    description: |
+        Christ in Song 680. Morn Breaks O'er Thee. Christian, the morn breaks sweetly o'er thee And all the midnight shadows flee; Ting'd are the distant skies with glory, A beacon light hangs out for thee. Arise!  arise!  the light breaks o'er thee, Thy name is graven on the throne; Thy home is in that world of glory Where thy Redeemer reigns alone.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Morn Breaks O'er Thee, Christian, the morn breaks sweetly o'er thee. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 680. MORN BREAKS O'ER THEE
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,25 +44,26 @@ Thy name is graven on the throne,
 Thy home is in that world of beauty
 Where thy Redeemer reigns alone.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Morn Breaks O'er Thee |
 Key | E♭ Major |
-Titles |  |
-First Line | Christian, the morn breaks sweetly o&#039;er thee |
+Titles | undefined |
+First Line | Christian, the morn breaks sweetly o'er thee |
 Author | J. F. Rusling
 Year | 1908
 Composer| J. F. Rusling |
 Hymnal|  - |
 Tune| MORNING LIGHT |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Nearing Home |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

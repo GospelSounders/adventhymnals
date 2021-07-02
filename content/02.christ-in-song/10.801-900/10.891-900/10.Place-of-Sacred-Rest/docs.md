@@ -1,13 +1,17 @@
 ---
-title: 900. Place of Sacred Rest
+title: |
+    900. Place of Sacred Rest - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Place of Sacred Rest, There is a place of sacred rest, 
+    description: |
+        Christ in Song 900. Place of Sacred Rest. There is a place of sacred rest, Far, far beyond the skies, Where beauty smiles eternally, And pleasure never dies; My Father's house, my heav'nly home, Where many mansions stand, Prepared, by hands divine, for all Who seek the better land.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Place of Sacred Rest, There is a place of sacred rest. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 900. PLACE OF SACRED REST
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ There, there adieus are sounds unknown;
 Death frowns not on that scene,
 But life and glorious beauty shine,
 Untroubled and serene.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Place of Sacred Rest |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | There is a place of sacred rest |
 Author | Anon.
 Year | 1908
@@ -53,11 +58,11 @@ Composer| Wm. H. Oakley |
 Hymnal|  - |
 Tune| OAKLEY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

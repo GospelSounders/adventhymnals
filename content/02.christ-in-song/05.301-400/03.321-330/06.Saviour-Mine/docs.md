@@ -1,13 +1,17 @@
 ---
-title: 326. Saviour Mine
+title: |
+    326. Saviour Mine - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Saviour Mine, To Thee, O dear, dear Saviour!, 
+    description: |
+        Christ in Song 326. Saviour Mine. To Thee, O dear, dear Saviour! My spirit turns for rest, My peace is in Thy favor, My pillow on Thy breast; Tho' all the world deceive me, I know that I am Thine, And Thou wilt never leave me, O blessed Saviour mine.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Saviour Mine, To Thee, O dear, dear Saviour!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 326. SAVIOUR MINE
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ My hope is in Thy beauty
 Of holiness divine,
 My joy is in the duty
 That binds my life in Thine.  Amen
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Saviour Mine |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | To Thee, O dear, dear Saviour! |
 Author | J. S. B. Monsell
 Year | 1908
@@ -53,11 +58,11 @@ Composer| J. B. Calkin |
 Hymnal|  - |
 Tune| SAVOY CHAPEL |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Rest in Christ; Living His Life: Rest in Christ; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 761. A Little Light
+title: |
+    761. A Little Light - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Little Light, God make my life a little light , 
+    description: |
+        Christ in Song 761. A Little Light. God make my life a little light  Within the world to glow. A little flame that burneth bright, Wherever I may go.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Little Light, God make my life a little light . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 761. A LITTLE LIGHT
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ Whereon the weak may rest,
 That so what health and strength I have
 May serve my neighbors best.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Little Light |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | God make my life a little light  |
 Author | M. B. Edwards
 Year | 1908
@@ -48,11 +53,11 @@ Composer| Mendelssohn |
 Hymnal|  - |
 Tune| HOLY CROSS |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Children's Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

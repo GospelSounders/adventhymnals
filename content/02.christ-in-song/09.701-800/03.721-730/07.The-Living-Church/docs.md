@@ -1,13 +1,17 @@
 ---
-title: 727. The Living Church
+title: |
+    727. The Living Church - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, The Living Church, Oh, where are the kings and empires now, 
+    description: |
+        Christ in Song 727. The Living Church. Oh, where are kings and empires now, Of old that went and came? But, Lord, Thy Church is living yet, Thro' ages still the same.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, The Living Church, Oh, where are the kings and empires now. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 727. THE LIVING CHURCH
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Unshaken as eternal hills,
 When on Thy truth she stands,
 A mountain that shall fill the earth,
 A house not made by hands.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Living Church |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Oh, where are the kings and empires now |
 Author | A. C. Coxe
 Year | 1908
@@ -47,11 +52,11 @@ Composer| W. Croft |
 Hymnal|  - |
 Tune| ST. ANNE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ's Church |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 130. Sweet the Moments
+title: |
+    130. Sweet the Moments - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Sweet the Moments, Sweet the moments, rich in blessing, 
+    description: |
+        Christ in Song 130. Sweet the Moments. Sweet the moments, rich in blessing, Which before the cross we spend; Life and health and peace possessing From the sinner's dying Friend.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Sweet the Moments, Sweet the moments, rich in blessing. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 130. SWEET THE MOMENTS
+####  Christ in Song,
 
 ```txt
 1.
@@ -28,13 +32,14 @@ While upon the Lamb we gaze;
 And our tho'ts are all of heaven,
 And our lips o'erflow with praise.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sweet the Moments |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | Sweet the moments, rich in blessing |
 Author | F. W. Faber
 Year | 1908
@@ -42,11 +47,11 @@ Composer| I. Woodbury |
 Hymnal|  - |
 Tune| DORRNANCE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Cross of Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

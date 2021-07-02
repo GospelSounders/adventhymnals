@@ -1,13 +1,17 @@
 ---
-title: 1. Christ or Barabbas?
+title: |
+    001. Christ or Barabbas? - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Christ or Barabbas?, What shall I do with Jesus?, This is the question now
+    description: |
+        Christ in Song 001. Christ or Barabbas?. What shall I do with Jesus? He stands before me now, Wearing the robe of purple, And thorns upon His brow. 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Christ or Barabbas?, What shall I do with Jesus?. This is the question now;
     author: Brian Onang'o
 ---
 
-
-## 1. CHRIST OR BARABBAS?
+#### Advent Hymnals
+## 001. CHRIST OR BARABBAS?
+####  Christ in Song,
 
 ```txt
 1.
@@ -69,13 +73,14 @@ This is the question now;
 What shall the answer be?
 I will crucify Barabbas,
 And set King Jesus free.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Christ or Barabbas? |
 Key | C Major |
-Titles | This is the question now |
+Titles | This is the question now; |
 First Line | What shall I do with Jesus? |
 Author | F. E. B.
 Year | 1908
@@ -83,11 +88,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| What shall I do with Jesus? |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Invitation and Repentance: Decision Day; Special Selections: Solos |
 Texts | Matthew 27:21-22 |
 Print Texts | 
 Scripture Song |  |
-  
+    

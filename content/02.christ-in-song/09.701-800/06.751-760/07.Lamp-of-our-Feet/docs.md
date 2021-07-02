@@ -1,13 +1,17 @@
 ---
-title: 757. Lamp of our Feet
+title: |
+    757. Lamp of our Feet - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Lamp of our Feet, Lamp of our feet, Whereby we trace, 
+    description: |
+        Christ in Song 757. Lamp of our Feet. Lamp of our feet, Whereby we trace Our path when wont to stray; Stream from the Fount of heav'nly grace; Brook by the trav'ler's way;
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Lamp of our Feet, Lamp of our feet, Whereby we trace. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 757. LAMP OF OUR FEET
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Word of the everlasting God;
 Will of his glorious Son,
 Without thee how could earth be trod,
 Or heav'n itself be won?
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lamp of our Feet |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Lamp of our feet, Whereby we trace |
 Author | Barton
 Year | 1908
@@ -47,11 +52,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| BLISS |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

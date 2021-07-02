@@ -1,13 +1,17 @@
 ---
-title: 563. Just for To-Day
+title: |
+    563. Just for To-Day - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Just for To-Day, Lord, for tomorrow and its needs, 
+    description: |
+        Christ in Song 563. Just for To-Day. Lord, for tomorrow and its needs, I do not pray; Keep me from ev'ry stain of sin Just for today; Let me no wrong or idle word Unthinking say; Set Thou a seal upon my lips, Just for to-day.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Just for To-Day, Lord, for tomorrow and its needs. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 563. JUST FOR TO-DAY
+####  Christ in Song,
 
 ```txt
 1.
@@ -38,13 +42,14 @@ Still be my stay.
 So for tomorrow and its needs I do not pray;
 O keep me, guide me, hold me, Lord,
 Just for to-day.  Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Just for To-Day |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, for tomorrow and its needs |
 Author | E. R. Wilberforce
 Year | 1908
@@ -52,11 +57,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| Lord, for tomorrow and its needs |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Trusting; Living His Life: Trusting |
 Texts | Matthew 6:34 |
 Print Texts | 
 Scripture Song |  |
-  
+    

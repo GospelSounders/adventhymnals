@@ -1,13 +1,17 @@
 ---
-title: 770. God, Our Keeper
+title: |
+    770. God, Our Keeper - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, God, Our Keeper, God of love that hearest prayer, 
+    description: |
+        Christ in Song 770. God, Our Keeper. God of love that hearest prayer, Kindly for thy people care, Who on thee alone depend; Love us, save us to the end.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, God, Our Keeper, God of love that hearest prayer. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 770. GOD, OUR KEEPER
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ Let not these thy people join;
 Save us from the great and wise,
 Till they sink in their own eyes.
  
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God, Our Keeper |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | God of love that hearest prayer |
 Author | Charles Wesley
 Year | 1908
@@ -48,11 +53,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| ROOT |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Protection |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

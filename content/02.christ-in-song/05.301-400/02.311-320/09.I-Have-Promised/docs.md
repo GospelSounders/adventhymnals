@@ -1,13 +1,17 @@
 ---
-title: 319. I Have Promised
+title: |
+    319. I Have Promised - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, I Have Promised, O Jesus, I have promised, 
+    description: |
+        Christ in Song 319. I Have Promised. O Jesus, I have promised To serve Thee to the end; Be Thou forever near me, My Master and my Friend; I shall not fear the battle If Thou art by my side, Nor wander from the pathway If Thou wilt be my Guide.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, I Have Promised, O Jesus, I have promised. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 319. I HAVE PROMISED
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ And, Jesus, I have promised
 To serve Thee to the end;
 O give me grace to follow
 My Master and my Friend.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Have Promised |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | O Jesus, I have promised |
 Author | John E. Bode
 Year | 1908
 Composer| Arthur H. Mann |
 Hymnal|  - |
-Tune| ANGEL&#039;S STORY |
+Tune| ANGEL'S STORY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Call Accepted; Living His Life: Consecration; Invitation and Repentance: Call Accepted |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

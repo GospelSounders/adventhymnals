@@ -1,13 +1,17 @@
 ---
-title: 623. Our Endeavor
+title: |
+    623. Our Endeavor - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Our Endeavor, For Christ is our endeavor, 
+    description: |
+        Christ in Song 623. Our Endeavor. For Christ is our endeavor, Our hearts to Him belong; His presence cheers us ever, His love inspires our song; We come in youth's bright morning, Obedient to His word, And seek for our adorning, The beauty of the Lord.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Our Endeavor, For Christ is our endeavor. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 623. OUR ENDEAVOR
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ For He is our Endeavor,
 And to Him we belong,
 Whose grace shall fail us never,
 Whose love inspires our song.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Our Endeavor |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | For Christ is our endeavor |
 Author | F. Gordon
 Year | 1908
@@ -53,11 +58,11 @@ Composer| Hubert P. Main |
 Hymnal|  - |
 Tune| ENDEAVOR |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

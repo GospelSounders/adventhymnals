@@ -1,13 +1,17 @@
 ---
-title: 663. Nearer, My God, to Thee
+title: |
+    663. Nearer, My God, to Thee - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Nearer, My God, to Thee, Nearer, my God, to thee, 
+    description: |
+        Christ in Song 663. Nearer, My God, to Thee. Nearer, my God, to thee, Nearer to thee! E'en tho' it be a cross That raiseth me! Still all my song shall be, Nearer, my God, to thee, Nearer, my God, to thee,  Nearer to thee.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Nearer, My God, to Thee, Nearer, my God, to thee. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 663. NEARER, MY GOD, TO THEE
+####  Christ in Song,
 
 ```txt
 1.
@@ -59,13 +63,14 @@ Still all my song shall be,
 Nearer, my God, to thee,
 Nearer, my God, to thee,
 Near to thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Nearer, My God, to Thee |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Nearer, my God, to thee |
 Author | Sarah F. Adams
 Year | 1908
@@ -73,11 +78,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| BETHANY |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Nearer to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

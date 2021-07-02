@@ -1,13 +1,17 @@
 ---
-title: 593. God Speed the Right
+title: |
+    593. God Speed the Right - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, God Speed the Right, Now to heav&#039;n our pray&#039;r ascending, 
+    description: |
+        Christ in Song 593. God Speed the Right. Now to heav'n our pray'r ascending, God speed the right! In a noble cause contending, God speed the right! Be our zeal in heav'n recorded, With success on earth rewarded, God speed the right, God speed the right!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, God Speed the Right, Now to heav'n our pray'r ascending. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 593. GOD SPEED THE RIGHT
+####  Christ in Song,
 
 ```txt
 1.
@@ -46,25 +50,26 @@ God speed the right!
 Truth, our cause, whate'er delay it,
 There's no power on earth can stay it,
 God speed the right!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God Speed the Right |
 Key | C Major |
-Titles |  |
-First Line | Now to heav&#039;n our pray&#039;r ascending |
+Titles | undefined |
+First Line | Now to heav'n our pray'r ascending |
 Author | W. E. Hickson
 Year | 1908
 Composer| Wm. B. Bradbury |
 Hymnal|  - |
-Tune| Now to heav&#039;n our pray&#039;r ascending |
+Tune| Now to heav'n our pray'r ascending |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Loyalty to Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

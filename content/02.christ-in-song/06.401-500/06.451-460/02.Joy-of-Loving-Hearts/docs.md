@@ -1,13 +1,17 @@
 ---
-title: 452. Joy of Loving Hearts
+title: |
+    452. Joy of Loving Hearts - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Joy of Loving Hearts, Jesus, thou joy of loving hearts!, 
+    description: |
+        Christ in Song 452. Joy of Loving Hearts. Jesus, thou joy of loving hearts! Thou fount of life!  thou light of men! From the best bliss that earth imparts, We turn unfill'd to thee again.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Joy of Loving Hearts, Jesus, thou joy of loving hearts!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 452. JOY OF LOVING HEARTS
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ O Jesus, ever with us stay;
 Make all our moments calm and bright;
 Chase the dark night of sin away,
 Shed o'er the world thy holy light!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Joy of Loving Hearts |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, thou joy of loving hearts! |
 Author | Bernard 
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| MIGDOL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Precious |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

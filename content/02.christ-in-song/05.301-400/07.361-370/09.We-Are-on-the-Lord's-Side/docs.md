@@ -1,13 +1,17 @@
 ---
-title: 369. We Are on the Lord's Side
+title: |
+    369. We Are on the Lord's Side - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, We Are on the Lord's Side, Who is on the Lord&#039;s side?, 
+    description: |
+        Christ in Song 369. We Are on the Lord's Side. Who is on the Lord's side? Who will serve the King? Who will be His helpers Other lives to bring? Who will leave the world's side? Who will face the foe? Who is on the Lord's side? Who for Him will go? By Thy call of mercy,  By Thy grace Divine, We are on the Lord's side, Saviour, we are Thine.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, We Are on the Lord's Side, Who is on the Lord's side?. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 369. WE ARE ON THE LORD'S SIDE
+####  Christ in Song,
 
 ```txt
 1.
@@ -65,25 +69,26 @@ Joyfully enlisting
 By Thy grace Divine,
 We are on the Lord's side,
 Saviour, we are Thine.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Are on the Lord's Side |
 Key | C Major |
-Titles |  |
-First Line | Who is on the Lord&#039;s side? |
+Titles | undefined |
+First Line | Who is on the Lord's side? |
 Author | F. R. Havergal
 Year | 1908
-Composer| J. Goss |
+Composer| undefined |
 Hymnal|  - |
 Tune| ARMAGEDDON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Invitation and Repentance: Call Accepted |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

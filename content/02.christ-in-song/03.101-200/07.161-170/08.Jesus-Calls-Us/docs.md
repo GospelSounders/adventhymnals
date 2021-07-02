@@ -1,13 +1,17 @@
 ---
-title: 168. Jesus Calls Us
+title: |
+    168. Jesus Calls Us - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Jesus Calls Us, Jesus calls us, o&#039;er the tumult, 
+    description: |
+        Christ in Song 168. Jesus Calls Us. Jesus calls us, o'er the tumult Of our life's wild, restless sea; Day by day His sweet voice soundeth, Saying, Christian, follow me!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Jesus Calls Us, Jesus calls us, o'er the tumult. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 168. JESUS CALLS US
+####  Christ in Song,
 
 ```txt
 1.
@@ -35,25 +39,26 @@ Give our hearts to Thy obedience,
 Serve and love Thee best of all!
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jesus Calls Us |
 Key | B♭ Major |
-Titles |  |
-First Line | Jesus calls us, o&#039;er the tumult |
+Titles | undefined |
+First Line | Jesus calls us, o'er the tumult |
 Author | Mrs. C. F. Alexander
 Year | 1908
 Composer| W. H. Jude |
 Hymnal|  - |
 Tune| GALILEE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Following Jesus |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

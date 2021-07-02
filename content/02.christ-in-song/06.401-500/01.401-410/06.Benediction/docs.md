@@ -1,13 +1,17 @@
 ---
-title: 406. Benediction
+title: |
+    406. Benediction - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Benediction, The Lord be with us as we bend, 
+    description: |
+        Christ in Song 406. Benediction. The Lord be with us as we bend His blessing to receive; His gift of peace upon us send, Before his courts we leave.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Benediction, The Lord be with us as we bend. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 406. BENEDICTION
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ The Lord be with us till the night
 Enfold us all to rest;
 Be he of ev'ry heart the light,
 Of ev'ry home the guest.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Benediction |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The Lord be with us as we bend |
 Author | Rev. J. Ellerton
 Year | 1908
@@ -41,11 +46,11 @@ Composer| Walch |
 Hymnal|  - |
 Tune| COATHAM |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Closing Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

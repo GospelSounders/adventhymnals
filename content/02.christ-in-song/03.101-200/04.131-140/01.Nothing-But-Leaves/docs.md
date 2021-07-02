@@ -1,13 +1,17 @@
 ---
-title: 131. Nothing But Leaves
+title: |
+    131. Nothing But Leaves - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Nothing But Leaves, Nothing but leaves!  The Spirit grieves, 
+    description: |
+        Christ in Song 131. Nothing But Leaves. Nothing but leaves!  The Spirit grieves O'er years of wasted life; O'er sins indulged while conscience slept, O'er vows and promises unkept, And reap from years of strife Nothing but leaves!  Nothing but leaves!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Nothing But Leaves, Nothing but leaves!  The Spirit grieves. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 131. NOTHING BUT LEAVES
+####  Christ in Song,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Ah, who shall at the Saviour's feet,
 Before the awful judgment seat
 Lay down for golden sheaves,
 Nothing but leaves!  Nothing but leaves!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Nothing But Leaves |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Nothing but leaves!  The Spirit grieves |
 Author | L. E. A.
 Year | 1908
@@ -55,11 +60,11 @@ Composer| S. J. Vail |
 Hymnal|  - |
 Tune| Nothing but leaves!  The Spirit grieves |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Special Selections: Solos |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 896. Awake, Ye Saints
+title: |
+    896. Awake, Ye Saints - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Awake, Ye Saints, Awake, ye saints, and raise your eyes, 
+    description: |
+        Christ in Song 896. Awake, Ye Saints. Awake, ye saints, and raise your eyes, And raise your voices high; Awake, and praise that sov'reign love That shows salvation nigh; Awake, and praise that sov'reign love That shows salvation nigh.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Awake, Ye Saints, Awake, ye saints, and raise your eyes. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 896. AWAKE, YE SAINTS
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ To our admiring eyes;
 Ere all its glories stand revealed
 To our admiring eyes.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Awake, Ye Saints |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Awake, ye saints, and raise your eyes |
 Author | Philip Doddridge
 Year | 1908
@@ -48,11 +53,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| ZERAH |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Nearing Home |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

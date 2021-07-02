@@ -1,13 +1,17 @@
 ---
-title: 407. Choose Some Heralds Here
+title: |
+    407. Choose Some Heralds Here - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Choose Some Heralds Here, Our Saviour&#039;s voice is soft and sweet, 
+    description: |
+        Christ in Song 407. Choose Some Heralds Here. Our Saviour's voice is soft and sweet, When, bending from above, He bids us gather round His feet, And calls us by His love.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Choose Some Heralds Here, Our Saviour's voice is soft and sweet. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 407. CHOOSE SOME HERALDS HERE
+####  Christ in Song,
 
 ```txt
 1.
@@ -45,25 +49,26 @@ And if our lips may breathe the pray'r,
 Tho' raised in trembling fear,
 Oh, let Thy pow'r our hearts prepare,
 And choose some heralds here.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Choose Some Heralds Here |
-Key |  |
-Titles |  |
-First Line | Our Saviour&#039;s voice is soft and sweet |
-Author | 
+Key | undefined |
+Titles | undefined |
+First Line | Our Saviour's voice is soft and sweet |
+Author | undefined
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

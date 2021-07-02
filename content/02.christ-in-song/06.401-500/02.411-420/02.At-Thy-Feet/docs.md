@@ -1,13 +1,17 @@
 ---
-title: 412. At Thy Feet
+title: |
+    412. At Thy Feet - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, At Thy Feet, O Lord, who hidest all our shame, 
+    description: |
+        Christ in Song 412. At Thy Feet. O Lord, who hidest all our shame Beneath thy crimsoned hand, We feel thy touch, we trust thy name, We yield to thy command.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, At Thy Feet, O Lord, who hidest all our shame. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 412. AT THY FEET
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ We ask no ease nor joyous hours
 To use for self alone;
 Take thou our thoughts, our ransomed pow'rs,
 And make them all thine own.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | At Thy Feet |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | O Lord, who hidest all our shame |
 Author | F. W. Howe
 Year | 1908
@@ -47,11 +52,11 @@ Composer| W. V. Wallace |
 Hymnal|  - |
 Tune| SERENITY |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

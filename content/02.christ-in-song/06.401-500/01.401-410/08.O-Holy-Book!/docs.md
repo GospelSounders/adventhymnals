@@ -1,13 +1,17 @@
 ---
-title: 408. O Holy Book!
+title: |
+    408. O Holy Book! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, O Holy Book!, O holy Book of truth divine!, 
+    description: |
+        Christ in Song 408. O Holy Book!. O holy Book of truth divine! Eternal as thy Maker's name, Eternal as thy Maker's name; Thro' countless ages of decline Thy glowing truths have stood the same, Thy glowing truths have stood the same.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, O Holy Book!, O holy Book of truth divine!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 408. O HOLY BOOK!
+####  Christ in Song,
 
 ```txt
 1.
@@ -50,25 +54,26 @@ With glory that shall be complete
 When days and years have ceased to roll,
 When days and years have ceased to roll.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Holy Book! |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O holy Book of truth divine! |
 Author | F. E. Belden
 Year | 1908
-Composer| L. Mason |
+Composer| undefined |
 Hymnal|  - |
 Tune| NASHVILLE |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

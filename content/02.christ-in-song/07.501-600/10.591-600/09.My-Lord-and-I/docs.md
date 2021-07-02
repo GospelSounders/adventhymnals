@@ -1,13 +1,17 @@
 ---
-title: 599. My Lord and I
+title: |
+    599. My Lord and I - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, My Lord and I, I have a Friend so precious, 
+    description: |
+        Christ in Song 599. My Lord and I. I have a Friend so precious, So very dear to me, He loves me with such tender love, He loves so faithfully; I could not live apart from Him, I love to feel Him nigh, And so we dwell together, My Lord and I.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, My Lord and I, I have a Friend so precious. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 599. MY LORD AND I
+####  Christ in Song,
 
 ```txt
 1.
@@ -50,25 +54,26 @@ And why He came to die,
 And so we work together,
 My Lord and I.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | My Lord and I |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | I have a Friend so precious |
 Author | Mrs. L. Shorey
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ With Us |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

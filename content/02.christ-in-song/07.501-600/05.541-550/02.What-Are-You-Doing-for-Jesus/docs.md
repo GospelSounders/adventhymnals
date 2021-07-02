@@ -1,13 +1,17 @@
 ---
-title: 542. What Are You Doing for Jesus?
+title: |
+    542. What Are You Doing for Jesus? - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, What Are You Doing for Jesus?, What are you doing for Jesus, What are you doing, Doing for Jesus?
+    description: |
+        Christ in Song 542. What Are You Doing for Jesus?. What are you doing for Jesus, As you journey thro' life? Sowing the grain for the harvest, Or scattering seeds of strife? Chorus: What are you doing, Doing for Jesus? What are you doing  As the days go by? What are you doing, Doing for Jesus? What are you doing  As the days go by?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, What Are You Doing for Jesus?, What are you doing for Jesus. What are you doing, Doing for Jesus?
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 542. WHAT ARE YOU DOING FOR JESUS?
+####  Christ in Song,
 
 ```txt
 1.
@@ -26,26 +30,13 @@ What are you doing  As the days go by?
 What are you doing for Jesus?
 Are you striving each day,
 By little acts of kindness,
-To brighten some ones way? 
-
-Chorus:
-What are you doing, Doing for Jesus?
-What are you doing  As the days go by?
-What are you doing, Doing for Jesus?
-What are you doing  As the days go by?
-
+To brighten some ones way?  [Chorus]
 
 3.
 What are you doing for Jesus?
 Soon comes setting of sun;
 Hasten to tell the glad tidings,
-Lest you leave some work undone. 
-
-Chorus:
-What are you doing, Doing for Jesus?
-What are you doing  As the days go by?
-What are you doing, Doing for Jesus?
-What are you doing  As the days go by?
+Lest you leave some work undone.  [Chorus]
 
 ```
 
@@ -61,11 +52,11 @@ Composer| J. Lincoln Hall |
 Hymnal|  - |
 Tune| What are you doing for Jesus |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Call to Activity |
 Texts | John 9:4 |
 Print Texts | 
 Scripture Song |  |
-  
+    

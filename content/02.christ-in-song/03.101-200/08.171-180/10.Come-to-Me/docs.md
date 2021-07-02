@@ -1,13 +1,17 @@
 ---
-title: 180. Come to Me
+title: |
+    180. Come to Me - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Come to Me, With tearful eyes I look around, 
+    description: |
+        Christ in Song 180. Come to Me. With tearful eyes I look around; Life seems a dark and stormy sea, Yet, mid the gloom, I hear a sound, A heavenly whisper, "Come to me."
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Come to Me, With tearful eyes I look around. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 180. COME TO ME
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,25 +38,26 @@ In conflict, grief, and agony,
 Support me, cheer me from above!
 And gently whisper, "Come to me."
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come to Me |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | With tearful eyes I look around |
 Author | C. Elliott
 Year | 1908
-Composer| L. Mason |
+Composer| undefined |
 Hymnal|  - |
 Tune| WARD |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

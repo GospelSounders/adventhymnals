@@ -1,13 +1,17 @@
 ---
-title: 145. Just As I Am
+title: |
+    145. Just As I Am - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Just As I Am, Just as I am, without one plea, 
+    description: |
+        Christ in Song 145. Just As I Am. Just as I am, without one plea But that thy blood was shed for me, And that thou bid'st me come to thee, O Lamb of God, I come, I come.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Just As I Am, Just as I am, without one plea. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 145. JUST AS I AM
+####  Christ in Song,
 
 ```txt
 1.
@@ -45,13 +49,14 @@ Just as I am, thy love I own
 Has broken ev'ry barrier down;
 Now to be thine, and thine alone,
 O Lamb of God, I come, I come.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Just As I Am |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Just as I am, without one plea |
 Author | Charlotte Elliott
 Year | 1908
@@ -59,11 +64,11 @@ Composer| W. B. Bradbury |
 Hymnal|  - |
 Tune| WOODWORTH |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Call Accepted; Invitation and Repentance: Call Accepted |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

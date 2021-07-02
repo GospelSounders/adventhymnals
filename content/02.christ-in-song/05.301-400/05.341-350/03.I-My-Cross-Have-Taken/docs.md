@@ -1,13 +1,17 @@
 ---
-title: 343. I My Cross Have Taken
+title: |
+    343. I My Cross Have Taken - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, I My Cross Have Taken, Jesus, I my cross have taken, 
+    description: |
+        Christ in Song 343. I My Cross Have Taken. Jesus, I my cross have taken, All to leave and follow thee; All things else I have forsaken, Thou henceforth my all shalt be; Perish ev'ry fond ambition, All I've sought or hoped or known; Yet how much is my condition, God and heav'n are still my own.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, I My Cross Have Taken, Jesus, I my cross have taken. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 343. I MY CROSS HAVE TAKEN
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Soon shall close my earthly mission,
 Swift shall pass these pilgrim days,
 Hope shall change to glad fruition,
 Faith to sight, and prayer to praise.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I My Cross Have Taken |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, I my cross have taken |
 Author | Henry F. Lyte
 Year | 1908
@@ -53,11 +58,11 @@ Composer| W. A. Mozart |
 Hymnal|  - |
 Tune| ELLESIDE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Following Jesus |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

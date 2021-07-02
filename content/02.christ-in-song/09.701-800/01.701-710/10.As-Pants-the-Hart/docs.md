@@ -1,13 +1,17 @@
 ---
-title: 710. As Pants the Hart
+title: |
+    710. As Pants the Hart - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, As Pants the Hart, As pants the wearied hart for cooling springs, 
+    description: |
+        Christ in Song 710. As Pants the Hart. As pants the wearied hart for cooling springs, That sinks exhausted in the summer's chase, So pants my soul for thee, great King of kings, So thirsts to reach thy sacred dwelling place.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, As Pants the Hart, As pants the wearied hart for cooling springs. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 710. AS PANTS THE HART
+####  Christ in Song,
 
 ```txt
 1.
@@ -29,13 +33,14 @@ Within his courts thy thanks shall yet be paid;
 Unquestioned be his faithfulness and love.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | As Pants the Hart |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | As pants the wearied hart for cooling springs |
 Author | Anon.
 Year | 1908
@@ -43,11 +48,11 @@ Composer| F. Mendelssohn |
 Hymnal|  - |
 Tune| MENDELSSOHN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Nearer to God; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

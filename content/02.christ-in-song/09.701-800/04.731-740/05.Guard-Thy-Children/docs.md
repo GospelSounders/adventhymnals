@@ -1,13 +1,17 @@
 ---
-title: 735. Guard Thy Children
+title: |
+    735. Guard Thy Children - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Guard Thy Children, Gracious Father, guard thy children, 
+    description: |
+        Christ in Song 735. Guard Thy Children. Gracious Father, guard thy children From the foe's destructive pow'r; Save O save them, Lord, from falling In this dark and trying hour. Thou wilt surely prove thy people, All our graces must be tried;  But thy word illumes our pathway, And in God we still confide.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Guard Thy Children, Gracious Father, guard thy children. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 735. GUARD THY CHILDREN
+####  Christ in Song,
 
 ```txt
 1.
@@ -31,13 +35,14 @@ Let thy Holy Spirit cheer us
 Till thy banner is unfurled.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Guard Thy Children |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Gracious Father, guard thy children |
 Author | Anon.
 Year | 1908
@@ -45,11 +50,11 @@ Composer| Rousseau |
 Hymnal|  - |
 Tune| GREENVILLE |
 Metrical pattern | |
-# Stanzas | 2 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Waiting for Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

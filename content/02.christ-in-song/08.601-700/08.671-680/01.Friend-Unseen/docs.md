@@ -1,13 +1,17 @@
 ---
-title: 671. Friend Unseen
+title: |
+    671. Friend Unseen - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Friend Unseen, O Holy Saviour, Friend unseen, 
+    description: |
+        Christ in Song 671. Friend Unseen. O Holy Saviour, Friend unseen, Since on Thine arm Thou bidds't me lean, Help me, thro'out life's varying scene, By faith to cling to Thee.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Friend Unseen, O Holy Saviour, Friend unseen. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 671. FRIEND UNSEEN
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Blest is my lot, whate'er befall;
 What can disturb me, who appall,
 While as my strength, my Rock, my All,
 Saviour, I cling to Thee?
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Friend Unseen |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O Holy Saviour, Friend unseen |
 Author | Elliott
 Year | 1908
@@ -47,11 +52,11 @@ Composer| F. Flemming |
 Hymnal|  - |
 Tune| FLEMMING |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ Best Friend |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

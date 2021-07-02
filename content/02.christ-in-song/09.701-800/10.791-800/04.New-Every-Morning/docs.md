@@ -1,13 +1,17 @@
 ---
-title: 794. New Every Morning
+title: |
+    794. New Every Morning - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, New Every Morning, New ev&#039;ry morning is Thy love, 
+    description: |
+        Christ in Song 794. New Every Morning. New ev'ry morning is Thy love, This our awak'ning powers prove, Thro' sleep and darkness safely bro't Back into life and strength and tho't.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, New Every Morning, New ev'ry morning is Thy love. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 794. NEW EVERY MORNING
+####  Christ in Song,
 
 ```txt
 1.
@@ -28,25 +32,26 @@ And rightly use what Thou dost give,
 So shall new blessings still be ours,
 New consecration claim our pow'rs.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | New Every Morning |
 Key | E♭ Major |
-Titles |  |
-First Line | New ev&#039;ry morning is Thy love |
+Titles | undefined |
+First Line | New ev'ry morning is Thy love |
 Author | J. Keeble
 Year | 1908
 Composer| Ina S. Chilson |
 Hymnal|  - |
 Tune| STEPHENS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Worship: Morning Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

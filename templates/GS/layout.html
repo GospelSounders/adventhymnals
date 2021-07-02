@@ -83,7 +83,7 @@
                     <td>Church Hymnal</td>
                     <td>CH1941</td>
                     <td>1941</td>
-                    <td>0</td>
+                    <td>949</td>
                     <td>English(en)</td>
                     <td><a href="/church-hymnal">Nyimbo za Kriso</a></td>
                 </tr>
@@ -681,13 +681,15 @@
                     console.log(tens)
                     hundreds = hundreds.map(item => { item = item.toString(); while (item.length < 3) item = `0${item}`; return item }).join("-")
                     tens = tens.map(item => { item = item.toString(); while (item.length < 3) item = `0${item}`; return item }).join("-")
-                    title = title.replace(/ /g, "-")
+                    title = title.replace(/  /g, " ").replace(/ /g, "-").replace(/\?/g,'')
                     let url = `${this.root}/${link}/${hundreds}/${tens}/${title}`
                     if (reload) return window.location.assign(url)
                     let ret = false;
                     try {
+                        this.loading = true;
                         ret = (await axios.get(url)).data
                         let tmp = ret.replace(/<div id="q-app">/g, '<div>')
+                        this.loading = false;
                         this.fetchedSong = tmp;
                         this.songYield = false
                     } catch (err) {
@@ -736,21 +738,11 @@
                 },
                 openSong() { // from url or given hymnal and song
                     let urlParts = window.location.href.split(this.root)[1].match(/\/([0-9a-zA-Z\-]+)\/([0-9\-]+)\/([0-9\-]+)\/(.+)\/*/)
-                    // console.log(urlParts)
                     let link = urlParts[1]
                     let title = urlParts[4]
                     let hymnal = this.allHymnals.filter(item => item.link === link)[0]
-                    // console.log(hymnal); //search the song
-                    let song = hymnal.indices.filter(item => {let ret = false; try { ret = item.title.replace(/ /g, "-") === title } catch (error) { }; return ret })[0]
-                    // console.log(song)
-                    // return
+                    let song = hymnal.indices.filter(item => { let ret = false; try { ret = item.title.replace(/ /g, "-") === title } catch (error) { }; return ret })[0]
                     this.selectSong(hymnal, song)
-                    // if (hymnal && song) {
-                    //     link = hymnal.link
-                    //     hymnalName = hymnal.name
-                    //     title = song.title
-                    //     number = song.number
-                    // }
                 },
                 openHymnalHard(hymnal) {
                     let { name, link } = hymnal;

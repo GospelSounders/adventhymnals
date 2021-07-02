@@ -1,13 +1,17 @@
 ---
-title: 501. Like a Little Candle
+title: |
+    501. Like a Little Candle - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Like a Little Candle, Jesus bids us shine with a pure, clear light, 
+    description: |
+        Christ in Song 501. Like a Little Candle. Jesus bids us shine with a pure, clear light, Like a little candle burning in the night; In this world of darkness we must shine, You in your corner, I in mine.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Like a Little Candle, Jesus bids us shine with a pure, clear light. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 501. LIKE A LITTLE CANDLE
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,25 +37,26 @@ Jesus is a bright light of love divine,
 When on Him we're looking, then it is we shine,
 Like the silver moon, with borrowed light,
 Each in his corner, doing right.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Like a Little Candle |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus bids us shine with a pure, clear light |
-Author | 
+Author | undefined
 Year | 1908
 Composer| F. E. Belden |
 Hymnal|  - |
 Tune| Jesus bids us shine with a pure, clear light |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Children's Hymns |
 Texts | Matthew 5:15 |
 Print Texts | 
 Scripture Song |  |
-  
+    

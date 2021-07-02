@@ -1,13 +1,17 @@
 ---
-title: 309. Good and Great
+title: |
+    309. Good and Great - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Good and Great, Let the whole Creation cry, 
+    description: |
+        Christ in Song 309. Good and Great. Let the whole Creation cry Glory to the Lord on high! Heav'n and earth, awake and sing "God is good, and therefore King."
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Good and Great, Let the whole Creation cry. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 309. GOOD AND GREAT
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Kings of knowledge and of law,
 To the glorious circle draw;
 All who work and all who wait,
 Sing, "The Lord is good and great."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Good and Great |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Let the whole Creation cry |
 Author | S. A. Booke
 Year | 1908
@@ -47,11 +52,11 @@ Composer| G. C. Strattner |
 Hymnal|  - |
 Tune| POSEN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

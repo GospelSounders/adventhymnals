@@ -1,13 +1,17 @@
 ---
-title: 144. Coming
+title: |
+    144. Coming - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Coming, He&#039;s coming once again, 
+    description: |
+        Christ in Song 144. Coming. He's coming once again, To set his people free; That where he is, in glory bright, His saints may also be. Then lift the drooping head. Look up, rejoice and sing; He comes in majesty sublime, Salvation's glorious King!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Coming, He's coming once again. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 144. COMING
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ No scorn, no words of hate,
 For his meek foll'wers then;
 But prayers and tears that come too late,
 Will mark earth's mighty men.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Coming |
-Key |  |
-Titles |  |
-First Line | He&#039;s coming once again |
+Key | undefined |
+Titles | undefined |
+First Line | He's coming once again |
 Author | F. E. B.
 Year | 1908
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
-Tune|  |
+Tune| undefined |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Return of Christ |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

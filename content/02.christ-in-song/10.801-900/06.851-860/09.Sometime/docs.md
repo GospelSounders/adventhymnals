@@ -1,13 +1,17 @@
 ---
-title: 859. Sometime
+title: |
+    859. Sometime - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Sometime, When we lay our burdens down, We shall sing, sometime
+    description: |
+        Christ in Song 859. Sometime. When we lay our burdens down, Sometime, sometime; When we take the harp and crown In that city of renown, We shall sing sometime, Sometime, sometime. 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Sometime, When we lay our burdens down. We shall sing, sometime,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 859. SOMETIME
+####  Christ in Song,
 
 ```txt
 1.
@@ -59,13 +63,14 @@ In that happy, Eden clime,
 We shall sing, sometime.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sometime |
 Key | B♭ Major |
-Titles | We shall sing, sometime |
+Titles | We shall sing, sometime, |
 First Line | When we lay our burdens down |
 Author | F. E. Belden
 Year | 1908
@@ -73,11 +78,11 @@ Composer| D. S. Hakes |
 Hymnal|  - |
 Tune| When we lay our burdens down |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal; Special Selections: Choir or Quartet |
 Texts | Isaiah 30:10 |
 Print Texts | 
 Scripture Song |  |
-  
+    

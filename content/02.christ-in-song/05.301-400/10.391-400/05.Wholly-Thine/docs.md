@@ -1,13 +1,17 @@
 ---
-title: 395. Wholly Thine
+title: |
+    395. Wholly Thine - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Wholly Thine, I would be, dear Saviour, wholly thine, 
+    description: |
+        Christ in Song 395. Wholly Thine. I would be, dear Saviour, wholly thine; Teach me how, teach me how; I would do thy will, O Lord, not mine, Help me, help me now. Wholly thine, wholly thine, Wholly thine, this is my vow. Wholly thine, wholly thine, wholly thine, O Lord, just now.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Wholly Thine, I would be, dear Saviour, wholly thine. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 395. WHOLLY THINE
+####  Christ in Song,
 
 ```txt
 1.
@@ -37,13 +41,14 @@ Wholly thine, wholly thine,
 Wholly thine, this is my vow.
 Wholly thine, wholly thine, wholly thine, O Lord, just now.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Wholly Thine |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | I would be, dear Saviour, wholly thine |
 Author | F. E. B.
 Year | 1908
@@ -51,11 +56,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| I would be, dear Saviour, wholly thine |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

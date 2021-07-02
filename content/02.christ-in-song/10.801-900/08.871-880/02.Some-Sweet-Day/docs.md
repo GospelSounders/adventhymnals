@@ -1,13 +1,17 @@
 ---
-title: 872. Some Sweet Day
+title: |
+    872. Some Sweet Day - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Some Sweet Day, We shall meet beyond the skies, We shall clasp our own again
+    description: |
+        Christ in Song 872. Some Sweet Day. We shall meet beyond the skies, Some sweet day, some sweet day; Gaze no more in tearful eyes, Some sweet day, some sweet day. 
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Some Sweet Day, We shall meet beyond the skies. We shall clasp our own again, 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 872. SOME SWEET DAY
+####  Christ in Song,
 
 ```txt
 1.
@@ -59,13 +63,14 @@ Love shall lead us, over there,
 Some sweet day, some sweet day.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Some Sweet Day |
 Key | E♭ Major |
-Titles | We shall clasp our own again |
+Titles | We shall clasp our own again,  |
 First Line | We shall meet beyond the skies |
 Author | F. E. B.
 Year | 1908
@@ -73,11 +78,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| We shall meet beyond the skies |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | Yes |
-Chorus Type | refrain |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Meeting in Heaven; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

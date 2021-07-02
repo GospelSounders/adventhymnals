@@ -1,13 +1,17 @@
 ---
-title: 158. Seals My Pardon
+title: |
+    158. Seals My Pardon - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Seals My Pardon, I saw One hanging on the tree, 
+    description: |
+        Christ in Song 158. Seals My Pardon. I saw One hanging on the tree, In agony and blood, Who fixed His languid eyes on me, As near His cross I stood.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Seals My Pardon, I saw One hanging on the tree. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 158. SEALS MY PARDON
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Thus while His death my sin displays
 In all its blackest hue,
 Such is the mystery of grace,
 It seals my pardon too.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Seals My Pardon |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | I saw One hanging on the tree |
 Author | Isaac Watts
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Rossini |
 Hymnal|  - |
 Tune| MANOAH |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ's Sufferings; Christ: Christ Our Righteousness |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

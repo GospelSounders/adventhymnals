@@ -1,13 +1,17 @@
 ---
-title: 790. One Living Faith
+title: |
+    790. One Living Faith - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, One Living Faith, God&#039;s law demands one living faith, 
+    description: |
+        Christ in Song 790. One Living Faith. God's law demands one living faith, And not a crowd of lifeless creeds; Its warrant is a firm "God saith;" Its claim not words, but living deeds.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, One Living Faith, God's law demands one living faith. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 790. ONE LIVING FAITH
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,25 +31,26 @@ Forgive the sacrilege, and take
 From ev'ry soul th' unholy stain,
 And help us for thy Son's dear sake,
 To keep thy perfect law again.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | One Living Faith |
 Key | G Major |
-Titles |  |
-First Line | God&#039;s law demands one living faith |
-Author | 
+Titles | undefined |
+First Line | God's law demands one living faith |
+Author | undefined
 Year | 1908
 Composer| G. Franc |
 Hymnal|  - |
 Tune| OLD HUNDRED |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: God's Law |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

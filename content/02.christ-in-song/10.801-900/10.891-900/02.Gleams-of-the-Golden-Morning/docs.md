@@ -1,13 +1,17 @@
 ---
-title: 892. Gleams of the Golden Morning
+title: |
+    892. Gleams of the Golden Morning - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Gleams of the Golden Morning, The golden morning is fast approaching, 
+    description: |
+        Christ in Song 892. Gleams of the Golden Morning. The golden morning is fast approaching; Jesus soon will come To take his faithful and happy children To their promised home. O, we see the gleams of the golden morning Piercing thro' this night of gloom! O, we see the gleams of the golden morning  That will burst the tomb.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Gleams of the Golden Morning, The golden morning is fast approaching. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 892. GLEAMS OF THE GOLDEN MORNING
+####  Christ in Song,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ O, we see the gleams of the golden morning
 Piercing thro' this night of gloom!
 O, we see the gleams of the golden morning 
 That will burst the tomb.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Gleams of the Golden Morning |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | The golden morning is fast approaching |
 Author | S. J. G.
 Year | 1908
@@ -63,11 +68,11 @@ Composer| S. J. Graham |
 Hymnal|  - |
 Tune| The golden morning is fast approaching |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Home Eternal: Nearing Home |
 Texts | Matthew 24:30 |
 Print Texts | 
 Scripture Song |  |
-  
+    

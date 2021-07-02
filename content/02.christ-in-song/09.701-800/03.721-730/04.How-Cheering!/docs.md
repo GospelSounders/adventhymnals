@@ -1,13 +1,17 @@
 ---
-title: 724. How Cheering!
+title: |
+    724. How Cheering! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, How Cheering!, How cheering is the Christian&#039;s hope, 
+    description: |
+        Christ in Song 724. How Cheering!. How cheering is the Christian's hope, While toiling here below! It buoys us up while passing thro' This wilderness of woe,
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, How Cheering!, How cheering is the Christian's hope. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 724. HOW CHEERING!
+####  Christ in Song,
 
 ```txt
 1.
@@ -39,25 +43,26 @@ Fly, ling'ring moments, fly, O fly,
 Dear Saviour, quickly come!
 We long to see thee as thou art,
 And reach that blissful home.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Cheering! |
 Key | E Major |
-Titles |  |
-First Line | How cheering is the Christian&#039;s hope |
+Titles | undefined |
+First Line | How cheering is the Christian's hope |
 Author | Anon.
 Year | 1908
 Composer| S. Hibbard |
 Hymnal|  - |
 Tune| EXHORTATION |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Hope; Special Selections: Choir or Quartet |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

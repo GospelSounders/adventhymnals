@@ -1,13 +1,17 @@
 ---
-title: 418. Attempt His Praise
+title: |
+    418. Attempt His Praise - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Attempt His Praise, Come, O my soul, in sacred lays, 
+    description: |
+        Christ in Song 418. Attempt His Praise. Come, O my soul, in sacred lays, Attempt thy great Creator's praise; But O what tongue can speak his fame! What mortal verse declare his name!
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Attempt His Praise, Come, O my soul, in sacred lays. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 418. ATTEMPT HIS PRAISE
+####  Christ in Song,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Raised on devotion's lofty wing,
 Do thou, my soul, his glories sing;
 And let his praise employ thy tongue
 Till list'ning worlds shall join the song.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Attempt His Praise |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, O my soul, in sacred lays |
 Author | Thomas Blacklock
 Year | 1908
@@ -41,11 +46,11 @@ Composer| George Burder |
 Hymnal|  - |
 Tune| LUTON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God: Praise to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

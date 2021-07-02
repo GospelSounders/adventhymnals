@@ -1,13 +1,17 @@
 ---
-title: 752. Soldiers of Christ, Arise!
+title: |
+    752. Soldiers of Christ, Arise! - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Soldiers of Christ, Arise!, Soldiers of Christ, arise, 
+    description: |
+        Christ in Song 752. Soldiers of Christ, Arise!. Soldiers of Christ, arise, And put your armor on; Fight, for the battle will be ours; We fight to win a crown.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Soldiers of Christ, Arise!, Soldiers of Christ, arise. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 752. SOLDIERS OF CHRIST, ARISE!
+####  Christ in Song,
 
 ```txt
 1.
@@ -28,13 +32,14 @@ That in high places stand,
 Perverting oft the word of God,
 And say 'tis by command.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Soldiers of Christ, Arise! |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Soldiers of Christ, arise |
 Author | C. Wesley
 Year | 1908
@@ -42,11 +47,11 @@ Composer| I. Smith |
 Hymnal|  - |
 Tune| SILVER STREET |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Warfare and Victory; Living His Life: Warfare and Victory |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

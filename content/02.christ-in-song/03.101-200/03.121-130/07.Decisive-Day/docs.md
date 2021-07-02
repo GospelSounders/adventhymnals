@@ -1,13 +1,17 @@
 ---
-title: 127. Decisive Day
+title: |
+    127. Decisive Day - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Decisive Day, The great decisive day is at hand, 
+    description: |
+        Christ in Song 127. Decisive Day.  The great decisive day is at hand, is at hand! The great decisive day is at hand; The day when Christ will come, To call his children home, And to seal the sinner's doom, is at hand, is at hand; And to seal the sinner's doom, is at hand.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Decisive Day, The great decisive day is at hand. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 127. DECISIVE DAY
+####  Christ in Song,
 
 ```txt
 1.
@@ -34,25 +38,26 @@ It will be in vain to call,
 For his hand will find out all  In that day, in that day;
 For his hand will find out all in that day.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Decisive Day |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | The great decisive day is at hand |
 Author | Anon.
 Year | 1908
-Composer| F. E. B. |
+Composer| undefined |
 Hymnal|  - |
 Tune| The great decisive day is at hand |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Invitation and Repentance: Decision Day |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 743. Blessed Hope
+title: |
+    743. Blessed Hope - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Blessed Hope, There is a blessed hope, 
+    description: |
+        Christ in Song 743. Blessed Hope. There is a blessed hope, More precious and more bright Than all the joyless mockery The world esteems delight.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Blessed Hope, There is a blessed hope. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 743. BLESSED HOPE
+####  Christ in Song,
 
 ```txt
 1.
@@ -35,13 +39,14 @@ That star is revelation's light,
 That hope, the hope of heav'n.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Blessed Hope |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | There is a blessed hope |
 Author | Anon.
 Year | 1908
@@ -49,11 +54,11 @@ Composer| J. G. Nageli |
 Hymnal|  - |
 Tune| DENNIS |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Hope |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

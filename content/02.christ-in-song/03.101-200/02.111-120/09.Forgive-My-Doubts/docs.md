@@ -1,13 +1,17 @@
 ---
-title: 119. Forgive My Doubts
+title: |
+    119. Forgive My Doubts - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Forgive My Doubts, Forgive, O Lord, the doubts that break, 
+    description: |
+        Christ in Song 119. Forgive My Doubts. Forgive, O Lord, the doubts that break Thy promises to me; Forgive me that I fail to take  My pardon, full and free. I sought to put my sins away, I strove to do Thy will, And yet, whene'er I tried to pray, My heart was doubting still.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Forgive My Doubts, Forgive, O Lord, the doubts that break. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 119. FORGIVE MY DOUBTS
+####  Christ in Song,
 
 ```txt
 1.
@@ -40,13 +44,14 @@ Leaps earthward from the sun,
 Thy pard'ning love,
 Thy rescuing might,
 Speed down to ev'ry one.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Forgive My Doubts |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Forgive, O Lord, the doubts that break |
 Author | W. Gladden
 Year | 1908
@@ -54,11 +59,11 @@ Composer| Henry Hiles |
 Hymnal|  - |
 Tune| ST. LEONARD |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Invitation and Repentance; Invitation and Repentance: Returning to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

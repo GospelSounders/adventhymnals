@@ -1,13 +1,17 @@
 ---
-title: 318. Thy Life Within Me
+title: |
+    318. Thy Life Within Me - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Thy Life Within Me, Live out Thy life within me, 
+    description: |
+        Christ in Song 318. Thy Life Within Me. Live out Thy life within me, O Jesus, King of kings! Be Thou Thyself the answer To all my questionings; Live out Thy life within me, In all things have Thy way! I, the transparent medium Thy glory to display.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Thy Life Within Me, Live out Thy life within me. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 318. THY LIFE WITHIN ME
+####  Christ in Song,
 
 ```txt
 1.
@@ -51,13 +55,14 @@ Be Thou the glorious answer
 To all my questionings.
 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thy Life Within Me |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Live out Thy life within me |
 Author | F. R. Havergal
 Year | 1908
@@ -65,11 +70,11 @@ Composer| Samuel Wesley |
 Hymnal|  - |
 Tune| AURELIA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Living His Life: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

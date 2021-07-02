@@ -1,13 +1,17 @@
 ---
-title: 410. Can We Forget?
+title: |
+    410. Can We Forget? - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, Can We Forget?, Jesus, thy love can we forget, 
+    description: |
+        Christ in Song 410. Can We Forget?. Jesus, thy love can we forget, And never bring to mind The grace that paid our hopeless debt, And bade us pardon find?
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, Can We Forget?, Jesus, thy love can we forget. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 410. CAN WE FORGET?
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Our sorrows and our sins were laid
 On Thee, alone on thee;
 Thy precious blood our ransom paid
 Thine all the glory be!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Can We Forget? |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, thy love can we forget |
 Author | Wm. Mitchell
 Year | 1908
@@ -47,11 +52,11 @@ Composer| Timothy Swan |
 Hymnal|  - |
 Tune| CHINA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Christ: Christ's Life and Love |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    

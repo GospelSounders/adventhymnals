@@ -1,13 +1,17 @@
 ---
-title: 183. A Heart of Praise
+title: |
+    183. A Heart of Praise - Christ in Song
 metadata:
-    description: 
-    keywords: Christ in Song, A Heart of Praise, Oh, for a heart to praise my God!, 
+    description: |
+        Christ in Song 183. A Heart of Praise. Oh, for a heart to praise my God! A heart from sin set free, A heart that always feels Thy blood, So freely shed for me.
+    keywords:  |
+        Christ in Song, adventhymnals, advent hymnals, A Heart of Praise, Oh, for a heart to praise my God!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 183. A HEART OF PRAISE
+####  Christ in Song,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Thy nature, gracious Lord, impart;
 Come quickly from above:
 Write Thy new name upon my heart,
 Thy new, best name of Love.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Heart of Praise |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Oh, for a heart to praise my God! |
 Author | C. Wesley
 Year | 1908
@@ -47,11 +52,11 @@ Composer| J. B. Dykes |
 Hymnal|  - |
 Tune| BEATITUDO |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Returning to God; Invitation and Repentance: Returning to God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
+    
