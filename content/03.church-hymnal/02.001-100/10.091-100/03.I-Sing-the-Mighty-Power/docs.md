@@ -1,15 +1,20 @@
 ---
-title: 93. I Sing the Mighty Power
+title: |
+    093. I Sing the Mighty Power - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Sing the Mighty Power, I sing the mighty power of God, 
+    description: |
+        Church Hymnal 1941 093. I Sing the Mighty Power.  I sing the almighty power of God, that made the mountains rise, that spread the flowing seas abroad, and built the lofty skies. I sing the wisdom that ordained the sun to rule the day; the moon shines full at God's command, and all the stars obey.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Sing the Mighty Power, I sing the mighty power of God. 
     author: Brian Onang'o
 ---
 
-
-## 93. I SING THE MIGHTY POWER
+#### Advent Hymnals
+## 093. I SING THE MIGHTY POWER
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 I sing the almighty power of God,
 that made the mountains rise,
@@ -40,13 +45,14 @@ is ever in thy care;
 and everywhere that we can be,
 thou, God, art present there.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Sing the Mighty Power |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | I sing the mighty power of God |
 Author | Isaac Watts (1674-1748)
 Year | 1941
@@ -54,36 +60,11 @@ Composer| G. F. Root (1820-1895) |
 Hymnal|  - |
 Tune| VARINA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: God's Power in Nature |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,63 +1,43 @@
 ---
-title: 687. Almighty Father
+title: |
+    687. Almighty Father - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Almighty Father, Almighty Father, hear our prayer, 
+    description: |
+        Church Hymnal 1941 687. Almighty Father.  Almighty Father, hear our prayer,  And bless all souls that wait before Thee.  Amen. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Almighty Father, Almighty Father, hear our prayer. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 687. ALMIGHTY FATHER
+####  Church Hymnal 1941,
 
 ```txt
 1.
 Almighty Father, hear our prayer, 
 And bless all souls that wait before Thee. 
 Amen.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Almighty Father |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Almighty Father, hear our prayer |
-Author | 
+Author | undefined
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| Almighty Father, hear our prayer |
 Metrical pattern | |
-# Stanzas | 1 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sentences and Responses |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

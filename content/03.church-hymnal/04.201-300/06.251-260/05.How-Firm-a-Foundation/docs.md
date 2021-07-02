@@ -1,15 +1,20 @@
 ---
-title: 255. How Firm a Foundation
+title: |
+    255. How Firm a Foundation - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, How Firm a Foundation, How firm a foundation, ye saints of the Lord, 
+    description: |
+        Church Hymnal 1941 255. How Firm a Foundation.  How firm a foundation, ye saints of the Lord,  Is laid for your faith in his excellent word!  What more can he say than to you he hath said,  Who unto the Saviour for refuge have fled?  Who unto the Saviour for refuge have fled?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, How Firm a Foundation, How firm a foundation, ye saints of the Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 255. HOW FIRM A FOUNDATION
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 How firm a foundation, ye saints of the Lord, 
 Is laid for your faith in his excellent word! 
@@ -45,47 +50,26 @@ That soul, though all hell should endeavor to shake,
 I'll never, no never, no never forsake, 
 I'll never, no never, no never forsake.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Firm a Foundation |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | How firm a foundation, ye saints of the Lord |
-Author | 
+Author | undefined
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| PORTUGUESE HYMN |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

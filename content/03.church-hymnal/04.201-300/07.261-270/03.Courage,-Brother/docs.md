@@ -1,15 +1,20 @@
 ---
-title: 263. Courage, Brother
+title: |
+    263. Courage, Brother - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Courage, Brother, Courage, brother! do not stumble, 
+    description: |
+        Church Hymnal 1941 263. Courage, Brother.  Courage brother! do not stumble,  Though thy path be dark as night;  There's a star to guide the humble;  Trust in God, and do the right.  Though the road be long and dreary,  And the end be out of sight,  Tread it bravely, strong or weary;  Trust in God, trust in God, trust in God, and do the right.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Courage, Brother, Courage, brother! do not stumble. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 263. COURAGE, BROTHER
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Courage brother! do not stumble, 
 Though thy path be dark as night; 
@@ -40,13 +45,14 @@ Inward peace and shining light,
 Star upon our path abiding; 
 Trust in God, trust in God, trust in God, and do the right.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Courage, Brother |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Courage, brother! do not stumble |
 Author | Norman Macleod
 Year | 1941
@@ -54,33 +60,11 @@ Composer| Arthur S. Sullivan |
 Hymnal|  - |
 Tune| COURAGE, BROTHER |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

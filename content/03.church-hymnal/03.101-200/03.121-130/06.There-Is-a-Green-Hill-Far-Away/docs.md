@@ -1,15 +1,20 @@
 ---
-title: 126. There Is a Green Hill Far Away
+title: |
+    126. There Is a Green Hill Far Away - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, There Is a Green Hill Far Away, There is a green hill far away, 
+    description: |
+        Church Hymnal 1941 126. There Is a Green Hill Far Away.  There is a green hill far away, Without a city wall, Where the dear Lord was crucified, Who died to save us all.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, There Is a Green Hill Far Away, There is a green hill far away. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 126. THERE IS A GREEN HILL FAR AWAY
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 There is a green hill far away,
 Without a city wall,
@@ -40,13 +45,14 @@ And we must love Him too,
 And trust in His redeeming blood,
 And try His works to do.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | There Is a Green Hill Far Away |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | There is a green hill far away |
 Author | Cecil Frances Alexander
 Year | 1941
@@ -54,36 +60,11 @@ Composer| William Horsley |
 Hymnal|  - |
 Tune| HORSLEY |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: Sufferings and Death |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

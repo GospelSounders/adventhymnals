@@ -1,15 +1,21 @@
 ---
-title: 320. What a Friend We Have in Jesus
+title: |
+    320. What a Friend We Have in Jesus - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, What a Friend We Have in Jesus, What a friend we have in Jesus, 
+    description: |
+        Church Hymnal 1941 320. What a Friend We Have in Jesus. What a friend we have in Jesus, All our sins and griefs to bear! What a privilege to carry Everything to God in prayer! Oh, what peace we often forfeit; Oh, what needless pain we bear All because we do not carry Everything to God in prayer! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, What a Friend We Have in Jesus, What a friend we have in Jesus. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 320. WHAT A FRIEND WE HAVE IN JESUS
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
 1.
 What a friend we have in Jesus,
 All our sins and griefs to bear!
@@ -39,13 +45,14 @@ Do thy friends despise, forsake thee?
 Take it to the Lord in prayer.
 In His arms He'll take and shield thee;
 Thou will find a solace there.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | What a Friend We Have in Jesus |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | What a friend we have in Jesus |
 Author | Joseph M. Scriven
 Year | 1941
@@ -53,36 +60,11 @@ Composer| Charles C. Converse |
 Hymnal|  - |
 Tune| CONVERSE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Meditation and Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

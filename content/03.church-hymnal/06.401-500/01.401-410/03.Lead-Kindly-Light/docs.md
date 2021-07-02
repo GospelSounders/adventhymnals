@@ -1,13 +1,17 @@
 ---
-title: 403. Lead Kindly Light
+title: |
+    403. Lead Kindly Light - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lead Kindly Light, Lead, kindly Light, amid the encircling gloom, 
+    description: |
+        Church Hymnal 1941 403. Lead Kindly Light.  Lead, kindly Light, amid the encircling gloom,  Lead Thou me on;  The night is dark, and I am far from home;  Lead Thou me on.  Keep Thou my feet; I do not ask to see  The distant scene; one step's enough for me. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lead Kindly Light, Lead, kindly Light, amid the encircling gloom. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 403. LEAD KINDLY LIGHT
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ O'er moor and fen, o'er crag and torrent, till
 The night is gone; 
 And with the morn those angel faces smile, 
 Which I have loved long since, and lost awhile.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lead Kindly Light |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Lead, kindly Light, amid the encircling gloom |
 Author | John H. Newman
 Year | 1941
@@ -47,36 +52,11 @@ Composer| John B. Dykes |
 Hymnal|  - |
 Tune| LUX BENIGNA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Guidance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 535. 'Tis Finished!
+title: |
+    535. 'Tis Finished! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, 'Tis Finished!, "'Tis finished!" so the Saviour cried, 
+    description: |
+        Church Hymnal 1941 535. 'Tis Finished!.  "'Tis finished!" so the Saviour cried,  And meekly bowed His head, and died;  'Tis finished! yes, the race is run,  The battle fought, the victory won. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, 'Tis Finished!, "'Tis finished!" so the Saviour cried. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 535. 'TIS FINISHED!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ That life to us was death to Thee.
 Be heard through all the nations round; 
 'Tis finished! let the triumph rise, 
 And swell the chorus of the skies!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | 'Tis Finished! |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | "'Tis finished!" so the Saviour cried |
 Author | Samuel Stennett
 Year | 1941
@@ -47,36 +52,11 @@ Composer| Lowell Mason (1792-1872) |
 Hymnal|  - |
 Tune| OLDEN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Sufferings and Death |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

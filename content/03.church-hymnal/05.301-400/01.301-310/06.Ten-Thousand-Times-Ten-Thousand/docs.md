@@ -1,15 +1,21 @@
 ---
-title: 306. Ten Thousand Times Ten Thousand
+title: |
+    306. Ten Thousand Times Ten Thousand - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Ten Thousand Times Ten Thousand, Ten thousand times ten thousand, 
+    description: |
+        Church Hymnal 1941 306. Ten Thousand Times Ten Thousand. Ten thousand times ten thousand, In sparkling raiment bright, The armies of the ransomed saints Throng up the steeps of light. 'Tis finished, all is finished, Their fight with death and sin. Fling open wide the golden gates, And let the victors in. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Ten Thousand Times Ten Thousand, Ten thousand times ten thousand. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 306. TEN THOUSAND TIMES TEN THOUSAND
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+
 1.
 Ten thousand times ten thousand,
 In sparkling raiment bright,
@@ -49,13 +55,14 @@ Appear, Desire of nations,
 Thine exiles long for home;
 Show in the heavens Thy promised sign;
 Thou Prince and Savior come!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Ten Thousand Times Ten Thousand |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Ten thousand times ten thousand |
 Author | H. Alford
 Year | 1941
@@ -63,36 +70,11 @@ Composer| J. B. Dykes |
 Hymnal|  - |
 Tune| ALFORD |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Reward of the Saints |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

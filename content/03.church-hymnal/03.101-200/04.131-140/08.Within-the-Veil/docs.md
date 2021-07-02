@@ -1,15 +1,20 @@
 ---
-title: 138. Within the Veil
+title: |
+    138. Within the Veil - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Within the Veil, "Within the veil;" Be this, beloved, thy portion, 
+    description: |
+        Church Hymnal 1941 138. Within the Veil.  "Within the veil:" Be this, beloved thy portion  Within the secret of thy Lord to dwell;  Beholding Him, until thy face His glory,  Thy life His love, thy lips His praise shall tell.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Within the Veil, "Within the veil:" Be this, beloved, thy portion. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 138. WITHIN THE VEIL
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 "Within the veil:" Be this, beloved thy portion 
 Within the secret of thy Lord to dwell; 
@@ -34,13 +39,14 @@ Thou walkest calm above a world of strife;
 "Within the veil," thy soul with Him united, 
 Shall live on earth His resurrection life.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Within the Veil |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | "Within the veil:" Be this, beloved, thy portion |
 Author | Freda Hanbury Allen
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Anon. |
 Hymnal|  - |
 Tune| WITHIN THE VEIL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Priesthood |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

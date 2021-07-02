@@ -1,15 +1,20 @@
 ---
-title: 243. Come, O Thou Traveler 
+title: |
+    243. Come, O Thou Traveler  - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Come, O Thou Traveler , Come, O Thou Traveler unknown, 
+    description: |
+        Church Hymnal 1941 243. Come, O Thou Traveler .  Come, O thou Traveler unknown,  Whom still I hold but cannot see;  My company before is gone,  And I am left alone with thee;  With thee all night I mean to stay,  And wrestle till the break of day.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Come, O Thou Traveler , Come, O Thou Traveler unknown. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 243. COME, O THOU TRAVELER 
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Come, O thou Traveler unknown, 
 Whom still I hold but cannot see; 
@@ -34,13 +39,14 @@ The secret of thy love unfold;
 Clinging, I will not let thee go, 
 Till I thy name, thy nature know.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come, O Thou Traveler  |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, O Thou Traveler unknown |
 Author | Charles Wesley (1707-1788)
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Isaac W. Woodbury (1819-1858) |
 Hymnal|  - |
 Tune| SELENA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

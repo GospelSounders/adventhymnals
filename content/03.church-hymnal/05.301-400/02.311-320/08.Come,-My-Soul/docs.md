@@ -1,13 +1,17 @@
 ---
-title: 318. Come, My Soul
+title: |
+    318. Come, My Soul - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Come, My Soul, Come, my soul, thy suit prepare!, 
+    description: |
+        Church Hymnal 1941 318. Come, My Soul.  Come, my soul, thy suit prepare!  Jesus loves to answer prayer;  He Himself has bid thee pray,  Therefore will not say thee nay. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Come, My Soul, Come, my soul, thy suit prepare!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 318. COME, MY SOUL
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Lord, I come to Thee for rest,
 Take possession of my breast: 
 There, Thy sovereign right maintain, 
 And without a rival reign.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come, My Soul |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, my soul, thy suit prepare! |
 Author | John Newton
 Year | 1941
@@ -41,36 +46,11 @@ Composer| Carl M. von Weber (1786-1826) |
 Hymnal|  - |
 Tune| SEYMOUR |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Meditation and Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

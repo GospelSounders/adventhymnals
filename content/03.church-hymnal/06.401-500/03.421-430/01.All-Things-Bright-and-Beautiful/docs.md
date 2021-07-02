@@ -1,15 +1,25 @@
 ---
-title: 421. All Things Bright and Beautiful
+title: |
+    421. All Things Bright and Beautiful - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, All Things Bright and Beautiful, Each little flower that opens, All things bright and beautiful
+    description: |
+        Church Hymnal 1941 421. All Things Bright and Beautiful.  Each little flower that opens,  Each little bird that sings;  He made their glowing colors,  He made their tiny wings.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, All Things Bright and Beautiful, Each little flower that opens. All things bright and beautiful
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 421. ALL THINGS BRIGHT AND BEAUTIFUL
+####  Church Hymnal 1941,
 
 ```txt
+Refrain:
+All things bright and beautiful 
+All creatures great and small 
+All things wise and wonderful 
+The Lord God made them all. 
+
 1.
 Each little flower that opens, 
 Each little bird that sings; 
@@ -33,6 +43,7 @@ He gave us eyes to see them,
 And lips that we might tell 
 How great is God Almighty, 
 Who has made all things well.
+
 ```
 
 - |   -  |
@@ -43,40 +54,15 @@ Titles | All things bright and beautiful |
 First Line | Each little flower that opens |
 Author | Cecil F. Alexander (1823-1895)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| ROYAL OAK |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Home : Hymns for Children |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

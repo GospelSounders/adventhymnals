@@ -1,15 +1,20 @@
 ---
-title: 116. Dear Lord and Father
+title: |
+    116. Dear Lord and Father - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Dear Lord and Father, Dear Lord and Father of mankind, 
+    description: |
+        Church Hymnal 1941 116. Dear Lord and Father.  Dear Lord and Father of mankind,  Forgive our feverish ways;  Reclothe us in our rightful mind,  In purer lives Thy service find,  In deeper reverence, praise.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Dear Lord and Father, Dear Lord and Father of mankind. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 116. DEAR LORD AND FATHER
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Dear Lord and Father of mankind, 
 Forgive our feverish ways; 
@@ -45,13 +50,14 @@ Let sense be dumb, let flesh retire;
 Speak through the earthquake, wind, and fire, 
 O still small voice of calm!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Dear Lord and Father |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Dear Lord and Father of mankind |
 Author | John G. Whittier
 Year | 1941
@@ -59,36 +65,11 @@ Composer| F. C. Maker |
 Hymnal|  - |
 Tune| WHITTIER (REST) |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: Life and Ministry |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

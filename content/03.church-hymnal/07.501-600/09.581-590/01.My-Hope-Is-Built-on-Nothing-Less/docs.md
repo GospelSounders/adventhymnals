@@ -1,13 +1,17 @@
 ---
-title: 581. My Hope Is Built on Nothing Less
+title: |
+    581. My Hope Is Built on Nothing Less - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, My Hope Is Built on Nothing Less, My hope is built on nothing less  , On Christ, the solid Rock, I stand
+    description: |
+        Church Hymnal 1941 581. My Hope Is Built on Nothing Less.  My hope is built on nothing less Than Jesus' blood and righteousness. I dare not trust the sweetest frame, But wholly lean on Jesus' name. CHORUS: On Christ the solid rock I stand; All other ground is sinking sand, All other ground is sinking sand. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, My Hope Is Built on Nothing Less, My hope is built on nothing less  . On Christ the solid rock I stand;
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 581. MY HOPE IS BUILT ON NOTHING LESS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -37,13 +41,14 @@ When He shall come with trumpet sound,
 O may I then in Him be found!
 Clad in His righteousness alone,
 Faultless to stand before the throne.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | My Hope Is Built on Nothing Less |
 Key | G Major |
-Titles | On Christ, the solid Rock, I stand |
+Titles | On Christ the solid rock I stand; |
 First Line | My hope is built on nothing less   |
 Author | Edward Mote
 Year | 1941
@@ -51,36 +56,11 @@ Composer| Wm. B. Bradbury |
 Hymnal|  - |
 Tune| THE SOLID ROCK |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

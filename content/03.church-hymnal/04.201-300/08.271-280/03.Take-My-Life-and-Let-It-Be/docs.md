@@ -1,15 +1,21 @@
 ---
-title: 273. Take My Life and Let It Be
+title: |
+    273. Take My Life and Let It Be - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Take My Life and Let It Be, Take my life, and let it be, 
+    description: |
+        Church Hymnal 1941 273. Take My Life and Let It Be. Take my life, and let it be Consecrated, Lord, to Thee; Take my hands, and let them move At the impulse of Thy love; At the impulse of Thy love. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Take My Life and Let It Be, Take my life, and let it be. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 273. TAKE MY LIFE AND LET IT BE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
 1.
 Take my life, and let it be
 Consecrated, Lord, to Thee;
@@ -44,13 +50,14 @@ At Thy feet its treasure store;
 Take myself, and I will be,
 Ever, only, all for Thee.
 Ever, only, all for Thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Take My Life and Let It Be |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Take my life, and let it be |
 Author | Frances Ridley Havergal
 Year | 1941
@@ -58,33 +65,11 @@ Composer| H. A. César Malan (1787-1864) |
 Hymnal|  - |
 Tune| HENDON |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

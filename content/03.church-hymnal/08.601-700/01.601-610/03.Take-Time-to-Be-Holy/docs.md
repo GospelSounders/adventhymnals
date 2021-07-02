@@ -1,13 +1,17 @@
 ---
-title: 603. Take Time to Be Holy
+title: |
+    603. Take Time to Be Holy - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Take Time to Be Holy, Take time to be holy, 
+    description: |
+        Church Hymnal 1941 603. Take Time to Be Holy.  Take time to be holy,  Speak oft with thy Lord;  Abide in him always,  And feed on his word.  Make friends of God's children,  Help those who are weak,  Forgetting in nothing  His blessing to seek. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Take Time to Be Holy, Take time to be holy. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 603. TAKE TIME TO BE HOLY
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Thus led by his spirit
 To fountains of love, 
 Thou soon shalt be fitted 
 For service above.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Take Time to Be Holy |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Take time to be holy |
 Author | W. D. Longstaff (1822-1894)
 Year | 1941
@@ -63,36 +68,11 @@ Composer| George C. Stebbins (1846- ) |
 Hymnal|  - |
 Tune| Take time to be holy |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Meditation and Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

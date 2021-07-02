@@ -1,13 +1,17 @@
 ---
-title: 660. How tedious and Tasteless the Hours
+title: |
+    660. How tedious and Tasteless the Hours - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, How tedious and Tasteless the Hours, How tedious and tasteless the hours, 
+    description: |
+        Church Hymnal 1941 660. How tedious and Tasteless the Hours.  How tedious and tasteless the hours  When Jesus no longer I see!  Sweet prospects, sweet birds, and sweet flowers  Have all lost their sweetness to me.  The midsummer sun shines but dim;  The fields strive in vain to look gay;  But when I am happy in Him,  December's as pleasant as May. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, How tedious and Tasteless the Hours, How tedious and tasteless the hours. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 660. HOW TEDIOUS AND TASTELESS THE HOURS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,50 +53,26 @@ O drive these dark clouds from my sky;
 Thy soul-cheering presence restore; 
 Or take me unto Thee on high, 
 Where winter and clouds are no more.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How tedious and Tasteless the Hours |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | How tedious and tasteless the hours |
 Author | John Newton
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| CONTRAST |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Early Advent Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

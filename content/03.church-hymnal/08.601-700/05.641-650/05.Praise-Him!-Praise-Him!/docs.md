@@ -1,13 +1,17 @@
 ---
-title: 645. Praise Him! Praise Him!
+title: |
+    645. Praise Him! Praise Him! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Praise Him! Praise Him!, Praise Him! praise Him! Jesus, our blessed Redeemer!, Praise Him! praise Him! tell of His excellent greatness
+    description: |
+        Church Hymnal 1941 645. Praise Him! Praise Him!.  Praise Him! praise Him! Jesus, our blessed Redeemer! Sing, O Earth, His wonderful love proclaim! Hail Him! hail Him! highest archangels in glory; Strength and honor give to His holy Name! Like a shepherd, Jesus will guard His children, In His arms He carries them all day long: CHORUS: Praise Him! Praise Him! Tell of His excellent greatness. Praise Him! Praise Him! Ever in joyful song! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Praise Him! Praise Him!, Praise Him! praise Him! Jesus, our blessed Redeemer!. Praise Him! Praise Him! Tell of His excellent greatness.
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 645. PRAISE HIM! PRAISE HIM!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -36,13 +40,14 @@ Jesus, Savior, reigneth forever and ever.
 Crown Him! Crown Him! Prophet, and Priest, and King!
 Christ is coming! over the world victorious,
 Power and glory unto the Lord belong.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Praise Him! Praise Him! |
 Key | A♭ Major |
-Titles | Praise Him! praise Him! tell of His excellent greatness |
+Titles | Praise Him! Praise Him! Tell of His excellent greatness. |
 First Line | Praise Him! praise Him! Jesus, our blessed Redeemer! |
 Author | Fanny J. Crosby (1823-1915)
 Year | 1941
@@ -50,36 +55,11 @@ Composer| Chester G. Allen (1812-1877) |
 Hymnal|  - |
 Tune| Praise Him! praise Him! Jesus, our blessed Redeemer! |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Adoration and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

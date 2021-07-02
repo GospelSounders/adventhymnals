@@ -1,15 +1,20 @@
 ---
-title: 205. Come, Holy Spirit, Come
+title: |
+    205. Come, Holy Spirit, Come - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Come, Holy Spirit, Come, Come, Holy Spirit, come, 
+    description: |
+        Church Hymnal 1941 205. Come, Holy Spirit, Come.  Come, Holy Spirit, come,  Let thy bright beams arise,  Dispel the sorrow from our minds,  The darkness from our eyes.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Come, Holy Spirit, Come, Come, Holy Spirit, come. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 205. COME, HOLY SPIRIT, COME
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Come, Holy Spirit, come, 
 Let thy bright beams arise, 
@@ -40,13 +45,14 @@ Our minds from bondage free;
 Then we shall know, and praise, and love, 
 The Father, Son, and Thee.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come, Holy Spirit, Come |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, Holy Spirit, come |
 Author | Joseph Hart (1712-1768)
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Lowell Mason (1792-1872) |
 Hymnal|  - |
 Tune| BOYLSTON |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: The Holy Spirit |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

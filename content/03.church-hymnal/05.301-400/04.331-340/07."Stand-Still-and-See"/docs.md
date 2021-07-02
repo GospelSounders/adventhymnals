@@ -1,13 +1,17 @@
 ---
-title: 337. "Stand Still and See"
+title: |
+    337. "Stand Still and See" - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, "Stand Still and See", "Stand still and see!" yea, see, today, 
+    description: |
+        Church Hymnal 1941 337. "Stand Still and See".  Stand still and see! yea, see, today,  New wonders of redeeming grace'  The mighty Potter molds the clay  Again within this hallowed place,  Till through the human, the Divine  Is seen once more to move and shine. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, "Stand Still and See", "Stand still and see!" yea, see, today. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 337. "STAND STILL AND SEE"
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Three thousand souls before Thee bent.
 Break forth, O Holy Ghost, in power; 
 Sweep through, Thou Wind of God, sweep through; 
 Once more cleanse, consecrate, renew!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | "Stand Still and See" |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | "Stand still and see!" yea, see, today |
 Author | C. A. Fox
 Year | 1941
@@ -55,36 +60,11 @@ Composer| H. Carey |
 Hymnal|  - |
 Tune| CAREY |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Discipleship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

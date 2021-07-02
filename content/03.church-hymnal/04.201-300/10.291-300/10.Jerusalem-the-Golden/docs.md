@@ -1,13 +1,17 @@
 ---
-title: 300. Jerusalem the Golden
+title: |
+    300. Jerusalem the Golden - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Jerusalem the Golden, Jerusalem the golden, 
+    description: |
+        Church Hymnal 1941 300. Jerusalem the Golden.  Jerusalem the golden,  With milk and honey blest,  Beneath thy contemplation  Sink heart and voice oppressed.  I know not, O I know not  What holy joys are there;  What radiancy of glory,  What bliss beyond compare. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Jerusalem the Golden, Jerusalem the golden. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 300. JERUSALEM THE GOLDEN
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Jesus, in mercy bring us
 To that dear land of rest; 
 Who art, with God the Father, 
 And Spirit, ever blest.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jerusalem the Golden |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Jerusalem the golden |
 Author | Bernard of Cluny
 Year | 1941
@@ -63,33 +68,11 @@ Composer| Alexander Ewing |
 Hymnal|  - |
 Tune| EWING |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Reward of the Saints |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

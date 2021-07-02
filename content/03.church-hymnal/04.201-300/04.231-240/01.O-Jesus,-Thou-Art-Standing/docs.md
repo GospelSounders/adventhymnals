@@ -1,15 +1,20 @@
 ---
-title: 231. O Jesus, Thou Art Standing
+title: |
+    231. O Jesus, Thou Art Standing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O Jesus, Thou Art Standing, O Jesus, Thou art standing, 
+    description: |
+        Church Hymnal 1941 231. O Jesus, Thou Art Standing.  O Jesus, thou art standing,  Outside the fast-closed door,  In lowly patience waiting  To pass the threshold o'er:  Shame on us, Christian brethren,  His Name and sign who bear,  O shame, thrice shame upon us,  To keep him standing there!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O Jesus, Thou Art Standing, O Jesus, Thou art standing. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 231. O JESUS, THOU ART STANDING
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 O Jesus, thou art standing, 
 Outside the fast-closed door, 
@@ -40,13 +45,14 @@ We open now the door;
 Dear Saviour, enter, enter, 
 And leave us never more.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Jesus, Thou Art Standing |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | O Jesus, Thou art standing |
 Author | William Walsham How
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Edward Husband |
 Hymnal|  - |
 Tune| ST. HILDA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

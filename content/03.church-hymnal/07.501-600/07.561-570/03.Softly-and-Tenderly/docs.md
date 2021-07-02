@@ -1,13 +1,17 @@
 ---
-title: 563. Softly and Tenderly
+title: |
+    563. Softly and Tenderly - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Softly and Tenderly, Softly and tenderly Jesus is calling, Come home, come home
+    description: |
+        Church Hymnal 1941 563. Softly and Tenderly.  Softly and tenderly Jesus is calling,  Calling for you and for me;  See, on the portals He's waiting and watching, Watching for you and for me.  CHORUS: Come home, come home;  Ye who are weary come home;  Earnestly, tenderly, Jesus is calling,  Calling, O sinner, come home! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Softly and Tenderly, Softly and tenderly Jesus is calling. Come home, come home; 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 563. SOFTLY AND TENDERLY
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -32,13 +36,14 @@ Think of the wonderful love He has promised,
 Promised for you and for me! 
 Though we have sinned, He has mercy and pardon, 
 Pardon for you and for me. 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Softly and Tenderly |
 Key | A♭ Major |
-Titles | Come home, come home |
+Titles | Come home, come home;  |
 First Line | Softly and tenderly Jesus is calling |
 Author | Will L. Thompson
 Year | 1941
@@ -46,36 +51,11 @@ Composer| Will L. Thompson |
 Hymnal|  - |
 Tune| Softly and tenderly Jesus is calling |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

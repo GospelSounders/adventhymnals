@@ -1,15 +1,20 @@
 ---
-title: 53. All Praise to Thee
+title: |
+    053. All Praise to Thee - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, All Praise to Thee, All praise to Thee, my God, this night, 
+    description: |
+        Church Hymnal 1941 053. All Praise to Thee.  All praise to thee, my God, this night, for all the blessings of the light! Keep me, O keep me, King of kings, beneath thine own almighty wings.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, All Praise to Thee, All praise to Thee, my God, this night. 
     author: Brian Onang'o
 ---
 
-
-## 53. ALL PRAISE TO THEE
+#### Advent Hymnals
+## 053. ALL PRAISE TO THEE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 All praise to thee, my God, this night,
 for all the blessings of the light!
@@ -34,13 +39,14 @@ praise him, all creatures here below;
 praise him above, ye heavenly host;
 praise Father, Son, and Holy Ghost.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | All Praise to Thee |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | All praise to Thee, my God, this night |
 Author | Thomas Ken (1637-1711)
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Thomas Tallis |
 Hymnal|  - |
 Tune| TALLIS' CANON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Evening Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

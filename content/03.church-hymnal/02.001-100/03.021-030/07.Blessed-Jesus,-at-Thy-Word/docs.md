@@ -1,15 +1,20 @@
 ---
-title: 27. Blessed Jesus, at Thy Word
+title: |
+    027. Blessed Jesus, at Thy Word - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Blessed Jesus, at Thy Word, Blessed Jesus, at Thy word, 
+    description: |
+        Church Hymnal 1941 027. Blessed Jesus, at Thy Word.  Blessed Jesus, at Thy word, We have gathered all to hear Thee; By Thy word our hearts were stirred, Now to seek and love and fear Thee. By Thy teachings sweet and holy, Let us learn to love Thee solely.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Blessed Jesus, at Thy Word, Blessed Jesus, at Thy word. 
     author: Brian Onang'o
 ---
 
-
-## 27. BLESSED JESUS, AT THY WORD
+#### Advent Hymnals
+## 027. BLESSED JESUS, AT THY WORD
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Blessed Jesus, at Thy word,
 We have gathered all to hear Thee;
@@ -34,13 +39,14 @@ Help us, by Thy Spirit's pleading.
 Hear the cry Thy people raises!
 Hear, and bless our prayer and praises!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Blessed Jesus, at Thy Word |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Blessed Jesus, at Thy word |
 Author | Tobias Clausnitzer
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Johann Rudolph Ahle |
 Hymnal|  - |
 Tune| LIEBSTER JESU |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Opening of Worhsip |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

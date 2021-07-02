@@ -1,50 +1,54 @@
 ---
-title: 307. The Time Is Near
+title: |
+    307. The Time Is Near - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Time Is Near, The time is near when Zion's sons, 
+    description: |
+        Church Hymnal 1941 307. The Time Is Near.  The time is near when Zion's sons,  With rapturous joy shall sing the song  Foretold by seers'anointed ones:  We have a city great and strong,  We have a city great and strong. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Time Is Near, The time is near when Zion's sons. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 307. THE TIME IS NEAR
+####  Church Hymnal 1941,
 
 ```txt
 1.
-I am coming to the cross;
-I am poor and weak and blind;
-I am counting all but dross;
-I shall full salvation find.
-CHORUS:
-I am trusting, Lord, in Thee.
-O thou Lamb of Calvary;
-Humbly at Thy cross I bow.
-Save me, Jesus, save me now.
+The time is near when Zion's sons, 
+With rapturous joy shall sing the song 
+Foretold by seers'anointed ones: 
+We have a city great and strong, 
+We have a city great and strong. 
 
 2.
-Long my heart has sighed for Thee;
-Long has evil reigned within;
-Jesus sweetly speaks to me:
-"I will cleanse you from all sin."
+Open, ye gates! The glorious King 
+Approaches with a holy throng; 
+Open, ye gates! Saints, angels, sing 
+On golden harps the victor's song! 
+On golden harps the victor's song! 
 
 3.
-Here I give my all to Thee:
-Friends and time and earthly store;
-Soul and body Thine to be,
-Wholly Thine forevermore.
+O righteous nation! enter in, 
+That kept the law of truth below, 
+Enter the place, all free from sin, 
+Where life's pure waters gently flow. 
+Where life's pure waters gently flow. 
 
 4.
-Jesus comes! He fills my soul!
-Perfected in Him I am;
-I am every whit made whole:
-Glory, glory to the Lamb!
+Within these walls shall they remain, 
+Who trusted, mighty Lord! in Thee. 
+Death, their last enemy, is slain; 
+They have a right to life's fair tree. 
+They have a right to life's fair tree.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Time Is Near |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | The time is near when Zion's sons |
 Author | R. F. Cottrell
 Year | 1941
@@ -52,36 +56,11 @@ Composer| Lowell Mason (1792-1872) |
 Hymnal|  - |
 Tune| ANVERN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Eternal Life |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 464. Hail, Happy Day!
+title: |
+    464. Hail, Happy Day! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Hail, Happy Day!, Hail, happy day! thou day of holy rest, 
+    description: |
+        Church Hymnal 1941 464. Hail, Happy Day!.  Hail, happy day! thou day of holy rest;  What heavenly peace and transport fill our breast  When Christ, the Lord of grace, in love descends,  And kindly holds communion with His friends! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Hail, Happy Day!, Hail, happy day! thou day of holy rest. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 464. HAIL, HAPPY DAY!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ O Son of God, exalted on Thy throne,
 Impart that grace which comes from Thee alone; 
 Thou, by whose love our light and peace are given, 
 Bring us, dear Saviour, to Thyself and heaven.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Hail, Happy Day! |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Hail, happy day! thou day of holy rest |
 Author | P. H. Brown
 Year | 1941
@@ -47,36 +52,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| FREEPORT |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Sabbath |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

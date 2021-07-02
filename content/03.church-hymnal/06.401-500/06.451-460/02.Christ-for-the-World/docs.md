@@ -1,15 +1,47 @@
 ---
-title: 452. Christ for the World
+title: |
+    452. Christ for the World - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Christ for the World, Christ for the world we sing, 
+    description: |
+        Church Hymnal 1941 452. Christ for the World. Christ for the world we sing, The world to Christ we bring, With loving zeal; The poor, and them that mourn, The faint and overborne, Sinsick and sorrow-worn, Whom Christ doth heal. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Christ for the World, Christ for the world we sing. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 452. CHRIST FOR THE WORLD
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
+1.
+Christ for the world we sing,
+The world to Christ we bring,
+With loving zeal;
+The poor, and them that mourn,
+The faint and overborne,
+Sinsick and sorrow-worn,
+Whom Christ doth heal.
+
+2.
+Christ for the world we sing,
+The world to Christ we bring,
+With fervent prayer;
+The wayward and the lost,
+By restless passions tossed,
+Redeemed at countless cost,
+From dark despair.
+
+3.
+Christ for the world we sing,
+The world to Christ we bring,
+With joyful song;
+The newborn souls, whose days,
+Reclaimed from error's ways,
+Inspired with hope and praise,
+To Christ belong.
 
 ```
 
@@ -17,7 +49,7 @@ metadata:
 -------------|------------|
 Title | Christ for the World |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Christ for the world we sing |
 Author | Samuel Wolcott
 Year | 1941
@@ -29,32 +61,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | The Church and Doctrines: Ministry and Missions |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

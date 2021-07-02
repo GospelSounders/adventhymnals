@@ -1,15 +1,20 @@
 ---
-title: 26. Again We Meet
+title: |
+    026. Again We Meet - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Again We Meet, Father, again in Jesus' name we meet, 
+    description: |
+        Church Hymnal 1941 026. Again We Meet.  Father, again in Jesus' name we meet,  And bow in penitence beneath Thy feet;  Again to Thee our grateful voices raise,  To sue for mercy, and to sing Thy praise.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Again We Meet, Father, again in Jesus' name we meet. 
     author: Brian Onang'o
 ---
 
-
-## 26. AGAIN WE MEET
+#### Advent Hymnals
+## 026. AGAIN WE MEET
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Father, again in Jesus' name we meet, 
 And bow in penitence beneath Thy feet; 
@@ -34,13 +39,14 @@ O by that love which every love excels,
 O by that blood so freely shed for sin, 
 Open blessed mercy's gate, and take us in.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Again We Meet |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Father, again in Jesus' name we meet |
 Author | Lucy Whitmore
 Year | 1941
@@ -48,36 +54,11 @@ Composer| J. B. Dykes |
 Hymnal|  - |
 Tune| PAX DEI |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Opening of Worship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

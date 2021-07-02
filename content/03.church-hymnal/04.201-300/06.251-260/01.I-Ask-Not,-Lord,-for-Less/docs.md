@@ -1,15 +1,20 @@
 ---
-title: 251. I Ask Not, Lord, for Less
+title: |
+    251. I Ask Not, Lord, for Less - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Ask Not, Lord, for Less, I ask not, Lord, for less to bear, 
+    description: |
+        Church Hymnal 1941 251. I Ask Not, Lord, for Less.  I ask not, Lord, for less to bear  Here in the narrow way,  But that I may thy blessing share  In all I do or say,  In all I do or say.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Ask Not, Lord, for Less, I ask not, Lord, for less to bear. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 251. I ASK NOT, LORD, FOR LESS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 I ask not, Lord, for less to bear 
 Here in the narrow way, 
@@ -52,13 +57,14 @@ And in the book of life enrolled,
 Be my name written there, 
 Be my name written there.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Ask Not, Lord, for Less |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | I ask not, Lord, for less to bear |
 Author | Annie R. Smith
 Year | 1941
@@ -66,33 +72,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| HERBERT  |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

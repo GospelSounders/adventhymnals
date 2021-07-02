@@ -1,15 +1,20 @@
 ---
-title: 542. We Know Not the Time When He Cometh
+title: |
+    542. We Know Not the Time When He Cometh - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, We Know Not the Time When He Cometh, We know not the time when He cometh, Waiting and watching
+    description: |
+        Church Hymnal 1941 542. We Know Not the Time When He Cometh.  We know not the time when he cometh,  At even, or midnight, or morn;  It may be at deepening twilight,  It may be at earliest dawn.  He bids us to watch and be ready,  Nor suffer our lights to grow dim;  That, when he may come, he will find us  All waiting and watching for him.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, We Know Not the Time When He Cometh, We know not the time when He cometh. Waiting and watching, 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 542. WE KNOW NOT THE TIME WHEN HE COMETH
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 We know not the time when he cometh, 
 At even, or midnight, or morn; 
@@ -19,7 +24,6 @@ He bids us to watch and be ready,
 Nor suffer our lights to grow dim; 
 That, when he may come, he will find us 
 All waiting and watching for him. 
-
 Refrain:
 Waiting and watching, 
 Waiting and watching, 
@@ -36,12 +40,6 @@ When those whom he died to redeem,
 Rejoice in the hope of his coming, 
 By waiting and watching for him. 
 
-Refrain:
-Waiting and watching, 
-Waiting and watching, 
-Waiting and watching, 
-Still waiting and watching for him. 
-
 3.
 O Jesus, my loving Redeemer, 
 Thou knowest I cherish as dear 
@@ -52,19 +50,13 @@ Who forth from thy presence would flee,
 A Friend most beloved I'll greet thee; 
 I'm waiting and watching for thee.
 
-Refrain:
-Waiting and watching, 
-Waiting and watching, 
-Waiting and watching, 
-Still waiting and watching for him. 
-
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Know Not the Time When He Cometh |
 Key | E♭ Major |
-Titles | Waiting and watching |
+Titles | Waiting and watching,  |
 First Line | We know not the time when He cometh |
 Author | S. M. H.
 Year | 1941
@@ -72,36 +64,11 @@ Composer| Will H. Pontius |
 Hymnal|  - |
 Tune| WAITING AND WATCHING |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

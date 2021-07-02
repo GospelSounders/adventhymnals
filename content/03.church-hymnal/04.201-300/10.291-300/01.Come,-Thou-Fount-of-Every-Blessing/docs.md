@@ -1,15 +1,21 @@
 ---
-title: 291. Come, Thou Fount of Every Blessing
+title: |
+    291. Come, Thou Fount of Every Blessing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Come, Thou Fount of Every Blessing, Come, Thou Fount of every blessing, 
+    description: |
+        Church Hymnal 1941 291. Come, Thou Fount of Every Blessing. Come, Thou Fount of every blessing, Tune my heart to sing Thy grace; Streams of mercy, never ceasing, Call for songs of loudest praise. Teach me ever to adore Thee, May I still Thy goodness prove, While the hope of endless glory Fills my heart with joy and love. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Come, Thou Fount of Every Blessing, Come, Thou Fount of every blessing. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 291. COME, THOU FOUNT OF EVERY BLESSING
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D
+
 1.
 Come, Thou Fount of every blessing,
 Tune my heart to sing Thy grace;
@@ -39,13 +45,14 @@ Prone to wander, Lord, I feel it,
 Prone to leave the God I love;
 Here's my heart--O, take and seal it,
 Seal it for Thy courts above.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come, Thou Fount of Every Blessing |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, Thou Fount of every blessing |
 Author | Robert Robinson
 Year | 1941
@@ -53,33 +60,11 @@ Composer| Asahel Nettleton |
 Hymnal|  - |
 Tune| NETTLETON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Salvation and Redemption |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

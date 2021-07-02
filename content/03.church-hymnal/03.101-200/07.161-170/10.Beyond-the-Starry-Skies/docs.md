@@ -1,15 +1,20 @@
 ---
-title: 170. Beyond the Starry Skies
+title: |
+    170. Beyond the Starry Skies - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Beyond the Starry Skies, Beyond the starry skies, 
+    description: |
+        Church Hymnal 1941 170. Beyond the Starry Skies.  Beyond the starry skies,  Far as th'eternal hills,  There, in the soundless world of light  Our great Redeemer dwells.  Around Him angels fair,  In countless armies shine;  And ever, in exalted lays,  They offer songs divine.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Beyond the Starry Skies, Beyond the starry skies. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 170. BEYOND THE STARRY SKIES
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Beyond the starry skies, 
 Far as th'eternal hills, 
@@ -40,13 +45,14 @@ And bore Him to His throne;
 Then swept their golden harps and sang, 
 "That glorious work is done."
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Beyond the Starry Skies |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Beyond the starry skies |
 Author | Daniel Turner
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Harold A. Miller |
 Hymnal|  - |
 Tune| JENKINS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Glory and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

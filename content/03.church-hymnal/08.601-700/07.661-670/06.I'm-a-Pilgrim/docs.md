@@ -1,66 +1,59 @@
 ---
-title: 666. I'm a Pilgrim
+title: |
+    666. I'm a Pilgrim - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I'm a Pilgrim, I'm a pilgrim, and I'm a stranger, I'm a pilgrim, and I'm a stranger
+    description: |
+        Church Hymnal 1941 666. I'm a Pilgrim.  I'm a pilgrim, and I'm a stranger; I can tarry, I can tarry but a night; Do not detain me, for I am going To where the fountains are ever flowing. CHORUS: I'm a pilgrim, and I'm a stranger; I can tarry, I can tarry but a night. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I'm a Pilgrim, I'm a pilgrim, and I'm a stranger. I'm a pilgrim, and I'm a stranger;
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 666. I'M A PILGRIM
+####  Church Hymnal 1941,
 
 ```txt
 1.
-Cast thy burden upon the Lord,
-And He shall sustain thee;
-He never will suffer the righteous to fall;
-He is at thy right hand.
-Thy mercy, Lord, is great, and far above the heavens;
-Let none be made ashamed, that wait upon Thee.
+I'm a pilgrim, and I'm a stranger;
+I can tarry, I can tarry but a night;
+Do not detain me, for I am going
+To where the fountains are ever flowing.
+CHORUS:
+I'm a pilgrim, and I'm a stranger;
+I can tarry, I can tarry but a night.
+
+2.
+There the glory is ever shining!
+O, my longing heart, my longing heart is there;
+Here in this country so dark and dreary,
+I long have wandered forlorn and weary.
+
+3.
+There's the city to which I journey;
+My Redeemer, my Redeemer is its light!
+There is no sorrow, nor any sighing,
+Nor any tears there, or any dying.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I'm a Pilgrim |
 Key | G Major |
-Titles | I'm a pilgrim, and I'm a stranger |
+Titles | I'm a pilgrim, and I'm a stranger; |
 First Line | I'm a pilgrim, and I'm a stranger |
 Author | Mary S. B. Dana  
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| I'M A PILGRIM |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Early Advent Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

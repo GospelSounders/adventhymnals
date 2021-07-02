@@ -1,15 +1,20 @@
 ---
-title: 649. Wake the Song
+title: |
+    649. Wake the Song - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Wake the Song, Wake the song of joy and gladness, Wake the song, wake the song
+    description: |
+        Church Hymnal 1941 649. Wake the Song.  Wake the song of joy and gladness; Hither bring your noblest lays; Banish every thought of sadness, Pouring forth your highest praise. Sing to Him whose care has brought us Once again with friends to meet, And whose loving voice has taught us Of the way to Jesus' feet. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Wake the Song, Wake the song of joy and gladness. Wake the song, wake the song,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 649. WAKE THE SONG
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Wake the song of joy and gladness;
 Hither bring your noblest lays;
@@ -19,7 +24,6 @@ Sing to Him whose care has brought us
 Once again with friends to meet,
 And whose loving voice has taught us
 Of the way to Jesus' feet.
-
 Refrain:
 Wake the song, wake the song,
 The song of joy and gladness,
@@ -36,12 +40,6 @@ while our thoughts we raise above,
 Telling still the old, old, story,
 Precious theme- redeeming love!
 
-Refrain:
-Wake the song, wake the song,
-The song of joy and gladness,
-Wake the song, wake the song,
-The song of Jubilee.
-
 3.
 Thanks to Thee, O holy Father,
 For the mercies of the year;
@@ -52,11 +50,6 @@ For redemption through Thy blood.
 Breathe upon us, Holy Spirit,
 Sweetly draw us near to God.
 
-Refrain:
-Wake the song, wake the song,
-The song of joy and gladness,
-Wake the song, wake the song,
-The song of Jubilee.
 
 ```
 
@@ -64,7 +57,7 @@ The song of Jubilee.
 -------------|------------|
 Title | Wake the Song |
 Key | A♭ Major |
-Titles | Wake the song, wake the song |
+Titles | Wake the song, wake the song, |
 First Line | Wake the song of joy and gladness |
 Author | W. F. Sherwin (1826-1888)
 Year | 1941
@@ -72,36 +65,11 @@ Composer| W. F. Sherwin (1826-1888) |
 Hymnal|  - |
 Tune| ANNIVERSARY SONG  |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Adoration and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

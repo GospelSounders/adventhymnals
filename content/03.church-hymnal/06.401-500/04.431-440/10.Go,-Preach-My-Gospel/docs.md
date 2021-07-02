@@ -1,15 +1,21 @@
 ---
-title: 440. Go, Preach My Gospel
+title: |
+    440. Go, Preach My Gospel - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Go, Preach My Gospel, "Go, preach My gospel," saith the Lord, 
+    description: |
+        Church Hymnal 1941 440. Go, Preach My Gospel.  Go, preach My gospel, saith the Lord; Bid the whole world My grace receive; He shall be saved who trusts My word, And they condemned who disbelieve. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Go, Preach My Gospel, "Go, preach My gospel," saith the Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 440. GO, PREACH MY GOSPEL
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: C
+
 1.
 Go, preach My gospel, saith the Lord;
 Bid the whole world My grace receive;
@@ -33,50 +39,26 @@ He spake, and light shone round His head;
 On a bright cloud to heaven He rode;
 They to the farthest nations spread
 The grace of their ascended Lord.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Go, Preach My Gospel |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | "Go, preach My gospel," saith the Lord |
 Author | Isaac Watts
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| TRURO |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: Ministry and Missions |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

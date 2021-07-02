@@ -1,15 +1,20 @@
 ---
-title: 244. O Could Our Thoughts
+title: |
+    244. O Could Our Thoughts - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O Could Our Thoughts, O could our thoughts and wishes fly, 
+    description: |
+        Church Hymnal 1941 244. O Could Our Thoughts.  O could our thoughts and wishes fly,  Above these gloomy shades,  To those bright worlds beyond the sky,  Where sorrow ne'er invades!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O Could Our Thoughts, O could our thoughts and wishes fly. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 244. O COULD OUR THOUGHTS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 O could our thoughts and wishes fly, 
 Above these gloomy shades, 
@@ -34,50 +39,26 @@ Our ardent souls shall rise
 To those bright scenes where pleasures spring 
 Immortal in the skies.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Could Our Thoughts |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | O could our thoughts and wishes fly |
 Author | Anne Steele (1716-1778)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| COVENTRY |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

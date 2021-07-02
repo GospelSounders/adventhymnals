@@ -1,15 +1,20 @@
 ---
-title: 179. He Reigns! the Lord, the Saviour, Reigns
+title: |
+    179. He Reigns! the Lord, the Saviour, Reigns - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, He Reigns! the Lord, the Saviour, Reigns, He reigns! the Lord, the Saviour, reigns!, 
+    description: |
+        Church Hymnal 1941 179. He Reigns! the Lord, the Saviour, Reigns.  He reigns! the Lord, the Savior reigns;  Sing to His name in lofty strains,  Let all the saints in songs rejoice,  And in His praise exalt their voice.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, He Reigns! the Lord, the Saviour, Reigns, He reigns! the Lord, the Saviour, reigns!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 179. HE REIGNS! THE LORD, THE SAVIOUR, REIGNS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 He reigns! the Lord, the Savior reigns; 
 Sing to His name in lofty strains, 
@@ -34,13 +39,14 @@ Fly from the sight, and shun the day;
 Then lift your heads, ye saints, on high, 
 And sing, for your redemption's nigh.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | He Reigns! the Lord, the Saviour, Reigns |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | He reigns! the Lord, the Saviour, reigns! |
 Author | Isaac Watts
 Year | 1941
@@ -48,36 +54,11 @@ Composer| L. O. Emerson (1820-1915) |
 Hymnal|  - |
 Tune| SESSIONS |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

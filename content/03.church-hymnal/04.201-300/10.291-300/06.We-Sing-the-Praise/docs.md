@@ -1,13 +1,17 @@
 ---
-title: 296. We Sing the Praise
+title: |
+    296. We Sing the Praise - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, We Sing the Praise, We sing the praise of Him who died, 
+    description: |
+        Church Hymnal 1941 296. We Sing the Praise.  We sing the praise of Him who died,  Of Him who died upon the cross;  The sinner's hope let men deride;  For this we count the world but loss. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, We Sing the Praise, We sing the praise of Him who died. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 296. WE SING THE PRAISE
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,47 +43,26 @@ The balm of life, the cure of woe,
 The measure and the pledge of love, 
 The sinner's refuge here below, 
 The angels' theme in heaven above.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Sing the Praise |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | We sing the praise of Him who died |
 Author | T. Kelly
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| ANGELUS |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Salvation and Redemption |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

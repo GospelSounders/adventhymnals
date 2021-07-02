@@ -1,15 +1,43 @@
 ---
-title: 671. Look for the Waymarks
+title: |
+    671. Look for the Waymarks - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Look for the Waymarks, Look for the waymarks as you journey on, 
+    description: |
+        Church Hymnal 1941 671. Look for the Waymarks.  Look for the way-marks as you journey on, Look for the way-marks passing one by one; Down through the ages, past the kingdoms four' Where are we standing? Look the way-marks o'er. CHORUS: Look for the way-marks, the great prophetic way-marks, Down through the ages, past the kingdoms four. Look for the waymarks, the great prophetic way-marks; The journey's almost o'er. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Look for the Waymarks, Look for the waymarks as you journey on. Look for the way-marks, the great prophetic way-marks,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 671. LOOK FOR THE WAYMARKS
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+
+1.
+Look for the way-marks as you journey on,
+Look for the way-marks passing one by one;
+Down through the ages, past the kingdoms four'
+Where are we standing? Look the way-marks o'er.
+CHORUS:
+Look for the way-marks, the great prophetic way-marks,
+Down through the ages, past the kingdoms four.
+Look for the waymarks, the great prophetic way-marks;
+The journey's almost o'er.
+
+2.
+First, the Assyrian kingdom ruled the world,
+Then Medo-Persia's banners were unfurled;
+And after Greece held universal sway,
+Rome seized the scepter--Where are we today?
+
+3.
+Down in the feet of iron and of clay,
+Weak and divided, soon to pass away;
+What will the next great, glorious drama be?
+Christ and His coming, And eternity.
 
 ```
 
@@ -17,7 +45,7 @@ metadata:
 -------------|------------|
 Title | Look for the Waymarks |
 Key | A♭ Major |
-Titles |  |
+Titles | Look for the way-marks, the great prophetic way-marks, |
 First Line | Look for the waymarks as you journey on |
 Author | F. E. Belden
 Year | 1941
@@ -29,32 +57,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | Choir and Special |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

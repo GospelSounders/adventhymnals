@@ -1,13 +1,17 @@
 ---
-title: 520. Lift Him Up
+title: |
+    520. Lift Him Up - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lift Him Up, Lift Him up, 'tis He that bids you, Lift Him up, the risen Saviour
+    description: |
+        Church Hymnal 1941 520. Lift Him Up.  Lift Him up, 'tis He that bids you, Let the dying look and live; To all weary, thirsting sinners, Living waters will He give; And though once so meek and lowly, Yet the Prince of heaven was He; And the blind, who grope in darkness, Through the blood of Christ shall see. CHORUS: Lift Him up, the risen Savior, High amid the waiting throng; Lift Him up, 'tis He that speaketh, Now He bids you flee from wrong. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lift Him Up, Lift Him up, 'tis He that bids you. Lift Him up, the risen Savior,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 520. LIFT HIM UP
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -54,13 +58,14 @@ Yes, the young shall bow before Him,
 And the old their voices raise;
 All the deaf shall hear hosannah;
 And the dumb shall shout His praise.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lift Him Up |
 Key | F Major |
-Titles | Lift Him up, the risen Saviour |
+Titles | Lift Him up, the risen Savior, |
 First Line | Lift Him up, 'tis He that bids you |
 Author | May E. Warren
 Year | 1941
@@ -68,36 +73,11 @@ Composer| D. S. Hakes |
 Hymnal|  - |
 Tune| Lift Him up, 'tis He that bids you |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Social Worship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

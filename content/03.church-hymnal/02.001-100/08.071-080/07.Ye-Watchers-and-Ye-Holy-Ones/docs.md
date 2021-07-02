@@ -1,22 +1,26 @@
 ---
-title: 77. Ye Watchers and Ye Holy Ones
+title: |
+    077. Ye Watchers and Ye Holy Ones - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Ye Watchers and Ye Holy Ones, Ye watchers and ye holy ones, Alleluia, Alleluia
+    description: |
+        Church Hymnal 1941 077. Ye Watchers and Ye Holy Ones.  Ye watchers and ye holy ones, Bright seraphs, cherubim and thrones, Raise the glad strain, Alleluia! Cry out, dominions, princedoms, powers, Virtues, archangels, angels' choirs: 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Ye Watchers and Ye Holy Ones, Ye watchers and ye holy ones. Alleluia! Alleluia!
     author: Brian Onang'o
 ---
 
-
-## 77. YE WATCHERS AND YE HOLY ONES
+#### Advent Hymnals
+## 077. YE WATCHERS AND YE HOLY ONES
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Ye watchers and ye holy ones,
 Bright seraphs, cherubim and thrones,
 Raise the glad strain, Alleluia!
 Cry out, dominions, princedoms, powers,
 Virtues, archangels, angels' choirs:
-
 Refrain:
 Alleluia! Alleluia!
 Alleluia! Alleluia!
@@ -29,11 +33,6 @@ Lead their praises, Alleluia!
 Thou bearer of th'eternal Word,
 Most gracious, magnify the Lord.
 
-Refrain:
-Alleluia! Alleluia!
-Alleluia! Alleluia!
-Alleluia!
-
 3.
 O friends, in gladness let us sing,
 Supernal anthems echoing,
@@ -41,10 +40,6 @@ Alleluia! Alleluia!
 To God the Father, God the Son,
 And God the Spirit, Three in One.
 
-Refrain:
-Alleluia! Alleluia!
-Alleluia! Alleluia!
-Alleluia!
 
 ```
 
@@ -52,44 +47,19 @@ Alleluia!
 -------------|------------|
 Title | Ye Watchers and Ye Holy Ones |
 Key | E♭ Major |
-Titles | Alleluia, Alleluia |
+Titles | Alleluia! Alleluia! |
 First Line | Ye watchers and ye holy ones |
 Author | Athelstan Riley
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| LASST UNS ERFREUEN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Majesty and Power |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

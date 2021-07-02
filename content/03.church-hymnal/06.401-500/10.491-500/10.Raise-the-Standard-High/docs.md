@@ -1,15 +1,20 @@
 ---
-title: 500. Raise the Standard High
+title: |
+    500. Raise the Standard High - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Raise the Standard High, Raise the banner high, Sound the gathering cry, Raise the temperance standard high
+    description: |
+        Church Hymnal 1941 500. Raise the Standard High.  Raise the standard high,  Sound the gathering cry,  Let the evil kingdom fall;  With a purpose true,  And a will to do,  Sons of freedom, come ye all.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Raise the Standard High, Raise the banner high, Sound the gathering cry. Raise the temperance standard high, 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 500. RAISE THE STANDARD HIGH
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Raise the standard high, 
 Sound the gathering cry, 
@@ -17,7 +22,6 @@ Let the evil kingdom fall;
 With a purpose true, 
 And a will to do, 
 Sons of freedom, come ye all. 
-
 Refrain:
 Raise the temperance standard high, 
 Shout the mighty battle cry; 
@@ -32,12 +36,6 @@ But his rule shall cease,
 And the reign of peace 
 Usher in the golden day. 
 
-Refrain:
-Raise the temperance standard high, 
-Shout the mighty battle cry; 
-Let the evil kingdom fall, 
-Sons of freedom, come ye all. 
-
 3.
 Let the right prevail, 
 Let the evil fail 
@@ -46,19 +44,13 @@ In the conflict fierce and long,
 And the victory 
 Crowns the temperance army strong.
 
-Refrain:
-Raise the temperance standard high, 
-Shout the mighty battle cry; 
-Let the evil kingdom fall, 
-Sons of freedom, come ye all. 
-
 ```
 
 - |   -  |
 -------------|------------|
 Title | Raise the Standard High |
 Key | G Major |
-Titles | Raise the temperance standard high |
+Titles | Raise the temperance standard high,  |
 First Line | Raise the banner high, Sound the gathering cry |
 Author | F. E. Belden
 Year | 1941
@@ -66,36 +58,11 @@ Composer| D. S. Hakes |
 Hymnal|  - |
 Tune| STANDARD |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Temperance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

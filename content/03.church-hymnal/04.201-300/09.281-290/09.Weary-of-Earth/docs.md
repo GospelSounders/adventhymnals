@@ -1,13 +1,17 @@
 ---
-title: 289. Weary of Earth
+title: |
+    289. Weary of Earth - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Weary of Earth, Weary of earth and laden with my sin, 
+    description: |
+        Church Hymnal 1941 289. Weary of Earth.  Weary of earth and laden with my sin,  I look to heaven and long to enter in;  But there no evil thing may find a home,  And yet I hear a voice that bids me, "Come." 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Weary of Earth, Weary of earth and laden with my sin. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 289. WEARY OF EARTH
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Cease, restless will! thy lonely strife resign!
 I know too well how little strength is mine; 
 Grant me, dear Lord, Thy saving love to see; 
 I strive no more; I give myself to Thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Weary of Earth |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Weary of earth and laden with my sin |
 Author | Samuel J. Stone
 Year | 1941
@@ -41,33 +46,11 @@ Composer| James Langran |
 Hymnal|  - |
 Tune| LANGRAN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

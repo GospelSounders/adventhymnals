@@ -1,15 +1,20 @@
 ---
-title: 240. Show Pity, Lord
+title: |
+    240. Show Pity, Lord - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Show Pity, Lord, Show pity Lord; O Lord, forgive!, 
+    description: |
+        Church Hymnal 1941 240. Show Pity, Lord.  Show pity, Lord; O Lord, forgive!  Let a repenting sinner live;  Are not thy mercies large and free?  May not the guilty trust in thee?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Show Pity, Lord, Show pity Lord; O Lord, forgive!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 240. SHOW PITY, LORD
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Show pity, Lord; O Lord, forgive! 
 Let a repenting sinner live; 
@@ -34,13 +39,14 @@ Whose hope, still hovering'round thy Word,
 Would light on some sweet promise there, 
 Some sure support against despair.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Show Pity, Lord |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Show pity Lord; O Lord, forgive! |
 Author | Isaac Watts
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Harold A. Miller |
 Hymnal|  - |
 Tune| WOODS |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

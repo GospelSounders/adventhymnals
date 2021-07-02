@@ -1,15 +1,20 @@
 ---
-title: 175. Awake, Ye Saints
+title: |
+    175. Awake, Ye Saints - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Awake, Ye Saints, Awake, ye saints, and raise your eyes, 
+    description: |
+        Church Hymnal 1941 175. Awake, Ye Saints.  Awake, ye saints, and raise your eyes,  And raise your voices high;  Awake, and praise that sovereign love,  That shows salvation nigh;  Awake, and praise that sovereign love,  That shows salvation nigh.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Awake, Ye Saints, Awake, ye saints, and raise your eyes. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 175. AWAKE, YE SAINTS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Awake, ye saints, and raise your eyes, 
 And raise your voices high; 
@@ -42,13 +47,14 @@ That brings eternal day;
 Haste! till the last glad morning rise 
 That brings eternal day.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Awake, Ye Saints |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Awake, ye saints, and raise your eyes |
 Author | Philip Doddridge (1702-1751)
 Year | 1941
@@ -56,36 +62,11 @@ Composer| Lowell Mason (1792-1872) |
 Hymnal|  - |
 Tune| ZERAH |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 539. In the Glad Time of the Harvest
+title: |
+    539. In the Glad Time of the Harvest - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, In the Glad Time of the Harvest, In the glad time of the harvest, 
+    description: |
+        Church Hymnal 1941 539. In the Glad Time of the Harvest.  In the glad time of the harvest,  In the grand millennial year,  When the King shall take His scepter,  And to judge the world appear,  Earth and sea shall yield their treasure,  All shall stand before the throne;  Just awards will then be given,  When the King shall claim His own. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, In the Glad Time of the Harvest, In the glad time of the harvest. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 539. IN THE GLAD TIME OF THE HARVEST
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -50,13 +54,14 @@ Never weary or alone;
 
 0. we long for that glad morrow 
 When the King shall claim His own.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | In the Glad Time of the Harvest |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | In the glad time of the harvest |
 Author | L. D. Santee
 Year | 1941
@@ -64,36 +69,11 @@ Composer| Edwin Barnes |
 Hymnal|  - |
 Tune| WHEN THE KING SHALL CLAIM HIS OWN |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

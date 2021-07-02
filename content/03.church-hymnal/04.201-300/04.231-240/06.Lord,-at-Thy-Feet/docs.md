@@ -1,15 +1,20 @@
 ---
-title: 236. Lord, at Thy Feet
+title: |
+    236. Lord, at Thy Feet - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lord, at Thy Feet, Lord! at Thy feet we humbly lie, 
+    description: |
+        Church Hymnal 1941 236. Lord, at Thy Feet.  Lord! at thy feet we humbly lie,  And knock at mercy's door;  With heavy heart and downcast eye  Thy favor we implore.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lord, at Thy Feet, Lord! at Thy feet we humbly lie. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 236. LORD, AT THY FEET
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Lord! at thy feet we humbly lie, 
 And knock at mercy's door; 
@@ -28,13 +33,14 @@ Our numerous sins forgive!
 Thy grace our stony hearts can break; 
 Heal us, and bid us live.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord, at Thy Feet |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord! at Thy feet we humbly lie |
 Author | Simon Browne
 Year | 1941
@@ -42,36 +48,11 @@ Composer| Harold A. Miller |
 Hymnal|  - |
 Tune| BRANSON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

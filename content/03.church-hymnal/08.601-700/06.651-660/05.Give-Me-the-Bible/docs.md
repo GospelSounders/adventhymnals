@@ -1,13 +1,17 @@
 ---
-title: 655. Give Me the Bible
+title: |
+    655. Give Me the Bible - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Give Me the Bible, Give me the Bible, star of gladness gleaming, Give me the Bible
+    description: |
+        Church Hymnal 1941 655. Give Me the Bible.  Give me the Bible, Star of gladness gleaming, To cheer the wanderer Lone and tempest tossed, No storm can hide that Peaceful radiance beaming Since Jesus came To seek and save the lost. CHORUS: Give me the Bible-- Holy message shining, Thy light shall guide me In the narrow way. Precept and promise, Law and love combining, 'Til night shall vanish In eternal day. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Give Me the Bible, Give me the Bible, star of gladness gleaming. Give me the Bible--
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 655. GIVE ME THE BIBLE
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -48,13 +52,14 @@ That lamp of safety,
 O'er the gloom shall brighten,
 That light alone
 The path of peace can show.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Give Me the Bible |
 Key | A♭ Major |
-Titles | Give me the Bible |
+Titles | Give me the Bible-- |
 First Line | Give me the Bible, star of gladness gleaming |
 Author | Priscilla J. Owens
 Year | 1941
@@ -62,36 +67,11 @@ Composer| E. S. Lorenz |
 Hymnal|  - |
 Tune| Give me the Bible, star of gladness gleaming |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Study of the Word |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

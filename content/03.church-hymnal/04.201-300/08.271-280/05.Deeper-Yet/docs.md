@@ -1,15 +1,21 @@
 ---
-title: 275. Deeper Yet
+title: |
+    275. Deeper Yet - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Deeper Yet, In the blood from the cross, Deeper yet
+    description: |
+        Church Hymnal 1941 275. Deeper Yet. In the blood from the cross, I have been washed from sin; But to be free from dross, Still I would enter in. CHORUS: Deeper yet, deeper yet, Into the crimson flood; Deeper yet, deeper yet, Under the precious blood. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Deeper Yet, In the blood from the cross. Deeper yet, deeper yet,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 275. DEEPER YET
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: A
+
 1.
 In the blood from the cross,
 I have been washed from sin;
@@ -38,13 +44,14 @@ Now I have peace, sweet peace,
 While in this world of sin;
 But to pray I'll not cease
 Till I am pure within.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Deeper Yet |
 Key | A Major |
-Titles | Deeper yet |
+Titles | Deeper yet, deeper yet, |
 First Line | In the blood from the cross |
 Author | Johnson Oatman, Jr.
 Year | 1941
@@ -52,33 +59,11 @@ Composer| William J. Kirkpatrick |
 Hymnal|  - |
 Tune| DEEPER YET |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

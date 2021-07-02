@@ -1,15 +1,20 @@
 ---
-title: 257. Call Jehovah Thy Salvation
+title: |
+    257. Call Jehovah Thy Salvation - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Call Jehovah Thy Salvation, Call Jehovah thy salvation, 
+    description: |
+        Church Hymnal 1941 257. Call Jehovah Thy Salvation.  Call Jehovah thy salvation,  Rest beneath th' Almighty's shade;  In his secret habitation  Dwell, and never be dismayed.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Call Jehovah Thy Salvation, Call Jehovah thy salvation. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 257. CALL JEHOVAH THY SALVATION
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Call Jehovah thy salvation, 
 Rest beneath th' Almighty's shade; 
@@ -28,47 +33,26 @@ He will hearken, He will save;
 For thy grief reward thee double, 
 Crown with life beyond the grave.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Call Jehovah Thy Salvation |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Call Jehovah thy salvation |
 Author | J. Mongtomery
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| TRUST |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

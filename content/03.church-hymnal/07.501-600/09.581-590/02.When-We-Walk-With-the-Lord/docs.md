@@ -1,13 +1,17 @@
 ---
-title: 582. When We Walk With the Lord
+title: |
+    582. When We Walk With the Lord - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, When We Walk With the Lord, When we walk with the Lord  , Trust and obey, for there's no other way
+    description: |
+        Church Hymnal 1941 582. When We Walk With the Lord.  When we walk with the Lord In the light of His word, What a glory He sheds on our way! While we do His good will, He abides with us still, And with all who will trust and obey. CHORUS: Trust and obey, for there's no other way To be happy in Jesus, but to trust and obey. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, When We Walk With the Lord, When we walk with the Lord  . Trust and obey, for there's no other way
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 582. WHEN WE WALK WITH THE LORD
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -52,6 +56,7 @@ Or we'll walk by His side in the way;
 What He says we will do,
 Where He sends we will go;
 Never fear, only trust and obey.
+
 ```
 
 - |   -  |
@@ -66,36 +71,11 @@ Composer| D. B. Towner |
 Hymnal|  - |
 Tune| TRUST AND OBEY |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

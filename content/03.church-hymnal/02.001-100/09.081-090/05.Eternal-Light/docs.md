@@ -1,15 +1,20 @@
 ---
-title: 85. Eternal Light
+title: |
+    085. Eternal Light - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Eternal Light, Eternal Light! Eternal Light!, 
+    description: |
+        Church Hymnal 1941 085. Eternal Light.  Eternal Light! Eternal Light!  How pure the soul must be  When, placed within Thy searching sight,  It shrinks not, but with calm delight  Can live, and look on Thee!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Eternal Light, Eternal Light! Eternal Light!. 
     author: Brian Onang'o
 ---
 
-
-## 85. ETERNAL LIGHT
+#### Advent Hymnals
+## 085. ETERNAL LIGHT
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Eternal Light! Eternal Light! 
 How pure the soul must be 
@@ -45,13 +50,14 @@ The sons of ignorance and night,
 May dwell in the eternal Light, 
 Through the eternal Love!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Eternal Light |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Eternal Light! Eternal Light! |
 Author | Thomas Binney
 Year | 1941
@@ -59,36 +65,11 @@ Composer| Henry L. Morley |
 Hymnal|  - |
 Tune| NEWCASTLE |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Providence of God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

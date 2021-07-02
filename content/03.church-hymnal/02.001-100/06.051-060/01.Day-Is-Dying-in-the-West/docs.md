@@ -1,22 +1,26 @@
 ---
-title: 51. Day Is Dying in the West
+title: |
+    051. Day Is Dying in the West - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Day Is Dying in the West, Day is dying in the west, Holy, holy, holy, Lord God of hosts!
+    description: |
+        Church Hymnal 1941 051. Day Is Dying in the West.  Day is dying in the west; Heaven is touching earth with rest; Wait and worship while the night Sets the evening lamps alight Through all the sky. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Day Is Dying in the West, Day is dying in the west. Holy, holy, holy, Lord God of Hosts!
     author: Brian Onang'o
 ---
 
-
-## 51. DAY IS DYING IN THE WEST
+#### Advent Hymnals
+## 051. DAY IS DYING IN THE WEST
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Day is dying in the west;
 Heaven is touching earth with rest;
 Wait and worship while the night
 Sets the evening lamps alight
 Through all the sky.
-
 Refrain:
 Holy, holy, holy, Lord God of Hosts!
 Heaven and earth are full of Thee!
@@ -30,24 +34,12 @@ Gather us who seek Thy face
 To the fold of Thy embrace,
 For Thou art nigh.
 
-Refrain:
-Holy, holy, holy, Lord God of Hosts!
-Heaven and earth are full of Thee!
-Heaven and earth are praising Thee,
-O Lord most high!
-
 3.
 While the deepening shadows fall,
 Heart of love enfolding all,
 Through the glory and the grace
 Of the stars that veil Thy face,
 Our hearts ascend.
-
-Refrain:
-Holy, holy, holy, Lord God of Hosts!
-Heaven and earth are full of Thee!
-Heaven and earth are praising Thee,
-O Lord most high!
 
 4.
 When forever from our sight
@@ -56,11 +48,6 @@ Lord of angels, on our eyes
 Let eternal morning rise
 And shadows end.
 
-Refrain:
-Holy, holy, holy, Lord God of Hosts!
-Heaven and earth are full of Thee!
-Heaven and earth are praising Thee,
-O Lord most high!
 
 ```
 
@@ -68,7 +55,7 @@ O Lord most high!
 -------------|------------|
 Title | Day Is Dying in the West |
 Key | A♭ Major |
-Titles | Holy, holy, holy, Lord God of hosts! |
+Titles | Holy, holy, holy, Lord God of Hosts! |
 First Line | Day is dying in the west |
 Author | Mary A. Lathbury
 Year | 1941
@@ -76,36 +63,11 @@ Composer| William F. Sherwin |
 Hymnal|  - |
 Tune| CHAUTAUQUA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Evening Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

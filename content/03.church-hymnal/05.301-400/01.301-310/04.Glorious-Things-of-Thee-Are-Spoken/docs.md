@@ -1,15 +1,21 @@
 ---
-title: 304. Glorious Things of Thee Are Spoken
+title: |
+    304. Glorious Things of Thee Are Spoken - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Glorious Things of Thee Are Spoken, Glorious things of thee are spoken, 
+    description: |
+        Church Hymnal 1941 304. Glorious Things of Thee Are Spoken. Glorious things of thee are spoken, Zion, city of our God; He whose word cannot be broken Formed thee for His own abode; On the Rock of Ages founded, What can shake thy sure repose? With salvation's wall surrounded, Thou mayest smile at all thy foes. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Glorious Things of Thee Are Spoken, Glorious things of thee are spoken. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 304. GLORIOUS THINGS OF THEE ARE SPOKEN
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: E Flat
+
 1.
 Glorious things of thee are spoken,
 Zion, city of our God;
@@ -49,13 +55,14 @@ Fading is the worldling's pleasure,
 All his boasted pomp and show;
 Solid joys and lasting treasure
 None but Zion's children know.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Glorious Things of Thee Are Spoken |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Glorious things of thee are spoken |
 Author | John Newton
 Year | 1941
@@ -63,36 +70,11 @@ Composer| F. Joseph Haydn |
 Hymnal|  - |
 Tune| AUSTRIA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Reward of the Saints |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

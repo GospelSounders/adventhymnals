@@ -1,15 +1,21 @@
 ---
-title: 284. Make Me a Captive, Lord
+title: |
+    284. Make Me a Captive, Lord - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Make Me a Captive, Lord, Make me a captive, Lord, 
+    description: |
+        Church Hymnal 1941 284. Make Me a Captive, Lord. Make me a captive, Lord, And then I shall be free; Force me to render up my sword, And I shall conqueror be. I sink in life's alarms When by myself I stand; Imprison me within Thine arms, And strong shall be my hand. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Make Me a Captive, Lord, Make me a captive, Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 284. MAKE ME A CAPTIVE, LORD
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D Flat
+
 1.
 Make me a captive, Lord, And then I shall be free;
 Force me to render up my sword, And I shall conqueror be.
@@ -27,13 +33,14 @@ My will is not my own Till Thou hast made it Thine;
 If it would reach a monarch's throne, It must its crown resign;
 It only stands unbent, Amid the clashing strife,
 When on Thy bosom it has leant, And found in Thee its life.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Make Me a Captive, Lord |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Make me a captive, Lord |
 Author | George Matheson (1842-1906)
 Year | 1941
@@ -41,33 +48,11 @@ Composer| George W. Martin |
 Hymnal|  - |
 Tune| LEOMINSTER |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 302. Hail to the Brightness
+title: |
+    302. Hail to the Brightness - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Hail to the Brightness, Hail to the brightness of Zion's glad morning!, 
+    description: |
+        Church Hymnal 1941 302. Hail to the Brightness.  Hail to the brightness of Zion's glad morning!  Joy to the lands that in darkness have lain!  Hushed be the accents of sorrow and mourning;  Zion, in triumph, begins her mild reign. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Hail to the Brightness, Hail to the brightness of Zion's glad morning!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 302. HAIL TO THE BRIGHTNESS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -28,13 +32,14 @@ Praise to Jehovah, ascending on high;
 Fallen the engines of war and commotion, 
 Shouts of salvation are rending the sky. 
 Reign, reign for aye.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Hail to the Brightness |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Hail to the brightness of Zion's glad morning! |
 Author | Thomas Hastings
 Year | 1941
@@ -42,36 +47,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| WESLEY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Reward of the Saints |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

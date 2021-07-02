@@ -1,15 +1,21 @@
 ---
-title: 331. Father, Lead Me Day by Day
+title: |
+    331. Father, Lead Me Day by Day - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Father, Lead Me Day by Day, Father, lead me day by day , 
+    description: |
+        Church Hymnal 1941 331. Father, Lead Me Day by Day. Father, lead me day by day, Ever in Thine own sweet way; Teach me to be pure and true; Show me what I ought to do. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Father, Lead Me Day by Day, Father, lead me day by day . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 331. FATHER, LEAD ME DAY BY DAY
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D
+
 1.
 Father, lead me day by day,
 Ever in Thine own sweet way;
@@ -33,13 +39,14 @@ May I do the good I know,
 Be Thy loving child below,
 Then at last go home to Thee,
 Evermore Thy child to be.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Father, Lead Me Day by Day |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | Father, lead me day by day  |
 Author | John P. Hopps (1834-1912)
 Year | 1941
@@ -47,36 +54,11 @@ Composer| George C. Strattner |
 Hymnal|  - |
 Tune| POSEN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Meditation and Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

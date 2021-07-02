@@ -1,15 +1,21 @@
 ---
-title: 309. Jerusalem, My Happy Home
+title: |
+    309. Jerusalem, My Happy Home - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Jerusalem, My Happy Home, Jerusalem, my happy home, 
+    description: |
+        Church Hymnal 1941 309. Jerusalem, My Happy Home. Jerusalem, my happy home, O how I long for thee! When will my sorrows have an end, The joys when shall I see? 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Jerusalem, My Happy Home, Jerusalem, my happy home. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 309. JERUSALEM, MY HAPPY HOME
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
 1.
 Jerusalem, my happy home,
 O how I long for thee!
@@ -33,13 +39,14 @@ Lord, help us by Thy mighty grace,
 To keep in view the prize,
 Till Thou dost come to take us home
 To that blessed paradise.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jerusalem, My Happy Home |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Jerusalem, my happy home |
 Author | Joseph Bromehead (?)
 Year | 1941
@@ -47,36 +54,11 @@ Composer| A. R. Reinagle |
 Hymnal|  - |
 Tune| ST. PETER |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Eternal Life |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

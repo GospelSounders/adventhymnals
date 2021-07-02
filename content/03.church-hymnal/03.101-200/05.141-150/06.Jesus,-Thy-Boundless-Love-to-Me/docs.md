@@ -1,15 +1,20 @@
 ---
-title: 146. Jesus, Thy Boundless Love to Me
+title: |
+    146. Jesus, Thy Boundless Love to Me - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Jesus, Thy Boundless Love to Me, Jesus, Thy boundless love to me, 
+    description: |
+        Church Hymnal 1941 146. Jesus, Thy Boundless Love to Me.  Jesus, Thy boundless love to me  No thought can reach, no tongue declare;  O knit my thankful heart to Thee,  And reign without a rival there;  Thine wholly, Thine alone I am;  Lord, with Thy love my heart inflame.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Jesus, Thy Boundless Love to Me, Jesus, Thy boundless love to me. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 146. JESUS, THY BOUNDLESS LOVE TO ME
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Jesus, Thy boundless love to me 
 No thought can reach, no tongue declare; 
@@ -42,13 +47,14 @@ Jesus, in that important hour,
 In death, as life, be Thou my guide, 
 And save me, who for me hast died.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jesus, Thy Boundless Love to Me |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, Thy boundless love to me |
 Author | P. Gerhardt
 Year | 1941
@@ -56,36 +62,11 @@ Composer| H. J. E. Holmes |
 Hymnal|  - |
 Tune| PATER OMNIUM |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Love and Sympathy |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

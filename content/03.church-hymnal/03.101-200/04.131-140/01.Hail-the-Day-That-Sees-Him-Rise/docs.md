@@ -1,15 +1,20 @@
 ---
-title: 131. Hail the Day That Sees Him Rise
+title: |
+    131. Hail the Day That Sees Him Rise - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Hail the Day That Sees Him Rise, Hail the day that sees Him rise, 
+    description: |
+        Church Hymnal 1941 131. Hail the Day That Sees Him Rise.  Hail the day that sees Him rise, Alleluia! Glorious to His native skies; Alleluia! Christ, awhile to mortals giv'n, Alleluia! Enters now the highest heav'n! Alleluia!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Hail the Day That Sees Him Rise, Hail the day that sees Him rise. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 131. HAIL THE DAY THAT SEES HIM RISE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Hail the day that sees Him rise, Alleluia!
 Glorious to His native skies; Alleluia!
@@ -34,50 +39,26 @@ Raise our hearts to reach Thy height, Alleluia!
 There Thy face unclouded see, Alleluia!
 Find our heav'n of heav'ns in Thee. Alleluia!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Hail the Day That Sees Him Rise |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Hail the day that sees Him rise |
 Author | Charles Wesley (1707-1788)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| VIENNA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: Sufferings and Death |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 62. Eternal Depth of Love Divine
+title: |
+    062. Eternal Depth of Love Divine - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Eternal Depth of Love Divine, Eternal depth of love divine, 
+    description: |
+        Church Hymnal 1941 062. Eternal Depth of Love Divine.  Eternal depth of love divine,  In Jesus, God with us, displayed;  How bright Thy beaming glories shine!  How wide Thy healing streams are spread,  How wide Thy healing streams are spread!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Eternal Depth of Love Divine, Eternal depth of love divine. 
     author: Brian Onang'o
 ---
 
-
-## 62. ETERNAL DEPTH OF LOVE DIVINE
+#### Advent Hymnals
+## 062. ETERNAL DEPTH OF LOVE DIVINE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Eternal depth of love divine, 
 In Jesus, God with us, displayed; 
@@ -38,13 +43,14 @@ O fix Thy sacred presence there,
 And seal the abode for ever Thine! 
 And seal the abode for ever Thine!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Eternal Depth of Love Divine |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | Eternal depth of love divine |
 Author | Nicolaus L. Zinzendorf (1700-1760)
 Year | 1941
@@ -52,36 +58,11 @@ Composer| William Tansur |
 Hymnal|  - |
 Tune| ROTHWELL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Love of God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

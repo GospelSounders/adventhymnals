@@ -1,15 +1,20 @@
 ---
-title: 265. My Life Flows On
+title: |
+    265. My Life Flows On - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, My Life Flows On, My life flows on in endless song, 
+    description: |
+        Church Hymnal 1941 265. My Life Flows On.  My life flows on in endless song;  Amid earth's lamentation,  I hear the sweet, though far-off hymn  That hails a new creation;  Through all the tumult and the strife  I hear the music ringing;  It finds an echo in my soul,  How can I keep from singing?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, My Life Flows On, My life flows on in endless song. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 265. MY LIFE FLOWS ON
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 My life flows on in endless song; 
 Amid earth's lamentation, 
@@ -40,13 +45,14 @@ A fountain ever spinging;
 All things are mine, since I am His 
 How can I keep from singing?
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | My Life Flows On |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | My life flows on in endless song |
 Author | Anon.
 Year | 1941
@@ -54,33 +60,11 @@ Composer| Samuel A. Ward |
 Hymnal|  - |
 Tune| MATERNA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

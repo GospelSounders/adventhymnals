@@ -1,15 +1,20 @@
 ---
-title: 118. When I Survey the Wondrous Cross
+title: |
+    118. When I Survey the Wondrous Cross - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, When I Survey the Wondrous Cross, When I survey the wondrous cross, 
+    description: |
+        Church Hymnal 1941 118. When I Survey the Wondrous Cross.  When I survey the wondrous cross On which the Prince of glory died, My richest gain I count but loss, And pour contempt on all my pride.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, When I Survey the Wondrous Cross, When I survey the wondrous cross. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 118. WHEN I SURVEY THE WONDROUS CROSS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 When I survey the wondrous cross
 On which the Prince of glory died,
@@ -34,13 +39,14 @@ That were a tribute far too small;
 Love so amazing, so divine,
 Demands my life, my soul, my all.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | When I Survey the Wondrous Cross |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | When I survey the wondrous cross |
 Author | Isaac Watts
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Edward Miller |
 Hymnal|  - |
 Tune| ROCKINGHAM OLD |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: Sufferings and Death |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

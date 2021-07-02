@@ -1,13 +1,17 @@
 ---
-title: 313. When Peace, Like a River
+title: |
+    313. When Peace, Like a River - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, When Peace, Like a River, When peace, like a river, attendeth my way, 
+    description: |
+        Church Hymnal 1941 313. When Peace, Like a River.  When peace, like a river, attendeth my way,  When sorrows like sea billows roll;  Whatever my lot, thou hast taught me to say,  It is well, it is well with my soul. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, When Peace, Like a River, When peace, like a river, attendeth my way. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 313. WHEN PEACE, LIKE A RIVER
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ And, Lord, haste the day when the faith shall be sight,
 The clouds be rolled back as a scroll, 
 The trump shall resound, and the Lord shall descend; 
 "Even so," it is well with my soul.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | When Peace, Like a River |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | When peace, like a river, attendeth my way |
 Author | H. G. Spafford
 Year | 1941
@@ -47,36 +52,11 @@ Composer| P. P. Bliss |
 Hymnal|  - |
 Tune| IT IS WELL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Joy or Peace |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

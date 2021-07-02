@@ -1,13 +1,17 @@
 ---
-title: 319. Prayer Is the Soul's Sincere Desire
+title: |
+    319. Prayer Is the Soul's Sincere Desire - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Prayer Is the Soul's Sincere Desire, Prayer is the soul's sincere desire, 
+    description: |
+        Church Hymnal 1941 319. Prayer Is the Soul's Sincere Desire.  Prayer is the soul's sincere desire,  Unuttered or expressed;  The motion of a hidden fire  That trembles in the breast.  He prayeth best who loveth best  All things both great and small;  For the dear God who loveth us,  He made and loveth all. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Prayer Is the Soul's Sincere Desire, Prayer is the soul's sincere desire. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 319. PRAYER IS THE SOUL'S SINCERE DESIRE
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ O Thou, by whom we come to God,
 The life, the truth, the way, 
 The path of prayer Thyself hast trod; 
 Lord, teach us how to pray.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Prayer Is the Soul's Sincere Desire |
 Key | c minor |
-Titles |  |
+Titles | undefined |
 First Line | Prayer is the soul's sincere desire |
 Author | James Mongtomery
 Year | 1941
@@ -63,36 +68,11 @@ Composer| Arthur Sullivan |
 Hymnal|  - |
 Tune| AUDITE AUDIENTES ME |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Meditation and Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

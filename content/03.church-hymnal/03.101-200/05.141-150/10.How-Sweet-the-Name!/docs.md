@@ -1,15 +1,20 @@
 ---
-title: 150. How Sweet the Name!
+title: |
+    150. How Sweet the Name! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, How Sweet the Name!, How sweet the name of Jesus sounds, 
+    description: |
+        Church Hymnal 1941 150. How Sweet the Name!.  How sweet the name of Jesus sounds In a believer�s ear! It soothes his sorrows, heals his wounds, And drives away his fear.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, How Sweet the Name!, How sweet the name of Jesus sounds. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 150. HOW SWEET THE NAME!
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 How sweet the name of Jesus sounds
 In a believer�s ear!
@@ -40,13 +45,14 @@ And cold my warmest thought;
 But when I see Thee as Thou art,
 I'll praise Thee as I ought.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Sweet the Name! |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | How sweet the name of Jesus sounds |
 Author | John Newton
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Alexander R. Reinagle |
 Hymnal|  - |
 Tune| ST. PETER |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Love and Sympathy |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

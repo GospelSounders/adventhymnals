@@ -1,15 +1,20 @@
 ---
-title: 169. Thou Hidden Source
+title: |
+    169. Thou Hidden Source - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Thou Hidden Source, Thou hidden Source of calm repose, 
+    description: |
+        Church Hymnal 1941 169. Thou Hidden Source.  Thou hidden source of calm repose,  Thou all-sufficient love divine;  My help and refuge from my foes,  Secure I am if thou art mine,  From sin and grief, from guilt and shame;  I hide me, Jesus, in Thy name.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Thou Hidden Source, Thou hidden Source of calm repose. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 169. THOU HIDDEN SOURCE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Thou hidden source of calm repose, 
 Thou all-sufficient love divine; 
@@ -42,13 +47,14 @@ My light in Satan's darkest hour;
 In grief, my joy unspeakable; 
 My life in death; my heaven, my all.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thou Hidden Source |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Thou hidden Source of calm repose |
 Author | Charles Wesley
 Year | 1941
@@ -56,36 +62,11 @@ Composer| H. J. E. Holmes |
 Hymnal|  - |
 Tune| PATER OMNIUM |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Glory and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

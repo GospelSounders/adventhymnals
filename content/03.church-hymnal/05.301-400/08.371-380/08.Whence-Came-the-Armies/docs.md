@@ -1,13 +1,17 @@
 ---
-title: 378. Whence Came the Armies?
+title: |
+    378. Whence Came the Armies? - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Whence Came the Armies?, Whence came the armies of the sky, 
+    description: |
+        Church Hymnal 1941 378. Whence Came the Armies?.  Whence came the armies of the sky,  John saw in vision bright?  Whence came their crowns, their robes, their palms,  Too pure for mortal sight? 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Whence Came the Armies?, Whence came the armies of the sky. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 378. WHENCE CAME THE ARMIES?
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ From desert waste, and cities full,
 From dungeons dark, they've come, 
 And now they claim their mansion fair, 
 They've found their long-sought home.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Whence Came the Armies? |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Whence came the armies of the sky |
 Author | Anon.
 Year | 1941
@@ -53,36 +58,11 @@ Composer| Hugh Wilson |
 Hymnal|  - |
 Tune| MARTYRDOM (AVON) |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Hope and Aspiration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

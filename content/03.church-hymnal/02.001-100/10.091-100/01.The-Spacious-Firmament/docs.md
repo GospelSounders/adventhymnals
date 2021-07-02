@@ -1,15 +1,20 @@
 ---
-title: 91. The Spacious Firmament
+title: |
+    091. The Spacious Firmament - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Spacious Firmament, The spacious firmament on high, 
+    description: |
+        Church Hymnal 1941 091. The Spacious Firmament.  The spacious firmament on high, With all the blue, ethereal sky, And spangled heavens, a shining frame, Their great Original proclaim. Th'unwearied sun from day to day Does his Creator's power display, And publishes to every land The work of an almighty hand  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Spacious Firmament, The spacious firmament on high. 
     author: Brian Onang'o
 ---
 
-
-## 91. THE SPACIOUS FIRMAMENT
+#### Advent Hymnals
+## 091. THE SPACIOUS FIRMAMENT
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The spacious firmament on high,
 With all the blue, ethereal sky,
@@ -40,50 +45,26 @@ And utter forth a glorious voice,
 Forever singing as they shine,
 "The hand that made us is divine."
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Spacious Firmament |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The spacious firmament on high |
 Author | Joseph Addison
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| CREATION |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: God's Power in Nature |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

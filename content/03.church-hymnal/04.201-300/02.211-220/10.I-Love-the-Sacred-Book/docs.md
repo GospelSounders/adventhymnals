@@ -1,15 +1,20 @@
 ---
-title: 220. I Love the Sacred Book
+title: |
+    220. I Love the Sacred Book - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Love the Sacred Book, I love the sacred book of God, 
+    description: |
+        Church Hymnal 1941 220. I Love the Sacred Book.  I love the sacred book of God,  No other can its place supply;  It points me to the saints' abode,  And bids me from destruction fly.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Love the Sacred Book, I love the sacred book of God. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 220. I LOVE THE SACRED BOOK
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 I love the sacred book of God, 
 No other can its place supply; 
@@ -40,50 +45,26 @@ To lead my feet through life's dark way;
 O, shine on this benighted heart, 
 Nor let me from thy guidance stray.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Love the Sacred Book |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | I love the sacred book of God |
 Author | Thomas Kelly
 Year | 1941
-Composer| Lowell Mason |
+Composer| undefined |
 Hymnal|  - |
 Tune| HAMBURG |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Holy Scriptures: The Gospel-The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

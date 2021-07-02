@@ -1,13 +1,17 @@
 ---
-title: 682. Father, I Yield to Thee My Life
+title: |
+    682. Father, I Yield to Thee My Life - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Father, I Yield to Thee My Life, Father, I yield to Thee my life, 
+    description: |
+        Church Hymnal 1941 682. Father, I Yield to Thee My Life.  Father, I yield to Thee my life,  Thine only shall it be;  From sordid pleasures, sin and strife,  I turn, 0 Lord, to Thee.  Unfettered from all earthly ties,  From cruel change and scorn,  I haste to Thee, where shadows flee  Before the cloudless morn. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Father, I Yield to Thee My Life, Father, I yield to Thee my life. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 682. FATHER, I YIELD TO THEE MY LIFE
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,50 +53,26 @@ My doubts and tears lie all behind,
 Eternal bliss before; 
 Lost in Thy love and wholly Thine 
 I'll rest forevermore.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Father, I Yield to Thee My Life |
 Key | f♯ minor |
-Titles |  |
+Titles | undefined |
 First Line | Father, I yield to Thee my life |
 Author | D. A. R. Aufranc
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| THE PROMISED LAND |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Choir and Special |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

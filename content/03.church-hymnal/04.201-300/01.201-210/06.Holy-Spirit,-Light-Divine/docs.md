@@ -1,15 +1,21 @@
 ---
-title: 206. Holy Spirit, Light Divine
+title: |
+    206. Holy Spirit, Light Divine - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Holy Spirit, Light Divine, Holy Spirit, light divine, 
+    description: |
+        Church Hymnal 1941 206. Holy Spirit, Light Divine.  Holy Spirit, light divine, Shine upon this heart of mine, Chase the shades of night away, Turn my darkness into day.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Holy Spirit, Light Divine, Holy Spirit, light divine. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 206. HOLY SPIRIT, LIGHT DIVINE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: A Flat
+
 1.
 Holy Spirit, light divine,
 Shine upon this heart of mine,
@@ -34,50 +40,26 @@ Dwell within this heart of mine,
 Cast down every idol throne,
 Reign supreme, and reign alone.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Holy Spirit, Light Divine |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Holy Spirit, light divine |
 Author | Andrew Reed
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| MERCY |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: Holy Spirit |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 141. We May Not Climb
+title: |
+    141. We May Not Climb - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, We May Not Climb, We may not climb the heavenly steeps, 
+    description: |
+        Church Hymnal 1941 141. We May Not Climb.  We may not climb the heavenly steeps  To bring the Saviour down;  In vain we search the lowest deeps,  For Him no depths can drown.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, We May Not Climb, We may not climb the heavenly steeps. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 141. WE MAY NOT CLIMB
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 We may not climb the heavenly steeps 
 To bring the Saviour down; 
@@ -34,50 +39,26 @@ Whate'er our name or sign,
 We own Thy sway, we hear Thy call, 
 We test our lives by Thine!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We May Not Climb |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | We may not climb the heavenly steeps |
 Author | John G. Whittier
 Year | 1941
-Composer| U. C. Bumap |
+Composer| undefined |
 Hymnal|  - |
 Tune| SERENITY |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Love and Sympathy |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

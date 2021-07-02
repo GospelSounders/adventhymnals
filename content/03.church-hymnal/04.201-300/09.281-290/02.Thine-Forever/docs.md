@@ -1,13 +1,17 @@
 ---
-title: 282. Thine Forever
+title: |
+    282. Thine Forever - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Thine Forever, Thine forever! God of love, 
+    description: |
+        Church Hymnal 1941 282. Thine Forever.  Thine forever! God of love,  Hear us from Thy throne above;  Thine forever may we be,  Here and in eternity. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Thine Forever, Thine forever! God of love. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 282. THINE FOREVER
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Thine forever! Thou our Guide,
 All our wants by Thee supplied, 
 All our sins by Thee forgiven, 
 Lead us, Lord, from earth to heaven.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thine Forever |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Thine forever! God of love |
 Author | Mary F. Maude
 Year | 1941
@@ -53,33 +58,11 @@ Composer| Archbishop of Maclaggan |
 Hymnal|  - |
 Tune| NEWINGTON |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 458. How Sweet Upon This Sacred Day
+title: |
+    458. How Sweet Upon This Sacred Day - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, How Sweet Upon This Sacred Day, How sweet upon this sacred day, 
+    description: |
+        Church Hymnal 1941 458. How Sweet Upon This Sacred Day.  How sweet upon this sacred day,  The best of all the seven,  To cast our earthly thoughts away,  And think of God and heaven! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, How Sweet Upon This Sacred Day, How sweet upon this sacred day. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 458. HOW SWEET UPON THIS SACRED DAY
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ And if, to make our sins depart,
 In vain the will has striven, 
 He who regards the inmost heart 
 Will send his grace from heaven.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Sweet Upon This Sacred Day |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | How sweet upon this sacred day |
 Author | Mrs. Follen
 Year | 1941
@@ -47,36 +52,11 @@ Composer| George Kingsley (1811-1884) |
 Hymnal|  - |
 Tune| ELIZABETHTOWN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Sabbath |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 498. Yield Not to Temptation
+title: |
+    498. Yield Not to Temptation - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Yield Not to Temptation, Yield not to temptation , Ask the Savior to help you
+    description: |
+        Church Hymnal 1941 498. Yield Not to Temptation.  Yield not to temptation,  For yielding is sin,  Each victory will help you  Some other to win;  Fight manfully onward,  Dark passions subdue,  Look ever to Jesus,  He'll carry you through.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Yield Not to Temptation, Yield not to temptation . Ask the Saviour to help you, 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 498. YIELD NOT TO TEMPTATION
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Yield not to temptation, 
 For yielding is sin, 
@@ -19,7 +24,6 @@ Fight manfully onward,
 Dark passions subdue, 
 Look ever to Jesus, 
 He'll carry you through. 
-
 Refrain:
 Ask the Saviour to help you, 
 Comfort, strengthen, and keep you; 
@@ -36,12 +40,6 @@ Kindhearted and true,
 Look ever to Jesus, 
 He'll carry you through. 
 
-Refrain:
-Ask the Saviour to help you, 
-Comfort, strengthen, and keep you; 
-He is willing to aid you, 
-He will carry you through. 
-
 3.
 To him that o'ercometh 
 God giveth a crown, 
@@ -52,19 +50,13 @@ Our strength will renew,
 Look ever to Jesus, 
 He'll carry you through.
 
-Refrain:
-Ask the Saviour to help you, 
-Comfort, strengthen, and keep you; 
-He is willing to aid you, 
-He will carry you through. 
-
 ```
 
 - |   -  |
 -------------|------------|
 Title | Yield Not to Temptation |
 Key | B♭ Major |
-Titles | Ask the Savior to help you |
+Titles | Ask the Saviour to help you,  |
 First Line | Yield not to temptation  |
 Author | Horatio R. Palmer
 Year | 1941
@@ -72,36 +64,11 @@ Composer| Horatio R. Palmer |
 Hymnal|  - |
 Tune| PALMER |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Temperance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

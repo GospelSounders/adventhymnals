@@ -1,15 +1,21 @@
 ---
-title: 471. Thy Broken Body, Gracious Lord
+title: |
+    471. Thy Broken Body, Gracious Lord - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Thy Broken Body, Gracious Lord, Thy broken body, gracious Lord, 
+    description: |
+        Church Hymnal 1941 471. Thy Broken Body, Gracious Lord. Thy broken body, gracious Lord, Is shadowed by this broken bread; The wine which in this cup is poured, Points to the blood which Thou hast shed. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Thy Broken Body, Gracious Lord, Thy broken body, gracious Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 471. THY BROKEN BODY, GRACIOUS LORD
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D
+
 1.
 Thy broken body, gracious Lord,
 Is shadowed by this broken bread;
@@ -27,13 +33,14 @@ We have one hope that Thou wilt come,
 Thee in the air we wait to see;
 When Thou wilt give Thy saints a home,
 And we shall ever reign with Thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thy Broken Body, Gracious Lord |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Thy broken body, gracious Lord |
 Author | Anon.
 Year | 1941
@@ -41,36 +48,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| ERNAN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Lord's Supper |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

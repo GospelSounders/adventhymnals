@@ -1,15 +1,21 @@
 ---
-title: 342. Ye Servants of God
+title: |
+    342. Ye Servants of God - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Ye Servants of God, Ye servants of God, your Master proclaim, 
+    description: |
+        Church Hymnal 1941 342. Ye Servants of God. Ye servants of God, your Master proclaim,  And publish abroad His wonderful name;  The name all-victorious of Jesus extol,  His kingdom is glorious and rules over all. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Ye Servants of God, Ye servants of God, your Master proclaim. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 342. YE SERVANTS OF GOD
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+
 1.
 Ye servants of God, your Master proclaim, 
 And publish abroad His wonderful name; 
@@ -33,13 +39,14 @@ Then let us adore and give him His right,
 All glory and power, all wisdom and might; 
 All honor and blessing with angels above, 
 And thanks never ceasing and infinite love.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Ye Servants of God |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Ye servants of God, your Master proclaim |
 Author | Charles Wesley
 Year | 1941
@@ -47,36 +54,11 @@ Composer| William Croft |
 Hymnal|  - |
 Tune| HANOVER |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Work and Duty |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

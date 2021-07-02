@@ -1,13 +1,17 @@
 ---
-title: 336. Come In, O Come!
+title: |
+    336. Come In, O Come! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Come In, O Come!, Come in, O come! the door stands open now, 
+    description: |
+        Church Hymnal 1941 336. Come In, O Come!.  Come in, O come! the door stands open now;  I knew Thy voice; Lord Jesus, it was Thou;  The sun has set long since; the storms begin;  'Tis time for Thee, my Saviour, O come in! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Come In, O Come!, Come in, O come! the door stands open now. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 336. COME IN, O COME!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Come, not to find, but make this troubled heart
 A dwelling worthy of Thee as Thou art; 
 To chase the gloom, the terror, and the sin: 
 Come, all Thyself, yea, come, Lord Jesus, in!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come In, O Come! |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Come in, O come! the door stands open now |
 Author | H. C. G. Moule
 Year | 1941
@@ -53,36 +58,11 @@ Composer| Frederick C. Atkinson |
 Hymnal|  - |
 Tune| MORECAMBE |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Discipleship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

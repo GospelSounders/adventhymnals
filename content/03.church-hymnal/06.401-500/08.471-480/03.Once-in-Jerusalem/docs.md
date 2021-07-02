@@ -1,13 +1,17 @@
 ---
-title: 473. Once in Jerusalem
+title: |
+    473. Once in Jerusalem - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Once in Jerusalem, Once in Jerusalem of old  , 
+    description: |
+        Church Hymnal 1941 473. Once in Jerusalem.  Once in Jerusalem of old  Our Saviour washed their feet  Who climbed with Him Judea's hills,  And roved its valleys sweet.  With lowly attitude and mien  To them He bowed the knee,  Thus showing how love's service blends  With meek humility. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Once in Jerusalem, Once in Jerusalem of old  . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 473. ONCE IN JERUSALEM
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Dear Saviour, help us keep more near
 The good old Bible ways; 
 Head, hands, and feet we pray Thee wash, 
 That we may speak Thy praise.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Once in Jerusalem |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Once in Jerusalem of old   |
 Author | T. R. Williamson
 Year | 1941
@@ -53,36 +58,11 @@ Composer| D. B. Thompson? |
 Hymnal|  - |
 Tune| ALIDA |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Lord's Supper |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

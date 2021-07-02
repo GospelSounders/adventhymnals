@@ -1,13 +1,17 @@
 ---
-title: 517. There's No Other Name Like Jesus
+title: |
+    517. There's No Other Name Like Jesus - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, There's No Other Name Like Jesus, There's no other name like Jesus, Sweet name, dear name
+    description: |
+        Church Hymnal 1941 517. There's No Other Name Like Jesus. There's no other name like Jesus, 'Tis the dearest name we know, 'Tis the angel's joy in heaven, Tis the Christian's joy below. CHORUS: Sweet name, (sweet name) dear name, (dear name) There's no other name like Jesus; Sweet name, (sweet name) dear name, (dear name) There's no other name like Jesus. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, There's No Other Name Like Jesus, There's no other name like Jesus. Sweet name, (sweet name) dear name, (dear name)
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 517. THERE'S NO OTHER NAME LIKE JESUS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -44,13 +48,14 @@ If He wills that death's cold finger
 Touch my feeble, mortal clay,
 Then 'tis well if only Jesus
 Is my dying trust and stay.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | There's No Other Name Like Jesus |
 Key | G Major |
-Titles | Sweet name, dear name |
+Titles | Sweet name, (sweet name) dear name, (dear name) |
 First Line | There's no other name like Jesus |
 Author | F. E. Belden
 Year | 1941
@@ -58,36 +63,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| There's no other name like Jesus |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
-Subjects |  |
-Texts |  |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects | undefined |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

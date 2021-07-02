@@ -1,15 +1,20 @@
 ---
-title: 43. When Morning Gilds the Skies
+title: |
+    043. When Morning Gilds the Skies - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, When Morning Gilds the Skies, When morning gilds the skies, 
+    description: |
+        Church Hymnal 1941 043. When Morning Gilds the Skies.  When morning gilds the skies my heart awaking cries, May Jesus Christ be praised! Alike at work and prayer, to Jesus I repair: May Jesus Christ be praised!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, When Morning Gilds the Skies, When morning gilds the skies. 
     author: Brian Onang'o
 ---
 
-
-## 43. WHEN MORNING GILDS THE SKIES
+#### Advent Hymnals
+## 043. WHEN MORNING GILDS THE SKIES
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 When morning gilds the skies my heart awaking cries,
 May Jesus Christ be praised!
@@ -46,50 +51,26 @@ May Jesus Christ be praised!
 Be this th'eternal song through all the ages long,
 May Jesus Christ be praised!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | When Morning Gilds the Skies |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | When morning gilds the skies |
-Author | 
+Author | undefined
 Year | 1941
 Composer| Joseph Barnby |
 Hymnal|  - |
 Tune| LAUDES DOMINI |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Morning Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

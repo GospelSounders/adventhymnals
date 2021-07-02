@@ -1,15 +1,20 @@
 ---
-title: 99. It Came Upon the Midnight Clear
+title: |
+    099. It Came Upon the Midnight Clear - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, It Came Upon the Midnight Clear, It came upon the midnight clear, 
+    description: |
+        Church Hymnal 1941 099. It Came Upon the Midnight Clear.  It came upon the midnight clear,  That glorious song of old,  From angels bending near the earth,  To touch their harps of gold:  "Peace on the earth, goodwill to men  From heavens all gracious King;"  The world in solemn stillness lay,  To hear the angels sing.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, It Came Upon the Midnight Clear, It came upon the midnight clear. 
     author: Brian Onang'o
 ---
 
-
-## 99. IT CAME UPON THE MIDNIGHT CLEAR
+#### Advent Hymnals
+## 099. IT CAME UPON THE MIDNIGHT CLEAR
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 It came upon the midnight clear, 
 That glorious song of old, 
@@ -40,13 +45,14 @@ Come swiftly on the wing;
 O rest beside the weary road, 
 And hear the angels sing.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | It Came Upon the Midnight Clear |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | It came upon the midnight clear |
 Author | Edmund H. Sears
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Richard S. Willis |
 Hymnal|  - |
 Tune| CAROL |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Incarnation and Advent |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

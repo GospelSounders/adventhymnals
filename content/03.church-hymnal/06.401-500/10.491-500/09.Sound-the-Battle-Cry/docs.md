@@ -1,13 +1,17 @@
 ---
-title: 499. Sound the Battle Cry
+title: |
+    499. Sound the Battle Cry - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Sound the Battle Cry, Sound the battle cry, See! the foe is nigh, Rouse, then, soldiers!
+    description: |
+        Church Hymnal 1941 499. Sound the Battle Cry. Sound the battle cry, See! the foe is nigh; Raise the standard high For the Lord; Gird your armor on, Stand firm, every one, Rest your cause upon His holy word. CHORUS: Rouse, then soldiers! Rally round the banner! Ready, steady, pass the word along; Onward, forward, shout aloud hosanna! Christ is Captain of the mighty throng. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Sound the Battle Cry, Sound the battle cry, See! the foe is nigh. Rouse, then soldiers!
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 499. SOUND THE BATTLE CRY
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -44,13 +48,14 @@ When the battle�s done,
 And the victory won,
 May we wear the crown
 Before Thy face.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sound the Battle Cry |
 Key | B♭ Major |
-Titles | Rouse, then, soldiers! |
+Titles | Rouse, then soldiers! |
 First Line | Sound the battle cry, See! the foe is nigh |
 Author | William F. Sherwin
 Year | 1941
@@ -58,36 +63,11 @@ Composer| William F. Sherwin |
 Hymnal|  - |
 Tune| BATTLE CRY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Temperance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

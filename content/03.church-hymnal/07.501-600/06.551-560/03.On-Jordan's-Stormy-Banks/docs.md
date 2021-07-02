@@ -1,13 +1,17 @@
 ---
-title: 553. On Jordan's Stormy Banks
+title: |
+    553. On Jordan's Stormy Banks - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, On Jordan's Stormy Banks, On Jordan's stormy banks I stand , We will rest in the fair and happy land
+    description: |
+        Church Hymnal 1941 553. On Jordan's Stormy Banks. On Jordan's stormy banks I stand, And cast a wishful eye To Canaan's fair and happy land, Where my possessions lie. CHORUS: I am bound for the promised land, I am bound for the promised land; O who will come and go with me? I am bound for the promised land. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, On Jordan's Stormy Banks, On Jordan's stormy banks I stand . I am bound for the promised land,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 553. ON JORDAN'S STORMY BANKS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -38,13 +42,14 @@ Filled with delight, my raptured soul
 Would here no longer stay;
 Though Jordan's waves around me roll,
 Fearless I'd launch away.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | On Jordan's Stormy Banks |
 Key | G Major |
-Titles | We will rest in the fair and happy land |
+Titles | I am bound for the promised land, |
 First Line | On Jordan's stormy banks I stand  |
 Author | Samuel Stennett
 Year | 1941
@@ -52,36 +57,11 @@ Composer| T. C. O'Kane |
 Hymnal|  - |
 Tune| On Jordan's stormy banks I stand |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: His Kingdom and Reign |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

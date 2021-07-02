@@ -1,15 +1,20 @@
 ---
-title: 153. Come, Let Us Sing
+title: |
+    153. Come, Let Us Sing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Come, Let Us Sing, Come, let us sing the song of songs, 
+    description: |
+        Church Hymnal 1941 153. Come, Let Us Sing.  Come, let us sing the song of songs'  The angels first began the strain'  The homage which to Christ belongs:  "Worthy the Lamb, for He was slain!"  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Come, Let Us Sing, Come, let us sing the song of songs. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 153. COME, LET US SING
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Come, let us sing the song of songs' 
 The angels first began the strain' 
@@ -40,50 +45,26 @@ And while in heaven with Him we reign,
 This song our song of songs shall be: 
 "Worthy the Lamb, for He was slain!"
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come, Let Us Sing |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, let us sing the song of songs |
 Author | James Mongtomery (1771-1854)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| RUSSIA |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Glory and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

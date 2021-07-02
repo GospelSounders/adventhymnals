@@ -1,15 +1,20 @@
 ---
-title: 195. Great God, What Do I See
+title: |
+    195. Great God, What Do I See - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Great God, What Do I See, Great God, what do I see and hear!, 
+    description: |
+        Church Hymnal 1941 195. Great God, What Do I See.  Great God, what do I see and hear!  The end of things created!  The Judge of man I see appear  On clouds of glory seated;  The trumpet sounds; the graves restore  The dead which they contained before;  Prepare, my soul, to meet Him.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Great God, What Do I See, Great God, what do I see and hear!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 195. GREAT GOD, WHAT DO I SEE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Great God, what do I see and hear! 
 The end of things created! 
@@ -46,50 +51,26 @@ Beneath His cross I view the day
 When heaven and earth shall pass away, 
 And thus prepare to meet Him.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Great God, What Do I See |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Great God, what do I see and hear! |
 Author | William B. Collyer
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| LUTHER |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

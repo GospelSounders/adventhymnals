@@ -1,13 +1,17 @@
 ---
-title: 373. Pilgrims On, the Day Is Dawning
+title: |
+    373. Pilgrims On, the Day Is Dawning - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Pilgrims On, the Day Is Dawning, Pilgrims, on! the day is dawning, 
+    description: |
+        Church Hymnal 1941 373. Pilgrims On, the Day Is Dawning.  Pilgrims, on! the day is dawning;  Strike your tents, and homeward haste;  Sleep not while the blush or morning  Calls ou on the desert waste.  Though the way be dark and dreary,  Life's sharp anguish must be borne;  Courage, then, ye faint and weary,  Linger not to weep and mourn. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Pilgrims On, the Day Is Dawning, Pilgrims, on! the day is dawning. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 373. PILGRIMS ON, THE DAY IS DAWNING
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ O, 'twere sweet to toil in sadness,
 O, 'twere well the cross to bear, 
 If, at last in joy or gladness, 
 We may rest forever there!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Pilgrims On, the Day Is Dawning |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Pilgrims, on! the day is dawning |
 Author | Anon.
 Year | 1941
@@ -63,36 +68,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| ONWARD  |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Pilgrimage |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 496. Come, Ye Thankful People
+title: |
+    496. Come, Ye Thankful People - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Come, Ye Thankful People, Come, ye thankful people, come, 
+    description: |
+        Church Hymnal 1941 496. Come, Ye Thankful People. Come, ye thankful people, come, Raise the song of harvest home; All is safely gathered in, Ere the winter storms begin. God our Maker doth provide For our wants to be supplied; Come to God's own temple, come; Raise the song of harvest home! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Come, Ye Thankful People, Come, ye thankful people, come. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 496. COME, YE THANKFUL PEOPLE
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ There, forever purified,
 In God's garner to abide;
 Come, ten thousand angels, come,
 Raise the glorious harvest home!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come, Ye Thankful People |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, ye thankful people, come |
 Author | Henry Alford
 Year | 1941
@@ -63,36 +68,11 @@ Composer| George J. Elvey |
 Hymnal|  - |
 Tune| ST. GEORGE'S, WINDSOR |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Thanksgiving |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

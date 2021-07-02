@@ -1,15 +1,20 @@
 ---
-title: 501. Out From the Campfire's Red Glowing
+title: |
+    501. Out From the Campfire's Red Glowing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Out From the Campfire's Red Glowing, Out from the campfire's red glowing, Yes, sleeping on guard, Sleeping on guard
+    description: |
+        Church Hymnal 1941 501. Out From the Campfire's Red Glowing.  Out from the campfire's red glowing,  Cheerfully shedding its light,  On to the pickets we're going,  For the long watches of night;  Let us be careful that slumber  Press not our eyelids too hard'  Surely not one of our number  Must be found sleeping on guard.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Out From the Campfire's Red Glowing, Out from the campfire's red glowing. Yes, sleeping on guard, 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 501. OUT FROM THE CAMPFIRE'S RED GLOWING
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Out from the campfire's red glowing, 
 Cheerfully shedding its light, 
@@ -19,7 +24,6 @@ Let us be careful that slumber
 Press not our eyelids too hard' 
 Surely not one of our number 
 Must be found sleeping on guard. 
-
 Refrain:
 Yes, sleeping on guard, 
 Sleeping on guard, 
@@ -36,12 +40,6 @@ See every entrance is barred,
 Keeping our heads cool and steady' 
 All is lost, sleeping on guard. 
 
-Refrain:
-Yes, sleeping on guard, 
-Sleeping on guard, 
-No! surely not one of our number 
-Must be found sleeping on guard. 
-
 3.
 Our aim is vigilance ever, 
 We can allow no defeat; 
@@ -52,19 +50,13 @@ Though the task be e'er so hard,
 Knowing what dangers come creeping 
 When we are sleeping on guard.
 
-Refrain:
-Yes, sleeping on guard, 
-Sleeping on guard, 
-No! surely not one of our number 
-Must be found sleeping on guard. 
-
 ```
 
 - |   -  |
 -------------|------------|
 Title | Out From the Campfire's Red Glowing |
 Key | D♭ Major |
-Titles | Yes, sleeping on guard, Sleeping on guard |
+Titles | Yes, sleeping on guard,  |
 First Line | Out from the campfire's red glowing |
 Author | Arthur W. French
 Year | 1941
@@ -72,36 +64,11 @@ Composer| Frank M. Davis |
 Hymnal|  - |
 Tune| SLEEPING ON GUARD |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Temperance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

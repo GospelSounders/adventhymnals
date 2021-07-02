@@ -1,15 +1,20 @@
 ---
-title: 295. Amazing Grace
+title: |
+    295. Amazing Grace - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Amazing Grace, Amazing grace! how sweet the sound, 
+    description: |
+        Church Hymnal 1941 295. Amazing Grace.  Amazing grace! How sweet the sound that saved a wretch like me! I once was lost, but now am found; was blind, but now I see.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Amazing Grace, Amazing grace! how sweet the sound. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 295. AMAZING GRACE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Amazing grace! How sweet the sound
 that saved a wretch like me!
@@ -40,47 +45,26 @@ bright shining as the sun,
 we've no less days to sing God's praise
 than when we first begun.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Amazing Grace |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Amazing grace! how sweet the sound |
 Author | J. Newton (1725-1807)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| BELMONT |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Salvation and Redemption |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

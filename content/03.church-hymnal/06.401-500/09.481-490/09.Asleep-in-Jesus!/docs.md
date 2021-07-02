@@ -1,13 +1,17 @@
 ---
-title: 489. Asleep in Jesus!
+title: |
+    489. Asleep in Jesus! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Asleep in Jesus!, Asleep in Jesus! blessed sleep, 
+    description: |
+        Church Hymnal 1941 489. Asleep in Jesus!.  Asleep in Jesus! blessed sleep,  From which none ever wake to weep;  A calm and undisturbed repose,  Unbroken by the last of foes. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Asleep in Jesus!, Asleep in Jesus! blessed sleep. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 489. ASLEEP IN JESUS!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Asleep in Jesus! Soon to rise,
 When the last trump shall rend the skies; 
 Then burst the fetters of the tomb, 
 And wake in full, immortal bloom.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Asleep in Jesus! |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Asleep in Jesus! blessed sleep |
 Author | Margaret Mackay
 Year | 1941
@@ -47,36 +52,11 @@ Composer| William B. Bradbury |
 Hymnal|  - |
 Tune| REST (BRADBURY) |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Funeral |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

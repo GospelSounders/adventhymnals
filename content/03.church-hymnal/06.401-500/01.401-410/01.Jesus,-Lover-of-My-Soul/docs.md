@@ -1,15 +1,21 @@
 ---
-title: 401. Jesus, Lover of My Soul
+title: |
+    401. Jesus, Lover of My Soul - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Jesus, Lover of My Soul, Jesus, lover of my soul, 
+    description: |
+        Church Hymnal 1941 401. Jesus, Lover of My Soul. Jesus, lover of my soul, Let me to Thy bosom fly, While the billows near me roll, While the tempest still is high; Hide me, O my Savior, hide! Till the storm of life is past; Safe into the haven guide, O receive my soul at last! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Jesus, Lover of My Soul, Jesus, lover of my soul. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 401. JESUS, LOVER OF MY SOUL
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: E Flat
+
 1.
 Jesus, lover of my soul,
 Let me to Thy bosom fly,
@@ -49,13 +55,14 @@ Thou of life the Fountain art,
 Freely let me take of Thee;
 Spring Thou up within my heart,
 Rise to all eternity.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jesus, Lover of My Soul |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, lover of my soul |
 Author | Charles Wesley
 Year | 1941
@@ -63,36 +70,11 @@ Composer| Simeon B. Marsh |
 Hymnal|  - |
 Tune| MARTYN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Guidance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 211. Holy Spirit, Faithful Guide
+title: |
+    211. Holy Spirit, Faithful Guide - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Holy Spirit, Faithful Guide, Holy Spirit, faithful Guide, 
+    description: |
+        Church Hymnal 1941 211. Holy Spirit, Faithful Guide.  Holy Spirit, faithful Guide,  Ever near the Christian's side,  Gently lead us by the hand  Pilgrims in a desert land;  Weary souls fore'er rejoice,  While they hear that sweetest voice,  Whispering softly, 'Wand'rer, come!  Follow me, I'll guide thee home.'  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Holy Spirit, Faithful Guide, Holy Spirit, faithful Guide. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 211. HOLY SPIRIT, FAITHFUL GUIDE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Holy Spirit, faithful Guide, 
 Ever near the Christian's side, 
@@ -40,13 +45,14 @@ Pleading naught but Jesus' blood,
 Whisper softly, 'Wanderer, come! 
 Follow me, I'll guide thee home.'
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Holy Spirit, Faithful Guide |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Holy Spirit, faithful Guide |
 Author | M. M. Wells
 Year | 1941
@@ -54,36 +60,11 @@ Composer| M. M. Wells |
 Hymnal|  - |
 Tune| GUIDE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: The Holy Spirit |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

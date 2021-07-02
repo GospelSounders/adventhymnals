@@ -1,51 +1,66 @@
 ---
-title: 372. A Few More Years Shall Roll
+title: |
+    372. A Few More Years Shall Roll - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, A Few More Years Shall Roll, A few more years shall roll, 
+    description: |
+        Church Hymnal 1941 372. A Few More Years Shall Roll.  A few more years shall roll,  A few more seasons come,  And we shall meet the loved who now  Are sleeping in the tomb.  Then, O my Lord, prepare  My soul for that great day;  O, wash me in Thy precious blood,  And take my sins away! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, A Few More Years Shall Roll, A few more years shall roll. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 372. A FEW MORE YEARS SHALL ROLL
+####  Church Hymnal 1941,
 
 ```txt
 1.
-How beauteous are their feet
-Who stand on Zion's hill;
-Who bring salvation on their tongues,
-And words of peace reveal!
+A few more years shall roll, 
+A few more seasons come, 
+And we shall meet the loved who now 
+Are sleeping in the tomb. 
+Then, O my Lord, prepare 
+My soul for that great day; 
+O, wash me in Thy precious blood, 
+And take my sins away! 
 
 2.
-How charming is their voice,
-So sweet the tidings are:
-Zion, behold thy Savior King;
-He reigns and triumphs here!
+A few more storms shall beat 
+On this wild, rocky shore, 
+And we shall be where tempests cease, 
+And surges swell no more. 
+Then, O my Lord, prepare 
+My soul for that calm day; 
+O, wash me in Thy precious blood, 
+And take my sins away! 
 
 3.
-How happy are our ears,
-That hear the joyful sound
-Which kings and prophets waited for,
-And sought, but never found!
+A few more struggles here, 
+A few more partings sore, 
+A few more toils, a few more tears, 
+And we shall weep no more. 
+Then, O my Lord, prepare 
+My soul for that blest day; 
+O, wash me in Thy precious blood, 
+And take my sins away! 
 
 4.
-How blessed are our eyes,
-That see this heavenly light;
-Prophets and kings desired it long,
-But died without the sight!
+'Tis but a little while, 
+And He shall come again, 
+Who died that we might live, who lives 
+That we may with Him reign. 
+Then, O my Lord, prepare 
+My soul for that glad day; 
+O, wash me in Thy precious blood, 
+And take my sins away!
 
-5.
-The watchmen join their voice,
-And tuneful notes employ;
-Jerusalem breaks forth in songs,
-And deserts learn the joy.
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Few More Years Shall Roll |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | A few more years shall roll |
 Author | Horatius Bonar
 Year | 1941
@@ -53,36 +68,11 @@ Composer| Lowell Mason (1792-1872) |
 Hymnal|  - |
 Tune| BONAR |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Pilgrimage |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

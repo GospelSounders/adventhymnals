@@ -1,15 +1,26 @@
 ---
-title: 689. Glory Be to the Father
+title: |
+    689. Glory Be to the Father - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Glory Be to the Father, Glory be to the Father, 
+    description: |
+        Church Hymnal 1941 689. Glory Be to the Father. Glory be to the Father,  And to the Son,  And to the Holy Ghost;  As it was in the beginning,  Is now, and ever shall be,  World without end.  Amen, Amen. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Glory Be to the Father, Glory be to the Father. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 689. GLORY BE TO THE FATHER
+####  Church Hymnal 1941,
 
 ```txt
+Glory be to the Father, 
+And to the Son, 
+And to the Holy Ghost; 
+As it was in the beginning, 
+Is now, and ever shall be, 
+World without end. 
+Amen, Amen. 
 
 ```
 
@@ -17,7 +28,7 @@ metadata:
 -------------|------------|
 Title | Glory Be to the Father |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Glory be to the Father |
 Author | Anonymous
 Year | 1941
@@ -29,32 +40,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | Sentences and Responses |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,44 @@
 ---
-title: 410. Lead Them, My God, to Thee
+title: |
+    410. Lead Them, My God, to Thee - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lead Them, My God, to Thee, Lead them, my God, to Thee, 
+    description: |
+        Church Hymnal 1941 410. Lead Them, My God, to Thee.  Lead them, my God, to Thee, Lead them to Thee, These children dear of mine, Thou gavest me; O, by Thy love divine, Lead them, my God, to Thee; Lead them, my God, to Thee, Lead them to Thee. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lead Them, My God, to Thee, Lead them, my God, to Thee. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 410. LEAD THEM, MY GOD, TO THEE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
+1.
+Lead them, my God, to Thee, Lead them to Thee,
+These children dear of mine, Thou gavest me;
+O, by Thy love divine, Lead them, my God, to Thee;
+Lead them, my God, to Thee, Lead them to Thee.
+
+2.
+When earth looks bright and fair, Festive and gay,
+Let no delusive snare Lure them astray;
+But from temptation's power, Lead them, my God, to Thee,
+Lead them, my God, to Thee, Lead them to Thee.
+
+3.
+E'en for such little ones, Christ came a child,
+And in this world of sin Lived undefiled.
+O, for His sake, I pray, Lead them, my God, to Thee,
+Lead them, my God, to Thee, Lead them to Thee.
+
+4.
+Yea, though my faith be dim, I would believe
+That Thou this precious gift Wilt now receive;
+O take their young hearts now, Lead them my God to Thee,
+Lead them, my God, to Thee, Lead them to Thee.
 
 ```
 
@@ -17,9 +46,9 @@ metadata:
 -------------|------------|
 Title | Lead Them, My God, to Thee |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Lead them, my God, to Thee |
-Author | 
+Author | undefined
 Year | 1941
 Composer| F. E. Belden |
 Hymnal|  - |
@@ -29,32 +58,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | The Christian Home: Home and Children |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

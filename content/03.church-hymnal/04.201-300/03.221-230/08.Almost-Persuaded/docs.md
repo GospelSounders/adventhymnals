@@ -1,15 +1,20 @@
 ---
-title: 228. Almost Persuaded
+title: |
+    228. Almost Persuaded - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Almost Persuaded, Almost persuaded now to believe, 
+    description: |
+        Church Hymnal 1941 228. Almost Persuaded.  Almost persuaded now to believe;  Almost persuaded Christ to receive.  Seems now some soul to say,  'Go, Spirit, go thy way,  Some more convenient day  On thee I'll call.'  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Almost Persuaded, Almost persuaded now to believe. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 228. ALMOST PERSUADED
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Almost persuaded now to believe; 
 Almost persuaded Christ to receive. 
@@ -34,13 +39,14 @@ Almost persuaded, doom comes at last!
 Sad, sad that bitter wail, 
 'Almost'but lost!'
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Almost Persuaded |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Almost persuaded now to believe |
 Author | P. P. Bliss
 Year | 1941
@@ -48,36 +54,11 @@ Composer| P. P. Bliss |
 Hymnal|  - |
 Tune| ALMOST |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

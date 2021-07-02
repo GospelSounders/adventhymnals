@@ -1,15 +1,20 @@
 ---
-title: 32. Lord, at This Closing Hour
+title: |
+    032. Lord, at This Closing Hour - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lord, at This Closing Hour, Lord, at this closing hour, 
+    description: |
+        Church Hymnal 1941 032. Lord, at This Closing Hour.  Lord, at this closing hour  Establish every heart  Upon Thy word of truth and power,  To keep us when we part.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lord, at This Closing Hour, Lord, at this closing hour. 
     author: Brian Onang'o
 ---
 
-
-## 32. LORD, AT THIS CLOSING HOUR
+#### Advent Hymnals
+## 032. LORD, AT THIS CLOSING HOUR
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Lord, at this closing hour 
 Establish every heart 
@@ -28,13 +33,14 @@ We would Thy will pursue,
 And toil to spread Thy kingdom here 
 Till we its glory view.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord, at This Closing Hour |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, at this closing hour |
 Author | E. T. Fitch
 Year | 1941
@@ -42,36 +48,11 @@ Composer| James Nares (1715-1783) |
 Hymnal|  - |
 Tune| NARES |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Closing of Worship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

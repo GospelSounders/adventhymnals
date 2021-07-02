@@ -1,15 +1,20 @@
 ---
-title: 269. Take My Heart, O Father
+title: |
+    269. Take My Heart, O Father - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Take My Heart, O Father, Take my heart, O Father, take it!, 
+    description: |
+        Church Hymnal 1941 269. Take My Heart, O Father.  Take my heart, O Father, take it!  Make and keep it all thine own;  Let thy Spirit melt and break it,  This proud heart of sin and stone.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Take My Heart, O Father, Take my heart, O Father, take it!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 269. TAKE MY HEART, O FATHER
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Take my heart, O Father, take it! 
 Make and keep it all thine own; 
@@ -34,13 +39,14 @@ And my sins be all forgiven;
 Holy Spirit, take and seal me, 
 Guide me in the path to heaven.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Take My Heart, O Father |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Take my heart, O Father, take it! |
 Author | Anon.
 Year | 1941
@@ -48,33 +54,11 @@ Composer| Lowell Mason (1792-1872) |
 Hymnal|  - |
 Tune| MOUNT VERNON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

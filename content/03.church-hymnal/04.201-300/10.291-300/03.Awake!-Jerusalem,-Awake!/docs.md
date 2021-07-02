@@ -1,13 +1,17 @@
 ---
-title: 293. Awake! Jerusalem, Awake!
+title: |
+    293. Awake! Jerusalem, Awake! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Awake! Jerusalem, Awake!, Awake! Jerusalem, awake!, 
+    description: |
+        Church Hymnal 1941 293. Awake! Jerusalem, Awake!.  Awake! Jerusalem, awake!  No longer in thy sins lie down;  The garment of salvation take,  Thy beauty and thy strength put on. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Awake! Jerusalem, Awake!, Awake! Jerusalem, awake!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 293. AWAKE! JERUSALEM, AWAKE!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Vessels of mercy, sons of grace,
 Be purged from every sinful slain; 
 Be like your Lord, His word embrace, 
 Nor bear His hallowed name in vain.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Awake! Jerusalem, Awake! |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Awake! Jerusalem, awake! |
 Author | Charles Wesley (1707-1788)
 Year | 1941
@@ -47,33 +52,11 @@ Composer| Edwin Barnes |
 Hymnal|  - |
 Tune| HEBER (Barnes) |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Salvation and Redemption |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

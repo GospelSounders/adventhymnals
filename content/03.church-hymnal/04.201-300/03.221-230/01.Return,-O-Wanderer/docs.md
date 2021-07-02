@@ -1,15 +1,20 @@
 ---
-title: 221. Return, O Wanderer
+title: |
+    221. Return, O Wanderer - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Return, O Wanderer, Return, O wanderer, return, 
+    description: |
+        Church Hymnal 1941 221. Return, O Wanderer.  Return, O wanderer, return,  And seek thy Father's face;  Those new desires which in thee burn,  Were kindled by His grace.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Return, O Wanderer, Return, O wanderer, return. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 221. RETURN, O WANDERER
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Return, O wanderer, return, 
 And seek thy Father's face; 
@@ -40,50 +45,26 @@ Regain thy long, sought rest;
 The Saviour's melting mercies yearn 
 To clasp thee to his breast.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Return, O Wanderer |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Return, O wanderer, return |
-Author | 
+Author | undefined
 Year | 1941
-Composer| R. Simpson |
+Composer| undefined |
 Hymnal|  - |
 Tune| BALERMA |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Holy Scriptures: The Gospel-The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

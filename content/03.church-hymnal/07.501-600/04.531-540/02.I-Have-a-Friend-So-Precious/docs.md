@@ -1,13 +1,17 @@
 ---
-title: 532. I Have a Friend So Precious
+title: |
+    532. I Have a Friend So Precious - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Have a Friend So Precious, I have a Friend so precious, 
+    description: |
+        Church Hymnal 1941 532. I Have a Friend So Precious.  I have a Friend so precious,  So very dear to me,  He loves me with a tender love,  He loves me faithfully;  I could not live apart from Him,  I love to feel Him nigh;  And so we dwell together,  My Lord and I. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Have a Friend So Precious, I have a Friend so precious. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 532. I HAVE A FRIEND SO PRECIOUS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ He bids me tell His wondrous love,
 And why He came to die; 
 And so we work together, 
 My Lord and I.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Have a Friend So Precious |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | I have a Friend so precious |
 Author | Mrs. L. Shorey
 Year | 1941
@@ -63,36 +68,11 @@ Composer| Hubert P. Main |
 Hymnal|  - |
 Tune| MY LORD AND I |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Sufferings and Death |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

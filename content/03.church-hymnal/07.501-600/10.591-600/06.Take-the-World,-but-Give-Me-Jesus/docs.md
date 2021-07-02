@@ -1,37 +1,48 @@
 ---
-title: 596. Take the World, but Give Me Jesus
+title: |
+    596. Take the World, but Give Me Jesus - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Take the World, but Give Me Jesus, Take the world, but give me Jesus , Oh, the height and depth of mercy!
+    description: |
+        Church Hymnal 1941 596. Take the World, but Give Me Jesus. Take the world, but give me Jesus; All its Joys are but a name, But His love abideth ever, Through eternal years the same. CHORUS: Oh, the height and depth of mercy! Oh, the length and breadth of love! Oh, the fullness of redemption, Pledge of endless life above. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Take the World, but Give Me Jesus, Take the world, but give me Jesus . Oh, the height and depth of mercy!
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 596. TAKE THE WORLD, BUT GIVE ME JESUS
+####  Church Hymnal 1941,
 
 ```txt
 1.
-Look for the way-marks as you journey on,
-Look for the way-marks passing one by one;
-Down through the ages, past the kingdoms four'
-Where are we standing? Look the way-marks o'er.
+Take the world, but give me Jesus;
+All its Joys are but a name,
+But His love abideth ever,
+Through eternal years the same.
 CHORUS:
-Look for the way-marks, the great prophetic way-marks,
-Down through the ages, past the kingdoms four.
-Look for the waymarks, the great prophetic way-marks;
-The journey's almost o'er.
+Oh, the height and depth of mercy!
+Oh, the length and breadth of love!
+Oh, the fullness of redemption,
+Pledge of endless life above.
 
 2.
-First, the Assyrian kingdom ruled the world,
-Then Medo-Persia's banners were unfurled;
-And after Greece held universal sway,
-Rome seized the scepter--Where are we today?
+Take the world, but give me Jesus, 
+Sweetest comfort of my soul;
+With my Savior watching o.er me,
+I can sing, though billows roll.
 
 3.
-Down in the feet of iron and of clay,
-Weak and divided, soon to pass away;
-What will the next great, glorious drama be?
-Christ and His coming, And eternity.
+Take the world, but give me Jesus;
+Let me view His constant smile;
+Then throughout my pilgrim journey
+Light will cheer me all the while.
+
+4.
+Take the world, but give me Jesus;
+In His cross my trust shall be,
+Till, with clearer, brighter vision
+Face to face my Lord I see.
+
 ```
 
 - |   -  |
@@ -46,36 +57,11 @@ Composer| John R. Sweney |
 Hymnal|  - |
 Tune| Take the world, but give me Jesus |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 411. See, Israel's Gentle Shepherd
+title: |
+    411. See, Israel's Gentle Shepherd - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, See, Israel's Gentle Shepherd, See, Israel's gentle shepherd stands, 
+    description: |
+        Church Hymnal 1941 411. See, Israel's Gentle Shepherd. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, See, Israel's Gentle Shepherd, See, Israel's gentle shepherd stands. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 411. SEE, ISRAEL'S GENTLE SHEPHERD
+####  Church Hymnal 1941,
 
 ```txt
+ 
 
 ```
 
@@ -17,7 +22,7 @@ metadata:
 -------------|------------|
 Title | See, Israel's Gentle Shepherd |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | See, Israel's gentle shepherd stands |
 Author | P. Doddridge
 Year | 1941
@@ -29,32 +34,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | The Christian Home: Home and Children |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

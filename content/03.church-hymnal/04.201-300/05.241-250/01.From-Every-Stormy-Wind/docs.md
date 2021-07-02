@@ -1,15 +1,20 @@
 ---
-title: 241. From Every Stormy Wind
+title: |
+    241. From Every Stormy Wind - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, From Every Stormy Wind, From every stormy wind that blows, 
+    description: |
+        Church Hymnal 1941 241. From Every Stormy Wind.  From every stormy wind that blows,  From every swelling tide of woes,  There is a calm, a sure retreat;  'Tis found beneath the mercy seat.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, From Every Stormy Wind, From every stormy wind that blows. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 241. FROM EVERY STORMY WIND
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 From every stormy wind that blows, 
 From every swelling tide of woes, 
@@ -40,13 +45,14 @@ When tempted, desolate dismayed?
 Or how the hosts of sin defeat, 
 Had suffering saints no mercy seat?
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | From Every Stormy Wind |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | From every stormy wind that blows |
 Author | Hugh Stowell
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Thomas Hastings |
 Hymnal|  - |
 Tune| RETREAT |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

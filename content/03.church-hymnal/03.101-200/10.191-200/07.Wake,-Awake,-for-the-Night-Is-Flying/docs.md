@@ -1,15 +1,20 @@
 ---
-title: 197. Wake, Awake, for the Night Is Flying
+title: |
+    197. Wake, Awake, for the Night Is Flying - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Wake, Awake, for the Night Is Flying, Wake, awake, for night is flying, 
+    description: |
+        Church Hymnal 1941 197. Wake, Awake, for the Night Is Flying.  Wake, awake, for night is flying, The watchmen on the heights are crying, Awake, Jerusalem, arise! Midnight's solemn hour is tolling, His chariot wheels are nearer rolling, He comes; prepare, ye virgins wise. Rise up with willing feet Go forth, the Bridegroom meet; Alleluia! Bear through the night your well-trimmed light, Speed forth to join the marriage rite.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Wake, Awake, for the Night Is Flying, Wake, awake, for night is flying. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 197. WAKE, AWAKE, FOR THE NIGHT IS FLYING
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Wake, awake, for night is flying,
 The watchmen on the heights are crying,
@@ -47,50 +52,26 @@ Such bliss and joy;
 We raise the song, we swell the throng,
 To praise Thee ages all along.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Wake, Awake, for the Night Is Flying |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Wake, awake, for night is flying |
 Author | Philip Nicolai
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| SLEEPERS, WAKE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

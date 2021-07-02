@@ -1,15 +1,20 @@
 ---
-title: 234. Depth of Mercy!
+title: |
+    234. Depth of Mercy! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Depth of Mercy!, Depth of mercy! -can there be, 
+    description: |
+        Church Hymnal 1941 234. Depth of Mercy!.  Depth of mercy!'can there be  Mercy still reserved for me?  Can my God his wrath forbear?  Me, the chief of sinners, spare?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Depth of Mercy!, Depth of mercy! -can there be. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 234. DEPTH OF MERCY!
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Depth of mercy!'can there be 
 Mercy still reserved for me? 
@@ -34,13 +39,14 @@ Shows his wounds and spreads his hands;
 God is love! I know, I feel; 
 Jesus weeps, and loves me still.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Depth of Mercy! |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Depth of mercy! -can there be |
 Author | Charles Wesley (1707-1788)
 Year | 1941
@@ -48,36 +54,11 @@ Composer| William B. Bradbury (1816-1868) |
 Hymnal|  - |
 Tune| ALETTA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

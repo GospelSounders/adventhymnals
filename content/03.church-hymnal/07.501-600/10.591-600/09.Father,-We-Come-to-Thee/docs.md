@@ -1,15 +1,20 @@
 ---
-title: 599. Father, We Come to Thee
+title: |
+    599. Father, We Come to Thee - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Father, We Come to Thee, Father, we come to Thee, Father, we come to Thee
+    description: |
+        Church Hymnal 1941 599. Father, We Come to Thee.  Father, we come to Thee,  No other help have we;  Thou wilt our refuge be,  On Thee we call,  Earth is but dark and drear  Without Thy presence near;  Be Thou our comfort here,  Father of all.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Father, We Come to Thee, Father, we come to Thee. Father, we come to Thee, 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 599. FATHER, WE COME TO THEE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Father, we come to Thee, 
 No other help have we; 
@@ -19,7 +24,6 @@ Earth is but dark and drear
 Without Thy presence near; 
 Be Thou our comfort here, 
 Father of all. 
-
 Refrain:
 Father, we come to Thee, 
 Turn not away; 
@@ -36,12 +40,6 @@ To us sweet courage speak;
 Thy mighty arm we seek 
 For strength indeed. 
 
-Refrain:
-Father, we come to Thee, 
-Turn not away; 
-Helpless we come to Thee, 
-Hear while we pray. 
-
 3.
 Give us Thy grace divine, 
 Seal us forever Thine; 
@@ -52,19 +50,13 @@ Till weary life is o'er,
 And on a brighter shore 
 We dwell with Thee.
 
-Refrain:
-Father, we come to Thee, 
-Turn not away; 
-Helpless we come to Thee, 
-Hear while we pray. 
-
 ```
 
 - |   -  |
 -------------|------------|
 Title | Father, We Come to Thee |
 Key | F Major |
-Titles | Father, we come to Thee |
+Titles | Father, we come to Thee,  |
 First Line | Father, we come to Thee |
 Author | F. E. Belden
 Year | 1941
@@ -72,36 +64,11 @@ Composer| W. J. Bostwick |
 Hymnal|  - |
 Tune| Father, we come to Thee |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

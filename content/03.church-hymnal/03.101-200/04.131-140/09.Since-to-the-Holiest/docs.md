@@ -1,15 +1,20 @@
 ---
-title: 139. Since to the Holiest
+title: |
+    139. Since to the Holiest - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Since to the Holiest, Since to the Holiest none may enter in, 
+    description: |
+        Church Hymnal 1941 139. Since to the Holiest.  Since to the Holiest none may enter in  Save those whom Jesus' blood has cleansed from sin'  The blood is life, and must for sin atone;  Christ is my life, my life in Christ alone.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Since to the Holiest, Since to the Holiest none may enter in. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 139. SINCE TO THE HOLIEST
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Since to the Holiest none may enter in 
 Save those whom Jesus' blood has cleansed from sin' 
@@ -34,13 +39,14 @@ All that He's promised in His written word'
 My life, my way, my home, my rest above, 
 When sleep of death shall wake to endless love.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Since to the Holiest |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Since to the Holiest none may enter in |
 Author | C. Butler Stoney
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Frank Pincott |
 Hymnal|  - |
 Tune| CHRIST MY LIFE! |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Priesthood |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

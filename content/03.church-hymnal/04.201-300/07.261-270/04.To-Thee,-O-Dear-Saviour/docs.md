@@ -1,15 +1,20 @@
 ---
-title: 264. To Thee, O Dear Saviour
+title: |
+    264. To Thee, O Dear Saviour - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, To Thee, O Dear Saviour, To Thee, O dear, dear Saviour, 
+    description: |
+        Church Hymnal 1941 264. To Thee, O Dear Saviour.  To thee, O dear, dear Saviour,  My spirit turns for rest;  My peace is in thy favor,  My pillow on thy breast;  Though all the world deceive me,  I know that I am thine,  And thou wilt never leave me,  O blessed Saviour mine.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, To Thee, O Dear Saviour, To Thee, O dear, dear Saviour. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 264. TO THEE, O DEAR SAVIOUR
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 To thee, O dear, dear Saviour, 
 My spirit turns for rest; 
@@ -50,13 +55,14 @@ The soul securely knows
 The holy calm and quiet 
 Of faith's serene repose!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | To Thee, O Dear Saviour |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | To Thee, O dear, dear Saviour |
 Author | John S. B. Monsell
 Year | 1941
@@ -64,33 +70,11 @@ Composer| J. Baptiste Calkin |
 Hymnal|  - |
 Tune| SAVOY CHAPEL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

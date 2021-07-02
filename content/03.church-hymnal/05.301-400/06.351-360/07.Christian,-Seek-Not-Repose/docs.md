@@ -1,15 +1,21 @@
 ---
-title: 357. Christian, Seek Not Repose
+title: |
+    357. Christian, Seek Not Repose - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Christian, Seek Not Repose, Christian, seek not yet repose, 
+    description: |
+        Church Hymnal 1941 357. Christian, Seek Not Repose. Christian, seek not yet repose, Cast thy dreams of ease away; Thou art in the midst of foes; Watch and pray! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Christian, Seek Not Repose, Christian, seek not yet repose. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 357. CHRISTIAN, SEEK NOT REPOSE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: E Flat
+
 1.
 Christian, seek not yet repose, Cast thy dreams of ease away;
 Thou art in the midst of foes; Watch and pray!
@@ -29,13 +35,14 @@ Hide within thy heart His word; Watch and pray!
 5.
 Watch, as if on that alone Hung the issue of the day;
 Pray that help may be sent down; Watch and pray!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Christian, Seek Not Repose |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Christian, seek not yet repose |
 Author | Charlotte Elliott
 Year | 1941
@@ -43,36 +50,11 @@ Composer| William H. Monk |
 Hymnal|  - |
 Tune| VIGILATE |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Warfare |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 406. Lead Thou Me On
+title: |
+    406. Lead Thou Me On - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lead Thou Me On, Lead Thou me on, and then my feet, though weary, 
+    description: |
+        Church Hymnal 1941 406. Lead Thou Me On.  Lead Thou me on, and then my feet, though weary,  Shall never falter in life's rugged way;  And though my pathway lead through wilds most dreary,  Guided by Thee my feet shall never stray. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lead Thou Me On, Lead Thou me on, and then my feet, though weary. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 406. LEAD THOU ME ON
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Lord, well I know, all these and more are given,
 With Christ in whom all heavenly riches dwell; 
 In Him by faith I grasp the joys of heaven, 
 And taste the bliss my tongue now fails to tell.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lead Thou Me On |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Lead Thou me on, and then my feet, though weary |
 Author | Harry Armstrong
 Year | 1941
@@ -53,36 +58,11 @@ Composer| F. Abt |
 Hymnal|  - |
 Tune| WILLINGHAM |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Guidance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

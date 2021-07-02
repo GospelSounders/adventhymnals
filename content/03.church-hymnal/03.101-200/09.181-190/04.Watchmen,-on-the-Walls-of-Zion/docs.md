@@ -1,15 +1,21 @@
 ---
-title: 184. Watchmen, on the Walls of Zion
+title: |
+    184. Watchmen, on the Walls of Zion - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Watchmen, on the Walls of Zion, Watchmen on the walls of Zion, 
+    description: |
+        Church Hymnal 1941 184. Watchmen, on the Walls of Zion.  Watchmen, on the walls of Zion,  What O tell us, of the night?  Is the daystar now arising?  Will the morn soon greet our sight?  O'er your vision Shine there now some rays of light? O'er your vision Shine there now some rays of light?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Watchmen, on the Walls of Zion, Watchmen on the walls of Zion. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 184. WATCHMEN, ON THE WALLS OF ZION
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: C
+
 1.
 Watchmen, on the walls of Zion, 
 What O tell us, of the night? 
@@ -42,13 +48,14 @@ Soon the haven will appear;
 Let your voices Sound aloud your holy cheer; 
 Let your voices Sound aloud your holy cheer. 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Watchmen, on the Walls of Zion |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Watchmen on the walls of Zion |
 Author | Anon.
 Year | 1941
@@ -56,36 +63,11 @@ Composer| Thomas Hastings |
 Hymnal|  - |
 Tune| ZION |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

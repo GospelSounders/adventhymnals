@@ -1,13 +1,17 @@
 ---
-title: 614. My Father Is Rich in Houses and Lands
+title: |
+    614. My Father Is Rich in Houses and Lands - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, My Father Is Rich in Houses and Lands, My Father is rich in houses and lands, I'm a child of the King
+    description: |
+        Church Hymnal 1941 614. My Father Is Rich in Houses and Lands.  My Father is rich in houses and lands, He holdeth the wealth of the world in His hands! Of rubies and diamonds, of silver and gold, His coffers are full, He has riches untold. CHORUS: I'm a child of the King, A child of the King: With Jesus my Savior, I'm a child of the King. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, My Father Is Rich in Houses and Lands, My Father is rich in houses and lands. I'm a child of the King,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 614. MY FATHER IS RICH IN HOUSES AND LANDS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -38,50 +42,26 @@ A tent or a cottage, O why should I care?
 They're building a palace for me over there;
 Though exiled from home, yet still may I sing:
 All glory to God, I'm a child of the King.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | My Father Is Rich in Houses and Lands |
 Key | E Major |
-Titles | I'm a child of the King |
+Titles | I'm a child of the King, |
 First Line | My Father is rich in houses and lands |
 Author | Hattie E. Buel
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| A CHILD OF THE KING |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Joy or Peace |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

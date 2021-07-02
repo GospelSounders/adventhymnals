@@ -1,13 +1,17 @@
 ---
-title: 567. Come, Every Soul by Sin Oppressed
+title: |
+    567. Come, Every Soul by Sin Oppressed - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Come, Every Soul by Sin Oppressed, Come, every soul by sin oppressed , Only trust Him
+    description: |
+        Church Hymnal 1941 567. Come, Every Soul by Sin Oppressed.  Come, every soul by sin oppressed,  There's mercy with the Lord,  And He will surely give you rest,  By trusting in His Word.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Come, Every Soul by Sin Oppressed, Come, every soul by sin oppressed . Only trust Him, only trust Him, 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 567. COME, EVERY SOUL BY SIN OPPRESSED
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -38,13 +42,14 @@ Come, then, and join this holy band,
 And on to glory go, 
 To dwell in that celestial land, 
 Where joys immortal flow.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come, Every Soul by Sin Oppressed |
 Key | G Major |
-Titles | Only trust Him |
+Titles | Only trust Him, only trust Him,  |
 First Line | Come, every soul by sin oppressed  |
 Author | J. H. Stockton
 Year | 1941
@@ -52,36 +57,11 @@ Composer| J. H. Stockton |
 Hymnal|  - |
 Tune| ONLY TRUST HIM |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

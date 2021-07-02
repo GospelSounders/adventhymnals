@@ -1,15 +1,20 @@
 ---
-title: 135. The Day of Resurrection
+title: |
+    135. The Day of Resurrection - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Day of Resurrection, The day of resurrection, 
+    description: |
+        Church Hymnal 1941 135. The Day of Resurrection.  The day of resurrection'  Earth, tell it out abroad'  The passover of gladness,  The passover of God.  From death to life eternal,  From this world to the sky,  Our Christ hath brought us over,  With hymns of victory.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Day of Resurrection, The day of resurrection. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 135. THE DAY OF RESURRECTION
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The day of resurrection' 
 Earth, tell it out abroad' 
@@ -40,13 +45,14 @@ Their notes let all things blend,
 For Christ the Lord hath risen, 
 Our joy that hath no end.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Day of Resurrection |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | The day of resurrection |
 Author | John of Damascus
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Henry Smart |
 Hymnal|  - |
 Tune| LANCASHIRE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Resurrection and Ascension |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

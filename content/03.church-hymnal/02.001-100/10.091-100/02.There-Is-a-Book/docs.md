@@ -1,15 +1,20 @@
 ---
-title: 92. There Is a Book
+title: |
+    092. There Is a Book - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, There Is a Book, There is a book that all may read, 
+    description: |
+        Church Hymnal 1941 092. There Is a Book.  There is a book that all may read,  Which heavenly truth imparts;  And all the lore its scholars need,  Pure eyes and Christian hearts.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, There Is a Book, There is a book that all may read. 
     author: Brian Onang'o
 ---
 
-
-## 92. THERE IS A BOOK
+#### Advent Hymnals
+## 092. THERE IS A BOOK
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 There is a book that all may read, 
 Which heavenly truth imparts; 
@@ -40,13 +45,14 @@ And love for what is fair,
 Give me a heart to find out Thee, 
 And read Thee everywhere.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | There Is a Book |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | There is a book that all may read |
 Author | John Keble (1792-1866)
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Thomas Tallis (1510-1585) |
 Hymnal|  - |
 Tune| TALLIS' ORDINAL |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: God's Power in Nature |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

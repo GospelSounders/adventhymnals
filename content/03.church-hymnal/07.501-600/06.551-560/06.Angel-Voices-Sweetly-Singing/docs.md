@@ -1,13 +1,17 @@
 ---
-title: 556. Angel Voices Sweetly Singing
+title: |
+    556. Angel Voices Sweetly Singing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Angel Voices Sweetly Singing, Angel voices sweetly singing, Heaven at last, heaven at last
+    description: |
+        Church Hymnal 1941 556. Angel Voices Sweetly Singing.  Angel voices sweetly singing,  Echoes through the blue dome ringing,  News of wondrous gladness bringing;  Ah, 'tis heaven at last!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Angel Voices Sweetly Singing, Angel voices sweetly singing. Heaven at last, heaven at last; 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 556. ANGEL VOICES SWEETLY SINGING
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -44,13 +48,14 @@ Christ Himself the living splendor,
 Christ the sunlight, mild and tender;v 
 Praise to the Lamb we render; 
 Ah, 'tis heaven at last!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Angel Voices Sweetly Singing |
 Key | E♭ Major |
-Titles | Heaven at last, heaven at last |
+Titles | Heaven at last, heaven at last;  |
 First Line | Angel voices sweetly singing |
 Author | Horatius Bonar
 Year | 1941
@@ -58,36 +63,11 @@ Composer| William J. Kirkpatrick |
 Hymnal|  - |
 Tune| HEAVEN AT LAST |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: His Kingdom and Reign |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 369. Come, Let Us Anew
+title: |
+    369. Come, Let Us Anew - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Come, Let Us Anew, Come, let us anew our journey pursue, 
+    description: |
+        Church Hymnal 1941 369. Come, Let Us Anew.  Come, let us anew our journey pursue,  Roll round with the year,  And never stand still till the Master appear;  And never stand still till the Master appear. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Come, Let Us Anew, Come, let us anew our journey pursue. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 369. COME, LET US ANEW
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -45,13 +49,14 @@ O, that each from his Lord may receive the glad word.
 "Well and faithfully done! 
 Enter into My joy, and sit down on My throne. 
 Enter into My joy, and sit down on My throne."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come, Let Us Anew |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Come, let us anew our journey pursue |
 Author | Charles Wesley (1707-1788)
 Year | 1941
@@ -59,36 +64,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| COME, LET US ANEW |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Pilgrimage |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

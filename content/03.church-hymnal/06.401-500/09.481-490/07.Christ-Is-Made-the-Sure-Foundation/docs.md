@@ -1,15 +1,20 @@
 ---
-title: 487. Christ Is Made the Sure Foundation
+title: |
+    487. Christ Is Made the Sure Foundation - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Christ Is Made the Sure Foundation, Christ is made the sure foundation, 
+    description: |
+        Church Hymnal 1941 487. Christ Is Made the Sure Foundation.  Christ is made the sure foundation, Christ the head and cornerstone, chosen of the Lord, and precious, binding all the Church in one; holy Zion's help for ever, and her confidence alone.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Christ Is Made the Sure Foundation, Christ is made the sure foundation. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 487. CHRIST IS MADE THE SURE FOUNDATION
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Christ is made the sure foundation,
 Christ the head and cornerstone,
@@ -50,50 +55,26 @@ ever Three, and ever One,
 con-substantial, co-eternal,
 while unending ages run.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Christ Is Made the Sure Foundation |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Christ is made the sure foundation |
-Author | 
+Author | undefined
 Year | 1941
 Composer| Henry Smart |
 Hymnal|  - |
 Tune| REGENT SQUARE |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Dedication |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

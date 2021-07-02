@@ -1,15 +1,21 @@
 ---
-title: 261. A Mighty Fortress
+title: |
+    261. A Mighty Fortress - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, A Mighty Fortress, A mighty fortress is our God, 
+    description: |
+        Church Hymnal 1941 261. A Mighty Fortress.  A mighty fortress is our God, A bulwark never failing; Our helper He amid the flood Of mortal ills prevaling. For still our ancient foe Doth seek to work us woe; His craft and power are great, And armed with cruel hate, On earth is not his equal.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, A Mighty Fortress, A mighty fortress is our God. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 261. A MIGHTY FORTRESS
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: C
+
 1.
 A mighty fortress is our God,
 A bulwark never failing;
@@ -54,13 +60,14 @@ The body they may kill;
 God's truth abideth still;
 His kingdom is forever.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Mighty Fortress |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | A mighty fortress is our God |
 Author | Martin Luther
 Year | 1941
@@ -68,33 +75,11 @@ Composer| Martin Luther |
 Hymnal|  - |
 Tune| EIN' FESTE BURG |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

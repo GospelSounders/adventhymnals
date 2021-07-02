@@ -1,15 +1,20 @@
 ---
-title: 122. Go to Dark Gethsemane
+title: |
+    122. Go to Dark Gethsemane - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Go to Dark Gethsemane, Go to dark Gethsemane, 
+    description: |
+        Church Hymnal 1941 122. Go to Dark Gethsemane.  Go to dark Gethsemane, Ye who feel the tempter's power Your Redeemer's conflict see. Watch with him one bitter hour; Turn not from his griefs away; Learn from Jesus Christ to pray.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Go to Dark Gethsemane, Go to dark Gethsemane. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 122. GO TO DARK GETHSEMANE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Go to dark Gethsemane,
 Ye who feel the tempter's power
@@ -34,13 +39,14 @@ God's own sacrifice complete.
 "It is finished!" hear him cry;
 Learn from Jesus Christ to die.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Go to Dark Gethsemane |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Go to dark Gethsemane |
 Author | James Mongtomery
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Richard Redhead |
 Hymnal|  - |
 Tune| GETHSEMANE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: Sufferings and Death |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

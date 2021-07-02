@@ -1,13 +1,17 @@
 ---
-title: 554. There Is a Land of Corn and Wine
+title: |
+    554. There Is a Land of Corn and Wine - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, There Is a Land of Corn and Wine, There is a land of corn and wine, O Beulah land! sweet Beulah land!
+    description: |
+        Church Hymnal 1941 554. There Is a Land of Corn and Wine.  There is a land of corn and wine,  And all its joys will soon be mine;  There shines undimmed one blissful day,  For earth's dark night has passed away.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, There Is a Land of Corn and Wine, There is a land of corn and wine. O Beulah land! sweet Beulah land! 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 554. THERE IS A LAND OF CORN AND WINE
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -40,13 +44,14 @@ The zephyrs then will laden be
 With sounds of sweetest melody, 
 As angels, with the ransomed throng, 
 Join in the sweet redemption song.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | There Is a Land of Corn and Wine |
 Key | G Major |
-Titles | O Beulah land! sweet Beulah land! |
+Titles | O Beulah land! sweet Beulah land!  |
 First Line | There is a land of corn and wine |
 Author | Edgar Page
 Year | 1941
@@ -54,36 +59,11 @@ Composer| John R. Sweney |
 Hymnal|  - |
 Tune| BEULAH LAND |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: His Kingdom and Reign |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

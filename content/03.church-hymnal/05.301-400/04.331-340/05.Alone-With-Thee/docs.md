@@ -1,13 +1,17 @@
 ---
-title: 335. Alone With Thee
+title: |
+    335. Alone With Thee - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Alone With Thee, Alone with Thee, my God, in prayer, 
+    description: |
+        Church Hymnal 1941 335. Alone With Thee.  Alone with Thee, my Godin prayer  Fain would I from the world repair,  AAnd leave the sordid things of life  To rest from toil, to cease from strife. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Alone With Thee, Alone with Thee, my God, in prayer. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 335. ALONE WITH THEE
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Alone with Thee when night is nigh
 And darkness steals across the sky. 
 With Thee I'd brave death's chilling tide 
 And stand at last on Canaan's side.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Alone With Thee |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Alone with Thee, my God, in prayer |
 Author | D. A. R. Aufranc
 Year | 1941
@@ -47,36 +52,11 @@ Composer| D. A. R. Aufranc |
 Hymnal|  - |
 Tune| WINDY RIDGE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Meditation and Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

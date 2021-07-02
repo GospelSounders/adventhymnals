@@ -1,13 +1,17 @@
 ---
-title: 519. How Shall I Follow Him?
+title: |
+    519. How Shall I Follow Him? - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, How Shall I Follow Him?, How shall I follow Him I serve?, 
+    description: |
+        Church Hymnal 1941 519. How Shall I Follow Him?.  How shall I follow Him I serve?  How shall I copy Him I love?  Nor from those blessed footsteps swerve  Which lead me to His seat above? 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, How Shall I Follow Him?, How shall I follow Him I serve?. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 519. HOW SHALL I FOLLOW HIM?
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ All this Thou didst, then died for me!
 Thou camest not Thyself to please; 
 And, dear though earthly comforts be, 
 Shall I not love Thee more than these?
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Shall I Follow Him? |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | How shall I follow Him I serve? |
 Author | Josiah Conder
 Year | 1941
@@ -47,36 +52,11 @@ Composer| William Gardiner |
 Hymnal|  - |
 Tune| GARDINER |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Social Worship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

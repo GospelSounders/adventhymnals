@@ -1,13 +1,17 @@
 ---
-title: 434. O Golden Day
+title: |
+    434. O Golden Day - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O Golden Day, O golden day, so long desired, 
+    description: |
+        Church Hymnal 1941 434. O Golden Day.  O golden day, so long desired,  Born of a darksome night,  The waiting earth at last is fired  By thy resplendent light.  And hark! the promised heavenly chord  Is heard from sea to sea,  This song: One Master, Christ the Lord,  And brethren all are we. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O Golden Day, O golden day, so long desired. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 434. O GOLDEN DAY
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,50 +53,26 @@ When earth and heaven with one accord,
 In full-voiced unity, 
 Shall sing: One Master, Christ our Lord, 
 And brethren all are we.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Golden Day |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O golden day, so long desired |
 Author | Charles A. Dickinson
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| ELLECOMBE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines : The Church |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

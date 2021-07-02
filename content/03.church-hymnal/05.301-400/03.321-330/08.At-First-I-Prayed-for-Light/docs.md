@@ -1,15 +1,21 @@
 ---
-title: 328. At First I Prayed for Light
+title: |
+    328. At First I Prayed for Light - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, At First I Prayed for Light, At first I prayed for light, 
+    description: |
+        Church Hymnal 1941 328. At First I Prayed for Light. At first I prayed for light: Could I but see the way, How gladly, swiftly would I walk To everlasting day! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, At First I Prayed for Light, At first I prayed for light. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 328. AT FIRST I PRAYED FOR LIGHT
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+
 1.
 At first I prayed for light:
 Could I but see the way,
@@ -39,13 +45,14 @@ And light and strength and faith
 Are opening everywhere!
 God waited patiently until
 I prayed the larger prayer.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | At First I Prayed for Light |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | At first I prayed for light |
 Author | Mrs. E. D. Cheney
 Year | 1941
@@ -53,36 +60,11 @@ Composer| C. E. Kettle |
 Hymnal|  - |
 Tune| WOOLWICH |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Meditation and Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

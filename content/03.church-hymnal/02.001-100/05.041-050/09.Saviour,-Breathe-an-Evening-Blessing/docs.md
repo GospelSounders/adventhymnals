@@ -1,15 +1,20 @@
 ---
-title: 49. Saviour, Breathe an Evening Blessing
+title: |
+    049. Saviour, Breathe an Evening Blessing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Saviour, Breathe an Evening Blessing, Saviour, breathe an evening blessing, 
+    description: |
+        Church Hymnal 1941 049. Saviour, Breathe an Evening Blessing.  Savior, breathe an evening blessing, Ere repose our spirits seal; Sin and want we come confessing; Thou canst save, and Thou canst heal.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Saviour, Breathe an Evening Blessing, Saviour, breathe an evening blessing. 
     author: Brian Onang'o
 ---
 
-
-## 49. SAVIOUR, BREATHE AN EVENING BLESSING
+#### Advent Hymnals
+## 049. SAVIOUR, BREATHE AN EVENING BLESSING
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Savior, breathe an evening blessing,
 Ere repose our spirits seal;
@@ -34,13 +39,14 @@ And our couch become our tomb,
 May the morn of glory wake us,
 Clad in light and deathless bloom.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Saviour, Breathe an Evening Blessing |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Saviour, breathe an evening blessing |
 Author | James Edmeston
 Year | 1941
@@ -48,36 +54,11 @@ Composer| George C. Stebbins |
 Hymnal|  - |
 Tune| EVENING PRAYER |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Evening Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

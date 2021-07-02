@@ -1,15 +1,42 @@
 ---
-title: 38. God Bless and Keep Thee
+title: |
+    038. God Bless and Keep Thee - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, God Bless and Keep Thee, God bless and keep thee through all thy days, 
+    description: |
+        Church Hymnal 1941 038. God Bless and Keep Thee.  God bless and keep thee through all thy days,  God bless and keep thee in all thy ways;  'Mizpah' our parting sweet,  'Mizpah' our hearts repeat,  Till we again shall meet with songs of praise.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, God Bless and Keep Thee, God bless and keep thee through all thy days. 
     author: Brian Onang'o
 ---
 
-
-## 38. GOD BLESS AND KEEP THEE
+#### Advent Hymnals
+## 038. GOD BLESS AND KEEP THEE
+####  Church Hymnal 1941,
 
 ```txt
+
+1.
+God bless and keep thee through all thy days, 
+God bless and keep thee in all thy ways; 
+'Mizpah' our parting sweet, 
+'Mizpah' our hearts repeat, 
+Till we again shall meet with songs of praise. 
+
+2.
+How good to be where God's children meet, 
+How good to worship at Jesus' feet; 
+There love and peace abide, 
+There sweetest rest beside, 
+There every care we hide in joy complete. 
+
+3.
+Here in His word sweet manna is found, 
+Here living waters for all abound; 
+Jesus our need supplies, 
+And who on Him relies 
+He ever satisfies; 
+His praise resound.
+
 
 ```
 
@@ -17,7 +44,7 @@ metadata:
 -------------|------------|
 Title | God Bless and Keep Thee |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | God bless and keep thee through all thy days |
 Author | Henry de Fluiter
 Year | 1941
@@ -29,32 +56,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | Worship: Closing of Worship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

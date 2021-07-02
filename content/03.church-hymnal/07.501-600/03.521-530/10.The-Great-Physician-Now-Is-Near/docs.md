@@ -1,15 +1,49 @@
 ---
-title: 530. The Great Physician Now Is Near
+title: |
+    530. The Great Physician Now Is Near - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Great Physician Now Is Near, The Great Physician now is near, Sweetest note in seraph song
+    description: |
+        Church Hymnal 1941 530. The Great Physician Now Is Near. The great Physician now is near, The sympathizing Jesus; He speaks the drooping heart to cheer, Oh! hear the voice of Jesus. CHORUS: Sweetest note in seraph song, Sweetest name on mortal tongue; Sweetest carol ever sung, Jesus, blessed Jesus. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Great Physician Now Is Near, The Great Physician now is near. Sweetest note in seraph song,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 530. THE GREAT PHYSICIAN NOW IS NEAR
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D Flat
+
+1.
+The great Physician now is near,
+The sympathizing Jesus;
+He speaks the drooping heart to cheer,
+Oh! hear the voice of Jesus.
+CHORUS:
+Sweetest note in seraph song,
+Sweetest name on mortal tongue;
+Sweetest carol ever sung,
+Jesus, blessed Jesus.
+
+2.
+All glory to the dying Lamb!
+I now believe in Jesus;
+I love the blessed Savior's name,
+I love the name of Jesus.
+
+4.
+His name dispels my guilt and fear,
+No other name but Jesus;
+Oh! how my soul delights to hear
+The precious name of Jesus.
+
+4.
+And when He comes to bring the crown- 
+The crown of life and glory- 
+Then by His side we will sit down 
+And tell redemption's story
 
 ```
 
@@ -17,11 +51,11 @@ metadata:
 -------------|------------|
 Title | The Great Physician Now Is Near |
 Key | E♭ Major |
-Titles | Sweetest note in seraph song |
+Titles | Sweetest note in seraph song, |
 First Line | The Great Physician now is near |
 Author | William Hunter
 Year | 1941
-Composer| J. H. Stockton |
+Composer| undefined |
 Hymnal|  - |
 Tune| The Great Physician now is near |
 Metrical pattern | |
@@ -29,32 +63,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | Sabbath School: Jesus' Love and Sympathy |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

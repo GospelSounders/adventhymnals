@@ -1,15 +1,20 @@
 ---
-title: 56. Again as Evening's Shadow Falls
+title: |
+    056. Again as Evening's Shadow Falls - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Again as Evening's Shadow Falls, Again, as evening's shadow falls, 
+    description: |
+        Church Hymnal 1941 056. Again as Evening's Shadow Falls.  Again, as evening's shadow falls,  We gather in these hallowed walls;  And vesper hymn and vesper prayer  Rise mingling on the holy air.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Again as Evening's Shadow Falls, Again, as evening's shadow falls. 
     author: Brian Onang'o
 ---
 
-
-## 56. AGAIN AS EVENING'S SHADOW FALLS
+#### Advent Hymnals
+## 056. AGAIN AS EVENING'S SHADOW FALLS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Again, as evening's shadow falls, 
 We gather in these hallowed walls; 
@@ -29,13 +34,14 @@ Give deeper calm than night can bring;
 Give sweeter songs than lips can sing. 
 Amen.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Again as Evening's Shadow Falls |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Again, as evening's shadow falls |
 Author | Samuel Longfellow
 Year | 1941
@@ -43,36 +49,11 @@ Composer| Herbert S. Oakeley |
 Hymnal|  - |
 Tune| ABENDS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Evening Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

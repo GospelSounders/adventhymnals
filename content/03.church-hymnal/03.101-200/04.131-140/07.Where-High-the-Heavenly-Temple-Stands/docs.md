@@ -1,15 +1,20 @@
 ---
-title: 137. Where High the Heavenly Temple Stands
+title: |
+    137. Where High the Heavenly Temple Stands - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Where High the Heavenly Temple Stands, Where high the heavenly temple stands, 
+    description: |
+        Church Hymnal 1941 137. Where High the Heavenly Temple Stands.  Where high the heavenly temple stands,  The house of God not made with hands,  A great High Priest our nature wears,  The Guardian of mankind appears.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Where High the Heavenly Temple Stands, Where high the heavenly temple stands. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 137. WHERE HIGH THE HEAVENLY TEMPLE STANDS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Where high the heavenly temple stands, 
 The house of God not made with hands, 
@@ -34,50 +39,26 @@ Let us make all our sorrows known,
 And ask the aid of heavenly power, 
 To help us in the evil hour.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Where High the Heavenly Temple Stands |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Where high the heavenly temple stands |
 Author | Michael Bruce
 Year | 1941
-Composer| Lowell Mason |
+Composer| undefined |
 Hymnal|  - |
 Tune| WARD |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Priesthood |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

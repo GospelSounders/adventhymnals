@@ -1,13 +1,17 @@
 ---
-title: 353. Forward, Christian, Forward!
+title: |
+    353. Forward, Christian, Forward! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Forward, Christian, Forward!, Forward, Christian, forward! spread abroad the cry, 
+    description: |
+        Church Hymnal 1941 353. Forward, Christian, Forward!.  Forward, Christian, forward! spread abroad the cry;  Shout aloud the watchword, "Jesus draweth nigh!"  Wave the gospel standard, banner of His love;  Sing, as marching onward to your home above. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Forward, Christian, Forward!, Forward, Christian, forward! spread abroad the cry. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 353. FORWARD, CHRISTIAN, FORWARD!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Haste, thou glorious morning! Welcome, shadeless day!
 Chasing with thy sunlight all our tears away; 
 Haste, O wondrous moment, when 'midst radiant skies 
 Sleeping saints and living at His Word arise.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Forward, Christian, Forward! |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Forward, Christian, forward! spread abroad the cry |
 Author | S. Trevor Francis
 Year | 1941
@@ -47,36 +52,11 @@ Composer| H. J. E. Holmes |
 Hymnal|  - |
 Tune| EVENTIDE (HOLMES) |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Watchfulness |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,39 +1,50 @@
 ---
-title: 630. Some Day the Silver Cord Will Break
+title: |
+    630. Some Day the Silver Cord Will Break - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Some Day the Silver Cord Will Break, Some day the silver cord will break, And I shall see Him face to face
+    description: |
+        Church Hymnal 1941 630. Some Day the Silver Cord Will Break.  Someday the silver cord will break,  And I no more as now shall sing;  But, O, the joy when I shall wake  Within the palace of the King!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Some Day the Silver Cord Will Break, Some day the silver cord will break. And I shall see Him face to face, 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 630. SOME DAY THE SILVER CORD WILL BREAK
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
-Rise, my soul, and stretch thy wings, Thy better portion trace;
-Rise from transitory things Toward heaven, thy native place;
-Sun, and moon, and stars decay; Time shall soon this earth remove;
-Rise, my soul, and haste away To seats prepared above.
+Someday the silver cord will break, 
+And I no more as now shall sing; 
+But, O, the joy when I shall wake 
+Within the palace of the King! 
+Refrain:
+And I shall see Him face to face, 
+And tell the story'Saved by grace; 
+And I shall see Him face to face, 
+And tell the story'Saved by grace. 
 
 2.
-Rivers to the ocean run, Nor stay in all their course;
-Fire ascending seeks the sun; Both speed them to their source;
-So a soul that's born of God, Longs to view His glorious face,
-Forward tends to His abode To rest in His embrace.
+Someday my earthly house will fall, 
+I cannot tell how soon 'twill be, 
+But this I know'my all in all 
+Has now a place in heaven for me. 
 
 3.
-Cease, ye pilgrims, cease to mourn; Press onward to the prize;
-Soon our Savior will return, Triumphant in the skies;
-Yet a season, and you know Happy entrance will be given,
-All our sorrows left below, And earth exhcanged for heaven.
+Someday, when fades the golden sun 
+Beneath the rosy-tinted west, 
+My blessed Lord will say, "Well done!" 
+And I shall enter into rest.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Some Day the Silver Cord Will Break |
 Key | F Major |
-Titles | And I shall see Him face to face |
+Titles | And I shall see Him face to face,  |
 First Line | Some day the silver cord will break |
 Author | Fanny J. Crosby (1823-1915)
 Year | 1941
@@ -41,36 +52,11 @@ Composer| George C. Stebbins |
 Hymnal|  - |
 Tune| SAVED BY GRACE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Hope and Apiration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

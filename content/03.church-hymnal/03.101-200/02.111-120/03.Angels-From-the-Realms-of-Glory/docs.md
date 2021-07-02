@@ -1,15 +1,20 @@
 ---
-title: 113. Angels From the Realms of Glory
+title: |
+    113. Angels From the Realms of Glory - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Angels From the Realms of Glory, Angels from the realms of glory, 
+    description: |
+        Church Hymnal 1941 113. Angels From the Realms of Glory.  Angels from the realms of glory, Wing your flight o`er all the earth; Ye, who sang creation`s story, Now proclaim Messiah`s birth; Come and worship, Come and worship, Worship Christ, the newborn King.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Angels From the Realms of Glory, Angels from the realms of glory. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 113. ANGELS FROM THE REALMS OF GLORY
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Angels from the realms of glory,
 Wing your flight o`er all the earth;
@@ -42,13 +47,14 @@ In His temple shall appear;
 Come and worship, Come and worship,
 Worship Christ, the newborn King.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Angels From the Realms of Glory |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Angels from the realms of glory |
 Author | James Mongtomery
 Year | 1941
@@ -56,36 +62,11 @@ Composer| Henry Smart |
 Hymnal|  - |
 Tune| REGENT SQUARE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: Life and Ministry |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

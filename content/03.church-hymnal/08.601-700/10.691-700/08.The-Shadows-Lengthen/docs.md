@@ -1,13 +1,17 @@
 ---
-title: 698. The Shadows Lengthen
+title: |
+    698. The Shadows Lengthen - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Shadows Lengthen, The shadows lengthen, Lord, with me abide, 
+    description: |
+        Church Hymnal 1941 698. The Shadows Lengthen.  The shadows lengthen, Lord, with me abide.  O Son of God,  Be Thou my Friend and Guide;  Through all the coming days  Whate'er betide'  In the cleft Rock of Ages  Let me hide  In peace, perfect peace! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Shadows Lengthen, The shadows lengthen, Lord, with me abide. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 698. THE SHADOWS LENGTHEN
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -19,50 +23,26 @@ Whate'er betide'
 In the cleft Rock of Ages 
 Let me hide 
 In peace, perfect peace!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Shadows Lengthen |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The shadows lengthen, Lord, with me abide |
-Author | 
+Author | undefined
 Year | 1941
 Composer| Walter A. Parkyn |
 Hymnal|  - |
 Tune| VESPER |
 Metrical pattern | |
-# Stanzas | 1 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sentences and Responses |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

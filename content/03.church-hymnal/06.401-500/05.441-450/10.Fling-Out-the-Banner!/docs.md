@@ -1,13 +1,17 @@
 ---
-title: 450. Fling Out the Banner!
+title: |
+    450. Fling Out the Banner! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Fling Out the Banner!, Fling out the banner! let it float, 
+    description: |
+        Church Hymnal 1941 450. Fling Out the Banner!.  Fling out the banner! let it float  Skyward and seaward, high and wide;  Our glory only in the cross;  Our only hope, the Crucified. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Fling Out the Banner!, Fling out the banner! let it float. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 450. FLING OUT THE BANNER!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Fling out the banner! wide and high,
 Seaward and skyward, let it shine; 
 Nor skill, nor might, nor merit ours; 
 We conquer only in that sign.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Fling Out the Banner! |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Fling out the banner! let it float |
 Author | G. W. Doane
 Year | 1941
@@ -47,36 +52,11 @@ Composer| J. Baptiste Calkin |
 Hymnal|  - |
 Tune| WALTHAM |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: Ministry and Missions |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

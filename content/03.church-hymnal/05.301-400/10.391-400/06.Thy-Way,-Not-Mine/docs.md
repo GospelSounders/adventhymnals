@@ -1,13 +1,17 @@
 ---
-title: 396. Thy Way, Not Mine
+title: |
+    396. Thy Way, Not Mine - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Thy Way, Not Mine, Thy way, not mine, O Lord, 
+    description: |
+        Church Hymnal 1941 396. Thy Way, Not Mine.  Thy way, not mine, O Lord,  However dark it be;  Lead me by Thine own hand,  Choose out the path for me. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Thy Way, Not Mine, Thy way, not mine, O Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 396. THY WAY, NOT MINE
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Not mine, not mine the choice
 In things or great or small; 
 Be Thou my guide, my strength, 
 My wisdom, and my all.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thy Way, Not Mine |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Thy way, not mine, O Lord |
 Author | Horatius Bonar
 Year | 1941
@@ -53,36 +58,11 @@ Composer| Leighton G. Hayne |
 Hymnal|  - |
 Tune| ST. CECILIA |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Guidance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

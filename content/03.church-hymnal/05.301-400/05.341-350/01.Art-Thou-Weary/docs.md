@@ -1,13 +1,17 @@
 ---
-title: 341. Art Thou Weary?
+title: |
+    341. Art Thou Weary? - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Art Thou Weary?, Art thou weary, art thou languid, 
+    description: |
+        Church Hymnal 1941 341. Art Thou Weary?.  Art thou weary, art thou languid,  Art thou sore distressed?  "Come to Me," saith One, "and coming,  Be at rest." 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Art Thou Weary?, Art thou weary, art thou languid. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 341. ART THOU WEARY?
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -51,13 +55,14 @@ Finding, following, keeping, struggling,
 Is He sure to bless? 
 "Saints, apostles, prophets, martyrs, 
 Answer, Yes."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Art Thou Weary? |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Art thou weary, art thou languid |
 Author |  Stephen of Mar Saba
 Year | 1941
@@ -65,36 +70,11 @@ Composer| Henry W. Baker |
 Hymnal|  - |
 Tune| STEPHANOS |
 Metrical pattern | |
-# Stanzas | 7 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Discipleship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 58. Our Day of Praise Is Done
+title: |
+    058. Our Day of Praise Is Done - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Our Day of Praise Is Done, Our day of praise is done, 
+    description: |
+        Church Hymnal 1941 058. Our Day of Praise Is Done.  Our day of praise is done;  The evening shadows fall;  But pass not from us with the sun,  True Light that lightenest all.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Our Day of Praise Is Done, Our day of praise is done. 
     author: Brian Onang'o
 ---
 
-
-## 58. OUR DAY OF PRAISE IS DONE
+#### Advent Hymnals
+## 058. OUR DAY OF PRAISE IS DONE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Our day of praise is done; 
 The evening shadows fall; 
@@ -40,13 +45,14 @@ Shall come the glorious end;
 And songs of angels and of men 
 In perfect praise shall blend.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Our Day of Praise Is Done |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Our day of praise is done |
 Author | John Ellerton
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Horatio Parker |
 Hymnal|  - |
 Tune| GARDEN CITY |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Evening Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

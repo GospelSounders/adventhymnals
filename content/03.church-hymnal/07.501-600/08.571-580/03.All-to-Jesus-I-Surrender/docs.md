@@ -1,15 +1,20 @@
 ---
-title: 573. All to Jesus I Surrender
+title: |
+    573. All to Jesus I Surrender - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, All to Jesus I Surrender, All to Jesus I surrender, I surrender all
+    description: |
+        Church Hymnal 1941 573. All to Jesus I Surrender. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, All to Jesus I Surrender, All to Jesus I surrender. I surrender all
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 573. ALL TO JESUS I SURRENDER
+####  Church Hymnal 1941,
 
 ```txt
+ 
 
 ```
 
@@ -29,32 +34,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | Sabbath School: The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 405. The Lord Is My Shepherd
+title: |
+    405. The Lord Is My Shepherd - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Lord Is My Shepherd, The Lord is my Shepherd, no want shall I know, 
+    description: |
+        Church Hymnal 1941 405. The Lord Is My Shepherd.  The Lord is my Shepherd; no want shall I know;  I feed in green pastures, safe folded I rest;  He leadeth my soul where the still waters flow,  Restores me when wandering, redeems when oppressed, 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Lord Is My Shepherd, The Lord is my Shepherd, no want shall I know. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 405. THE LORD IS MY SHEPHERD
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,50 +37,26 @@ Let goodness and mercy, my bountiful God,
 Still follow my steps till I meet Thee above; 
 I seek'by the path which my forefathers trod, 
 Through the land of their sojourn'Thy kingdom of love.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Lord Is My Shepherd |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | The Lord is my Shepherd, no want shall I know |
 Author | J. Montgomery
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| GOSHEN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Guidance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 83. God of My Life
+title: |
+    083. God of My Life - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, God of My Life, God of my life, whose gracious power, 
+    description: |
+        Church Hymnal 1941 083. God of My Life.  God of my life, whose gracious power  Through varied scenes my soul hath led,  Or turned aside the fatal hour,  Or lifted up my sinking head.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, God of My Life, God of my life, whose gracious power. 
     author: Brian Onang'o
 ---
 
-
-## 83. GOD OF MY LIFE
+#### Advent Hymnals
+## 083. GOD OF MY LIFE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 God of my life, whose gracious power 
 Through varied scenes my soul hath led, 
@@ -34,13 +39,14 @@ My griefs expire, my troubles cease;
 Thou, Lord, on whom my soul is stayed, 
 Wilt keep me still in perfect peace.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God of My Life |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | God of my life, whose gracious power |
 Author | Charles Wesley (1707-1788)
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| UXBRIDGE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father- Abiding Presence: Providence of God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

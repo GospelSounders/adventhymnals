@@ -1,13 +1,17 @@
 ---
-title: 526. O, Spread the Tidings Round
+title: |
+    526. O, Spread the Tidings Round - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O, Spread the Tidings Round, O, spread the tidings round, 
+    description: |
+        Church Hymnal 1941 526. O, Spread the Tidings Round.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O, Spread the Tidings Round, O, spread the tidings round. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 526. O, SPREAD THE TIDINGS ROUND
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -46,13 +50,14 @@ To all below reply,
 In strains of endless love, 
 The song that ne'er will die: 
 The Comforter has come!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O, Spread the Tidings Round |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | O, spread the tidings round |
 Author | F. Bottome
 Year | 1941
@@ -60,36 +65,11 @@ Composer| William J. Kirkpatrick |
 Hymnal|  - |
 Tune| O, spread the tidings round |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Jesus' Love and Sympathy |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

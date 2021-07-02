@@ -1,15 +1,21 @@
 ---
-title: 356. Am I a Soldier of the Cross?
+title: |
+    356. Am I a Soldier of the Cross? - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Am I a Soldier of the Cross?, Am I a soldier of the cross, 
+    description: |
+        Church Hymnal 1941 356. Am I a Soldier of the Cross?. Am I a soldier of the cross, A follower of the Lamb, And shall I fear to own His cause, Or blush to speak His name? 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Am I a Soldier of the Cross?, Am I a soldier of the cross. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 356. AM I A SOLDIER OF THE CROSS?
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
 1.
 Am I a soldier of the cross,
 A follower of the Lamb,
@@ -45,13 +51,14 @@ When that illustrious day shall rise,
 And all Thy armies shine
 In robes of victory through the skies,
 The glory shall be Thine 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Am I a Soldier of the Cross? |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Am I a soldier of the cross |
 Author | Isaac Watts
 Year | 1941
@@ -59,36 +66,11 @@ Composer| Thomas A. Arne |
 Hymnal|  - |
 Tune| ARLINGTON |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Warfare |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

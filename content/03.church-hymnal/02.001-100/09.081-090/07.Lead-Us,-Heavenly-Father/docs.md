@@ -1,15 +1,20 @@
 ---
-title: 87. Lead Us, Heavenly Father
+title: |
+    087. Lead Us, Heavenly Father - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lead Us, Heavenly Father, Lead us, heavenly Father, lead us, 
+    description: |
+        Church Hymnal 1941 087. Lead Us, Heavenly Father.  Lead us, heavenly Father, lead us  O'er the world's tempestuos sea;  Guard us, guide us, keep us, feed us,  For we have no help but thee;  Yet possessing Every blessing  If our God our Father be.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lead Us, Heavenly Father, Lead us, heavenly Father, lead us. 
     author: Brian Onang'o
 ---
 
-
-## 87. LEAD US, HEAVENLY FATHER
+#### Advent Hymnals
+## 087. LEAD US, HEAVENLY FATHER
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Lead us, heavenly Father, lead us 
 O'er the world's tempestuos sea; 
@@ -34,50 +39,26 @@ Pleasure that can never cloy;
 Thus provided, Pardoned, guided, 
 Nothing can our peace destroy.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lead Us, Heavenly Father |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Lead us, heavenly Father, lead us |
 Author | James Edmeston
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| DULCE CARMEN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Providence of God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

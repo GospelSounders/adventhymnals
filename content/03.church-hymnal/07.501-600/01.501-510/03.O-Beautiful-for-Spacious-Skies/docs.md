@@ -1,13 +1,17 @@
 ---
-title: 503. O Beautiful for Spacious Skies
+title: |
+    503. O Beautiful for Spacious Skies - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O Beautiful for Spacious Skies, O beautiful for spacious skies, 
+    description: |
+        Church Hymnal 1941 503. O Beautiful for Spacious Skies.  Skies O beautiful for spacious skies,  For amber waves of grain,  For purple mountain majesties  Above the fruited plain!  America! America!  God shed His grace on thee,  And crown thy good with brotherhood  From sea to shining sea. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O Beautiful for Spacious Skies, O beautiful for spacious skies. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 503. O BEAUTIFUL FOR SPACIOUS SKIES
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ America! America!
 God shed His grace on thee, 
 And crown thy good with brotherhood 
 From sea to shining sea.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Beautiful for Spacious Skies |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | O beautiful for spacious skies |
 Author | Katharine Lee Bates
 Year | 1941
@@ -63,36 +68,11 @@ Composer| Samuel A. Ward |
 Hymnal|  - |
 Tune| MATERNA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Patriotic |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

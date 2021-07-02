@@ -1,13 +1,17 @@
 ---
-title: 559. Pass Me Not, O Gentle Saviour
+title: |
+    559. Pass Me Not, O Gentle Saviour - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Pass Me Not, O Gentle Saviour, Pass me not, O gentle Saviour, Saviour, Saviour, hear my humble cry
+    description: |
+        Church Hymnal 1941 559. Pass Me Not, O Gentle Saviour.  Pass me not, O gentle Savior,  Hear my humble cry;  While on others Thou art calling,  Do not pass me by.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Pass Me Not, O Gentle Saviour, Pass me not, O gentle Saviour. Savior, Savior, hear my humble cry, 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 559. PASS ME NOT, O GENTLE SAVIOUR
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -37,13 +41,14 @@ Thou the spring of all my comfort,
 More than life to me, 
 Whom have I on earth beside Thee? 
 Whom in heaven but Thee?
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Pass Me Not, O Gentle Saviour |
 Key | A♭ Major |
-Titles | Saviour, Saviour, hear my humble cry |
+Titles | Savior, Savior, hear my humble cry,  |
 First Line | Pass me not, O gentle Saviour |
 Author | Fanny J. Crosby (1823-1915)
 Year | 1941
@@ -51,36 +56,11 @@ Composer| William H. Doane |
 Hymnal|  - |
 Tune| Pass me not, O gentle Saviour |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

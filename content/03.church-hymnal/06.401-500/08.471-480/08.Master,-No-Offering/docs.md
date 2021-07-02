@@ -1,13 +1,17 @@
 ---
-title: 478. Master, No Offering
+title: |
+    478. Master, No Offering - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Master, No Offering, Master, no offering, 
+    description: |
+        Church Hymnal 1941 478. Master, No Offering.  Master, no offering  Costly or sweet,  Lay we, like Magdalene,  Here at Thy feet;  Yet may love's incense rise,  Sweeter than sacrifice,  Dear Lord, to Thee. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Master, No Offering, Master, no offering. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 478. MASTER, NO OFFERING
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -45,13 +49,14 @@ May we abide,
 Anti when earth's labors cease, 
 Bid us depart in peace, 
 Dear Lord, to Thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Master, No Offering |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Master, no offering |
 Author | Edwin P. Parker
 Year | 1941
@@ -59,36 +64,11 @@ Composer| Edwin P. Parker |
 Hymnal|  - |
 Tune| LOVE'S OFFERING |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: Tithes and Offerings |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

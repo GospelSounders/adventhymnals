@@ -1,15 +1,20 @@
 ---
-title: 24. How Pleasant, How Divinely Fair
+title: |
+    024. How Pleasant, How Divinely Fair - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, How Pleasant, How Divinely Fair, How pleasant, how divinely fair, 
+    description: |
+        Church Hymnal 1941 024. How Pleasant, How Divinely Fair.  How pleasant, how divinely fair,  O Lord of hosts, Thy dwellings are!  With long desire my spirit faints  To meet th'assemblies of Thy saints.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, How Pleasant, How Divinely Fair, How pleasant, how divinely fair. 
     author: Brian Onang'o
 ---
 
-
-## 24. HOW PLEASANT, HOW DIVINELY FAIR
+#### Advent Hymnals
+## 024. HOW PLEASANT, HOW DIVINELY FAIR
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 How pleasant, how divinely fair, 
 O Lord of hosts, Thy dwellings are! 
@@ -34,13 +39,14 @@ Till all shall meet in heaven at length,
 Till all before Thy face appear, 
 And join in nobler worship there.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Pleasant, How Divinely Fair |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | How pleasant, how divinely fair |
 Author | Isaac Watts (1674-1748)
 Year | 1941
@@ -48,36 +54,11 @@ Composer| I. B. Woodbury (1819-1858) |
 Hymnal|  - |
 Tune| BURTON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Adoration and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

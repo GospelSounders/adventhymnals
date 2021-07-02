@@ -1,15 +1,20 @@
 ---
-title: 69. High in the Heavens
+title: |
+    069. High in the Heavens - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, High in the Heavens, High in the heavens, eternal God, 
+    description: |
+        Church Hymnal 1941 069. High in the Heavens.  High in the heavens, eternal God,  Thy goodness in full glory shines;  Thy truth shall break through every cloud  That veils and darkens Thy designs.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, High in the Heavens, High in the heavens, eternal God. 
     author: Brian Onang'o
 ---
 
-
-## 69. HIGH IN THE HEAVENS
+#### Advent Hymnals
+## 069. HIGH IN THE HEAVENS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 High in the heavens, eternal God, 
 Thy goodness in full glory shines; 
@@ -34,50 +39,26 @@ We still shall find a sweet repast;
 There mercy like a river flows, 
 And brings salvation to our taste.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | High in the Heavens |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | High in the heavens, eternal God |
 Author | Isaac Watts (1674-1748)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| ST. ALBAN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Majesty and Power |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

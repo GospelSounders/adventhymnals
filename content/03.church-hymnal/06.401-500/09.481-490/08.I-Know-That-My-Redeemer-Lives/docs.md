@@ -1,13 +1,17 @@
 ---
-title: 488. I Know That My Redeemer Lives
+title: |
+    488. I Know That My Redeemer Lives - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Know That My Redeemer Lives, I know that my Redeemer lives, 
+    description: |
+        Church Hymnal 1941 488. I Know That My Redeemer Lives.  Lives I know that my Redeemer lives;  He lives, and on the earth shall stand;  And though to worms my flesh He gives,  My dust lies numbered in His hand. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Know That My Redeemer Lives, I know that my Redeemer lives. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 488. I KNOW THAT MY REDEEMER LIVES
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ With mine and not another's eyes
 The King in beauty I shall view; 
 I shall from Him receive the prize, 
 The starry crown to victors due. 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Know That My Redeemer Lives |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | I know that my Redeemer lives |
 Author | Anon.
 Year | 1941
@@ -41,36 +46,11 @@ Composer| Thomas Hastings |
 Hymnal|  - |
 Tune| RETREAT |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Funeral |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

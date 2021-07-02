@@ -1,15 +1,44 @@
 ---
-title: 272. Have Thine Own Way, Lord
+title: |
+    272. Have Thine Own Way, Lord - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Have Thine Own Way, Lord, Have Thine own way, Lord! Have Thine own way!, 
+    description: |
+        Church Hymnal 1941 272. Have Thine Own Way, Lord. Have Thine own way, Lord! Have Thine own way! Thou art the potter, I am the clay. Mold me and make me After Thy will, While I am waiting, Yielded and still. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Have Thine Own Way, Lord, Have Thine own way, Lord! Have Thine own way!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 272. HAVE THINE OWN WAY, LORD
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: E Flat
+
+1.
+Have Thine own way, Lord! Have Thine own way!
+Thou art the potter, I am the clay.
+Mold me and make me After Thy will,
+While I am waiting, Yielded and still.
+
+2.
+Have Thine own way, Lord! Have Thine own way!
+Search me and try me, Master today!
+Whiter than snow, Lord, Wash me just now,
+As in Thy presence Humbly I bow.
+
+3.
+Have Thine own way, Lord! Have Thine own way!
+Wounded and weary, Help me I pray!
+Power, all power, Surely is Thine!
+Touch me and heal me, Savior divine!
+
+4.
+Have Thine own way, Lord! Have Thine own way!
+Hold o'er my being Absolute sway.
+Fill with thy Spirit Till all shall see
+Christ only, always, Living in me!
 
 ```
 
@@ -17,7 +46,7 @@ metadata:
 -------------|------------|
 Title | Have Thine Own Way, Lord |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Have Thine own way, Lord! Have Thine own way! |
 Author | A. A. P.
 Year | 1941
@@ -29,29 +58,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 230. I Gave My Life for Thee
+title: |
+    230. I Gave My Life for Thee - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Gave My Life for Thee, I gave My life for thee, 
+    description: |
+        Church Hymnal 1941 230. I Gave My Life for Thee.  I gave my life for thee,  My precious blood I shed,  That thou might'st ransom be,  And quickened from the dead;  I gave, I gave my life for thee,  What hast thou given for me?  I gave, I gave my life for thee,  What hast thou given for me?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Gave My Life for Thee, I gave My life for thee. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 230. I GAVE MY LIFE FOR THEE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 I gave my life for thee, 
 My precious blood I shed, 
@@ -40,13 +45,14 @@ What hast thou borne for me?
 I've borne, I've borne it all for thee, 
 What hast thou borne for me?
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Gave My Life for Thee |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | I gave My life for thee |
 Author | Frances Ridley Havergal
 Year | 1941
@@ -54,36 +60,11 @@ Composer| J. E. White |
 Hymnal|  - |
 Tune| WHITE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

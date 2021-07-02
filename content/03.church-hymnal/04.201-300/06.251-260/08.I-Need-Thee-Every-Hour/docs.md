@@ -1,15 +1,21 @@
 ---
-title: 258. I Need Thee Every Hour
+title: |
+    258. I Need Thee Every Hour - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Need Thee Every Hour, I need Thee every hour, 
+    description: |
+        Church Hymnal 1941 258. I Need Thee Every Hour.  I need Thee every hour, Most gracious Lord; No tender voice like Thine Can peace afford. CHORUS: I need Thee, O I need Thee; Every hour I need Thee; O bless me now, my Savior, I come to Thee.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Need Thee Every Hour, I need Thee every hour. I need Thee, O I need Thee;
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 258. I NEED THEE EVERY HOUR
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: A Flat
+
 1.
 I need Thee every hour, Most gracious Lord;
 No tender voice like Thine Can peace afford.
@@ -30,13 +36,14 @@ Come quickly and abide, Or life is vain.
 I need Thee every hour; Teach me Thy will;
 And Thy rich promises In me fulfill.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Need Thee Every Hour |
 Key | A♭ Major |
-Titles |  |
+Titles | I need Thee, O I need Thee; |
 First Line | I need Thee every hour |
 Author | Mrs. Annie S. Hawks
 Year | 1941
@@ -44,33 +51,11 @@ Composer| Robert Lowry |
 Hymnal|  - |
 Tune| NEED |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

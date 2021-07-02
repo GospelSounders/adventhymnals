@@ -1,15 +1,21 @@
 ---
-title: 350. We Have Not Known Thee
+title: |
+    350. We Have Not Known Thee - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, We Have Not Known Thee, We have not known Thee as we ought, 
+    description: |
+        Church Hymnal 1941 350. We Have Not Known Thee. We have not known Thee as we ought, Nor learned Thy wisdom, grace, and power; The things of earth have filed our thoughts, And trifles of the passing hour. Lord, give us light Thy truth to see, And make us wise in knowing Thee. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, We Have Not Known Thee, We have not known Thee as we ought. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 350. WE HAVE NOT KNOWN THEE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D Flat
+
 1.
 We have not known Thee as we ought,
 Nor learned Thy wisdom, grace, and power;
@@ -49,13 +55,14 @@ When shall we, out of trial brought,
 Be perfect in the land of light!
 Lord, may we day by day prepare
 To see Thy face, and serve Thee there.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Have Not Known Thee |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | We have not known Thee as we ought |
 Author | Thomas B. Pollock
 Year | 1941
@@ -63,36 +70,11 @@ Composer| Joseph Barnby |
 Hymnal|  - |
 Tune| ST. CHRYSOSTOM |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Loyalty |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

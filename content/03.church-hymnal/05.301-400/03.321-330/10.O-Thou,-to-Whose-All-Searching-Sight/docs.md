@@ -1,13 +1,17 @@
 ---
-title: 330. O Thou, to Whose All-Searching Sight
+title: |
+    330. O Thou, to Whose All-Searching Sight - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O Thou, to Whose All-Searching Sight, O Thou, to whose all searching sight, 
+    description: |
+        Church Hymnal 1941 330. O Thou, to Whose All-Searching Sight.  O Thou, to whose all-searching sight  The darkness shineth as the light;  Search, prove my heart, it yearns for Thee;  O burst these bonds, and set it free! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O Thou, to Whose All-Searching Sight, O Thou, to whose all searching sight. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 330. O THOU, TO WHOSE ALL-SEARCHING SIGHT
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Saviour, where'er Thy steps I see,
 Dauntless, untired, I follow Thee; 
 O let Thy hand support me still, 
 And lead me to Thy holy hill!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Thou, to Whose All-Searching Sight |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O Thou, to whose all searching sight |
 Author | Nicolaus L. Zinzendorf (1700-1760)
 Year | 1941
@@ -47,36 +52,11 @@ Composer| John E. Gould |
 Hymnal|  - |
 Tune| BERA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Meditation and Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

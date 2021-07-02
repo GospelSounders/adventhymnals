@@ -1,13 +1,17 @@
 ---
-title: 618. Sitting at the Feet of Jesus
+title: |
+    618. Sitting at the Feet of Jesus - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Sitting at the Feet of Jesus, Sitting at the feet of Jesus, 
+    description: |
+        Church Hymnal 1941 618. Sitting at the Feet of Jesus.  Sitting at the feet of Jesus,  O what words I hear Him say!  Happy place! so near, so precious!  May it find me there each day;  Sitting at the feet of Jesus,  I would look upon the past,  For His love has been so gracious,  It has won my heart at last. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Sitting at the Feet of Jesus, Sitting at the feet of Jesus. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 618. SITTING AT THE FEET OF JESUS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,50 +43,26 @@ Give me, Lord, the mind of Jesus,
 Make me holy as He is, 
 May I prove I've been with Jesus, 
 Who is all my righteousness.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sitting at the Feet of Jesus |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Sitting at the feet of Jesus |
 Author | J. H.
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| HUMILITY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Work and Duty |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

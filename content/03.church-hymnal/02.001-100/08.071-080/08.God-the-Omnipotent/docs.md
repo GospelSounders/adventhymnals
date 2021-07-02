@@ -1,15 +1,20 @@
 ---
-title: 78. God the Omnipotent
+title: |
+    078. God the Omnipotent - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, God the Omnipotent, God, the Omnipotent! King, who ordainest, 
+    description: |
+        Church Hymnal 1941 078. God the Omnipotent.  God the Omnipotent! King, who ordainest Great winds Thy clarions, the lightnings Thy sword; Show forth Thy pity on high where Thou reignest, Give to us peace, O most merciful Lord.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, God the Omnipotent, God, the Omnipotent! King, who ordainest. 
     author: Brian Onang'o
 ---
 
-
-## 78. GOD THE OMNIPOTENT
+#### Advent Hymnals
+## 078. GOD THE OMNIPOTENT
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 God the Omnipotent! King, who ordainest
 Great winds Thy clarions, the lightnings Thy sword;
@@ -34,13 +39,14 @@ For Thy deliverance from peril and sword,
 Singing in chorus from ocean to ocean,
 "Thine is the power and the glory, O Lord."
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God the Omnipotent |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | God, the Omnipotent! King, who ordainest |
 Author | H. F. Chorley
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Alexis Lwoff |
 Hymnal|  - |
 Tune| RUSSIAN HYMN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Majesty and Power |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

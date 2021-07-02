@@ -1,15 +1,21 @@
 ---
-title: 199. We Speak of the Realms
+title: |
+    199. We Speak of the Realms - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, We Speak of the Realms, We speak of the realms of the blest, 
+    description: |
+        Church Hymnal 1941 199. We Speak of the Realms.  We speak of the realms of the blest, That country so bright and so fair, And oft are its glories confessed- But what must it be to be there! We speak of its pathway of gold- Its walls decked with jewels so rare, Its wonders and pleasures untold- But what must it be to be there!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, We Speak of the Realms, We speak of the realms of the blest. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 199. WE SPEAK OF THE REALMS
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
 1.
 We speak of the realms of the blest,
 That country so bright and so fair,
@@ -50,50 +56,26 @@ In glory celestial and fair,
 With saints and with angels at home,
 And Jesus Himself will be there.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Speak of the Realms |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | We speak of the realms of the blest |
 Author | Elizabeth Mills
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| CONTRAST |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Kingdom and Reign |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

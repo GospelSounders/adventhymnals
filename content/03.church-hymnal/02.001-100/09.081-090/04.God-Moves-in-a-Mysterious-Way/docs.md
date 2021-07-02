@@ -1,15 +1,20 @@
 ---
-title: 84. God Moves in a Mysterious Way
+title: |
+    084. God Moves in a Mysterious Way - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, God Moves in a Mysterious Way, God moves in a mysterious way, 
+    description: |
+        Church Hymnal 1941 084. God Moves in a Mysterious Way.  God moves in a mysterious way His wonders to perform; He plants His footsteps in the sea, And rides upon the storm.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, God Moves in a Mysterious Way, God moves in a mysterious way. 
     author: Brian Onang'o
 ---
 
-
-## 84. GOD MOVES IN A MYSTERIOUS WAY
+#### Advent Hymnals
+## 084. GOD MOVES IN A MYSTERIOUS WAY
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 God moves in a mysterious way
 His wonders to perform;
@@ -40,50 +45,26 @@ And scan His work in vain;
 God is His own interpreter,
 And He will make it plain.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God Moves in a Mysterious Way |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | God moves in a mysterious way |
 Author | William Cowper (1731-1800)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| DUNDEE |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father-Abiding Presence: Providence of God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

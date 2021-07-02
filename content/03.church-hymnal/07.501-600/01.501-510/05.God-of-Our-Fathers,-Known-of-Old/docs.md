@@ -1,13 +1,17 @@
 ---
-title: 505. God of Our Fathers, Known of Old
+title: |
+    505. God of Our Fathers, Known of Old - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, God of Our Fathers, Known of Old, God of our fathers, known of old, 
+    description: |
+        Church Hymnal 1941 505. God of Our Fathers, Known of Old.  God of our fathers, known of old,  Lord of our far-flung battle line,  Beneath whose awful hand we hold  Dominion over palm and pine,  Lord God of hosts, be with us yet,  Lest we forget, lest we forget. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, God of Our Fathers, Known of Old, God of our fathers, known of old. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 505. GOD OF OUR FATHERS, KNOWN OF OLD
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ All valiant dust that builds on dust,
 And, guarding, calls not Thee to guard, 
 For frantic boast and foolish word, 
 Thy mercy on Thy people, Lord.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God of Our Fathers, Known of Old |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | God of our fathers, known of old |
 Author | Rudyard Kipling
 Year | 1941
@@ -63,36 +68,11 @@ Composer| George F. Blanchard |
 Hymnal|  - |
 Tune| LEST WE FORGET |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Patriotic |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

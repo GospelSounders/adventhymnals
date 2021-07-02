@@ -1,13 +1,17 @@
 ---
-title: 516. Sweet the Time
+title: |
+    516. Sweet the Time - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Sweet the Time, Sweet the time, exceeding sweet!, 
+    description: |
+        Church Hymnal 1941 516. Sweet the Time.  Sweet the time, exceeding sweet!  When the saints together meet,  When the Saviour is the theme,  When they join to sing of Him. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Sweet the Time, Sweet the time, exceeding sweet!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 516. SWEET THE TIME
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,50 +43,26 @@ Sweet the time, exceeding sweet,
 When the saints in heaven shall meet; 
 Jesus still will be the theme, 
 They shall always sing of Him. 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sweet the Time |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | Sweet the time, exceeding sweet! |
 Author | George Burder
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| INNOCENTS |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Hymns for Social Worship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

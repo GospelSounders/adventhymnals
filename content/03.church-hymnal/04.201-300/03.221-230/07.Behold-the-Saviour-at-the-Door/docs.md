@@ -1,15 +1,20 @@
 ---
-title: 227. Behold the Saviour at the Door
+title: |
+    227. Behold the Saviour at the Door - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Behold the Saviour at the Door, Behold the Saviour at the door!, 
+    description: |
+        Church Hymnal 1941 227. Behold the Saviour at the Door.  Behold the Saviour at the door!  He gently knocks, has knocked before,  Has waited long, is waiting still;  You treat no other friend so ill.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Behold the Saviour at the Door, Behold the Saviour at the door!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 227. BEHOLD THE SAVIOUR AT THE DOOR
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Behold the Saviour at the door! 
 He gently knocks, has knocked before, 
@@ -46,13 +51,14 @@ So shalt thou in his presence rest,
 And in communion sweet and free, 
 Shalt sup with him and he with thee.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Behold the Saviour at the Door |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | Behold the Saviour at the door! |
 Author | Anon.
 Year | 1941
@@ -60,36 +66,11 @@ Composer| Lowell Mason (1792-1872) |
 Hymnal|  - |
 Tune| HARTEL |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

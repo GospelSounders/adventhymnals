@@ -1,15 +1,24 @@
 ---
-title: 702. Dismiss Us, Lord, With Blessing
+title: |
+    702. Dismiss Us, Lord, With Blessing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Dismiss Us, Lord, With Blessing, Dismiss us, Lord, with blessing, we pray, 
+    description: |
+        Church Hymnal 1941 702. Dismiss Us, Lord, With Blessing. Dismiss us, Lord, with blessing, we pray; As from Thy worship we go our ways; Guide in life's conflicts, all through the day; Save in Thy kingdom, Thine be the praise. Amen. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Dismiss Us, Lord, With Blessing, Dismiss us, Lord, with blessing, we pray. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 702. DISMISS US, LORD, WITH BLESSING
+####  Church Hymnal 1941,
 
 ```txt
+Dismiss us, Lord, with blessing, we pray;
+As from Thy worship we go our ways;
+Guide in life's conflicts, all through the day;
+Save in Thy kingdom, Thine be the praise.
+Amen. 
 
 ```
 
@@ -17,7 +26,7 @@ metadata:
 -------------|------------|
 Title | Dismiss Us, Lord, With Blessing |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Dismiss us, Lord, with blessing, we pray |
 Author | L. E. Froom
 Year | 1941
@@ -29,32 +38,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | Sentences and Responses |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

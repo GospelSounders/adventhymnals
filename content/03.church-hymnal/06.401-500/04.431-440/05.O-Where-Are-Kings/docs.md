@@ -1,13 +1,17 @@
 ---
-title: 435. O Where Are Kings
+title: |
+    435. O Where Are Kings - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O Where Are Kings, O where are the kings and empires now, 
+    description: |
+        Church Hymnal 1941 435. O Where Are Kings.  O where are kings and empires now  Of old that went and came?  But, Lord, Thy church is praying yet,  A thousand years the same. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O Where Are Kings, O where are the kings and empires now. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 435. O WHERE ARE KINGS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,50 +37,26 @@ Unshaken as eternal hills,
 Immovable she stands, 
 A mountain that shall fill the earth, 
 A house not made by hands.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Where Are Kings |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | O where are the kings and empires now |
-Author | 
+Author | undefined
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| ST. ANNE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines : The Church |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,21 @@
 ---
-title: 475. By Christ Redeemed
+title: |
+    475. By Christ Redeemed - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, By Christ Redeemed, By Christ redeemed, in Christ restored, 
+    description: |
+        Church Hymnal 1941 475. By Christ Redeemed. By Christ redeemed, In Christ restored, We keep the memory adored, And show the death of our dear Lord, Until He come. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, By Christ Redeemed, By Christ redeemed, in Christ restored. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 475. BY CHRIST REDEEMED
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: E Flat
+
 1.
 By Christ redeemed, In Christ restored,
 We keep the memory adored,
@@ -33,13 +39,14 @@ And thus that dark betrayal night,
 With the last advent unite----
 The shame, the glory, by this rite,
 Until He come.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | By Christ Redeemed |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | By Christ redeemed, in Christ restored |
 Author | George Rawson
 Year | 1941
@@ -47,36 +54,11 @@ Composer| Arthur S. Sullivan (1842-1900) |
 Hymnal|  - |
 Tune| NAUFORD |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Lord's Supper |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

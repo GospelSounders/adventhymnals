@@ -1,15 +1,20 @@
 ---
-title: 86. the King of Love My Shepherd is
+title: |
+    086. the King of Love My Shepherd is - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, the King of Love My Shepherd is, The King of love my Shepherd is, 
+    description: |
+        Church Hymnal 1941 086. the King of Love My Shepherd is.  The King of love my Shepherd is, Whose goodness faileth never; I nothing lack if I am His, And He is mine forever.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, the King of Love My Shepherd is, The King of love my Shepherd is. 
     author: Brian Onang'o
 ---
 
-
-## 86. THE KING OF LOVE MY SHEPHERD IS
+#### Advent Hymnals
+## 086. THE KING OF LOVE MY SHEPHERD IS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The King of love my Shepherd is,
 Whose goodness faileth never;
@@ -34,13 +39,14 @@ Thy goodness faileth never;
 Good Shepherd! I would sing Thy praise
 Within Thy house forever.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | the King of Love My Shepherd is |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | The King of love my Shepherd is |
 Author | H. W. Baker
 Year | 1941
@@ -48,36 +54,11 @@ Composer| John B. Dykes |
 Hymnal|  - |
 Tune| DOMINUS REGIT ME |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Providence of God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

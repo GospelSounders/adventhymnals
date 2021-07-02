@@ -1,15 +1,21 @@
 ---
-title: 448. Far and Near the Fields Are Teaming
+title: |
+    448. Far and Near the Fields Are Teaming - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Far and Near the Fields Are Teaming, Far and near the fields are teeming, Lord of harvest, send forth reapers!
+    description: |
+        Church Hymnal 1941 448. Far and Near the Fields Are Teaming. Far and near the fields are teeming With the sheaves of ripened grain; Far and near their gold is gleaming O'er the sunny slope and plain. CHORUS: Lord of harvest, send forth reapers! Hear us Lord, to Thee we cry; Send them now the sheaves to gather, Ere the harvest-time pass by. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Far and Near the Fields Are Teaming, Far and near the fields are teeming. Lord of harvest, send forth reapers!
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 448. FAR AND NEAR THE FIELDS ARE TEAMING
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
 1.
 Far and near the fields are teeming
 With the sheaves of ripened grain;
@@ -32,6 +38,7 @@ O thou, whom thy Lord is sending,
 Gather now the sheaves of gold;
 Heavenward then at evening wending
 Thou shalt come with joy untold.
+
 ```
 
 - |   -  |
@@ -46,36 +53,11 @@ Composer| J. B. O. Clemm |
 Hymnal|  - |
 Tune| HARVEST |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrine: Ministry and Missions |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

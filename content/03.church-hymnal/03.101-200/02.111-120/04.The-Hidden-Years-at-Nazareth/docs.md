@@ -1,15 +1,20 @@
 ---
-title: 114. The Hidden Years at Nazareth
+title: |
+    114. The Hidden Years at Nazareth - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Hidden Years at Nazareth, The hidden years at Nazareth!, 
+    description: |
+        Church Hymnal 1941 114. The Hidden Years at Nazareth.  The hidden years at Nazareth !  How Beautiful they seem,  Like fountains flowing in the dark  Or waters in a dream !  Like waters under Syrian stars  Reflecting lights above,  Repeating in their silent depths  The wonder of God's love.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Hidden Years at Nazareth, The hidden years at Nazareth!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 114. THE HIDDEN YEARS AT NAZARETH
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The hidden years at Nazareth ! 
 How Beautiful they seem, 
@@ -40,13 +45,14 @@ Forgetting fate or fear,
 To live for truth, or die with God, 
 Who stands beside thee here.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Hidden Years at Nazareth |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The hidden years at Nazareth! |
 Author | Allen Eastman Cross
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Harry L. Harts |
 Hymnal|  - |
 Tune| NAZARETH |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: Life and Ministry |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

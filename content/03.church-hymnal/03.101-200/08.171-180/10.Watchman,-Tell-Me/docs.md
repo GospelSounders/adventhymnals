@@ -1,15 +1,20 @@
 ---
-title: 180. Watchman, Tell Me
+title: |
+    180. Watchman, Tell Me - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Watchman, Tell Me, Watchman, tell me, does the morning, 
+    description: |
+        Church Hymnal 1941 180. Watchman, Tell Me.  Watchman, tell me, does the morning  Of fair Zion's glory dawn?  Have the signs that mark its coming  Yet upon thy pathway shone?  Pilgrim, yes! arise, look round thee;  Light is breaking in the skies;  Gird thy bridal robes around thee,  Morning dawns, arise! arise!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Watchman, Tell Me, Watchman, tell me, does the morning. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 180. WATCHMAN, TELL ME
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Watchman, tell me, does the morning 
 Of fair Zion's glory dawn? 
@@ -60,13 +65,14 @@ Wafted on the balmy air;
 See the millions, hear them singing, 
 Soon the pilgrims will be there.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Watchman, Tell Me |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Watchman, tell me, does the morning |
 Author | Sidney S. Brewer
 Year | 1941
@@ -74,36 +80,11 @@ Composer| William B. Bradbury |
 Hymnal|  - |
 Tune| DAWNING |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

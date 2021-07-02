@@ -1,15 +1,21 @@
 ---
-title: 210. O for That FLame of Living Fire
+title: |
+    210. O for That FLame of Living Fire - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O for That FLame of Living Fire, O for that flame of living fire, 
+    description: |
+        Church Hymnal 1941 210. O for That FLame of Living Fire.  O for that flame of living fire Which shone so bright in saints of old; Which bade their souls to heaven aspire, Calm in distress, in danger bold!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O for That FLame of Living Fire, O for that flame of living fire. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 210. O FOR THAT FLAME OF LIVING FIRE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: A Flat
+
 1.
 O for that flame of living fire
 Which shone so bright in saints of old;
@@ -40,50 +46,26 @@ Renew Thy work, Thy grace restore;
 And while to Thee our hearts we raise,
 On us Thy Holy Spirit pour.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O for That FLame of Living Fire |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O for that flame of living fire |
 Author | William H. Bathurst (1796-1877)
 Year | 1941
-Composer| Samuel Dyer |
+Composer| undefined |
 Hymnal|  - |
 Tune| MENDON |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: The Holy Spirit |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

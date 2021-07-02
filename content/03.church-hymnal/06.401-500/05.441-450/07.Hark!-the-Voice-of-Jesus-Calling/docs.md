@@ -1,15 +1,21 @@
 ---
-title: 447. Hark! the Voice of Jesus Calling
+title: |
+    447. Hark! the Voice of Jesus Calling - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Hark! the Voice of Jesus Calling, Hark! the voice of Jesus calling, 
+    description: |
+        Church Hymnal 1941 447. Hark! the Voice of Jesus Calling. Hark! the voice of Jesus calling, Who will go and work today? Fields are white, the harvest waiting, Who will bear the sheaves away? Loud and long the Master calleth, Rich reward He offers free; Who will answer, gladly saying, Here am I, O Lord, send me? 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Hark! the Voice of Jesus Calling, Hark! the voice of Jesus calling. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 447. HARK! THE VOICE OF JESUS CALLING
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D Flat
+
 1.
 Hark! the voice of Jesus calling,
 Who will go and work today?
@@ -49,13 +55,14 @@ Gladly take the task He gives you,
 Let His work your pleasure be;
 Answer quickly when He calleth,
 Here am I, O Lord, send me.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Hark! the Voice of Jesus Calling |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Hark! the voice of Jesus calling |
 Author | Daniel March
 Year | 1941
@@ -63,36 +70,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| FILLMORE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: Ministry and Missions |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

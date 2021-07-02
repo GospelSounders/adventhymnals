@@ -1,13 +1,17 @@
 ---
-title: 502. Mourn for the Thousands Slain
+title: |
+    502. Mourn for the Thousands Slain - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Mourn for the Thousands Slain, Mourn for the thousands slain, 
+    description: |
+        Church Hymnal 1941 502. Mourn for the Thousands Slain.  Mourn for the thousands slain,  The youthful and the strong;  Mourn for the wine cup's fearful reign,  And the deluded throng. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Mourn for the Thousands Slain, Mourn for the thousands slain. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 502. MOURN FOR THE THOUSANDS SLAIN
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -27,50 +31,26 @@ Mourn for the lost'but pray,
 Pray to our God above, 
 To break the fell destroyer's sway, 
 And show His saving love.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Mourn for the Thousands Slain |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Mourn for the thousands slain |
-Author | 
+Author | undefined
 Year | 1941
 Composer| Lowell Mason |
 Hymnal|  - |
 Tune| BOYLSTON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Temperance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

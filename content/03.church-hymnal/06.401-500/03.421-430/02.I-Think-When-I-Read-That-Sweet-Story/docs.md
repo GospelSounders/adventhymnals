@@ -1,13 +1,17 @@
 ---
-title: 422. I Think When I Read That Sweet Story
+title: |
+    422. I Think When I Read That Sweet Story - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Think When I Read That Sweet Story, I think, when I read that sweet story of old, 
+    description: |
+        Church Hymnal 1941 422. I Think When I Read That Sweet Story. I think when I read that sweet story of old, When Jesus was here among men, How He called little children as lambs to His fold, I should like to have been with Him then. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Think When I Read That Sweet Story, I think, when I read that sweet story of old. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 422. I THINK WHEN I READ THAT SWEET STORY
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -27,50 +31,26 @@ I long for the joy of that glorious time,
 The sweetest and brightest and best,
 When the dear little children of every clime
 Shall crowd to His arms and be blest.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Think When I Read That Sweet Story |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | I think, when I read that sweet story of old |
 Author | Jemima Luke
 Year | 1941
-Composer| William B. Bradbury |
+Composer| undefined |
 Hymnal|  - |
 Tune| SWEET STORY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Home : Hymns for Children |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

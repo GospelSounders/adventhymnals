@@ -1,15 +1,20 @@
 ---
-title: 41. O Christ, With Each Returning Morn
+title: |
+    041. O Christ, With Each Returning Morn - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O Christ, With Each Returning Morn, O Christ, with each returning morn, 
+    description: |
+        Church Hymnal 1941 041. O Christ, With Each Returning Morn.  O Christ, with each returning morn  Thine image to our hearts be borne;  And may we ever clearly see  Our dearest treasure, Lord, in Thee !  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O Christ, With Each Returning Morn, O Christ, with each returning morn. 
     author: Brian Onang'o
 ---
 
-
-## 41. O CHRIST, WITH EACH RETURNING MORN
+#### Advent Hymnals
+## 041. O CHRIST, WITH EACH RETURNING MORN
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 O Christ, with each returning morn 
 Thine image to our hearts be borne; 
@@ -28,13 +33,14 @@ And sanctify each wayward soul;
 May guile depart, and malice cease, 
 And all within be joy and peace.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Christ, With Each Returning Morn |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | O Christ, with each returning morn |
 Author |  Anon.
 Year | 1941
@@ -42,36 +48,11 @@ Composer| W. B. Bradbury (1816-1868) |
 Hymnal|  - |
 Tune| ZEPHYR |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Morning Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

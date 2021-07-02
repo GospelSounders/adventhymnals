@@ -1,15 +1,20 @@
 ---
-title: 54. The Shadows of the Evening Hours
+title: |
+    054. The Shadows of the Evening Hours - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Shadows of the Evening Hours, The shadows of the evening hours, 
+    description: |
+        Church Hymnal 1941 054. The Shadows of the Evening Hours.  The shadows of the evening hours  Fall from the darkening sky,  Upon the fragrance of the flowers  The dews of evening lie.  Before Thy throne, O Lord of heaven,  We kneel at close of day;  Look on Thy children from on high,  And hear us while we pray.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Shadows of the Evening Hours, The shadows of the evening hours. 
     author: Brian Onang'o
 ---
 
-
-## 54. THE SHADOWS OF THE EVENING HOURS
+#### Advent Hymnals
+## 054. THE SHADOWS OF THE EVENING HOURS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The shadows of the evening hours 
 Fall from the darkening sky, 
@@ -41,13 +46,14 @@ Calm and subdue our woes;
 Through the long day we labor, Lord, 
 O give us now repose.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Shadows of the Evening Hours |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | The shadows of the evening hours |
 Author | Adelaide A. Procter
 Year | 1941
@@ -55,36 +61,11 @@ Composer| Henry Hiles |
 Hymnal|  - |
 Tune| ST. LEONARD |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Evening Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

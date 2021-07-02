@@ -1,15 +1,20 @@
 ---
-title: 248. 'Tis My Happiness Below
+title: |
+    248. 'Tis My Happiness Below - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, 'Tis My Happiness Below, &#039;Tis my happiness below, 
+    description: |
+        Church Hymnal 1941 248. 'Tis My Happiness Below.  'Tis my happiness below  Not to live without the cross;  But the Saviour's power to know,  Sanctifying every loss.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, 'Tis My Happiness Below, 'Tis my happiness below. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 248. 'TIS MY HAPPINESS BELOW
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 'Tis my happiness below 
 Not to live without the cross; 
@@ -34,50 +39,26 @@ Trials give new life to prayer;
 Trials bring me to his feet, 
 Lay me low, and keep me there.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | 'Tis My Happiness Below |
 Key | A♭ Major |
-Titles |  |
-First Line | &#039;Tis my happiness below |
+Titles | undefined |
+First Line | 'Tis my happiness below |
 Author | William Cowper (1731-1800)
 Year | 1941
 Composer| R. R. Chope |
 Hymnal|  - |
 Tune| SCUDAMORE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

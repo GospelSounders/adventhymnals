@@ -1,15 +1,21 @@
 ---
-title: 173. O Brother, Be Faithful
+title: |
+    173. O Brother, Be Faithful - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O Brother, Be Faithful, O brother, be faithful! soon Jesus will come, 
+    description: |
+        Church Hymnal 1941 173. O Brother, Be Faithful.  O brother be faithful! soon Jesus will come, For whom we have waited so long; O, soon we shall enter our glorious home, And join in the conqueror's song. O brother be faithful! for why should we prove Unfaithful to Him who had shown Such deep, such unbounded and infinite love Who died to redeem us His own.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O Brother, Be Faithful, O brother, be faithful! soon Jesus will come. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 173. O BROTHER, BE FAITHFUL
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+
 1.
 O brother be faithful! soon Jesus will come,
 For whom we have waited so long;
@@ -50,13 +56,14 @@ That waits for the faithful and tried;
 To reign with the ransomed, immortal and pure,
 And ever with Jesus abide.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Brother, Be Faithful |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | O brother, be faithful! soon Jesus will come |
 Author | U. Smith
 Year | 1941
@@ -64,36 +71,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| FAITHFUL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 214. Our Blessed Redeemer
+title: |
+    214. Our Blessed Redeemer - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Our Blessed Redeemer, Our blest Redeemer, ere He breathed, 
+    description: |
+        Church Hymnal 1941 214. Our Blessed Redeemer.  Our blest Redeemer, ere he breathed  His tender last farewell,  A Guide, a Comforter, bequeathed  With us to dwell.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Our Blessed Redeemer, Our blest Redeemer, ere He breathed. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 214. OUR BLESSED REDEEMER
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Our blest Redeemer, ere he breathed 
 His tender last farewell, 
@@ -40,13 +45,14 @@ Our weakness, pitying, see;
 O make our hearts thy dwelling place, 
 Till all like thee.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Our Blessed Redeemer |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Our blest Redeemer, ere He breathed |
 Author | Harriet Auber
 Year | 1941
@@ -54,36 +60,11 @@ Composer| J. B. Dykes |
 Hymnal|  - |
 Tune| ST. CUTHBERT |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: The Holy Spirit |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

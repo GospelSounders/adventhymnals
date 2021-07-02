@@ -1,15 +1,20 @@
 ---
-title: 237. Jesus, Full of All Compassion
+title: |
+    237. Jesus, Full of All Compassion - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Jesus, Full of All Compassion, Jesus, full of all compassion, 
+    description: |
+        Church Hymnal 1941 237. Jesus, Full of All Compassion.  Jesus, full of all compassion,  Hear thy humble suppliant's cry;  Let me know thy great salvation;  See, I languish, faint and die.  Guilty, but with heart relenting,  Overwhelmed with helpless grief,  Prostrate at Thy feet repining,  Send, O send me quick relief.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Jesus, Full of All Compassion, Jesus, full of all compassion. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 237. JESUS, FULL OF ALL COMPASSION
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Jesus, full of all compassion, 
 Hear thy humble suppliant's cry; 
@@ -40,13 +45,14 @@ Through the shining realms above;
 Angels sing the pleasing story, 
 All enraptured with thy love.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jesus, Full of All Compassion |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, full of all compassion |
 Author | Daniel Turner
 Year | 1941
@@ -54,36 +60,11 @@ Composer| J. Langran (1835-1909) |
 Hymnal|  - |
 Tune| DEERHURST |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

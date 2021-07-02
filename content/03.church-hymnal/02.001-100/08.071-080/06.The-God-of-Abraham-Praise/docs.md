@@ -1,15 +1,20 @@
 ---
-title: 76. The God of Abraham Praise
+title: |
+    076. The God of Abraham Praise - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The God of Abraham Praise, The God of Abraham praise, 
+    description: |
+        Church Hymnal 1941 076. The God of Abraham Praise.  The God of Abraham praise, Who reigns enthroned above; Ancient of everlasting days, And God of love; Jehovah! Great I AM! By earth and heaven confessed; I bow and bless the sacred name, Forever blest.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The God of Abraham Praise, The God of Abraham praise. 
     author: Brian Onang'o
 ---
 
-
-## 76. THE GOD OF ABRAHAM PRAISE
+#### Advent Hymnals
+## 076. THE GOD OF ABRAHAM PRAISE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The God of Abraham praise,
 Who reigns enthroned above;
@@ -40,50 +45,26 @@ I join the heavenly lays;
 All might and majesty are Thine,
 And endless praise.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The God of Abraham Praise |
 Key | f minor |
-Titles |  |
+Titles | undefined |
 First Line | The God of Abraham praise |
 Author | Thomas Olivers
 Year | 1941
-Composer| M. Leoni |
+Composer| undefined |
 Hymnal|  - |
 Tune| LEONI |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Majesty and Power |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 64. How Gentle God's Commands
+title: |
+    064. How Gentle God's Commands - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, How Gentle God's Commands, How gentle God's commands, 
+    description: |
+        Church Hymnal 1941 064. How Gentle God's Commands.  How gentle God's commands!  How kind His precepts are!  Come, cast your burdens on the Lord,  And trust His constant care.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, How Gentle God's Commands, How gentle God's commands. 
     author: Brian Onang'o
 ---
 
-
-## 64. HOW GENTLE GOD'S COMMANDS
+#### Advent Hymnals
+## 064. HOW GENTLE GOD'S COMMANDS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 How gentle God's commands! 
 How kind His precepts are! 
@@ -34,13 +39,14 @@ Through each succeeding day;
 I'll drop my burden at His feet, 
 And bear a song away.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Gentle God's Commands |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | How gentle God's commands |
 Author | Philip Doddridge (1702-1751)
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| DOVE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Love of God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

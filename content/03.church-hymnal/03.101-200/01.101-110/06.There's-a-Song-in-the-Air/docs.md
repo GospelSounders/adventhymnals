@@ -1,15 +1,20 @@
 ---
-title: 106. There's a Song in the Air
+title: |
+    106. There's a Song in the Air - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, There's a Song in the Air, There's a song in the air!, 
+    description: |
+        Church Hymnal 1941 106. There's a Song in the Air.  There's a song in the air!  There's a star in the sky!  There's a mother's deep prayer  And a baby's low cry!  And the star rains its fire  While the beautiful sing,  For the manger of Bethlehem  Cradles a King!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, There's a Song in the Air, There's a song in the air!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 106. THERE'S A SONG IN THE AIR
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 There's a song in the air! 
 There's a star in the sky! 
@@ -50,13 +55,14 @@ Evangel they bring,
 And we greet in his cradle 
 Our Savior and King!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | There's a Song in the Air |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | There's a song in the air! |
 Author | Josiah G. Holland
 Year | 1941
@@ -64,36 +70,11 @@ Composer| Karl P. Harrington |
 Hymnal|  - |
 Tune| CHRISTMAS SONG |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Incarnation and Advent |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

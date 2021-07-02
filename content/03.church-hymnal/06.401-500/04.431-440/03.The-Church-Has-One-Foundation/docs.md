@@ -1,15 +1,21 @@
 ---
-title: 433. The Church Has One Foundation
+title: |
+    433. The Church Has One Foundation - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Church Has One Foundation, The church has one foundation, 
+    description: |
+        Church Hymnal 1941 433. The Church Has One Foundation. The church has one foundation Tis Jesus Christ her Lord; She is His new creation By water and the Word. From heaven He came and sought her To be His holy bride; With His own blood He bought her, And for her life He died. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Church Has One Foundation, The church has one foundation. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 433. THE CHURCH HAS ONE FOUNDATION
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D
+
 1.
 The church has one foundation
 Tis Jesus Christ her Lord;
@@ -49,13 +55,14 @@ Till, with the vision glorious,
 Her longing eyes are blest,
 And the great church victorious
 Shall be the church at rest.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Church Has One Foundation |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The church has one foundation |
 Author | Samuel J. Stone
 Year | 1941
@@ -63,36 +70,11 @@ Composer| Samuel S. Wesley |
 Hymnal|  - |
 Tune| AURELIA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines : The Church |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

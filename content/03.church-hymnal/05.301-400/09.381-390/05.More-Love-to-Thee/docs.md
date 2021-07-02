@@ -1,15 +1,21 @@
 ---
-title: 385. More Love to Thee
+title: |
+    385. More Love to Thee - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, More Love to Thee, More love to Thee, O Christ!, More love, O Christ, to Thee
+    description: |
+        Church Hymnal 1941 385. More Love to Thee. More love to Thee, O Christ, More love to Thee! Hear thou the prayer I make on bended knee. This is my earnest plea: More love, O Christ, to Thee; More love to Thee, More love to Thee! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, More Love to Thee, More love to Thee, O Christ!. More love, O Christ, to Thee
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 385. MORE LOVE TO THEE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+
 1.
 More love to Thee, O Christ, More love to Thee!
 Hear thou the prayer I make on bended knee.
@@ -33,6 +39,7 @@ Then shall my latest breath Whisper Thy praise;
 This be the parting cry My heart shall raise;
 This still its prayer shall be: More love, O Christ, to Thee;
 More love to Thee, More love to Thee!
+
 ```
 
 - |   -  |
@@ -47,36 +54,11 @@ Composer| W. H. Doane (1832-1916) |
 Hymnal|  - |
 Tune| More love to Thee, O Christ! |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Hope and Aspiration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

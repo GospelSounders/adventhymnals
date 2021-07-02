@@ -1,15 +1,20 @@
 ---
-title: 115. When the Lord of Love Was Here
+title: |
+    115. When the Lord of Love Was Here - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, When the Lord of Love Was Here, When the Lord of love was here, 
+    description: |
+        Church Hymnal 1941 115. When the Lord of Love Was Here.  When the Lord of love was here,  Happy hearts to Him were dear,  Though His heart was sad;  Worn and lonely for our sake,  Yet he turned aside to make  All the weary glad.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, When the Lord of Love Was Here, When the Lord of love was here. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 115. WHEN THE LORD OF LOVE WAS HERE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 When the Lord of love was here, 
 Happy hearts to Him were dear, 
@@ -50,13 +55,14 @@ Free us from the cares that press
 On the heart of worldliness 
 From the fret and strife.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | When the Lord of Love Was Here |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | When the Lord of love was here |
 Author | Stopford Brooke
 Year | 1941
@@ -64,36 +70,11 @@ Composer| George W. Chadwick |
 Hymnal|  - |
 Tune| ARMSTRONG |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: Life and Ministry |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

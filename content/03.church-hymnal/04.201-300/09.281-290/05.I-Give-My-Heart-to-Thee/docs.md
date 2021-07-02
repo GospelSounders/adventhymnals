@@ -1,13 +1,17 @@
 ---
-title: 285. I Give My Heart to Thee
+title: |
+    285. I Give My Heart to Thee - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Give My Heart to Thee, I give my heart to Thee, 
+    description: |
+        Church Hymnal 1941 285. I Give My Heart to Thee.  I give my heart to Thee,  O Jesus most desired;  And heart for heart the gift shall be,  For Thou my soul hast fired. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Give My Heart to Thee, I give my heart to Thee. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 285. I GIVE MY HEART TO THEE
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,47 +43,26 @@ Ah, how Thy love doth burn,
 Till I that love return! 
 I would love Thee as Thou lovest me, 
 O Jesus most desired.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Give My Heart to Thee |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | I give my heart to Thee |
 Author | Ray Palmer
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| ST. MICHAEL |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

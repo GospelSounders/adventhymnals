@@ -1,15 +1,20 @@
 ---
-title: 647. To God Be the Glory
+title: |
+    647. To God Be the Glory - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, To God Be the Glory, To God be the glory, great things He hath done, Praise the Lord, praise the Lord, Let the earth hear His voice
+    description: |
+        Church Hymnal 1941 647. To God Be the Glory. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, To God Be the Glory, To God be the glory, great things He hath done. Praise the Lord, praise the Lord, Let the earth hear His voice
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 647. TO GOD BE THE GLORY
+####  Church Hymnal 1941,
 
 ```txt
+ 
 
 ```
 
@@ -29,32 +34,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | Sabbath School: Adoration and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

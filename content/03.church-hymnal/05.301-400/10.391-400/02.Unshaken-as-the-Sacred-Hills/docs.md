@@ -1,13 +1,17 @@
 ---
-title: 392. Unshaken as the Sacred Hills
+title: |
+    392. Unshaken as the Sacred Hills - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Unshaken as the Sacred Hills, Unshaken as the sacred hills , 
+    description: |
+        Church Hymnal 1941 392. Unshaken as the Sacred Hills.  Unshaken as the sacred hills,  And fixed as mountains stand,  Firm as a rock the soul shall rest  That trusts th' Almighty hand. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Unshaken as the Sacred Hills, Unshaken as the sacred hills . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 392. UNSHAKEN AS THE SACRED HILLS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -27,50 +31,26 @@ Do good, O Lord, do good to those
 Who cleave to Thee in heart, 
 Who on Thy truth alone repose, 
 Nor from Thy law depart.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Unshaken as the Sacred Hills |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Unshaken as the sacred hills  |
 Author | Isaac Watts
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| DUNDEE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Guidance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

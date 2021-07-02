@@ -1,15 +1,21 @@
 ---
-title: 455. Lord of the Sabbath
+title: |
+    455. Lord of the Sabbath - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lord of the Sabbath, Lord of the Sabbath and its light, 
+    description: |
+        Church Hymnal 1941 455. Lord of the Sabbath. Lord of the Sabbath and its light, I hail Thy hallowed day of rest; It is my weary soul's delight, The solace of my careworn breast, The solace of my careworn breast. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lord of the Sabbath, Lord of the Sabbath and its light. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 455. LORD OF THE SABBATH
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
 1.
 Lord of the Sabbath and its light,
 I hail Thy hallowed day of rest;
@@ -37,50 +43,26 @@ Thy presence with the day of rest;
 Then will Thy servant never fail
 To deem Thy Sabbath doubly blest,
 To deem Thy Sabbath doubly blest.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord of the Sabbath |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord of the Sabbath and its light |
 Author | Anon.
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| PARK STREET |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Sabbath |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

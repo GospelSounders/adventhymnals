@@ -1,13 +1,17 @@
 ---
-title: 491. See the Leaves Around Us Falling
+title: |
+    491. See the Leaves Around Us Falling - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, See the Leaves Around Us Falling, See the leaves around us falling, 
+    description: |
+        Church Hymnal 1941 491. See the Leaves Around Us Falling.  See the leaves around us falling,  Dry and withered to the ground;  Thus to thoughtless mortals calling,  In a sad and solemn sound: 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, See the Leaves Around Us Falling, See the leaves around us falling. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 491. SEE THE LEAVES AROUND US FALLING
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Numbered now among the dead.
 Messengers of shortest stay, 
 Thus we preach in mortal hearing' 
 Ye, like us, shall pass away."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | See the Leaves Around Us Falling |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | See the leaves around us falling |
 Author | Horne
 Year | 1941
@@ -41,36 +46,11 @@ Composer| Geo. E. Lee |
 Hymnal|  - |
 Tune| SLEEP |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Funeral |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

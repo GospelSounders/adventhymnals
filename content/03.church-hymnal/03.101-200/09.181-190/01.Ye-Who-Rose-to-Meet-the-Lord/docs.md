@@ -1,15 +1,20 @@
 ---
-title: 181. Ye Who Rose to Meet the Lord
+title: |
+    181. Ye Who Rose to Meet the Lord - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Ye Who Rose to Meet the Lord, Ye who rose to meet the Lord, 
+    description: |
+        Church Hymnal 1941 181. Ye Who Rose to Meet the Lord.  Ye who rose to meet the Lord,  Ventured on His faithful word,  Faint not now, for your reward  Will be quickly given.  Faint not, always watch and pray;  Jesus will not more delay;  Even now 'tis dawn of day;  Daystar beams from heaven.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Ye Who Rose to Meet the Lord, Ye who rose to meet the Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 181. YE WHO ROSE TO MEET THE LORD
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Ye who rose to meet the Lord, 
 Ventured on His faithful word, 
@@ -50,50 +55,26 @@ Sound aloud the glad acclaim,
 To the Lamb that once was slain, 
 Alleluias bring!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Ye Who Rose to Meet the Lord |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Ye who rose to meet the Lord |
 Author | Anon.
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| CALEDONIA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

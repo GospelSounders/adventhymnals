@@ -1,13 +1,17 @@
 ---
-title: 388. Purer Yet and Purer
+title: |
+    388. Purer Yet and Purer - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Purer Yet and Purer, Purer yet and purer, 
+    description: |
+        Church Hymnal 1941 388. Purer Yet and Purer.  Purer yet and purer  I would be in mind,  Dearer every and dearer  Every duty find;  Hoping still and trusting  God without a fear,  Patiently believing  He will make all clear. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Purer Yet and Purer, Purer yet and purer. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 388. PURER YET AND PURER
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Oft these earnest longings
 Swell within my breast, 
 Yet their inner meaning 
 Ne'er can be expressed.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Purer Yet and Purer |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Purer yet and purer |
 Author | Anon.
 Year | 1941
@@ -63,36 +68,11 @@ Composer| J. B. Dykes |
 Hymnal|  - |
 Tune| MARY MAGDALENE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Hope and Aspiration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

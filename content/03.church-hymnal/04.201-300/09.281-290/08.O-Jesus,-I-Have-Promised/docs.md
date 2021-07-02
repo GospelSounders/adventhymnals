@@ -1,15 +1,21 @@
 ---
-title: 288. O Jesus, I Have Promised
+title: |
+    288. O Jesus, I Have Promised - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O Jesus, I Have Promised, O Jesus, I have promised, 
+    description: |
+        Church Hymnal 1941 288. O Jesus, I Have Promised. O Jesus, I have promised  To serve Thee to the end;  Be Thou forever near me,  My Master and my Friend.  I shall not fear the battle  If Thou art by my side,  Nor wander from the pathway  If Thou wilt be my Guide. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O Jesus, I Have Promised, O Jesus, I have promised. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 288. O JESUS, I HAVE PROMISED
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
 1.
 O Jesus, I have promised 
 To serve Thee to the end; 
@@ -39,13 +45,14 @@ And Jesus, I have promised
 To serve Thee to the end; 
 O give me grace to follow, 
 My Master and my Friend.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Jesus, I Have Promised |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | O Jesus, I have promised |
 Author | John E. Bode
 Year | 1941
@@ -53,33 +60,11 @@ Composer| Arthur H. Mann |
 Hymnal|  - |
 Tune| ANGEL'S STORY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 480. A Year of Precious Blessings
+title: |
+    480. A Year of Precious Blessings - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, A Year of Precious Blessings, A year of precious blessings, 
+    description: |
+        Church Hymnal 1941 480. A Year of Precious Blessings.  A year of precious blessings,  And glorious victories won,  Of earnest work progressing,  Its onward course has run;  To Thee, O God, our Refuge,  Whose goodness crowns our days,  Within Thy earthly temple  We lift our souls in praise;  Within Thy earthly temple  We lift our souls in praise. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, A Year of Precious Blessings, A year of precious blessings. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 480. A YEAR OF PRECIOUS BLESSINGS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -45,13 +49,14 @@ One hallelujah chorus
 Shall crown Him Lord of all; 
 One hallelujah chorus 
 Shall crown Him Lord of all.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | A Year of Precious Blessings |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | A year of precious blessings |
 Author | Fanny J. Crosby
 Year | 1941
@@ -59,36 +64,11 @@ Composer| I. Allan Sankey |
 Hymnal|  - |
 Tune| ANNIVERSARY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: Workers' Gatherings |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

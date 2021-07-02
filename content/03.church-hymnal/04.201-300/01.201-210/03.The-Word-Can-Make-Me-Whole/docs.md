@@ -1,15 +1,20 @@
 ---
-title: 203. The Word Can Make Me Whole
+title: |
+    203. The Word Can Make Me Whole - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Word Can Make Me Whole, The Word, whose word can make me whole, 
+    description: |
+        Church Hymnal 1941 203. The Word Can Make Me Whole.  The Word, whose word can make me whole,  Has heard my spirit's cry,  And in the palace of the soul,  He dwells! my Lord and I!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Word Can Make Me Whole, The Word, whose word can make me whole. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 203. THE WORD CAN MAKE ME WHOLE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The Word, whose word can make me whole, 
 Has heard my spirit's cry, 
@@ -40,50 +45,26 @@ He brings my spirit nigh;
 Within my heart, 'neath his control 
 I dwell'my Lord and I!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Word Can Make Me Whole |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The Word, whose word can make me whole |
 Author | W. J. Govan
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| SPRING GARDENS |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Kingdom and Reign |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

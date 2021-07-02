@@ -1,15 +1,21 @@
 ---
-title: 472. Jesus Invites His Saints
+title: |
+    472. Jesus Invites His Saints - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Jesus Invites His Saints, Jesus invites His saints, 
+    description: |
+        Church Hymnal 1941 472. Jesus Invites His Saints. Jesus invites His saints To meet around His board, And sup in memory of the death And sufferings of their Lord. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Jesus Invites His Saints, Jesus invites His saints. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 472. JESUS INVITES HIS SAINTS
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+
 1.
 Jesus invites His saints
 To meet around His board,
@@ -33,50 +39,26 @@ Soon shall the night be gone,
 Our Lord will come again;
 The marriage supper of the Lamb
 Will usher in His reign.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jesus Invites His Saints |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus invites His saints |
 Author | Isaac Watts
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| SCHUMANN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Lord's Supper |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

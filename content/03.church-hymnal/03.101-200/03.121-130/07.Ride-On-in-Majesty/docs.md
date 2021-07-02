@@ -1,15 +1,20 @@
 ---
-title: 127. Ride On in Majesty
+title: |
+    127. Ride On in Majesty - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Ride On in Majesty, Ride on! ride on in majesty!, 
+    description: |
+        Church Hymnal 1941 127. Ride On in Majesty.  Ride on! ride on in majesty! Hark, all the tribes hosanna cry; O Savior meek, pursue Thy road With palms and scattered garments strowed.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Ride On in Majesty, Ride on! ride on in majesty!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 127. RIDE ON IN MAJESTY
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Ride on! ride on in majesty!
 Hark, all the tribes hosanna cry;
@@ -34,13 +39,14 @@ In lowly pomp ride on to die;
 Bow Thy meek head to mortal pain,
 Then take, O God, Thy power and reign.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Ride On in Majesty |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Ride on! ride on in majesty! |
 Author | Henry H. Milman
 Year | 1941
@@ -48,36 +54,11 @@ Composer| John B. Dykes |
 Hymnal|  - |
 Tune| ST. DROSTANE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: Sufferings and Death |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

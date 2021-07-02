@@ -1,15 +1,20 @@
 ---
-title: 247. Toil On a Little Longer
+title: |
+    247. Toil On a Little Longer - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Toil On a Little Longer, Toil on a little longer here, 
+    description: |
+        Church Hymnal 1941 247. Toil On a Little Longer.  Toil on a little longer here,  For thy reward awaits above,  Nor droop in sadness or in fear  Beneath the rod that's sent in love;  The deeper wound our spirits feel,  The sweeter heaven's balm to heal.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Toil On a Little Longer, Toil on a little longer here. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 247. TOIL ON A LITTLE LONGER
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Toil on a little longer here, 
 For thy reward awaits above, 
@@ -42,13 +47,14 @@ The rest repays the weary toil;
 For they shall reap who sow in tears, 
 Rich gladness through eternal years.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Toil On a Little Longer |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Toil on a little longer here |
 Author | Annie R. Smith
 Year | 1941
@@ -56,36 +62,11 @@ Composer| John Stainer |
 Hymnal|  - |
 Tune| REST (MAGDALEN) |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

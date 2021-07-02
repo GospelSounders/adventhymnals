@@ -1,13 +1,17 @@
 ---
-title: 667. Awake, My Soul, in Joyful Lays
+title: |
+    667. Awake, My Soul, in Joyful Lays - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Awake, My Soul, in Joyful Lays, Awake, my soul, in joyful lays, Loving-kindness
+    description: |
+        Church Hymnal 1941 667. Awake, My Soul, in Joyful Lays.  Awake, my soul, in joyful lays,  And sing thy great Redeemer's praise;  He justly claims a song from me;  His lovingkindness, O how free!  Lovingkindness, lovingkindness,  His lovingkindness, O how free! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Awake, My Soul, in Joyful Lays, Awake, my soul, in joyful lays. Loving-kindness
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 667. AWAKE, MY SOUL, IN JOYFUL LAYS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,6 +53,7 @@ I'll sing upon that blissful shore
 His lovingkindness, evermore. 
 Lovingkindness, lovingkindness, 
 His lovingkindness, evermore.
+
 ```
 
 - |   -  |
@@ -59,40 +64,15 @@ Titles | Loving-kindness |
 First Line | Awake, my soul, in joyful lays |
 Author | Samuel Medley
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| LOVING-KINDNESS |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Early Advent Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

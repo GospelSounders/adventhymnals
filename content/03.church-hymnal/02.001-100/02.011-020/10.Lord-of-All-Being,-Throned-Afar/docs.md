@@ -1,15 +1,20 @@
 ---
-title: 20. Lord of All Being, Throned Afar
+title: |
+    020. Lord of All Being, Throned Afar - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lord of All Being, Throned Afar, Lord of all being, throned afar, 
+    description: |
+        Church Hymnal 1941 020. Lord of All Being, Throned Afar.  Lord of all being, throned afar, Thy glory flames from sun and star; Center and soul of every sphere Yet to each loving heart how near! Yet to each loving heart how near!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lord of All Being, Throned Afar, Lord of all being, throned afar. 
     author: Brian Onang'o
 ---
 
-
-## 20. LORD OF ALL BEING, THRONED AFAR
+#### Advent Hymnals
+## 020. LORD OF ALL BEING, THRONED AFAR
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Lord of all being, throned afar,
 Thy glory flames from sun and star;
@@ -45,50 +50,26 @@ Till all Thy living altars claim
 One holy light, one heavenly flame!
 One holy light, one heavenly flame.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord of All Being, Throned Afar |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord of all being, throned afar |
 Author | O.W. Holmes
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| PARK STREET |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Adoration and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

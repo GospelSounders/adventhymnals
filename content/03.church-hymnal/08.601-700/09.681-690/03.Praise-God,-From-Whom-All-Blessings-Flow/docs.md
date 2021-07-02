@@ -1,15 +1,23 @@
 ---
-title: 683. Praise God, From Whom All Blessings Flow
+title: |
+    683. Praise God, From Whom All Blessings Flow - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Praise God, From Whom All Blessings Flow, Praise God, from whom all blessings flow, 
+    description: |
+        Church Hymnal 1941 683. Praise God, From Whom All Blessings Flow. Praise God, from Whom all blessings flow; Praise Him, all creatures here below; Praise Him above, ye heavenly host; Praise Father, Son, and Holy Ghost. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Praise God, From Whom All Blessings Flow, Praise God, from whom all blessings flow. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 683. PRAISE GOD, FROM WHOM ALL BLESSINGS FLOW
+####  Church Hymnal 1941,
 
 ```txt
+Praise God, from Whom all blessings flow;
+Praise Him, all creatures here below;
+Praise Him above, ye heavenly host;
+Praise Father, Son, and Holy Ghost.
 
 ```
 
@@ -17,7 +25,7 @@ metadata:
 -------------|------------|
 Title | Praise God, From Whom All Blessings Flow |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Praise God, from whom all blessings flow |
 Author | Thomas Ken
 Year | 1941
@@ -29,32 +37,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | Choir and Special |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

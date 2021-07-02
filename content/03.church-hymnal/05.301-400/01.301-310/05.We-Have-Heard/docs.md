@@ -1,15 +1,21 @@
 ---
-title: 305. We Have Heard
+title: |
+    305. We Have Heard - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, We Have Heard, We have heard from the bright, the holy, land, 
+    description: |
+        Church Hymnal 1941 305. We Have Heard. We have heard from the bright, the holy, land; We have heard, and our hearts are glad; For we were a lonely pilgrim band, And weary, and worn, and sad. They tell us the saints have a dwelling there- No longer are homeless ones; And we know that the goodly land is fair, Where life's pure river runs. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, We Have Heard, We have heard from the bright, the holy, land. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 305. WE HAVE HEARD
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+
 1.
 We have heard from the bright, the holy, land;
 We have heard, and our hearts are glad;
@@ -49,13 +55,14 @@ We'll be there, we'll be there in a little while,
 We'll join the pure and the blest;
 We'll have the palm, the robe, the crown,
 And forever be at rest.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Have Heard |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | We have heard from the bright, the holy, land |
 Author | W. H. Hyde
 Year | 1941
@@ -63,36 +70,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| WE HAVE HEARD |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Reward of the Saints |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

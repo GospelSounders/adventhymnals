@@ -1,15 +1,28 @@
 ---
-title: 692. Cast Thy Burden Upon the Lord
+title: |
+    692. Cast Thy Burden Upon the Lord - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Cast Thy Burden Upon the Lord, Cast thy burden upon the Lord, 
+    description: |
+        Church Hymnal 1941 692. Cast Thy Burden Upon the Lord. Cast thy burden upon the Lord, And He shall sustain thee; He never will suffer the righteous to fall; He is at thy right hand. Thy mercy, Lord, is great, and far above the heavens; Let none be made ashamed, that wait upon Thee. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Cast Thy Burden Upon the Lord, Cast thy burden upon the Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 692. CAST THY BURDEN UPON THE LORD
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: E Flat
+
+1.
+Cast thy burden upon the Lord,
+And He shall sustain thee;
+He never will suffer the righteous to fall;
+He is at thy right hand.
+Thy mercy, Lord, is great, and far above the heavens;
+Let none be made ashamed, that wait upon Thee.
 
 ```
 
@@ -17,9 +30,9 @@ metadata:
 -------------|------------|
 Title | Cast Thy Burden Upon the Lord |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Cast thy burden upon the Lord |
-Author | 
+Author | undefined
 Year | 1941
 Composer| Felix Mendelssohn |
 Hymnal|  - |
@@ -32,29 +45,4 @@ Subjects | Sentences and Responses |
 Texts | Psalm 16:8 |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

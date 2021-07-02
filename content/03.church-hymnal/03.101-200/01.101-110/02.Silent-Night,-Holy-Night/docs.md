@@ -1,15 +1,20 @@
 ---
-title: 102. Silent Night, Holy Night
+title: |
+    102. Silent Night, Holy Night - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Silent Night, Holy Night, Silent night, holy night, 
+    description: |
+        Church Hymnal 1941 102. Silent Night, Holy Night.  Silent night! holy night! All is calm, all is bright Round yon virgin mother and Child, Holy Infant so tender and mild, Sleep in heavenly peace, sleep in heavenly peace.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Silent Night, Holy Night, Silent night, holy night. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 102. SILENT NIGHT, HOLY NIGHT
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Silent night! holy night!
 All is calm, all is bright
@@ -34,13 +39,14 @@ with the dawn of redeeming grace,
 Jesus, Lord, at Thy birth,
 Jesus, Lord, at Thy birth.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Silent Night, Holy Night |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Silent night, holy night |
 Author | Joseph Mohr
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Franz Gruber |
 Hymnal|  - |
 Tune| STILLE NACHT |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Incarnation and Advent |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

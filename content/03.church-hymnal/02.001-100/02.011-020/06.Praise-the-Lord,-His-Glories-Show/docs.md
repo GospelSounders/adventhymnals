@@ -1,15 +1,20 @@
 ---
-title: 16. Praise the Lord, His Glories Show
+title: |
+    016. Praise the Lord, His Glories Show - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Praise the Lord, His Glories Show, Praise the Lord, His glories show, 
+    description: |
+        Church Hymnal 1941 016. Praise the Lord, His Glories Show.  Praise the Lord, His glories show, Alleluia! Saints within His courts below, Alleluia! Angels 'round His throne above, Alleluia! All that see and share His love, Alleluia!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Praise the Lord, His Glories Show, Praise the Lord, His glories show. 
     author: Brian Onang'o
 ---
 
-
-## 16. PRAISE THE LORD, HIS GLORIES SHOW
+#### Advent Hymnals
+## 016. PRAISE THE LORD, HIS GLORIES SHOW
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Praise the Lord, His glories show, Alleluia!
 Saints within His courts below, Alleluia!
@@ -28,13 +33,14 @@ Praise His providence and grace, Alleluia!
 All that He for man hath done, Alleluia!
 All He sends us through His Son. Alleluia!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Praise the Lord, His Glories Show |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Praise the Lord, His glories show |
 Author | H. F. Lyte (1793-1847)
 Year | 1941
@@ -42,36 +48,11 @@ Composer| W. B. Gilbert |
 Hymnal|  - |
 Tune| THANKSGIVING |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Adoration and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

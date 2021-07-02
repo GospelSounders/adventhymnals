@@ -1,15 +1,20 @@
 ---
-title: 287. Saviour, Blessed Saviour
+title: |
+    287. Saviour, Blessed Saviour - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Saviour, Blessed Saviour, Saviour, blessed Saviour, 
+    description: |
+        Church Hymnal 1941 287. Saviour, Blessed Saviour.  Saviour, blessed Saviour, Listen whilst we sing,  Hearts and voices raising Praises to our King.  All we have we offer; All we hope to be,  Body, soul, and spirit, All we yield to Thee.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Saviour, Blessed Saviour, Saviour, blessed Saviour. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 287. SAVIOUR, BLESSED SAVIOUR
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Saviour, blessed Saviour, Listen whilst we sing, 
 Hearts and voices raising Praises to our King. 
@@ -40,13 +45,14 @@ Worn by saints before us Journeying on to God;
 Leaving all behind us, may we hasten on, 
 Backward never looking till the prize is won.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Saviour, Blessed Saviour |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Saviour, blessed Saviour |
 Author | Godfrey Thring
 Year | 1941
@@ -54,33 +60,11 @@ Composer| Herbert S. Oakeley |
 Hymnal|  - |
 Tune| EDINA |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

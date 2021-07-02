@@ -1,15 +1,21 @@
 ---
-title: 224. I Hear Thy Welcome Voice
+title: |
+    224. I Hear Thy Welcome Voice - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Hear Thy Welcome Voice, I hear Thy welcome voice, I am coming, Lord!
+    description: |
+        Church Hymnal 1941 224. I Hear Thy Welcome Voice.  I hear Thy welcome voice, That calls me, Lord, to Thee; For cleansing in Thy precious blood, That flowed on Calvary. CHORUS: I am coming, Lord! Coming now to Thee! Wash me, cleanse me, in the blood That flowed on Calvary.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Hear Thy Welcome Voice, I hear Thy welcome voice. I am coming, Lord!
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 224. I HEAR THY WELCOME VOICE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D Flat
+
 1.
 I hear Thy welcome voice,
 That calls me, Lord, to Thee;
@@ -39,6 +45,7 @@ All hail, redeeming grace!
 All hail! the gift of Christ, our Lord,
 Our Strength and Righteousness.
 
+
 ```
 
 - |   -  |
@@ -53,36 +60,11 @@ Composer| L. Hartsough |
 Hymnal|  - |
 Tune| WELCOME VOICE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

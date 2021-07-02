@@ -1,15 +1,21 @@
 ---
-title: 271. Not I, but Christ
+title: |
+    271. Not I, but Christ - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Not I, but Christ, Not I, but Christ, be honored, loved, exalted, 
+    description: |
+        Church Hymnal 1941 271. Not I, but Christ.  Not I, but Christ, be honored, loved, exalted; Not I, but Christ, be seen, be known, be heard; Not I, but Christ, in every look and action, Not I, but Christ, in every thought and word.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Not I, but Christ, Not I, but Christ, be honored, loved, exalted. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 271. NOT I, BUT CHRIST
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: E Flat
+
 1.
 Not I, but Christ, be honored, loved, exalted;
 Not I, but Christ, be seen, be known, be heard;
@@ -34,47 +40,26 @@ Not I, but Christ, my strength and health to be;
 Christ, only Christ, for body, soul, and spirit,
 Christ, only Christ, here and eternally.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Not I, but Christ |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Not I, but Christ, be honored, loved, exalted |
-Author | 
+Author | undefined
 Year | 1941
-Composer| F. E. B. |
+Composer| undefined |
 Hymnal|  - |
 Tune| BOLTON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

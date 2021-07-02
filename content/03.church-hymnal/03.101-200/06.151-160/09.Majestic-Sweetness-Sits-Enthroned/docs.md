@@ -1,15 +1,20 @@
 ---
-title: 159. Majestic Sweetness Sits Enthroned
+title: |
+    159. Majestic Sweetness Sits Enthroned - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Majestic Sweetness Sits Enthroned, Majestic sweetness sits enthroned , 
+    description: |
+        Church Hymnal 1941 159. Majestic Sweetness Sits Enthroned.  Majestic sweetness sits enthroned  Upon the Saviour's brow;  His head with radiant light is crowned,  His lips with grace o'erflow,  His lips with grace o'erflow.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Majestic Sweetness Sits Enthroned, Majestic sweetness sits enthroned . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 159. MAJESTIC SWEETNESS SITS ENTHRONED
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Majestic sweetness sits enthroned 
 Upon the Saviour's brow; 
@@ -52,13 +57,14 @@ Had I a thousand hearts to give,
 Lord, they should all be Thine, 
 Lord, they should all be Thine.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Majestic Sweetness Sits Enthroned |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Majestic sweetness sits enthroned  |
 Author | Samuel Stennett
 Year | 1941
@@ -66,36 +72,11 @@ Composer| Thomas Hastings |
 Hymnal|  - |
 Tune| ORTONVILLE |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Glory and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

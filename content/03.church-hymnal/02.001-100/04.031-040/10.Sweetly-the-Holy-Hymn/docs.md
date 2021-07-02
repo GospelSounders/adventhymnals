@@ -1,15 +1,20 @@
 ---
-title: 40. Sweetly the Holy Hymn
+title: |
+    040. Sweetly the Holy Hymn - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Sweetly the Holy Hymn, Sweetly the holy hymn, 
+    description: |
+        Church Hymnal 1941 040. Sweetly the Holy Hymn.  Sweetly the holy hymn  Breaks on the morning air;  Before the world with smoke is dim  We meet to offer prayer.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Sweetly the Holy Hymn, Sweetly the holy hymn. 
     author: Brian Onang'o
 ---
 
-
-## 40. SWEETLY THE HOLY HYMN
+#### Advent Hymnals
+## 040. SWEETLY THE HOLY HYMN
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Sweetly the holy hymn 
 Breaks on the morning air; 
@@ -40,13 +45,14 @@ Are very weak and frail;
 We make the Saviour's name our plea, 
 And surely, must prevail.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sweetly the Holy Hymn |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Sweetly the holy hymn |
 Author | C. H. Spurgeon
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Joseph E. Sweetser |
 Hymnal|  - |
 Tune| GREENWOOD |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Morning Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

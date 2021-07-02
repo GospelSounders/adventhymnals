@@ -1,13 +1,17 @@
 ---
-title: 460. How Sweet the Light
+title: |
+    460. How Sweet the Light - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, How Sweet the Light, How sweet the light of Sabbath eve!, 
+    description: |
+        Church Hymnal 1941 460. How Sweet the Light.  How sweet the light of Sabbath eve!  How soft the sunbeams lingering there!  For these blest hours the world I leave,  Wafted on wings of faith and prayer. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, How Sweet the Light, How sweet the light of Sabbath eve!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 460. HOW SWEET THE LIGHT
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ Nor will our days of toil be long;
 Our pilgrimage will soon be trod; 
 And we shall join the ceaseless song, 
 The endless Sabbath of our God.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | How Sweet the Light |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | How sweet the light of Sabbath eve! |
 Author | James Edmeston (1791-1867)
 Year | 1941
@@ -41,36 +46,11 @@ Composer| T. Richard Matthews |
 Hymnal|  - |
 Tune| SAXBY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Sabbath |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

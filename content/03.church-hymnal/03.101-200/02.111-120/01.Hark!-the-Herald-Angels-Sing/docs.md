@@ -1,15 +1,20 @@
 ---
-title: 111. Hark! the Herald Angels Sing
+title: |
+    111. Hark! the Herald Angels Sing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Hark! the Herald Angels Sing, Hark! the herald angels sing, Hark! the herald angels sing
+    description: |
+        Church Hymnal 1941 111. Hark! the Herald Angels Sing.  Hark! the herald angels sing, "Glory to the new born King, peace on earth, and mercy mild, God and sinners reconciled!" Joyful, all ye nations rise, join the triumph of the skies; with th' angelic host proclaim, "Christ is born in Bethlehem!" Hark! the herald angels sing, "Glory to the new born King!"  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Hark! the Herald Angels Sing, Hark! the herald angels sing. Hark! the herald angels sing
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 111. HARK! THE HERALD ANGELS SING
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Hark! the herald angels sing,
 "Glory to the new born King,
@@ -46,6 +51,7 @@ born to give us second birth.
 Hark! the herald angels sing,
 "Glory to the new born King!"
 
+
 ```
 
 - |   -  |
@@ -56,40 +62,15 @@ Titles | Hark! the herald angels sing |
 First Line | Hark! the herald angels sing |
 Author | Charles Wesley
 Year | 1941
-Composer| William H. Cummings |
+Composer| undefined |
 Hymnal|  - |
 Tune| MENDELSSOHN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Incarnation and Advent |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 124. Alas! and Did My Saviour Bleed?
+title: |
+    124. Alas! and Did My Saviour Bleed? - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Alas! and Did My Saviour Bleed?, Alas! and did my Saviour bleed?, Help me, dear Saviour, Thee to own
+    description: |
+        Church Hymnal 1941 124. Alas! and Did My Saviour Bleed?.  Alas! and did my Savior bleed?  And did my Sovereign die?  Would He devote that sacred head  For sinners such as I?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Alas! and Did My Saviour Bleed?, Alas! and did my Saviour bleed?. Help me, dear Saviour, Thee to own
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 124. ALAS! AND DID MY SAVIOUR BLEED?
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Alas! and did my Savior bleed? 
 And did my Sovereign die? 
@@ -40,6 +45,7 @@ The debt of love I owe;
 Here, Lord, I give myself away; 
 'Tis all that I can do.
 
+
 ```
 
 - |   -  |
@@ -54,36 +60,11 @@ Composer| Hugh Wilson |
 Hymnal|  - |
 Tune| AVON |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: Sufferings and Death |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

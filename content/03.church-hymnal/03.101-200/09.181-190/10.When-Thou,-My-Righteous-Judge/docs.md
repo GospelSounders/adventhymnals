@@ -1,15 +1,20 @@
 ---
-title: 190. When Thou, My Righteous Judge
+title: |
+    190. When Thou, My Righteous Judge - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, When Thou, My Righteous Judge, When Thou, my righteous Judge, shalt come, 
+    description: |
+        Church Hymnal 1941 190. When Thou, My Righteous Judge.  When Thou, my righteous Judge, shalt come,  To call Thy ransomed people home,  Shall I among them stand?  Shall such a worthless worm as I,  Who sometimes am afraid to die,  Be found at Thy right hand?  Be found at Thy right hand?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, When Thou, My Righteous Judge, When Thou, my righteous Judge, shalt come. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 190. WHEN THOU, MY RIGHTEOUS JUDGE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 When Thou, my righteous Judge, shalt come, 
 To call Thy ransomed people home, 
@@ -46,50 +51,26 @@ While heaven's resounding mansions ring
 With shouts of endless grace, 
 With shouts of endless grace.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | When Thou, My Righteous Judge |
-Key |  |
-Titles |  |
+Key | undefined |
+Titles | undefined |
 First Line | When Thou, my righteous Judge, shalt come |
 Author | Selina, Countess of Huntingdon
 Year | 1941
-Composer| Lowell Mason |
+Composer| undefined |
 Hymnal|  - |
 Tune| ARIEL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 30. Lord, We Come Before Thee Now
+title: |
+    030. Lord, We Come Before Thee Now - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lord, We Come Before Thee Now, Lord, we come before Thee now, 
+    description: |
+        Church Hymnal 1941 030. Lord, We Come Before Thee Now.  Lord, we come before Thee now,  At Thy feet we humbly bow;  O do not our suit disdain!  Shall we seek Thee, Lord, in vain?  Shall we seek Thee, Lord, in vain?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lord, We Come Before Thee Now, Lord, we come before Thee now. 
     author: Brian Onang'o
 ---
 
-
-## 30. LORD, WE COME BEFORE THEE NOW
+#### Advent Hymnals
+## 030. LORD, WE COME BEFORE THEE NOW
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Lord, we come before Thee now, 
 At Thy feet we humbly bow; 
@@ -45,13 +50,14 @@ Heal the sick, the captive free;
 Let us all rejoice in Thee, 
 Let us all rejoice in Thee.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord, We Come Before Thee Now |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, we come before Thee now |
 Author | William Hammond (1719-1783)
 Year | 1941
@@ -59,36 +65,11 @@ Composer| H. A. C. Malan |
 Hymnal|  - |
 Tune| HENDON |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Opening of Worship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

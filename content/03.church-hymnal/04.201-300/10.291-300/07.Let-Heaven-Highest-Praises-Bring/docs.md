@@ -1,13 +1,17 @@
 ---
-title: 297. Let Heaven Highest Praises Bring
+title: |
+    297. Let Heaven Highest Praises Bring - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Let Heaven Highest Praises Bring, Let heaven highest praises bring, 
+    description: |
+        Church Hymnal 1941 297. Let Heaven Highest Praises Bring.  Let heaven highest praises bring,  And earth her songs of gladness sing,  To magnify our Saviour, King,  Who bought us by His precious blood. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Let Heaven Highest Praises Bring, Let heaven highest praises bring. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 297. LET HEAVEN HIGHEST PRAISES BRING
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Fill us, O Saviour, with Thy love,
 Grant us eternal joys above, 
 Oh, faithful to Thy promise prove, 
 And cleanse us from our every sin.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Let Heaven Highest Praises Bring |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Let heaven highest praises bring |
 Author | Bonaventura
 Year | 1941
@@ -47,33 +52,11 @@ Composer| John H. Gower |
 Hymnal|  - |
 Tune| BONAVENTURA |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Salvation and Redemption |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

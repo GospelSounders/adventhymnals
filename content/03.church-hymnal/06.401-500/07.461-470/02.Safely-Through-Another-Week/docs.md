@@ -1,15 +1,21 @@
 ---
-title: 462. Safely Through Another Week
+title: |
+    462. Safely Through Another Week - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Safely Through Another Week, Safely through another week, 
+    description: |
+        Church Hymnal 1941 462. Safely Through Another Week. Safely through another week God has brought us on our way; Let us now a blessing seek, Waiting in His courts today; Day of all the week the best, Emblem of eternal rest: Day of all the week the best, Emblem of eternal rest. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Safely Through Another Week, Safely through another week. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 462. SAFELY THROUGH ANOTHER WEEK
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
 1.
 Safely through another week
 God has brought us on our way;
@@ -49,13 +55,14 @@ Thus may all our Sabbaths be,
 Till we we rise to reign with Thee.
 Thus may all our Sabbaths be,
 Till we we rise to reign with Thee.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Safely Through Another Week |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Safely through another week |
 Author | John Newton
 Year | 1941
@@ -63,36 +70,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| SABBATH |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Sabbath |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

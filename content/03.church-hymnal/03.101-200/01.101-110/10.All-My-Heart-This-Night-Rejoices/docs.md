@@ -1,15 +1,20 @@
 ---
-title: 110. All My Heart This Night Rejoices
+title: |
+    110. All My Heart This Night Rejoices - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, All My Heart This Night Rejoices, All my heart this night day rejoices, 
+    description: |
+        Church Hymnal 1941 110. All My Heart This Night Rejoices.  All my heart this night rejoices,  As I hear,  Far and near,  Sweetest angel voices;  "Christ is born," their choirs are singing,  Till the air,  Everywhere,  Now with joy is ringing.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, All My Heart This Night Rejoices, All my heart this night day rejoices. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 110. ALL MY HEART THIS NIGHT REJOICES
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 All my heart this night rejoices, 
 As I hear, 
@@ -40,13 +45,14 @@ Hail the star,
 That from far 
 Bright with hope is burning!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | All My Heart This Night Rejoices |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | All my heart this night day rejoices |
 Author | Paul Gerhardt
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Horatio W. Parker |
 Hymnal|  - |
 Tune| STELLA (PARKER) |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Incarnation and Advent |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

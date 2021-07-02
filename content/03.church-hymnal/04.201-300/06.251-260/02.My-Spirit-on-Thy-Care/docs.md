@@ -1,15 +1,20 @@
 ---
-title: 252. My Spirit on Thy Care
+title: |
+    252. My Spirit on Thy Care - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, My Spirit on Thy Care, My spirit on Thy care, 
+    description: |
+        Church Hymnal 1941 252. My Spirit on Thy Care.  My spirit on thy care,  Blest Saviour, I recline;  Thou wilt not leave me to despair,  For Thou art love divine.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, My Spirit on Thy Care, My spirit on Thy care. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 252. MY SPIRIT ON THY CARE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 My spirit on thy care, 
 Blest Saviour, I recline; 
@@ -34,13 +39,14 @@ It must be good for me,
 Secure of having Thee in all, 
 Of having all in Thee.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | My Spirit on Thy Care |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | My spirit on Thy care |
 Author | Henry F. Lyte (1793-1847)
 Year | 1941
@@ -48,33 +54,11 @@ Composer| H. Abbott |
 Hymnal|  - |
 Tune| DAY |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

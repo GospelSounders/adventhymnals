@@ -1,15 +1,20 @@
 ---
-title: 239. Low at Thy Pierced Feet
+title: |
+    239. Low at Thy Pierced Feet - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Low at Thy Pierced Feet, Low at Thy pierced feet, 
+    description: |
+        Church Hymnal 1941 239. Low at Thy Pierced Feet.  Low at thy pierced feet,  Saviour of all,  Helpless and sorrowful  Prostrate I fall.  O cast me not away,  Forgive my sin this day,  Forgive my sin,  All, all my sin.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Low at Thy Pierced Feet, Low at Thy pierced feet. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 239. LOW AT THY PIERCED FEET
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Low at thy pierced feet, 
 Saviour of all, 
@@ -60,13 +65,14 @@ I give myself to thee;
 Make me thine own, 
 All, all thine own.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Low at Thy Pierced Feet |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Low at Thy pierced feet |
 Author | James Stephens
 Year | 1941
@@ -74,36 +80,11 @@ Composer| J. S. Mitchell |
 Hymnal|  - |
 Tune| MITCHELL |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

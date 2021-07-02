@@ -1,13 +1,17 @@
 ---
-title: 678. Sunset and Evening Star
+title: |
+    678. Sunset and Evening Star - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Sunset and Evening Star, Sunset and evening star, 
+    description: |
+        Church Hymnal 1941 678. Sunset and Evening Star.  Sunset and evening star,  And one clear call for me!  And may there be no moaning of the bar  When I put out to sea, 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Sunset and Evening Star, Sunset and evening star. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 678. SUNSET AND EVENING STAR
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -34,13 +38,14 @@ The flood may bear me far,
 I hope to see my Pilot face to face 
 When I have crossed the bar. 
 Amen
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sunset and Evening Star |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Sunset and evening star |
 Author | Alfred Tennyson
 Year | 1941
@@ -48,36 +53,11 @@ Composer| Joseph Barnby |
 Hymnal|  - |
 Tune| CROSSING THE BAR |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Choir and Special |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 339. Walk in the Light
+title: |
+    339. Walk in the Light - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Walk in the Light, Walk in the light! so shalt thou know, 
+    description: |
+        Church Hymnal 1941 339. Walk in the Light.  Walk in the light! so shalt thou know  That fellowship of love  His Spirit only can bestow  Who reigns in light above,  Who reigns in light above. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Walk in the Light, Walk in the light! so shalt thou know. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 339. WALK IN THE LIGHT
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -37,13 +41,14 @@ A path, though thorny, bright;
 For God, by grace, shall dwell in thee, 
 And God Himself is light, 
 And God Himself is light.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Walk in the Light |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Walk in the light! so shalt thou know |
 Author | Bernard Barton
 Year | 1941
@@ -51,36 +56,11 @@ Composer| Isaac B. Woodbury |
 Hymnal|  - |
 Tune| CHOPIN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Discipleship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

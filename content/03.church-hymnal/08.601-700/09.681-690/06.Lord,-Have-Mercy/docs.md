@@ -1,63 +1,43 @@
 ---
-title: 686. Lord, Have Mercy
+title: |
+    686. Lord, Have Mercy - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lord, Have Mercy, Lord, have mercy, have mercy upon us, 
+    description: |
+        Church Hymnal 1941 686. Lord, Have Mercy.  Lord, have mercy, have mercy upon us,  And incline our hearts to keep Thy law.  Amen 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lord, Have Mercy, Lord, have mercy, have mercy upon us. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 686. LORD, HAVE MERCY
+####  Church Hymnal 1941,
 
 ```txt
 1.
 Lord, have mercy, have mercy upon us, 
 And incline our hearts to keep Thy law. 
 Amen
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord, Have Mercy |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, have mercy, have mercy upon us |
-Author | 
+Author | undefined
 Year | 1941
 Composer| George J. Elvey |
 Hymnal|  - |
 Tune| Lord, have mercy, have mercy upon us |
 Metrical pattern | |
-# Stanzas | 1 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sentences and Responses |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,21 @@
 ---
-title: 29. We Would See Jesus
+title: |
+    029. We Would See Jesus - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, We Would See Jesus, "We would see Jesus;" for the shadows lengthen, 
+    description: |
+        Church Hymnal 1941 029. We Would See Jesus.  We would see Jesus; for the shadows lengthen Across the little landscape of our life; We would see Jesus, our weak faith to strengthen For the last conflict, in this mortal strife.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, We Would See Jesus, "We would see Jesus;" for the shadows lengthen. 
     author: Brian Onang'o
 ---
 
-
-## 29. WE WOULD SEE JESUS
+#### Advent Hymnals
+## 029. WE WOULD SEE JESUS
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: E Flat
+
 1.
 We would see Jesus; for the shadows lengthen
 Across the little landscape of our life;
@@ -34,13 +40,14 @@ Strength, joy and willingness come with the sight;
 We would see Jesus, dying, risen, pleading,
 Soon to return and end this mortal night!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | We Would See Jesus |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | "We would see Jesus;" for the shadows lengthen |
 Author | Anna B. Warner
 Year | 1941
@@ -48,36 +55,11 @@ Composer| Franklin E. Belden |
 Hymnal|  - |
 Tune| "We would see Jesus;" for the shadows lengthen |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Opening of Worship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 461. This Is the Day of Rest
+title: |
+    461. This Is the Day of Rest - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, This Is the Day of Rest, This is the day of rest, 
+    description: |
+        Church Hymnal 1941 461. This Is the Day of Rest.  This is the day of rest;  Our failing strength renew;  On weary brain and troubled breast  Shed Thou Thy freshening dew. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, This Is the Day of Rest, This is the day of rest. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 461. THIS IS THE DAY OF REST
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,50 +37,26 @@ This is the best of days;
 Send forth Thy quickening breath, 
 And wake dead souls to love and praise, 
 O Vanquisher of death!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | This Is the Day of Rest |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | This is the day of rest |
 Author | J. Ellerton
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| SCHUMANN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Sabbath |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

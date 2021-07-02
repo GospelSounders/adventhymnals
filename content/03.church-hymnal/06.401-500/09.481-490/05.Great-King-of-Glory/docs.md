@@ -1,13 +1,17 @@
 ---
-title: 485. Great King of Glory
+title: |
+    485. Great King of Glory - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Great King of Glory, Great King of glory, come, 
+    description: |
+        Church Hymnal 1941 485. Great King of Glory.  Great King of glory, come,  And with Thy favor crown  This temple as Thy home,  This people as Thine own;  Beneath this roof, 0 deign to show  How God can dwell with men below. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Great King of Glory, Great King of glory, come. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 485. GREAT KING OF GLORY
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -41,13 +45,14 @@ Here Christians join the song
 Of seraphim above, 
 Till all, who humbly seek Thy face, 
 Rejoice in Thy abounding grace.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Great King of Glory |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Great King of glory, come |
 Author | Benjamin Francis (1734-1799)
 Year | 1941
@@ -55,36 +60,11 @@ Composer| John Darwall |
 Hymnal|  - |
 Tune| DARWALL |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Dedication |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 96. Glorious Are the Lofty Mountains
+title: |
+    096. Glorious Are the Lofty Mountains - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Glorious Are the Lofty Mountains, Glorious are the lofty mountains, 
+    description: |
+        Church Hymnal 1941 096. Glorious Are the Lofty Mountains.  Glorious are the lofty mountains  In the early morning's gleam,  When the soft glow of the sunshine  Lights them with its golden beam.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Glorious Are the Lofty Mountains, Glorious are the lofty mountains. 
     author: Brian Onang'o
 ---
 
-
-## 96. GLORIOUS ARE THE LOFTY MOUNTAINS
+#### Advent Hymnals
+## 096. GLORIOUS ARE THE LOFTY MOUNTAINS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Glorious are the lofty mountains 
 In the early morning's gleam, 
@@ -40,13 +45,14 @@ Symbols of Jehovah's might!
 There earth reaches up to heaven, 
 There heaven first gives earth its light.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Glorious Are the Lofty Mountains |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Glorious are the lofty mountains |
 Author | Arthur Warren
 Year | 1941
@@ -54,36 +60,11 @@ Composer| E. Halstead |
 Hymnal|  - |
 Tune| SNOWDON |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: God's Power in Nature |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

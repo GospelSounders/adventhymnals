@@ -1,13 +1,17 @@
 ---
-title: 548. Sweet Promise Is Given
+title: |
+    548. Sweet Promise Is Given - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Sweet Promise Is Given, Sweet promise is given to all who believe, "Hold Fast till I come;" 
+    description: |
+        Church Hymnal 1941 548. Sweet Promise Is Given.  Sweet promise is give to all who believe'  "Behold I come quickly, Mine own to receive;  Hold fast till I come; the danger is great;  Sleep not as do others; be watchful, and wait."  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Sweet Promise Is Given, Sweet promise is given to all who believe. "Hold fast till I come;" Sweet promise of heaven' 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 548. SWEET PROMISE IS GIVEN
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -32,13 +36,14 @@ Yes! this is our hope, 'tis built on his word'
 The glorious appearing of Jesus, our Lord; 
 Of promises all, it stands as the sum: 
 "Behold I come quickly, hold fast till I come."
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sweet Promise Is Given |
 Key | G Major |
-Titles | "Hold Fast till I come;"  |
+Titles | "Hold fast till I come;" Sweet promise of heaven'  |
 First Line | Sweet promise is given to all who believe |
 Author | F. E. Belden
 Year | 1941
@@ -46,36 +51,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| HOLD FAST TILL I COME |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

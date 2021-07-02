@@ -1,13 +1,17 @@
 ---
-title: 646. This Is My Father's World
+title: |
+    646. This Is My Father's World - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, This Is My Father's World, This is my Father's world, 
+    description: |
+        Church Hymnal 1941 646. This Is My Father's World.  This is my Father's world, and to my listening ears all nature sings, and round me rings the music of the spheres. This is my Father's world: I rest me in the thought of rocks and trees, of skies and seas; his hand the wonders wrought. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, This Is My Father's World, This is my Father's world. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 646. THIS IS MY FATHER'S WORLD
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,50 +43,26 @@ This is my Father's world:
 why should my heart be sad?
 The Lord is King; let the heavens ring!
 God reigns; let the earth be glad!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | This Is My Father's World |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | This is my Father's world |
 Author | Maltbie D. Babcock (1858-1901)
 Year | 1941
-Composer| Franklin L. Sheppard |
+Composer| undefined |
 Hymnal|  - |
 Tune| TERRA BEATA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Adoration and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

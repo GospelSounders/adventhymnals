@@ -1,15 +1,21 @@
 ---
-title: 278. I Lay My Sins on Jesus
+title: |
+    278. I Lay My Sins on Jesus - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Lay My Sins on Jesus, I lay my sins on Jesus, 
+    description: |
+        Church Hymnal 1941 278. I Lay My Sins on Jesus. I lay my sins on Jesus, The spotless Lamb of God; He bears them all, and frees us From the accursed load, From the accursed load. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Lay My Sins on Jesus, I lay my sins on Jesus. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 278. I LAY MY SINS ON JESUS
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
 1.
 I lay my sins on Jesus,
 The spotless Lamb of God;
@@ -44,13 +50,14 @@ Amid the heav'nly throng,
 To sing with them His praises,
 And learn the angels' song,
 And learn the angels' song.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Lay My Sins on Jesus |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | I lay my sins on Jesus |
 Author | Horatius Bonar
 Year | 1941
@@ -58,33 +65,11 @@ Composer| Edward Husband |
 Hymnal|  - |
 Tune| ST. HILDA |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

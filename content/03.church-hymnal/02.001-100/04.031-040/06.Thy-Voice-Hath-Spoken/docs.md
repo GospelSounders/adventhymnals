@@ -1,15 +1,20 @@
 ---
-title: 36. Thy Voice Hath Spoken
+title: |
+    036. Thy Voice Hath Spoken - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Thy Voice Hath Spoken, Thy voice hath spoken, souls have heard, 
+    description: |
+        Church Hymnal 1941 036. Thy Voice Hath Spoken.  Thy voice hath spoken, souls have heard;  Thy wondrous love hath been declared;  Now in this quiet hour  Conviction's arrows deeper press,  Convince of sin and righteousness,  Show forth Thy mighty power.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Thy Voice Hath Spoken, Thy voice hath spoken, souls have heard. 
     author: Brian Onang'o
 ---
 
-
-## 36. THY VOICE HATH SPOKEN
+#### Advent Hymnals
+## 036. THY VOICE HATH SPOKEN
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Thy voice hath spoken, souls have heard; 
 Thy wondrous love hath been declared; 
@@ -50,13 +55,14 @@ That yielded lives possessed by Thee
 Henceforth Thy witnesses shall be, 
 Kept in Thy perfect peace.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Thy Voice Hath Spoken |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Thy voice hath spoken, souls have heard |
 Author | Mary E. Maxwell
 Year | 1941
@@ -64,36 +70,11 @@ Composer| J. Foster |
 Hymnal|  - |
 Tune| PEMBROKE |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Closing of Worship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

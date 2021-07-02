@@ -1,15 +1,21 @@
 ---
-title: 158. Jesus, the Very Thought of Thee
+title: |
+    158. Jesus, the Very Thought of Thee - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Jesus, the Very Thought of Thee, Jesus, the very thought of Thee , 
+    description: |
+        Church Hymnal 1941 158. Jesus, the Very Thought of Thee.  Jesus, the very thought of thee  With sweetness fills the breast;  But sweeter far Thy face to see,  And in Thy presence rest.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Jesus, the Very Thought of Thee, Jesus, the very thought of Thee . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 158. JESUS, THE VERY THOUGHT OF THEE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+
 1.
 Jesus, the very thought of thee 
 With sweetness fills the breast; 
@@ -40,13 +46,14 @@ As Thou our prize wilt be;
 Jesus, be Thou our glory now, 
 And through eternity.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Jesus, the Very Thought of Thee |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Jesus, the very thought of Thee  |
 Author | Bernard of Clairvaux (1091-1153)
 Year | 1941
@@ -54,36 +61,11 @@ Composer| John B. Dykes |
 Hymnal|  - |
 Tune| ST. AGNES |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Glory and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

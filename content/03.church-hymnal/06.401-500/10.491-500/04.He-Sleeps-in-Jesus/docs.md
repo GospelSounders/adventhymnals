@@ -1,13 +1,17 @@
 ---
-title: 494. He Sleeps in Jesus
+title: |
+    494. He Sleeps in Jesus - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, He Sleeps in Jesus, He sleeps in Jesus-peaceful rest, 
+    description: |
+        Church Hymnal 1941 494. He Sleeps in Jesus.  He sleeps in Jesus'peaceful rest'  No mortal strife invades his breast;  No pain, nor sin, nor woe, nor care,  Can reach the silent slumberer there. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, He Sleeps in Jesus, He sleeps in Jesus-peaceful rest. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 494. HE SLEEPS IN JESUS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ He sleeps in Jesus'cease thy grief;
 Let this afford thee sweet relief, 
 That, freed from death's triumphant reign, 
 In heaven he will live again.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | He Sleeps in Jesus |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | He sleeps in Jesus-peaceful rest |
 Author | Annie R. Smith
 Year | 1941
@@ -53,36 +58,11 @@ Composer| Edwin Barnes |
 Hymnal|  - |
 Tune| RUSSELL |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Funeral |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

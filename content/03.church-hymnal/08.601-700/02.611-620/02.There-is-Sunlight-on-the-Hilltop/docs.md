@@ -1,15 +1,20 @@
 ---
-title: 612. There is Sunlight on the Hilltop
+title: |
+    612. There is Sunlight on the Hilltop - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, There is Sunlight on the Hilltop, There is sunlight on the hilltop, O the sunlight! beautiful sunlight!
+    description: |
+        Church Hymnal 1941 612. There is Sunlight on the Hilltop.  There is sunlight on the hilltop,  There is sunlight on the sea;  And the golden beams are sleeping,  On the soft and verdant lea;  But a richer light is filling  All the chambers of my heart;  For Thou dwellest there, my Saviour,  And 'tis sunlight where Thou art.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, There is Sunlight on the Hilltop, There is sunlight on the hilltop. O the sunlight! beautiful sunlight! 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 612. THERE IS SUNLIGHT ON THE HILLTOP
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 There is sunlight on the hilltop, 
 There is sunlight on the sea; 
@@ -19,7 +24,6 @@ But a richer light is filling
 All the chambers of my heart; 
 For Thou dwellest there, my Saviour, 
 And 'tis sunlight where Thou art. 
-
 Refrain:
 O the sunlight! beautiful sunlight! 
 O the sunlight in the heart! 
@@ -36,12 +40,6 @@ Which Thy love hath won for me,
 In my heart and mind ascending, 
 My glad spirit follows Thee. 
 
-Refrain:
-O the sunlight! beautiful sunlight! 
-O the sunlight in the heart! 
-Jesus' smile can banish sadness; 
-It is sunlight in the heart. 
-
 3.
 Loving Saviour, Thou hast bought me, 
 And my life, my all, is Thine; 
@@ -52,56 +50,25 @@ Which Thy love hath won for me,
 In my heart and mind ascending, 
 My glad spirit follows Thee.
 
-Refrain:
-O the sunlight! beautiful sunlight! 
-O the sunlight in the heart! 
-Jesus' smile can banish sadness; 
-It is sunlight in the heart. 
-
 ```
 
 - |   -  |
 -------------|------------|
 Title | There is Sunlight on the Hilltop |
 Key | A Major |
-Titles | O the sunlight! beautiful sunlight! |
+Titles | O the sunlight! beautiful sunlight!  |
 First Line | There is sunlight on the hilltop |
 Author | Mrs. M. T. Haughey
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| There is sunlight on the hilltop |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Joy or Peace |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

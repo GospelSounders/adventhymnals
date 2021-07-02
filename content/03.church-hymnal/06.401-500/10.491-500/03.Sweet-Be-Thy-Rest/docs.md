@@ -1,13 +1,17 @@
 ---
-title: 493. Sweet Be Thy Rest
+title: |
+    493. Sweet Be Thy Rest - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Sweet Be Thy Rest, Sweet be thy rest  , 
+    description: |
+        Church Hymnal 1941 493. Sweet Be Thy Rest.  Sweet be thy rest,  And peaceful thy sleeping;  God's way is best,  Thou art in His keeping.  O blessed sleep  Where ills ne'er molest thee!  Why should we weep?  For Heaven hath blessed thee,  Sweet be thy rest. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Sweet Be Thy Rest, Sweet be thy rest  . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 493. SWEET BE THY REST
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -42,13 +46,14 @@ That death cannot sever!
 There we shall meet, 
 Where sad tears fall never. 
 Sweet be thy rest.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Sweet Be Thy Rest |
 Key | D♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Sweet be thy rest   |
 Author | F. E. Belden
 Year | 1941
@@ -56,36 +61,11 @@ Composer| D. S. Hakes |
 Hymnal|  - |
 Tune| Sweet be thy rest |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Funeral |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

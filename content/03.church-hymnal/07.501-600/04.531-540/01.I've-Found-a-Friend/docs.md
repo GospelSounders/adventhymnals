@@ -1,13 +1,17 @@
 ---
-title: 531. I've Found a Friend
+title: |
+    531. I've Found a Friend - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I've Found a Friend, I've found a Friend; oh, such a Friend!, 
+    description: |
+        Church Hymnal 1941 531. I've Found a Friend.  I've found a Friend; oh, such a Friend! He loved me ere I knew Him; He drew me with the cords of love, And thus He bound me to Him. And 'round my heart still closely twine Those ties which nought can sever, For I am His, and He is mine, Forever and forever. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I've Found a Friend, I've found a Friend; oh, such a Friend!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 531. I'VE FOUND A FRIEND
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ From Him, who loveth me so well,
 What power my soul can sever?
 Shall life or death, or earth, or hell?
 No; I am His forever.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I've Found a Friend |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | I've found a Friend; oh, such a Friend! |
 Author | J. G. Small
 Year | 1941
@@ -63,36 +68,11 @@ Composer| George C. Stebbins |
 Hymnal|  - |
 Tune| FRIEND |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Jesus' Love and Sympathy |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

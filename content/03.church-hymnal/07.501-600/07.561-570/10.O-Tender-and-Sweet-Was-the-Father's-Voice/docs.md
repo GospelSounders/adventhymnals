@@ -1,21 +1,25 @@
 ---
-title: 570. O Tender and Sweet Was the Father's Voice
+title: |
+    570. O Tender and Sweet Was the Father's Voice - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O Tender and Sweet Was the Father's Voice, O tender and sweet was the Father's voice, "Over the line," hear the sweet refrain
+    description: |
+        Church Hymnal 1941 570. O Tender and Sweet Was the Father's Voice.  O tender and sweet was the Father's voice  As He lovingly called to me,  "Come over the line, it is only a step;  I'm waiting, My child, for thee."  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O Tender and Sweet Was the Father's Voice, O tender and sweet was the Father's voice. "Over the line," hear the sweet 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 570. O TENDER AND SWEET WAS THE FATHER'S VOICE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 O tender and sweet was the Father's voice 
 As He lovingly called to me, 
 "Come over the line, it is only a step; 
 I'm waiting, My child, for thee." 
-
 Refrain:
 "Over the line," hear the sweet refrain; 
 Angels are chanting the heavenly strain; 
@@ -28,23 +32,11 @@ Lo! the answer came quick and clear,
 "Thou needest not trust in thyself at all; 
 Step over the line. I'm here." 
 
-Refrain:
-"Over the line," hear the sweet refrain; 
-Angels are chanting the heavenly strain; 
-"Over the line"'Why should I remain 
-With a step between me and Jesus? 
-
 3.
 "But my flesh is so feeble," with tears I said, 
 "And the pathway I cannot see; 
 I fear if I try I may sadly fail, 
 And thus dishonor Thee." 
-
-Refrain:
-"Over the line," hear the sweet refrain; 
-Angels are chanting the heavenly strain; 
-"Over the line"'Why should I remain 
-With a step between me and Jesus? 
 
 4.
 The world is so cold I cannot go back, 
@@ -52,19 +44,13 @@ Press forward I surely must;
 I'll lay my weak hand in His wounded palm, 
 Step over the line and trust.
 
-Refrain:
-"Over the line," hear the sweet refrain; 
-Angels are chanting the heavenly strain; 
-"Over the line"'Why should I remain 
-With a step between me and Jesus? 
-
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Tender and Sweet Was the Father's Voice |
 Key | G Major |
-Titles | "Over the line," hear the sweet refrain |
+Titles | "Over the line," hear the sweet  |
 First Line | O tender and sweet was the Father's voice |
 Author | Mrs. N. K. Bradford
 Year | 1941
@@ -72,36 +58,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| OVER THE LINE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

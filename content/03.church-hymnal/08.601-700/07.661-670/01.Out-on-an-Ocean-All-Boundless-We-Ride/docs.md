@@ -1,13 +1,17 @@
 ---
-title: 661. Out on an Ocean All Boundless We Ride
+title: |
+    661. Out on an Ocean All Boundless We Ride - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Out on an Ocean All Boundless We Ride, Out on an ocean all boundless we ride, 
+    description: |
+        Church Hymnal 1941 661. Out on an Ocean All Boundless We Ride.  Out on an ocean all boundless we ride,  We're homeward bound, homeward bound.  Tossed on the waves of a rough, rest less tide,  We're homeward bound, homeward bound.  Far from the safe, quiet harbor we've rode,  Seeking our Father's celestial abode,  Promise of which on us each is be stowed,  We're homeward bound, homeward bound. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Out on an Ocean All Boundless We Ride, Out on an ocean all boundless we ride. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 661. OUT ON AN OCEAN ALL BOUNDLESS WE RIDE
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Glory to God! all our dangers are o'er,
 We stand secure on the glorified shore; 
 Glory to God! we shall shout ever more; 
 We're home at last, home at last.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Out on an Ocean All Boundless We Ride |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Out on an ocean all boundless we ride |
 Author | Anon.
 Year | 1941
@@ -53,36 +58,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| HOMEWARD BOUND |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Early Advent Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

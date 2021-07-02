@@ -1,13 +1,17 @@
 ---
-title: 587. Under His Wing
+title: |
+    587. Under His Wing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Under His Wing, Under His wings I am safely abiding, 
+    description: |
+        Church Hymnal 1941 587. Under His Wing.  Under His wings I am safely abiding; Though the night deepens and tempests are wild, Still I can trust Him; I know He will keep me; He has redeemed me, and I am His child. CHORUS: Under His wings, under His wings, Who from His love can sever? Under His wings, my soul shall abide, Safely abide forever. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Under His Wing, Under His wings I am safely abiding. Under His wings, under His wings,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 587. UNDER HIS WING
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -32,13 +36,14 @@ Under His wings, O what precious enjoyment!
 There will I hide till life's trials are over;
 Sheltered, protected, no evil can harm me;
 Resting in Jesus I'm safe evermore.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Under His Wing |
 Key | D♭ Major |
-Titles |  |
+Titles | Under His wings, under His wings, |
 First Line | Under His wings I am safely abiding |
 Author | W. O. Cushing
 Year | 1941
@@ -46,36 +51,11 @@ Composer| Ira D. Sankey |
 Hymnal|  - |
 Tune| Under His wings I am safely abiding |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

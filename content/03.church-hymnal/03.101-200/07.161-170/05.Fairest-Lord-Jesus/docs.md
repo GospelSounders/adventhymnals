@@ -1,15 +1,20 @@
 ---
-title: 165. Fairest Lord Jesus
+title: |
+    165. Fairest Lord Jesus - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Fairest Lord Jesus, Fairest Lord Jesus, 
+    description: |
+        Church Hymnal 1941 165. Fairest Lord Jesus.  Fairest Lord Jesus, ruler of all nature, O thou of God and man the Son! Thee will I cherish, Thee will I honor, thou, my soul's glory, joy, and crown.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Fairest Lord Jesus, Fairest Lord Jesus. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 165. FAIREST LORD JESUS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Fairest Lord Jesus, ruler of all nature,
 O thou of God and man the Son!
@@ -34,50 +39,26 @@ Son of God and Son of Man!
 Glory and honor, praise, adoration,
 now and forevermore be thine!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Fairest Lord Jesus |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Fairest Lord Jesus |
-Author | 
+Author | undefined
 Year | 1941
-Composer| Richard S. Willis (1819-1900) |
+Composer| undefined |
 Hymnal|  - |
 Tune| CRUSADER'S HYMN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Glory and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

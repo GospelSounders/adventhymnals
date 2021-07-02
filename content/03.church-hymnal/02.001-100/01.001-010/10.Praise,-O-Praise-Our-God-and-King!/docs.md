@@ -1,13 +1,17 @@
 ---
-title: 10. Praise, O Praise Our God and King!
+title: |
+    010. Praise, O Praise Our God and King! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Praise, O Praise Our God and King!, Praise, O praise our God and King!, 
+    description: |
+        Church Hymnal 1941 010. Praise, O Praise Our God and King!.  Praise, O praise our God and King!  Hymns of adoration sing;  For His mercies still endure,  Ever faithful, ever sure. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Praise, O Praise Our God and King!, Praise, O praise our God and King!. 
     author: Brian Onang'o
 ---
 
-
-## 10. PRAISE, O PRAISE OUR GOD AND KING!
+#### Advent Hymnals
+## 010. PRAISE, O PRAISE OUR GOD AND KING!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -27,50 +31,26 @@ Praise Him for our harvest store;
 He hath filled the garner floor; 
 And for richer food than this, 
 Pledge of everlasting bliss.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Praise, O Praise Our God and King! |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Praise, O praise our God and King! |
 Author | Henry Baker (1821-1877)
 Year | 1941
-Composer| John B. Wilkes |
+Composer| undefined |
 Hymnal|  - |
 Tune| MONKLAND |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Adoration and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

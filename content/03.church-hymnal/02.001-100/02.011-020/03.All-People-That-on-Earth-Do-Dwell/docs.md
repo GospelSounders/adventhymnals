@@ -1,15 +1,20 @@
 ---
-title: 13. All People That on Earth Do Dwell
+title: |
+    013. All People That on Earth Do Dwell - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, All People That on Earth Do Dwell, All people that on earth do dwell, 
+    description: |
+        Church Hymnal 1941 013. All People That on Earth Do Dwell.  All people that on earth do dwell, sing to the Lord with cheerful voice. Him serve with mirth, his praise forth tell; come ye before him and rejoice.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, All People That on Earth Do Dwell, All people that on earth do dwell. 
     author: Brian Onang'o
 ---
 
-
-## 13. ALL PEOPLE THAT ON EARTH DO DWELL
+#### Advent Hymnals
+## 013. ALL PEOPLE THAT ON EARTH DO DWELL
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 All people that on earth do dwell,
 sing to the Lord with cheerful voice.
@@ -34,50 +39,26 @@ his mercy is forever sure;
 his truth at all times firmly stood,
 and shall from age to age endure.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | All People That on Earth Do Dwell |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | All people that on earth do dwell |
 Author | William Kethe
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| OLD HUNDREDTH |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Adoration and Praise |
 Texts | Psalm 100 |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

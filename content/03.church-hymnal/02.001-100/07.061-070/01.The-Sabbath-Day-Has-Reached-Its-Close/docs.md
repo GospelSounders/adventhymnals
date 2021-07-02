@@ -1,15 +1,20 @@
 ---
-title: 61. The Sabbath Day Has Reached Its Close
+title: |
+    061. The Sabbath Day Has Reached Its Close - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Sabbath Day Has Reached Its Close, The Sabbath day has reached its close, 
+    description: |
+        Church Hymnal 1941 061. The Sabbath Day Has Reached Its Close.  The Sabbath day has reached its close,  Yet, Saviour, ere I seek repose,  Grant me the peace Thy love bestows;  Smile on my evening hour.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Sabbath Day Has Reached Its Close, The Sabbath day has reached its close. 
     author: Brian Onang'o
 ---
 
-
-## 61. THE SABBATH DAY HAS REACHED ITS CLOSE
+#### Advent Hymnals
+## 061. THE SABBATH DAY HAS REACHED ITS CLOSE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The Sabbath day has reached its close, 
 Yet, Saviour, ere I seek repose, 
@@ -46,13 +51,14 @@ And death's dark shades around impend,
 My God, my everlasting Friend, 
 Smile on my evening hour.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Sabbath Day Has Reached Its Close |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | The Sabbath day has reached its close |
 Author | Charlotte Elliott
 Year | 1941
@@ -60,36 +66,11 @@ Composer| E. J. Hopkins |
 Hymnal|  - |
 Tune| PASCAL |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Evening Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 194. The King Shall Come
+title: |
+    194. The King Shall Come - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The King Shall Come, The King shall come when morning dawns, 
+    description: |
+        Church Hymnal 1941 194. The King Shall Come.  The King shall come when morning dawns And light triumphant breaks, When beauty gilds the eastern hills And life to joy awakes.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The King Shall Come, The King shall come when morning dawns. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 194. THE KING SHALL COME
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The King shall come when morning dawns
 And light triumphant breaks,
@@ -40,13 +45,14 @@ And light and beauty brings.
 Hail, Christ the Lord! Your people pray:
 Come quickly, King of kings.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The King Shall Come |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | The King shall come when morning dawns |
 Author | John Brownlie
 Year | 1941
@@ -54,36 +60,11 @@ Composer| William Jones |
 Hymnal|  - |
 Tune| ST. STEPHEN |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

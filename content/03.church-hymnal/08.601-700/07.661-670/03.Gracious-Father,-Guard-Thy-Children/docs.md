@@ -1,13 +1,17 @@
 ---
-title: 663. Gracious Father, Guard Thy Children
+title: |
+    663. Gracious Father, Guard Thy Children - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Gracious Father, Guard Thy Children, Gracious Father, guard Thy children, 
+    description: |
+        Church Hymnal 1941 663. Gracious Father, Guard Thy Children.  Gracious Father, guard Thy children  From the foe's destructive power;  Save, O save them, Lord, from falling  In this dark and trying hour.  Thou wilt surely prove Thy people,  All our graces must be tried;  But Thy Word illumes our pathway,  And in God we still confide. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Gracious Father, Guard Thy Children, Gracious Father, guard Thy children. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 663. GRACIOUS FATHER, GUARD THY CHILDREN
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,50 +43,26 @@ Freedom from this world's pollutions;
 Freedom from all sin and pain; 
 Freedom from the wiles of Satan, 
 And from death's destructive reign.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Gracious Father, Guard Thy Children |
 Key | A Major |
-Titles |  |
+Titles | undefined |
 First Line | Gracious Father, guard Thy children |
 Author | Anon.
 Year | 1941
-Composer| Hubert P. Main |
+Composer| undefined |
 Hymnal|  - |
 Tune| ELLESDIE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Early Advent Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

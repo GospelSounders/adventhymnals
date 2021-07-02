@@ -1,15 +1,20 @@
 ---
-title: 37. The Lord Be With Us
+title: |
+    037. The Lord Be With Us - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Lord Be With Us, The Lord be with us as we bend, 
+    description: |
+        Church Hymnal 1941 037. The Lord Be With Us.  The Lord be with us as we bend  His blessing to receive;  His gift of peace upon us send  Before His courts we leave.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Lord Be With Us, The Lord be with us as we bend. 
     author: Brian Onang'o
 ---
 
-
-## 37. THE LORD BE WITH US
+#### Advent Hymnals
+## 037. THE LORD BE WITH US
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The Lord be with us as we bend 
 His blessing to receive; 
@@ -28,13 +33,14 @@ Infold us all to rest;
 Be He of every heart the light, 
 Of every home the guest.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Lord Be With Us |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | The Lord be with us as we bend |
 Author | J. Ellerton
 Year | 1941
@@ -42,36 +48,11 @@ Composer| James Walch |
 Hymnal|  - |
 Tune| SAWLEY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Closing of Worship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

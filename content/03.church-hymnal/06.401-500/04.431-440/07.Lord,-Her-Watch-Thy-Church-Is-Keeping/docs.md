@@ -1,13 +1,17 @@
 ---
-title: 437. Lord, Her Watch Thy Church Is Keeping
+title: |
+    437. Lord, Her Watch Thy Church Is Keeping - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lord, Her Watch Thy Church Is Keeping, Lord, her watch Thy church is keeping, 
+    description: |
+        Church Hymnal 1941 437. Lord, Her Watch Thy Church Is Keeping.  Lord, her watch Thy church is keeping;  When shall earth Thy rule obey?  When shall end the night of weeping?  When shall break the promised day?  See the whitening harvest languish,  Waiting still the laborers' toil;  Was it vain, Thy Son's deep anguish?  Shall the strong retain the spoil? 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lord, Her Watch Thy Church Is Keeping, Lord, her watch Thy church is keeping. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 437. LORD, HER WATCH THY CHURCH IS KEEPING
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Gone foreyer, parting, weeping,
 Hunger, sorrow, death, and pain; 
 Lo! her watch Thy church is keeping; 
 Come, Lord Jesus; come to reign.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord, Her Watch Thy Church Is Keeping |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, her watch Thy church is keeping |
 Author | H. Downton
 Year | 1941
@@ -53,36 +58,11 @@ Composer| J. Langran |
 Hymnal|  - |
 Tune| DEERHURST |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: Baptism |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

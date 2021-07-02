@@ -1,15 +1,26 @@
 ---
-title: 685. Let All Mortal Flesh Keep Silence
+title: |
+    685. Let All Mortal Flesh Keep Silence - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Let All Mortal Flesh Keep Silence, Let all mortal flesh keep silence, 
+    description: |
+        Church Hymnal 1941 685. Let All Mortal Flesh Keep Silence. Major Key: F Let all mortal flesh keep silence,  And with fear and trembling stand; Ponder nothing earthly-minded,  For with blessing in His hand,  Christ our God to earth descendeth,  Our full homage to demand. Amen. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Let All Mortal Flesh Keep Silence, Let all mortal flesh keep silence. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 685. LET ALL MORTAL FLESH KEEP SILENCE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+Let all mortal flesh keep silence, 
+And with fear and trembling stand;
+Ponder nothing earthly-minded, 
+For with blessing in His hand, 
+Christ our God to earth descendeth, 
+Our full homage to demand. Amen. 
 
 ```
 
@@ -17,11 +28,11 @@ metadata:
 -------------|------------|
 Title | Let All Mortal Flesh Keep Silence |
 Key | d minor |
-Titles |  |
+Titles | undefined |
 First Line | Let all mortal flesh keep silence |
-Author | 
+Author | undefined
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| PICARDY |
 Metrical pattern | |
@@ -29,32 +40,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | Sentences and Responses |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

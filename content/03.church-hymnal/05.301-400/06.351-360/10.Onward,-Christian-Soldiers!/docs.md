@@ -1,15 +1,21 @@
 ---
-title: 360. Onward, Christian Soldiers!
+title: |
+    360. Onward, Christian Soldiers! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Onward, Christian Soldiers!, Onward, Christian soldiers!, Onward, Christian soldiers!
+    description: |
+        Church Hymnal 1941 360. Onward, Christian Soldiers!. Onward, Christian soldiers, Marching as to war, With the cross of Jesus Going on before. Christ, the royal Master, Leads against the foe; Forward into battle see His banners go! CHORUS: Onward, Christian soldiers, Marching as to war, With the cross of Jesus Going on before. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Onward, Christian Soldiers!, Onward, Christian soldiers!. Onward, Christian soldiers, Marching as to war,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 360. ONWARD, CHRISTIAN SOLDIERS!
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D
+
 1.
 Onward, Christian soldiers, Marching as to war,
 With the cross of Jesus Going on before.
@@ -36,13 +42,14 @@ Onward then, ye people, Join our happy throng,
 Blend with ours your voices In the triumph song.
 Glory, laud, and honor Unto Christ the King,
 This through countless ages Men and angels sing.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Onward, Christian Soldiers! |
 Key | E Major |
-Titles | Onward, Christian soldiers! |
+Titles | Onward, Christian soldiers, Marching as to war, |
 First Line | Onward, Christian soldiers! |
 Author | Sabine Baring-Gould
 Year | 1941
@@ -50,36 +57,11 @@ Composer| Arthur S. Sullivan |
 Hymnal|  - |
 Tune| ST. GERTRUDE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Warfare |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

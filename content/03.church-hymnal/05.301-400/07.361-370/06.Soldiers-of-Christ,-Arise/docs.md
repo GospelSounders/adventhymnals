@@ -1,15 +1,21 @@
 ---
-title: 366. Soldiers of Christ, Arise
+title: |
+    366. Soldiers of Christ, Arise - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Soldiers of Christ, Arise, Soldiers of Christ, arise, 
+    description: |
+        Church Hymnal 1941 366. Soldiers of Christ, Arise. Soldiers of Christ,arise, And put your armor on, Strong in the strength which God supplies Through His eternal Son Strong in the Lord of hosts, And in His mighty power, Who in the strength of Jesus trusts Is more than conqueror. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Soldiers of Christ, Arise, Soldiers of Christ, arise. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 366. SOLDIERS OF CHRIST, ARISE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D
+
 1.
 Soldiers of Christ,arise,
 And put your armor on,
@@ -39,13 +45,14 @@ Still let the Spirit cry
 In all His soldiers, Come!
 Till Christ the Lord who reigns on high
 Shall take the conquerors home.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Soldiers of Christ, Arise |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | Soldiers of Christ, arise |
 Author | Charles Wesley
 Year | 1941
@@ -53,36 +60,11 @@ Composer| George J. Elvey |
 Hymnal|  - |
 Tune| DIADEMATA |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Warfare |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

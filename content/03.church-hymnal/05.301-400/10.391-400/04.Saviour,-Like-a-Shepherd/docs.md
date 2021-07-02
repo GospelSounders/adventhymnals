@@ -1,45 +1,58 @@
 ---
-title: 394. Saviour, Like a Shepherd
+title: |
+    394. Saviour, Like a Shepherd - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Saviour, Like a Shepherd, Saviour, like a Shepherd lead us, 
+    description: |
+        Church Hymnal 1941 394. Saviour, Like a Shepherd. Savior, like a Shepherd lead us, Much we need Thy tenderest care; In Thy pleasant pastures feed us, For our use Thy folds prepare. Blessed Jesus, blessed Jesus! Thou hast bought us, Thine we are. Blessed Jesus, blessed Jesus! Thou hast bought us, Thine we are. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Saviour, Like a Shepherd, Saviour, like a Shepherd lead us. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 394. SAVIOUR, LIKE A SHEPHERD
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D Flat
+
 1.
-Far from all care we hail the Sabbath morning;
-O'er waving fields and from the distant sea
-Swell notes of praise in harmony resounding
-As all creation turns her heart to Thee.
+Savior, like a Shepherd lead us,
+Much we need Thy tenderest care;
+In Thy pleasant pastures feed us,
+For our use Thy folds prepare.
+Blessed Jesus, blessed Jesus!
+Thou hast bought us, Thine we are.
+Blessed Jesus, blessed Jesus!
+Thou hast bought us, Thine we are.
 
 2.
-Though man alone, Lord, of Thy great creation
-Fails now to laud Thee for Thy love and power,
-Yet still a remnant love Thee and remember
-Thy holy law and each sweet Sabbath hour.
+We are Thine, Thou dost befriend us,
+Be the guardian of our way;
+Keep Thy flock, from sin defend us,
+Seek us when we go astray.
+Blessed Jesus, blessed Jesus!
+Hear, O hear us when we pray.
+Blessed Jesus, blessed Jesus!
+Hear, O hear us when we pray.
 
 3.
-Lord of the Sabbath, Savior and Creator,
-Calm now the throbbings of each troubled breast.
-Speak to our hearts the peace of Thy commandments,
-Breathe on each soul fair Eden's hallowed ret.
+Thou hast promised to receive us,
+Poor and sinful though we be;
+Thou hast mercy to relieve us,
+Grace to cleanse and power to free.
+Blessed Jesus, blessed Jesus!
+We will early turn to Thee.
+Blessed Jesus, blessed Jesus!
+We will early turn to Thee.
 
-4.
-Strong in Thy might and quiet in Thy meekness,
-May we Thine image bear from day to day.
-Then may we enter pearly gates eternal
-And sing redemption's song each Sabbath day.
 ```
 
 - |   -  |
 -------------|------------|
 Title | Saviour, Like a Shepherd |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Saviour, like a Shepherd lead us |
 Author | Anonymous
 Year | 1941
@@ -47,36 +60,11 @@ Composer| William B. Bradbury |
 Hymnal|  - |
 Tune| SHEPHERD |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Guidance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,21 @@
 ---
-title: 168. Worthy, Worthy Is the Lamb
+title: |
+    168. Worthy, Worthy Is the Lamb - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Worthy, Worthy Is the Lamb, Worthy, worthy is the Lamb, Glory, hallelujah!
+    description: |
+        Church Hymnal 1941 168. Worthy, Worthy Is the Lamb.  Worthy, worthy is the Lamb, Worthy, worthy is the Lamb, Worthy, worthy is the Lamb, That was slain. CHORUS: Glory, hallelujah! Praise Him, hallelujah! Glory, hallelujah! To the Lamb!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Worthy, Worthy Is the Lamb, Worthy, worthy is the Lamb. Glory, hallelujah!
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 168. WORTHY, WORTHY IS THE LAMB
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: C
+
 1.
 Worthy, worthy is the Lamb,
 Worthy, worthy is the Lamb,
@@ -33,6 +39,7 @@ Love Him, serve Him, praise Him still,
 Till we all on Zion's hill
 See the Lamb.
 
+
 ```
 
 - |   -  |
@@ -43,40 +50,15 @@ Titles | Glory, hallelujah! |
 First Line | Worthy, worthy is the Lamb |
 Author | Anon.
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| WORTHY  |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Glory and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

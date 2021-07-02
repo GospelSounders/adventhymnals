@@ -1,26 +1,44 @@
 ---
-title: 55. Now God Be With Us
+title: |
+    055. Now God Be With Us - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Now God Be With Us, Now God be with us, for the night is closing, 
+    description: |
+        Church Hymnal 1941 055. Now God Be With Us.  Now God be with us, for the night is closing:  The light and darkness are of His disposing,  And 'neath His shadow here to rest we yield us,  For He will shield us.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Now God Be With Us, Now God be with us, for the night is closing. 
     author: Brian Onang'o
 ---
 
-
-## 55. NOW GOD BE WITH US
+#### Advent Hymnals
+## 055. NOW GOD BE WITH US
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
-Jesus, tender Shepherd, hear me,
-Bless Thy little lamb tonight;
-Through the darkness be Thou near me;
-Watch my sleep till morning light.
+Now God be with us, for the night is closing: 
+The light and darkness are of His disposing, 
+And 'neath His shadow here to rest we yield us, 
+For He will shield us. 
 
 2.
-All this day Thy hand has led me,
-And I thank Thee for Thy care;
-Thou hast clothed me, warmed and fed me;
-Listen to my evening prayer.
+Let evil thoughts and spirits flee before us; 
+Till morning cometh, watch, O Master, o'er us; 
+In soul and body Thou from harm defend us, 
+Thine angels send us. 
+
+3.
+We have no refuge, none on earth to aid us, 
+Save Thee, O Father, who Thine own hast made us; 
+But Thy dear presence will not leave them lonely 
+Who seek Thee only. 
+
+4.
+Father, Thy Name be praised, Thy kingdom given, 
+Thy will be done on earth as 'tis in Heaven; 
+Keep us in life, forgive our sins, deliver 
+Us now and ever!
+
 
 ```
 
@@ -28,44 +46,19 @@ Listen to my evening prayer.
 -------------|------------|
 Title | Now God Be With Us |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Now God be with us, for the night is closing |
 Author | Petrus Herbert
 Year | 1941
-Composer| Friedrich F. Flemming |
+Composer| undefined |
 Hymnal|  - |
 Tune| INTEGER VITAE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Evening Hymns |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

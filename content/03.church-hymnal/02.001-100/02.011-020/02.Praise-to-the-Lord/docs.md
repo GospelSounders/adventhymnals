@@ -1,15 +1,20 @@
 ---
-title: 12. Praise to the Lord
+title: |
+    012. Praise to the Lord - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Praise to the Lord, Praise to the Lord, the Almighty, the King of creation!, 
+    description: |
+        Church Hymnal 1941 012. Praise to the Lord.  Praise to the Lord, the Almighty, the King of creation! O my soul, praise Him, for He is thy health and salvation! All ye who hear, now to His temple draw near; Join ye in glad adoration!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Praise to the Lord, Praise to the Lord, the Almighty, the King of creation!. 
     author: Brian Onang'o
 ---
 
-
-## 12. PRAISE TO THE LORD
+#### Advent Hymnals
+## 012. PRAISE TO THE LORD
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Praise to the Lord, the Almighty, the King of creation!
 O my soul, praise Him, for He is thy health and salvation!
@@ -28,50 +33,26 @@ Surely His goodness and mercy here daily attend thee.
 Ponder anew what the Almighty can do,
 If with His love He befriend thee.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Praise to the Lord |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Praise to the Lord, the Almighty, the King of creation! |
 Author | Joachim Neander (1650-1680)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| LOBE DEN HERREN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Adoration and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 414. My God, How Endless Is Thy Love!
+title: |
+    414. My God, How Endless Is Thy Love! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, My God, How Endless Is Thy Love!, My God, how endless is Thy love!, 
+    description: |
+        Church Hymnal 1941 414. My God, How Endless Is Thy Love!.  My God, how endless is Thy love!  Thy gifts are every evening new;  And morning mercies from above.  Gently distill like early dew. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, My God, How Endless Is Thy Love!, My God, how endless is Thy love!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 414. MY GOD, HOW ENDLESS IS THY LOVE!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -27,50 +31,26 @@ I yield myself to Thy command;
 To Thee I consecrate my days; 
 Perpetual blessings from Thy hand 
 Demand perpetual songs of praise.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | My God, How Endless Is Thy Love! |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | My God, how endless is Thy love! |
 Author | Isaac Watts
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| HURSLEY |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Home: Home and Children |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

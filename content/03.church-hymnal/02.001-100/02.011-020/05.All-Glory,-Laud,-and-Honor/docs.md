@@ -1,15 +1,20 @@
 ---
-title: 15. All Glory, Laud, and Honor
+title: |
+    015. All Glory, Laud, and Honor - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, All Glory, Laud, and Honor, All glory, laud, and honor, 
+    description: |
+        Church Hymnal 1941 015. All Glory, Laud, and Honor.  All glory, laud, and honor, to thee, Redeemer, King, to whom the lips of children made sweet hosannas ring. Thou art the King of Israel, thou David's royal Son, who in the Lord's name comest, the King and Blessed One.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, All Glory, Laud, and Honor, All glory, laud, and honor. 
     author: Brian Onang'o
 ---
 
-
-## 15. ALL GLORY, LAUD, AND HONOR
+#### Advent Hymnals
+## 015. ALL GLORY, LAUD, AND HONOR
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 All glory, laud, and honor,
 to thee, Redeemer, King,
@@ -40,13 +45,14 @@ accept the prayers we bring,
 who in all good delightest,
 thou good and gracious King.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | All Glory, Laud, and Honor |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | All glory, laud, and honor |
 Author | Theodulph of Orleans (?-821)
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Melchior Teschner, 16th or 17th century |
 Hymnal|  - |
 Tune| ST. THEODULPH |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Adroation and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

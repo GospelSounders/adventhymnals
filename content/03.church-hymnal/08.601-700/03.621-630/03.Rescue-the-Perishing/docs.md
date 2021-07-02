@@ -1,13 +1,17 @@
 ---
-title: 623. Rescue the Perishing
+title: |
+    623. Rescue the Perishing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Rescue the Perishing, Rescue the perishing, 
+    description: |
+        Church Hymnal 1941 623. Rescue the Perishing.  Rescue the perishing, care for the dying, Snatch them in pity from sin and the grave; Weep o'er the erring one, lift up the fallen, Tell them of Jesus, the mighty to save. CHORUS: Rescue the perishing, care for the dying; Jesus is merciful, Jesus will save. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Rescue the Perishing, Rescue the perishing. Rescue the perishing, care for the dying;
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 623. RESCUE THE PERISHING
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -30,13 +34,14 @@ Rescue the perishing, duty demands it;
 Strength for thy labor the Lord will provide;
 Back to the narrow way patiently win them;
 Tell the poor wanderer a Savior has died.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Rescue the Perishing |
 Key | B♭ Major |
-Titles |  |
+Titles | Rescue the perishing, care for the dying; |
 First Line | Rescue the perishing |
 Author | Fanny J. Crosby (1823-1915)
 Year | 1941
@@ -44,36 +49,11 @@ Composer| W. H. Doane (1832-1915) |
 Hymnal|  - |
 Tune| Rescue the perishing |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Work and Duty |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,21 @@
 ---
-title: 260. The Lord's My Shepherd
+title: |
+    260. The Lord's My Shepherd - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Lord's My Shepherd, The Lord's my Shepherd, I'll not want, 
+    description: |
+        Church Hymnal 1941 260. The Lord's My Shepherd.  The Lord's my shepherd, I'll not want He makes me down to lie In pastures green; He leadeth me The quiet waters by. He leadeth me, He leadeth me The quiet waters by.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Lord's My Shepherd, The Lord's my Shepherd, I'll not want. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 260. THE LORD'S MY SHEPHERD
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D
+
 1.
 The Lord's my shepherd, I'll not want
 He makes me down to lie
@@ -50,47 +56,26 @@ My dwelling-place shall be.
 And in God's house for evermore
 My dwelling-place shall be.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Lord's My Shepherd |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | The Lord's my Shepherd, I'll not want |
-Author | 
+Author | undefined
 Year | 1941
 Composer| James Edmund Jones |
 Hymnal|  - |
 Tune| WALDEN |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

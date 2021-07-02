@@ -1,15 +1,20 @@
 ---
-title: 31. Eternal Father, God of Love
+title: |
+    031. Eternal Father, God of Love - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Eternal Father, God of Love, Eternal Father, God of love, 
+    description: |
+        Church Hymnal 1941 031. Eternal Father, God of Love.  Eternal Father, God of love,  Creator of the universe,  Pour out Thy Spirit from above,  As from Thy temple we disperse.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Eternal Father, God of Love, Eternal Father, God of love. 
     author: Brian Onang'o
 ---
 
-
-## 31. ETERNAL FATHER, GOD OF LOVE
+#### Advent Hymnals
+## 031. ETERNAL FATHER, GOD OF LOVE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Eternal Father, God of love, 
 Creator of the universe, 
@@ -28,13 +33,14 @@ Our guide and guard forever be;
 In Thine eternal arms of might 
 Enfold and draw us nearer Thee.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Eternal Father, God of Love |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Eternal Father, God of love |
 Author | F. E. Belden
 Year | 1941
@@ -42,36 +48,11 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| MASON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Opening of Worship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 229. Lord, We Come With Hearts Aflame
+title: |
+    229. Lord, We Come With Hearts Aflame - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lord, We Come With Hearts Aflame, Lord, we come with hearts aflame, 
+    description: |
+        Church Hymnal 1941 229. Lord, We Come With Hearts Aflame.  Lord, we come with hearts aflame,  Seeking service in thy name;  All our youth and strength are thine,  Given to help thy work divine;  All our love and faith we bring,  They are thine, O heavenly King.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lord, We Come With Hearts Aflame, Lord, we come with hearts aflame. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 229. LORD, WE COME WITH HEARTS AFLAME
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Lord, we come with hearts aflame, 
 Seeking service in thy name; 
@@ -34,13 +39,14 @@ Thrilled with love and filled with song;
 Lord, we come with hearts aflame, 
 Seeking service in thy name.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord, We Come With Hearts Aflame |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, we come with hearts aflame |
 Author | Berton Braley (1882-    )
 Year | 1941
@@ -48,36 +54,11 @@ Composer| Edward J. Hopkins |
 Hymnal|  - |
 Tune| ST. ATHANASIUS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

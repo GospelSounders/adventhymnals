@@ -1,21 +1,25 @@
 ---
-title: 187. The Lord Is Coming
+title: |
+    187. The Lord Is Coming - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Lord Is Coming, The Lord is coming! let this be, 
+    description: |
+        Church Hymnal 1941 187. The Lord Is Coming.  The Lord is coming, let this be The herald note of jubilee; And when we meet and when we part The salutation from the heart. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Lord Is Coming, The Lord is coming! let this be. The Lord is coming, let this be
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 187. THE LORD IS COMING
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The Lord is coming, let this be
 The herald note of jubilee;
 And when we meet and when we part
 The salutation from the heart.
-
 Refrain:
 The Lord is coming, let this be
 The herald note of jubilee,
@@ -31,21 +35,11 @@ The Lord is coming, let this be
 The herald note of jubilee,
 The herald note of jubilee.
 
-Refrain:
-The Lord is coming, let this be
-The herald note of jubilee,
-The herald note of jubilee.
-
 3.
 The Lord is coming, swift and sure
 And all His judgements shall endure,
 And none can hope to escape His wrath,
 Who walk not in the narrow path.
-Refrain:
-The Lord is coming, let this be
-The herald note of jubilee,
-The herald note of jubilee.
-
 Refrain:
 The Lord is coming, let this be
 The herald note of jubilee,
@@ -61,10 +55,6 @@ The Lord is coming, let this be
 The herald note of jubilee,
 The herald note of jubilee.
 
-Refrain:
-The Lord is coming, let this be
-The herald note of jubilee,
-The herald note of jubilee.
 
 ```
 
@@ -72,7 +62,7 @@ The herald note of jubilee.
 -------------|------------|
 Title | The Lord Is Coming |
 Key | B♭ Major |
-Titles |  |
+Titles | The Lord is coming, let this be |
 First Line | The Lord is coming! let this be |
 Author | Anon.
 Year | 1941
@@ -80,36 +70,11 @@ Composer| Ralph Harrison |
 Hymnal|  - |
 Tune| WARRINGTON |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 466. Again the Day Returns
+title: |
+    466. Again the Day Returns - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Again the Day Returns, Again the day returns of holy rest, 
+    description: |
+        Church Hymnal 1941 466. Again the Day Returns.  Again the day returns of holy rest,  Which, when He made the world, Jehovah blest;  When, like His own, He bade our labors cease,  And all be piety, and all be peace. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Again the Day Returns, Again the day returns of holy rest. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 466. AGAIN THE DAY RETURNS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Father in heaven, in whom our hopes confide,
 Whose power defends us, and whose precepts guide, 
 Through life our surest guardian, and friend, 
 Glory supreme be Thine till time shall end.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Again the Day Returns |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Again the day returns of holy rest |
 Author | William Mason
 Year | 1941
@@ -47,36 +52,11 @@ Composer| Unknown |
 Hymnal|  - |
 Tune| FREEPORT |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Sabbath |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

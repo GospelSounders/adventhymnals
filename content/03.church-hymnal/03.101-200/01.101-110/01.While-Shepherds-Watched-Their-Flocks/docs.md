@@ -1,15 +1,20 @@
 ---
-title: 101. While Shepherds Watched Their Flocks
+title: |
+    101. While Shepherds Watched Their Flocks - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, While Shepherds Watched Their Flocks, While shepherds watched their flocks by night, 
+    description: |
+        Church Hymnal 1941 101. While Shepherds Watched Their Flocks.  While shepherds watched their flocks by night, All seated on the ground, The angel of the Lord came down, And glory shone around.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, While Shepherds Watched Their Flocks, While shepherds watched their flocks by night. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 101. WHILE SHEPHERDS WATCHED THEIR FLOCKS
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 While shepherds watched their flocks by night,
 All seated on the ground,
@@ -46,50 +51,26 @@ And to the earth be peace;
 Good will henceforth from heaven to men,
 Begin and never cease!"
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | While Shepherds Watched Their Flocks |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | While shepherds watched their flocks by night |
 Author | Nahum Tate (1652-1715)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| WINCHESTER OLD |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Incarnation and Advent |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,21 @@
 ---
-title: 354. Stand Up! Stand Up for Jesus!
+title: |
+    354. Stand Up! Stand Up for Jesus! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Stand Up! Stand Up for Jesus!, Stand up! stand up for Jesus!,  
+    description: |
+        Church Hymnal 1941 354. Stand Up! Stand Up for Jesus!. Stand up, stand up for Jesus! Ye soldiers of the cross; Lift high His royal banner, It must not suffer loss: From vict'ry unto vict'ry, His army shall He lead, Till every foe is vanquished, And Christ is Lord indeed. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Stand Up! Stand Up for Jesus!, Stand up! stand up for Jesus!.  
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 354. STAND UP! STAND UP FOR JESUS!
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: A Flat
+
 1.
 Stand up, stand up for Jesus! Ye soldiers of the cross;
 Lift high His royal banner, It must not suffer loss:
@@ -33,6 +39,7 @@ Stand up, stand up for Jesus! The strife will not be long;
 This day the noise of battle, The next the victor's song;
 To him that overcometh A crown of life shall be;
 He with the King of glory Shall reign eternally.
+
 ```
 
 - |   -  |
@@ -47,36 +54,11 @@ Composer| George J. Webb |
 Hymnal|  - |
 Tune| WEBB |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Warfare |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

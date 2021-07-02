@@ -1,15 +1,20 @@
 ---
-title: 19. Angel Voices Ever Singing
+title: |
+    019. Angel Voices Ever Singing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Angel Voices Ever Singing, Angel voices ever singing, 
+    description: |
+        Church Hymnal 1941 019. Angel Voices Ever Singing.  Angel voices ever singing  Round Thy throne of light;  Angel harps, forever ringing,  Rest not day nor night.  Thousands only live to bless Thee,  And confess Thee Lord of might.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Angel Voices Ever Singing, Angel voices ever singing. 
     author: Brian Onang'o
 ---
 
-
-## 19. ANGEL VOICES EVER SINGING
+#### Advent Hymnals
+## 019. ANGEL VOICES EVER SINGING
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Angel voices ever singing 
 Round Thy throne of light; 
@@ -42,13 +47,14 @@ All unworthily,
 Hearts and minds and hands and voices, 
 In our choicest Melody.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Angel Voices Ever Singing |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Angel voices ever singing |
 Author | Francis Pott 
 Year | 1941
@@ -56,36 +62,11 @@ Composer| Arthur Sullivan |
 Hymnal|  - |
 Tune| ANGEL VOICES |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Adoration and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 338. One Precious Boon, O Lord, I Seek
+title: |
+    338. One Precious Boon, O Lord, I Seek - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, One Precious Boon, O Lord, I Seek, One precious boon, O Lord, I seek, 
+    description: |
+        Church Hymnal 1941 338. One Precious Boon, O Lord, I Seek.  One precious boon, O Lord, I seek,  While tossed upon life's billowy sea;  To hear a voice within me speak,  "Thy Saviour is well pleased with thee." 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, One Precious Boon, O Lord, I Seek, One precious boon, O Lord, I seek. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 338. ONE PRECIOUS BOON, O LORD, I SEEK
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -45,13 +49,14 @@ Then all the scoffs and scorn I've borne
 For His dear sake who died for me, 
 To everlasting joys will turn, 
 In glorious immortality.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | One Precious Boon, O Lord, I Seek |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | One precious boon, O Lord, I seek |
 Author | Charles Fitch
 Year | 1941
@@ -59,36 +64,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| UXBRIDGE |
 Metrical pattern | |
-# Stanzas | 6 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Discipleship |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

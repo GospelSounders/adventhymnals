@@ -1,15 +1,20 @@
 ---
-title: 270. Give Thy Youth to God
+title: |
+    270. Give Thy Youth to God - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Give Thy Youth to God, Give thou thy youth to God, 
+    description: |
+        Church Hymnal 1941 270. Give Thy Youth to God.  Give thou thy youth to God,  With all its budding love;  Send up the opening heart to him,  Fix it on things above.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Give Thy Youth to God, Give thou thy youth to God. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 270. GIVE THY YOUTH TO GOD
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Give thou thy youth to God, 
 With all its budding love; 
@@ -29,47 +34,26 @@ So shall he ever take thy side,
 And bear thee safe through all. 
 Guide me in the path to heaven.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Give Thy Youth to God |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Give thou thy youth to God |
 Author | Horatius Bonar (1809-1889)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| OLD 134TH (ST. MICHAEL) |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

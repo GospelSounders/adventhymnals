@@ -1,15 +1,20 @@
 ---
-title: 89. God Is the Refuge
+title: |
+    089. God Is the Refuge - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, God Is the Refuge, God is the refuge of His saints, 
+    description: |
+        Church Hymnal 1941 089. God Is the Refuge.  God is the refuge of His saints,  When storms of sharp distress invade;  Ere we can offer our complaints,  Behold him present with His aid.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, God Is the Refuge, God is the refuge of His saints. 
     author: Brian Onang'o
 ---
 
-
-## 89. GOD IS THE REFUGE
+#### Advent Hymnals
+## 089. GOD IS THE REFUGE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 God is the refuge of His saints, 
 When storms of sharp distress invade; 
@@ -40,13 +45,14 @@ Secure against a threatening hour;
 Nor can her firm foundation move, 
 Built on His truth, and armed with power.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | God Is the Refuge |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | God is the refuge of His saints |
 Author | Isaac Watts (1674-1748)
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Edward Miller |
 Hymnal|  - |
 Tune| ROCKINGHAM OLD |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Providence of God |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

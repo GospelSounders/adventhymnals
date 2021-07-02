@@ -1,15 +1,21 @@
 ---
-title: 327. In the Hour of Trial
+title: |
+    327. In the Hour of Trial - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, In the Hour of Trial, In the hour of trial, 
+    description: |
+        Church Hymnal 1941 327. In the Hour of Trial. In the hour of trial, Jesus, plead for me, Lest by base denial I depart from Thee; When Thou see'st me waver, With a look recall, Nor, for fear or favor, Suffer me to fall. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, In the Hour of Trial, In the hour of trial. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 327. IN THE HOUR OF TRIAL
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: B Flat
+
 1.
 In the hour of trial, Jesus, plead for me,
 Lest by base denial I depart from Thee;
@@ -27,13 +33,14 @@ Should Thy mercy send me Sorrow, toil, and woe,
 Or should pain attend me On my path below,
 Grant that I may never Fail Thy hand to see;
 Grant that I may ever Cast my care on Thee. 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | In the Hour of Trial |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | In the hour of trial |
 Author | James Mongtomery
 Year | 1941
@@ -41,36 +48,11 @@ Composer| Spencer Lane |
 Hymnal|  - |
 Tune| PENITENCE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Meditation and Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

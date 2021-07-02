@@ -1,13 +1,17 @@
 ---
-title: 329. Speak, Lord, in the Stillness
+title: |
+    329. Speak, Lord, in the Stillness - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Speak, Lord, in the Stillness, Speak, Lord, in the stillness, 
+    description: |
+        Church Hymnal 1941 329. Speak, Lord, in the Stillness.  Speak, Lord, in the stillness,  While I wait on Thee;  Hushed my heart to listen,  In expectancy. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Speak, Lord, in the Stillness, Speak, Lord, in the stillness. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 329. SPEAK, LORD, IN THE STILLNESS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -51,13 +55,14 @@ Like "a watered garden,"
 Full of fragrance rare, 
 Lingering in Thy presence, 
 Let my life appear.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Speak, Lord, in the Stillness |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | Speak, Lord, in the stillness |
 Author | E. May Grimes 
 Year | 1941
@@ -65,36 +70,11 @@ Composer| H. Green |
 Hymnal|  - |
 Tune| THE QUIET HOUR |
 Metrical pattern | |
-# Stanzas | 7 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Meditation and Prayer |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

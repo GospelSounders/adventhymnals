@@ -1,15 +1,20 @@
 ---
-title: 176. Lo! He Comes
+title: |
+    176. Lo! He Comes - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lo! He Comes, Lo! He comes, with clouds descending, 
+    description: |
+        Church Hymnal 1941 176. Lo! He Comes.  Lo! He comes, with clouds descending, Once for favored sinners slain; Countless angels, Him attending, Swell the triumph of His train: Hallelujah! Hallelujah! Jesus comes, and comes to reign.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lo! He Comes, Lo! He comes, with clouds descending. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 176. LO! HE COMES
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Lo! He comes, with clouds descending,
 Once for favored sinners slain;
@@ -42,50 +47,26 @@ Make Thy righteous sentence known;
 O come quickly, O come quickly,
 Claim the kingdom for Thine own!
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lo! He Comes |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | Lo! He comes, with clouds descending |
 Author | John Cennick
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| HOLYWOOD (ST. THOMAS) |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

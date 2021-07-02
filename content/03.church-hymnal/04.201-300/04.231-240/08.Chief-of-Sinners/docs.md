@@ -1,15 +1,21 @@
 ---
-title: 238. Chief of Sinners
+title: |
+    238. Chief of Sinners - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Chief of Sinners, Chief of sinners though I be, 
+    description: |
+        Church Hymnal 1941 238. Chief of Sinners.  Chief of sinners though I be, Jesus shed His blood for me; Died that I might live on high, Died that I might never die; As the brance is to the vine, I am His, and He is mine.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Chief of Sinners, Chief of sinners though I be. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 238. CHIEF OF SINNERS
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: A Flat
+
 1.
 Chief of sinners though I be,
 Jesus shed His blood for me;
@@ -34,50 +40,26 @@ All my sorrows are His own;
 Safe with Him from earthly strife,
 He sustains the hidden life. 
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Chief of Sinners |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Chief of sinners though I be |
 Author | McComb
 Year | 1941
-Composer| Benjamin Carr |
+Composer| undefined |
 Hymnal|  - |
 Tune| SPANISH HYMN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Repentance |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

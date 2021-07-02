@@ -1,15 +1,20 @@
 ---
-title: 677. Master, the Tempest Is Raging!
+title: |
+    677. Master, the Tempest Is Raging! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Master, the Tempest Is Raging!, Master, the tempest is raging!, "The winds and waves shall obey My will
+    description: |
+        Church Hymnal 1941 677. Master, the Tempest Is Raging!.  Master, the tempest is raging!  The billows are tossing high!  The sky is o'ershadowed with blackness;  No shelter or help is nigh;  Carest Thou not that we perish?  How canst Thou lie asleep,  When each moment so madly is threatening  A grave in the angry deep?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Master, the Tempest Is Raging!, Master, the tempest is raging!. "The winds and the waves shall obey My will, 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 677. MASTER, THE TEMPEST IS RAGING!
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Master, the tempest is raging! 
 The billows are tossing high! 
@@ -19,7 +24,6 @@ Carest Thou not that we perish?
 How canst Thou lie asleep, 
 When each moment so madly is threatening 
 A grave in the angry deep? 
-
 Refrain:
 "The winds and the waves shall obey My will, 
 Peace, be still! 
@@ -42,18 +46,6 @@ Sweep o'er my sinking soul;
 And I perish! I perish I dear Master; 
 O hasten, and take control. 
 
-Refrain:
-"The winds and the waves shall obey My will, 
-Peace, be still! 
-Whether the wrath of the storm-tossed sea, 
-Or demons, or men, or whatever it be, 
-No water can swallow the ship where lies 
-The Master of ocean, and earth, and skies; 
-They all shall sweetly obey My will; 
-Peace, be still! Peace, be still! 
-They all shall sweetly obey My will; 
-Peace, peace, be still!" 
-
 3.
 Master, the terror is over, 
 The elements sweetly rest; 
@@ -64,25 +56,13 @@ Leave me alone no more;
 And with joy I shall make the blest harbor, 
 And rest on the blissful shore.
 
-Refrain:
-"The winds and the waves shall obey My will, 
-Peace, be still! 
-Whether the wrath of the storm-tossed sea, 
-Or demons, or men, or whatever it be, 
-No water can swallow the ship where lies 
-The Master of ocean, and earth, and skies; 
-They all shall sweetly obey My will; 
-Peace, be still! Peace, be still! 
-They all shall sweetly obey My will; 
-Peace, peace, be still!" 
-
 ```
 
 - |   -  |
 -------------|------------|
 Title | Master, the Tempest Is Raging! |
 Key | C Major |
-Titles | "The winds and waves shall obey My will |
+Titles | "The winds and the waves shall obey My will,  |
 First Line | Master, the tempest is raging! |
 Author | Miss M. A. Baker
 Year | 1941
@@ -90,36 +70,11 @@ Composer| Horatio R. Palmer |
 Hymnal|  - |
 Tune| PEACE, BE STILL! |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Choir and Special |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

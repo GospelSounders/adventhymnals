@@ -1,15 +1,20 @@
 ---
-title: 253. The Tempter to My Soul
+title: |
+    253. The Tempter to My Soul - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Tempter to My Soul, The tempter to my soul hath said, 
+    description: |
+        Church Hymnal 1941 253. The Tempter to My Soul.  The tempter to my soul hath said,  "There is no help in God for thee;"  Lord! lift thou up thy servant's head;  My glory, shield, and solace be.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Tempter to My Soul, The tempter to my soul hath said. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 253. THE TEMPTER TO MY SOUL
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 The tempter to my soul hath said, 
 "There is no help in God for thee;" 
@@ -34,13 +39,14 @@ Compass my steps in all their wrath;
 Salvation to the Lord belongs; 
 His presence guards His people's path.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Tempter to My Soul |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | The tempter to my soul hath said |
 Author | James Mongtomery (1771-1854)
 Year | 1941
@@ -48,33 +54,11 @@ Composer| William B. Bradbury |
 Hymnal|  - |
 Tune| ZEPHYR |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

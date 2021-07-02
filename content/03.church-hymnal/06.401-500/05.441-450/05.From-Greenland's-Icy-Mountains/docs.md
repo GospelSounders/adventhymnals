@@ -1,13 +1,17 @@
 ---
-title: 445. From Greenland's Icy Mountains
+title: |
+    445. From Greenland's Icy Mountains - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, From Greenland's Icy Mountains, From Greenland's icy mountains, 
+    description: |
+        Church Hymnal 1941 445. From Greenland's Icy Mountains.  From Greenland's icy mountains,  From India's coral strand,  Where Afric's sunny fountains  Roll down their golden sands,  From many an ancient river,  From many a palmy plain,  They call us to deliver  Their land from error's chain. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, From Greenland's Icy Mountains, From Greenland's icy mountains. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 445. FROM GREENLAND'S ICY MOUNTAINS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Till o'er our ransomed nature
 The Lamb for sinners slain, 
 Redeemer, King, Creator, 
 In bliss returns to reign.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | From Greenland's Icy Mountains |
 Key | E Major |
-Titles |  |
+Titles | undefined |
 First Line | From Greenland's icy mountains |
 Author | Reginald Heber
 Year | 1941
@@ -63,36 +68,11 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| MISSIONARY HYMN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: Ministry and Missions |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

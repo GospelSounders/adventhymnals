@@ -1,15 +1,20 @@
 ---
-title: 208. Lord, I Hear of Showers of Blessing
+title: |
+    208. Lord, I Hear of Showers of Blessing - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lord, I Hear of Showers of Blessing, Lord, I hear of showers of blessing, Even me, even me
+    description: |
+        Church Hymnal 1941 208. Lord, I Hear of Showers of Blessing.  Lord, I hear of showers of blessing,  Thou art scattering full and free;  Showers, the thirsty soul refreshing;  Let some drops now fall on me,  Even me, even me,  Let some drops now fall on me.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lord, I Hear of Showers of Blessing, Lord, I hear of showers of blessing. Even me, even me
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 208. LORD, I HEAR OF SHOWERS OF BLESSING
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Lord, I hear of showers of blessing, 
 Thou art scattering full and free; 
@@ -42,6 +47,7 @@ Speak the word of peace to me.
 Even me, even me, 
 Let some drops now fall on me.
 
+
 ```
 
 - |   -  |
@@ -56,36 +62,11 @@ Composer| William B. Bradbury |
 Hymnal|  - |
 Tune| EVEN ME |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: The Holy Spirit |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

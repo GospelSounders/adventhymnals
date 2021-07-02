@@ -1,15 +1,20 @@
 ---
-title: 202. O What Their Joy Must Be
+title: |
+    202. O What Their Joy Must Be - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O What Their Joy Must Be, O what their joy and their glory must be, 
+    description: |
+        Church Hymnal 1941 202. O What Their Joy Must Be.  O what their joy and their glory must be,  Those endless sabbaths the blessed ones see;  Crown for the valiant, to weary ones rest;  God shall be all, and in all ever blest.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O What Their Joy Must Be, O what their joy and their glory must be. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 202. O WHAT THEIR JOY MUST BE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 O what their joy and their glory must be, 
 Those endless sabbaths the blessed ones see; 
@@ -40,50 +45,26 @@ Of whom, and in whom, and through whom are all;
 Of whom, the Father; and in whom, the Son; 
 Through whom, the Spirit, with these ever One.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O What Their Joy Must Be |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | O what their joy and their glory must be |
 Author | Peter Abelard (1079-1142)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| REGNATOR ORBIS (O QUANTA QUALIA) |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Kingdom and Reign |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

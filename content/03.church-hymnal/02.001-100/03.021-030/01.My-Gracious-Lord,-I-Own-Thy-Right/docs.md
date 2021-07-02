@@ -1,15 +1,20 @@
 ---
-title: 21. My Gracious Lord, I Own Thy Right
+title: |
+    021. My Gracious Lord, I Own Thy Right - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, My Gracious Lord, I Own Thy Right, My gracious Lord, I own Thy right, 
+    description: |
+        Church Hymnal 1941 021. My Gracious Lord, I Own Thy Right.  My gracious Lord, I own Thy right  To every service I can pay,  And call it my supreme delight  To hear Thy dictates, and obey.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, My Gracious Lord, I Own Thy Right, My gracious Lord, I own Thy right. 
     author: Brian Onang'o
 ---
 
-
-## 21. MY GRACIOUS LORD, I OWN THY RIGHT
+#### Advent Hymnals
+## 021. MY GRACIOUS LORD, I OWN THY RIGHT
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 My gracious Lord, I own Thy right 
 To every service I can pay, 
@@ -40,13 +45,14 @@ When youthful vigeor is no more;
 And my last hour of life confess 
 His saving love, His glorious power.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | My Gracious Lord, I Own Thy Right |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | My gracious Lord, I own Thy right |
 Author | Philip Doddridge
 Year | 1941
@@ -54,36 +60,11 @@ Composer| Chester G. Allen |
 Hymnal|  - |
 Tune| LEBANON |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Worship: Adoration and Praise |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

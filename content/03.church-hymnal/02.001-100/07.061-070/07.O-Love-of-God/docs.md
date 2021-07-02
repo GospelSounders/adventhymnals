@@ -1,15 +1,20 @@
 ---
-title: 67. O Love of God
+title: |
+    067. O Love of God - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, O Love of God, O love of God, how strong and true, 
+    description: |
+        Church Hymnal 1941 067. O Love of God.  O love of God, how strong and true! Eternal, and yet ever new; Uncomprehended and unbought, Beyond all knowledge and all thought.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, O Love of God, O love of God, how strong and true. 
     author: Brian Onang'o
 ---
 
-
-## 67. O LOVE OF GOD
+#### Advent Hymnals
+## 067. O LOVE OF GOD
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 O love of God, how strong and true!
 Eternal, and yet ever new;
@@ -40,13 +45,14 @@ Through all the perils of our way!
 Eternal love, in thee we rest,
 Forever safe, forever blest.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | O Love of God |
 Key | D Major |
-Titles |  |
+Titles | undefined |
 First Line | O love of God, how strong and true |
 Author | Horatius Bonar
 Year | 1941
@@ -54,36 +60,11 @@ Composer| William H. Gladstone |
 Hymnal|  - |
 Tune| OMBERSLEY |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Majesty and Power |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

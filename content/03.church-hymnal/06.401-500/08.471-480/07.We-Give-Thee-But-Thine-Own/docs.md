@@ -1,15 +1,33 @@
 ---
-title: 477. We Give Thee But Thine Own
+title: |
+    477. We Give Thee But Thine Own - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, We Give Thee But Thine Own, We give Thee but Thine own, 
+    description: |
+        Church Hymnal 1941 477. We Give Thee But Thine Own. Major Key: G We give Thee but Thine own, What-e'er the gift may be; All that we have is Thine alone, A trust, O Lord, from Thee. May we Thy bounties thus As stewards true receive, And gladly, as Thou blessest us, To Thee our first fruits give. O hearts are bruised and dead, And homes are bare and cold, And lambs for whom the Shepherd bled Are straying from the fold. And we believe Thy word, Though dim our faith may be; Whate'er for Thine we do, O Lord,We do it unto Thee. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, We Give Thee But Thine Own, We give Thee but Thine own. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 477. WE GIVE THEE BUT THINE OWN
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+We give Thee but Thine own,
+What-e'er the gift may be;
+All that we have is Thine alone,
+A trust, O Lord, from Thee.
+May we Thy bounties thus As stewards true receive,
+And gladly, as Thou blessest us,
+To Thee our first fruits give.
+O hearts are bruised and dead,
+And homes are bare and cold,
+And lambs for whom the Shepherd
+bled Are straying from the fold.
+And we believe Thy word, Though dim our faith may be;
+Whate'er for Thine we do, O Lord,We do it unto Thee.
 
 ```
 
@@ -17,11 +35,11 @@ metadata:
 -------------|------------|
 Title | We Give Thee But Thine Own |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | We give Thee but Thine own |
 Author | William Walsham How
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| SCHUMANN |
 Metrical pattern | |
@@ -29,32 +47,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | The Church and Doctrines: Tithes and Offerings |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,21 @@
 ---
-title: 185. Heir of the Kingdom
+title: |
+    185. Heir of the Kingdom - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Heir of the Kingdom, Heir of the Kingdom, O why dost thou slumber?, 
+    description: |
+        Church Hymnal 1941 185. Heir of the Kingdom.  Heir of the kingdom, O why dost thou slumber? Why art thou sleeping so near thy blest home? Wake thee, arouse thee, and gird on thine armor, Speed, for the moments are hurrying on.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Heir of the Kingdom, Heir of the Kingdom, O why dost thou slumber?. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 185. HEIR OF THE KINGDOM
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: B Flat
+
 1.
 Heir of the kingdom, O why dost thou slumber?
 Why art thou sleeping so near thy blest home?
@@ -40,13 +46,14 @@ Watch for the glory of earth's coming King;
 Lo! o'er the mountaintops light is now breaking;
 Heirs of the kingdom, rejoice ye and sing.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Heir of the Kingdom |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Heir of the Kingdom, O why dost thou slumber? |
 Author | Anon.
 Year | 1941
@@ -54,36 +61,11 @@ Composer| Lowell Mason (1792-1872) |
 Hymnal|  - |
 Tune| RODMAN |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Second Coming |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

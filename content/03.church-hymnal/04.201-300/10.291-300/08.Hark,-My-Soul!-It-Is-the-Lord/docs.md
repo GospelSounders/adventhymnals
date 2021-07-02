@@ -1,13 +1,17 @@
 ---
-title: 298. Hark, My Soul! It Is the Lord
+title: |
+    298. Hark, My Soul! It Is the Lord - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Hark, My Soul! It Is the Lord, Hark, my soul! it is the Lord, 
+    description: |
+        Church Hymnal 1941 298. Hark, My Soul! It Is the Lord.  Hark, my soul! it is the Lord;  'Tis thy Saviour, hear His word;  Jesus speaks, and speaks to thee,  "Say, poor sinner, lovest thou Me?" 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Hark, My Soul! It Is the Lord, Hark, my soul! it is the Lord. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 298. HARK, MY SOUL! IT IS THE LORD
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,13 +37,14 @@ Lord, it is my chief complaint
 That my love is weak and faint; 
 Yet I love Thee and adore; 
 O for grace to love more!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Hark, My Soul! It Is the Lord |
 Key | A♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Hark, my soul! it is the Lord |
 Author | William Cowper
 Year | 1941
@@ -47,33 +52,11 @@ Composer| John B. Dykes |
 Hymnal|  - |
 Tune| ST. BEES |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Salvation and Redemption |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

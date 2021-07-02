@@ -1,13 +1,17 @@
 ---
-title: 680. Ancient of Days
+title: |
+    680. Ancient of Days - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Ancient of Days, Ancient of days, who sittest throned in glory, 
+    description: |
+        Church Hymnal 1941 680. Ancient of Days.  Ancient of days, who sittest throned in glory,  To Thee all knees are bent, all voices pray;  Thy love has blessed the wide world's wondrous story  With light and life since Eden's dawning day. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Ancient of Days, Ancient of days, who sittest throned in glory. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 680. ANCIENT OF DAYS
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ O Triune God, with heart and voice adoring,
 Praise we the goodness that doth crown our days; 
 Pray we that Thou wilt hear us, still imploring 
 Thy love and favor kept to us al ways.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Ancient of Days |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Ancient of days, who sittest throned in glory |
 Author | William C. Doane
 Year | 1941
@@ -53,36 +58,11 @@ Composer| J. Albert Jeffery |
 Hymnal|  - |
 Tune| ANCIENT OF DAYS |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Choir and Special |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,13 +1,17 @@
 ---
-title: 444. Ho! Reapers of Life's Harvest
+title: |
+    444. Ho! Reapers of Life's Harvest - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Ho! Reapers of Life's Harvest, Ho! reapers of life's harvest , 
+    description: |
+        Church Hymnal 1941 444. Ho! Reapers of Life's Harvest.  Ho! reapers of life's harvest,  Why stand with rusty blade  Until the night draws round thee,  And day begins to fade?  Why stand ye idle, waiting  For reapers more to come?  The golden morn is passing;  Why sit ye idle, dumb? 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Ho! Reapers of Life's Harvest, Ho! reapers of life's harvest . 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 444. HO! REAPERS OF LIFE'S HARVEST
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -49,13 +53,14 @@ Be faithful to thy mission,
 In service of thy Lord, 
 And soon a golden chaplet 
 Will be thy rich reward.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Ho! Reapers of Life's Harvest |
 Key | C Major |
-Titles |  |
+Titles | undefined |
 First Line | Ho! reapers of life's harvest  |
 Author | Isaac B. Woodbury
 Year | 1941
@@ -63,36 +68,11 @@ Composer| Isaac B. Woodbury |
 Hymnal|  - |
 Tune| LIFE'S HARVEST |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: Ministry and Missions |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

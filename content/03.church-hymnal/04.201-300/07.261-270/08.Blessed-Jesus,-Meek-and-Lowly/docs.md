@@ -1,15 +1,20 @@
 ---
-title: 268. Blessed Jesus, Meek and Lowly
+title: |
+    268. Blessed Jesus, Meek and Lowly - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Blessed Jesus, Meek and Lowly, Blessed Jesus, meek and lowly, 
+    description: |
+        Church Hymnal 1941 268. Blessed Jesus, Meek and Lowly.  Blessed Jesus, meek and lowly,  With us here take thine abode;  We would fain like thee be holy,  Humbly walking with our God.  We would thy sweet Spirit cherish,  Welcome in our hearts thy stay;  Lest without thine aid we perish,  O, abide with us, we pray!  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Blessed Jesus, Meek and Lowly, Blessed Jesus, meek and lowly. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 268. BLESSED JESUS, MEEK AND LOWLY
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Blessed Jesus, meek and lowly, 
 With us here take thine abode; 
@@ -50,47 +55,26 @@ There with angels to adore
 Him who did through grace deliver 
 Us from death forevermore.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Blessed Jesus, Meek and Lowly |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Blessed Jesus, meek and lowly |
 Author | Annie R. Smith
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| AUTUMN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

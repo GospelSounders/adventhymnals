@@ -26,12 +26,13 @@
     <meta property="og:site_name" content="{{config.site.title}}" />
 
     <link rel="shortcut icon" href="{{config.base_url}}/favicon.ico">
-    <link rel="stylesheet" href="{{config.base_url}}/styles/uf_style.css">
-    <link rel="stylesheet" href="{{config.base_url}}/styles/cstyle.css">
-    <link rel="stylesheet" href="{{config.base_url}}/styles/theme.css">
+
+    <!-- <link rel="stylesheet" href="{{config.base_url}}/styles/uf_style.css"> -->
+    <!-- <link rel="stylesheet" href="{{config.base_url}}/styles/cstyle.css"> -->
+    <!-- <link rel="stylesheet" href="{{config.base_url}}/styles/theme.css"> -->
     {{#config.rtl_layout}}
-    <link rel="stylesheet" href="{{config.base_url}}/lib/bootstrap-rtl/dist/css/bootstrap-rtl.min.css">
-    <link rel="stylesheet" href="{{config.base_url}}/styles/raneto.rtl.css">
+    <!-- <link rel="stylesheet" href="{{config.base_url}}/lib/bootstrap-rtl/dist/css/bootstrap-rtl.min.css">
+    <link rel="stylesheet" href="{{config.base_url}}/styles/raneto.rtl.css"> -->
 
     {{/config.rtl_layout}}
 
@@ -40,6 +41,7 @@
         type="text/css">
     <link href="https://cdn.jsdelivr.net/npm/animate.css@^4.0.0/animate.min.css" rel="stylesheet" type="text/css">
     <link href="https://cdn.jsdelivr.net/npm/quasar@1.15.21/dist/quasar.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="{{config.base_url}}/styles/style.css">
     <style>
         :root {
             --q-color-primary: #4D321E;
@@ -83,7 +85,7 @@
                     <td>Church Hymnal</td>
                     <td>CH1941</td>
                     <td>1941</td>
-                    <td>949</td>
+                    <td>703</td>
                     <td>English(en)</td>
                     <td><a href="/church-hymnal">Nyimbo za Kriso</a></td>
                 </tr>
@@ -91,7 +93,7 @@
                     <td>Christ in Song</td>
                     <td>CS1908</td>
                     <td>1908</td>
-                    <td>0</td>
+                    <td>949</td>
                     <td>English(en)</td>
                     <td><a href="/christ-in-song">Christ in Song</a></td>
                 </tr>
@@ -146,7 +148,7 @@
                 <q-dialog v-model="showOld" transition-show="rotate" transition-hide="rotate">
                     <q-card>
                         <q-card-section>
-                            <div id="yield">
+                            <div id="yield" ref="yield">
                                 {{{yield}}}
                             </div>
                         </q-card-section>
@@ -155,7 +157,7 @@
                 <q-dialog v-model="songYield" transition-show="rotate" transition-hide="rotate">
                     <q-card>
                         <q-card-section>
-                            <div v-html="fetchedSong">
+                            <div v-html="fetchedSong" ref="fetchedSong">
                             </div>
                         </q-card-section>
                     </q-card>
@@ -681,14 +683,31 @@
                     console.log(tens)
                     hundreds = hundreds.map(item => { item = item.toString(); while (item.length < 3) item = `0${item}`; return item }).join("-")
                     tens = tens.map(item => { item = item.toString(); while (item.length < 3) item = `0${item}`; return item }).join("-")
-                    title = title.replace(/  /g, " ").replace(/ /g, "-").replace(/\?/g,'')
+                    title = title.replace(/  /g, " ").replace(/ /g, "-").replace(/\?/g, '')
                     let url = `${this.root}/${link}/${hundreds}/${tens}/${title}`
                     if (reload) return window.location.assign(url)
                     let ret = false;
                     try {
                         this.loading = true;
-                        ret = (await axios.get(url)).data
-                        let tmp = ret.replace(/<div id="q-app">/g, '<div>')
+                        console.log(url)
+                        let tmp;
+                        if (url === window.location.href) {
+                            this.showOld = true
+                            const wait = () => {
+                                return new Promise((resolve)=>{
+                                    setTimeout(()=>{
+                                        resolve()
+                                    },100)
+                                })
+                            }
+                            await wait()    
+                            ret = this.$refs.yield.innerHTML
+                            this.showOld = false
+                            tmp = ret
+                        } else {
+                            ret = (await axios.get(url)).data
+                            tmp = ret.replace(/<div id="q-app">/g, '<div>')
+                        }
                         this.loading = false;
                         this.fetchedSong = tmp;
                         this.songYield = false
@@ -741,7 +760,7 @@
                     let link = urlParts[1]
                     let title = urlParts[4]
                     let hymnal = this.allHymnals.filter(item => item.link === link)[0]
-                    let song = hymnal.indices.filter(item => { let ret = false; try { ret = item.title.replace(/ /g, "-") === title } catch (error) { }; return ret })[0]
+                    let song = hymnal.indices.filter(item => { let ret = false; try { ret = item.title.replace(/  /g, " ").replace(/ /g, "-").replace(/\?/g, "") === title } catch (error) { }; return ret })[0]
                     this.selectSong(hymnal, song)
                 },
                 openHymnalHard(hymnal) {
@@ -818,6 +837,7 @@
                     this.hymnals = [... this.allHymnals]
                     this.filterOutEmptyHymnals()
                     if (langIndex > 0) this.hymnals = this.hymnals.filter(item => item.language === `${this.languagesToSelect[langIndex].name}(${this.languagesToSelect[langIndex].abbvr})`)
+                    this.sortHymnals()
                 },
                 fullscreen() {
                     if (this.$q.fullscreen.isActive) {

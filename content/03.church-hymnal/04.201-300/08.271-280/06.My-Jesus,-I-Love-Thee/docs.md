@@ -1,15 +1,44 @@
 ---
-title: 276. My Jesus, I Love Thee
+title: |
+    276. My Jesus, I Love Thee - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, My Jesus, I Love Thee, My Jesus, I love Thee, I know Thou art mine, If ever I loved Thee
+    description: |
+        Church Hymnal 1941 276. My Jesus, I Love Thee. My Jesus, I love thee, I know Thou art mine;  For Thee all the follies of sin I resign.  My gracious Redeemer, my Savior art thou;  If ever I loved thee, my Jesus, 'tis now. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, My Jesus, I Love Thee, My Jesus, I love Thee, I know Thou art mine. If ever I loved Thee
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 276. MY JESUS, I LOVE THEE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: F
+
+1.
+My Jesus, I love thee, I know Thou art mine; 
+For Thee all the follies of sin I resign. 
+My gracious Redeemer, my Savior art thou; 
+If ever I loved thee, my Jesus, 'tis now.
+
+2.
+I love Thee because Thou hast first loved me, 
+And purchased my pardon on Calvary's tree;
+I love Thee for wearing the thorns on Thy brow; 
+If ever I loved thee, my Jesus, 'tis now.
+
+3.
+I'll love Thee in life, I will love Thee 'til death,
+And praise Thee as long as Thou lendest me breath;
+And say when the death dew lies cold on my brow,
+If ever I loved Thee, my Jesus, 'tis now.
+
+4.
+In mansions of glory and endless delight; 
+I'll ever adore Thee in heaven so bright;
+I'll sing with the glittering crown on my brow;
+If ever I loved Thee, my Jesus, 'tis now.
 
 ```
 
@@ -29,29 +58,7 @@ Metrical pattern | |
 Chorus |  |
 Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

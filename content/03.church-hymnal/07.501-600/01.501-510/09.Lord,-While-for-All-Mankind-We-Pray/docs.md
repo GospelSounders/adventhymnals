@@ -1,13 +1,17 @@
 ---
-title: 509. Lord, While for All Mankind We Pray
+title: |
+    509. Lord, While for All Mankind We Pray - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lord, While for All Mankind We Pray, Lord, while for all mankind we pray, 
+    description: |
+        Church Hymnal 1941 509. Lord, While for All Mankind We Pray. Lord, while for all mankind we pray Of every clime and coast, O hear us for our native land, The land we love the most! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lord, While for All Mankind We Pray, Lord, while for all mankind we pray. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 509. LORD, WHILE FOR ALL MANKIND WE PRAY
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -33,50 +37,26 @@ Lord of the nations, thus to Thee
 Our country we commend;
 Be Thou her Refuge and her trust,
 Her everlasting friend.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord, While for All Mankind We Pray |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord, while for all mankind we pray |
 Author | John R. Wreford
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| DUNFERMLINE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Patriotic |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

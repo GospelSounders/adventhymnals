@@ -1,13 +1,17 @@
 ---
-title: 425. I Would Be True
+title: |
+    425. I Would Be True - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Would Be True, I would be true, for there are those who trust me, 
+    description: |
+        Church Hymnal 1941 425. I Would Be True.  I would be true, for there are those who trust me;  I would be pure, for there are those who care;  I would be strong, for there is much to suffer;  I would be brave, for there is much to dare;  I would be brave, for there is much to dare. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Would Be True, I would be true, for there are those who trust me. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 425. I WOULD BE TRUE
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -30,13 +34,14 @@ My heavenly Father gives me in His word;
 I would be quick to hear His lightest whisper, 
 And prompt and glad to do the things I've heard; 
 And prompt and glad to do the things I've heard. 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Would Be True |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | I would be true, for there are those who trust me |
 Author | Howard Arnold Walter (1883-1918)
 Year | 1941
@@ -44,36 +49,11 @@ Composer| Joseph Yates Peek |
 Hymnal|  - |
 Tune| PEEK |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Home : Hymns for Children |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

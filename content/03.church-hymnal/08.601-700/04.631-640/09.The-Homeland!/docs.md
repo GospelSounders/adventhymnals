@@ -1,13 +1,17 @@
 ---
-title: 639. The Homeland!
+title: |
+    639. The Homeland! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, The Homeland!, The homeland! O the homeland!, 
+    description: |
+        Church Hymnal 1941 639. The Homeland!.  The homeland! O the homeland! The land of the free born! There's no night in the homeland, But aye the fadeless morn; I'm sighing for homeland, My heart is aching here; There is no pain in the homeland To which I'm drawing near; There is no pain in the homeland To which I'm drawing near. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, The Homeland!, The homeland! O the homeland!. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 639. THE HOMELAND!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -45,13 +49,14 @@ Christ bring us all to the homeland
 Of Thy redeeming love;
 Christ bring us all to the homeland
 Of Thy redeeming love
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | The Homeland! |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | The homeland! O the homeland! |
 Author | Hugh R. Haweis
 Year | 1941
@@ -59,36 +64,11 @@ Composer| George C. Stebbins |
 Hymnal|  - |
 Tune| The homeland! O the homeland! |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Eternal Life |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

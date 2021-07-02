@@ -1,13 +1,17 @@
 ---
-title: 565. Christ Is Knocking at My Sad Heart
+title: |
+    565. Christ Is Knocking at My Sad Heart - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Christ Is Knocking at My Sad Heart, Christ is knocking at my sad heart, 
+    description: |
+        Church Hymnal 1941 565. Christ Is Knocking at My Sad Heart.  Christ is knocking at my sad heart;  Shall I let Him in?  Patiently pleading with my sad heart;  O shall I let Him in?  Cold and proud is my heart with sin,  Dark and cheerless is all within;  Christ is bidding me turn unto Him;  O shall I let Him in? 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Christ Is Knocking at My Sad Heart, Christ is knocking at my sad heart. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 565. CHRIST IS KNOCKING AT MY SAD HEART
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -39,13 +43,14 @@ Blessed Saviour, abide with me,
 Cares and trials will lighter be; 
 I am safe if I'm only with Thee, 
 O, blessed Lord, come in!
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Christ Is Knocking at My Sad Heart |
 Key | F Major |
-Titles |  |
+Titles | undefined |
 First Line | Christ is knocking at my sad heart |
 Author | Horatio R. Palmer
 Year | 1941
@@ -53,36 +58,11 @@ Composer| Horatio R. Palmer |
 Hymnal|  - |
 Tune| SHALL I LET HIM IN? |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: The Call |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,21 @@
 ---
-title: 262. Lord of Our Life
+title: |
+    262. Lord of Our Life - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Lord of Our Life, Lord of our life, and God of our salvation, 
+    description: |
+        Church Hymnal 1941 262. Lord of Our Life.  Lord of our life, and God of our salvation, Star of our night, and hope of every nation, Hear and receive Thy church's supplication, Lord God Almighty.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Lord of Our Life, Lord of our life, and God of our salvation. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 262. LORD OF OUR LIFE
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: D Flat
+
 1.
 Lord of our life, and God of our salvation,
 Star of our night, and hope of every nation,
@@ -34,13 +40,14 @@ Grant them Thy truth that they may be forgiven;
 Grant peace on earth, and, after we have striven, 
 Peace in Thy heaven.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Lord of Our Life |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Lord of our life, and God of our salvation |
 Author | M. A. Von Lowenstern
 Year | 1941
@@ -48,33 +55,11 @@ Composer| Joseph Barnby |
 Hymnal|  - |
 Tune| CLOISTERS |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

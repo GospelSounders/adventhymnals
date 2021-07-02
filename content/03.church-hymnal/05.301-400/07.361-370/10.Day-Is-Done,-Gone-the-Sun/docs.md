@@ -1,85 +1,41 @@
 ---
-title: 370. Day Is Done, Gone the Sun
+title: |
+    370. Day Is Done, Gone the Sun - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Day Is Done, Gone the Sun, Day is done, gone the sun, 
+    description: |
+        Church Hymnal 1941 370. Day Is Done, Gone the Sun. Day is done, gone the sun, from the lake, from the hills, from the sky,  Safely rest, all is well, God is nigh. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Day Is Done, Gone the Sun, Day is done, gone the sun. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 370. DAY IS DONE, GONE THE SUN
+####  Church Hymnal 1941,
 
 ```txt
-1.
-Christ for the world we sing,
-The world to Christ we bring,
-With loving zeal;
-The poor, and them that mourn,
-The faint and overborne,
-Sinsick and sorrow-worn,
-Whom Christ doth heal.
+Day is done, gone the sun, from the lake, from the hills, from the sky, 
+Safely rest, all is well, God is nigh.
 
-2.
-Christ for the world we sing,
-The world to Christ we bring,
-With fervent prayer;
-The wayward and the lost,
-By restless passions tossed,
-Redeemed at countless cost,
-From dark despair.
-
-3.
-Christ for the world we sing,
-The world to Christ we bring,
-With joyful song;
-The newborn souls, whose days,
-Reclaimed from error's ways,
-Inspired with hope and praise,
-To Christ belong.
 ```
 
 - |   -  |
 -------------|------------|
 Title | Day Is Done, Gone the Sun |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Day is done, gone the sun |
 Author | Anon.
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| TAPS |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Pilgrimage |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

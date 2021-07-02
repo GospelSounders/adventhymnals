@@ -1,13 +1,17 @@
 ---
-title: 286. I Come to Thee, O Father
+title: |
+    286. I Come to Thee, O Father - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Come to Thee, O Father, I come to Thee, O Father, 
+    description: |
+        Church Hymnal 1941 286. I Come to Thee, O Father.  I come to Thee, O Father,  Confessing all my sin;  I come and claim Thy promise;  Come in, dear Lord, come in. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Come to Thee, O Father, I come to Thee, O Father. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 286. I COME TO THEE, O FATHER
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -27,13 +31,14 @@ O send Thy Holy Spirit
 To guide me, I implore; 
 For Jesus' sake, O make me 
 Thy child forevermore.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Come to Thee, O Father |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | I come to Thee, O Father |
 Author | Jessie F. Moser
 Year | 1941
@@ -41,33 +46,11 @@ Composer| Irving A. Steinel |
 Hymnal|  - |
 Tune| CONSECRATION HYMN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Consecration |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-midi | | | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | | | |
-  
+    

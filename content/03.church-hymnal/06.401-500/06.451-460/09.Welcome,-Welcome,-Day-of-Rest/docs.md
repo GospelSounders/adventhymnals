@@ -1,15 +1,21 @@
 ---
-title: 459. Welcome, Welcome, Day of Rest
+title: |
+    459. Welcome, Welcome, Day of Rest - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Welcome, Welcome, Day of Rest, Welcome, welcome, day of rest, 
+    description: |
+        Church Hymnal 1941 459. Welcome, Welcome, Day of Rest. Welcome, welcome, day of rest,  To the world in kindness given; Welcome to this humble breast, As the beaming light from heaven. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Welcome, Welcome, Day of Rest, Welcome, welcome, day of rest. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 459. WELCOME, WELCOME, DAY OF REST
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+
 1.
 Welcome, welcome, day of rest, 
 To the world in kindness given;
@@ -33,50 +39,26 @@ Welcome, welcome, day of rest,
 With thy influence all divine;
 May thy hallowed hours be blessed
 To this waiting heart of mine.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Welcome, Welcome, Day of Rest |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | Welcome, welcome, day of rest |
 Author |  Anon.
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| PLEYEL'S HYMN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: The Sabbath |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,21 @@
 ---
-title: 364. For All the Saints
+title: |
+    364. For All the Saints - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, For All the Saints, For all the saints, who from their labors rest, Alleluia! Alleluia!
+    description: |
+        Church Hymnal 1941 364. For All the Saints. For all the saints Who from their labors rest, Who Thee by faith Before the world confessed. Thy name, O Jesus, Be forever blest. Alleluia! Alleluia! 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, For All the Saints, For all the saints, who from their labors rest. Alleluia! Alleluia!
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 364. FOR ALL THE SAINTS
+####  Church Hymnal 1941,
 
 ```txt
+Major Key: G
+
 1.
 For all the saints
 Who from their labors rest,
@@ -59,6 +65,7 @@ Singing to Father,
 Son, and Holy Ghost,
 Alleluia!
 Alleluia!
+
 ```
 
 - |   -  |
@@ -73,36 +80,11 @@ Composer| Ralph Vaughan Williams (1872- ) |
 Hymnal|  - |
 Tune| SINE NOMINE |
 Metrical pattern | |
-# Stanzas | 5 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Warfare |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

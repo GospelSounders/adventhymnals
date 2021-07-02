@@ -1,13 +1,17 @@
 ---
-title: 580. Have I Need of Aught, O Saviour!
+title: |
+    580. Have I Need of Aught, O Saviour! - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Have I Need of Aught, O Saviour!, Have I need of aught, O Saviour!, Only Thee, only Thee
+    description: |
+        Church Hymnal 1941 580. Have I Need of Aught, O Saviour!.  Have I need of aught, O Saviour!  Aught on earth but Thee?  Have I any in the heavens,  Anyone but Thee?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Have I Need of Aught, O Saviour!, Have I need of aught, O Saviour!. Only Thee, only Thee. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 580. HAVE I NEED OF AUGHT, O SAVIOUR!
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -38,13 +42,14 @@ Not for worlds would I exchange it'
 This sweet faith in Thee! 
 Earthly treasures cannot equal 
 All Thou art to me.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Have I Need of Aught, O Saviour! |
 Key | B♭ Major |
-Titles | Only Thee, only Thee |
+Titles | Only Thee, only Thee.  |
 First Line | Have I need of aught, O Saviour! |
 Author | Corie F. Davis
 Year | 1941
@@ -52,36 +57,11 @@ Composer| Dr. W. O. Perkins |
 Hymnal|  - |
 Tune| ONLY THEE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Faith and Trust |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

@@ -1,15 +1,20 @@
 ---
-title: 70. Holy, Righteous, Heavenly King
+title: |
+    070. Holy, Righteous, Heavenly King - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Holy, Righteous, Heavenly King, Holy, righteous, heavenly King, 
+    description: |
+        Church Hymnal 1941 070. Holy, Righteous, Heavenly King.  Holy, righteous, heavenly King,  Let Thy Holy Spirit bring  Blessings to us every hour,  And be governed by its power.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Holy, Righteous, Heavenly King, Holy, righteous, heavenly King. 
     author: Brian Onang'o
 ---
 
-
-## 70. HOLY, RIGHTEOUS, HEAVENLY KING
+#### Advent Hymnals
+## 070. HOLY, RIGHTEOUS, HEAVENLY KING
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Holy, righteous, heavenly King, 
 Let Thy Holy Spirit bring 
@@ -28,13 +33,14 @@ That, dear Lord, is wholly Thine;
 Sanctify us, Lord, we pray, 
 Lead us, guide us, every day.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Holy, Righteous, Heavenly King |
 Key | E♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Holy, righteous, heavenly King |
 Author | L. C. Metcalfe
 Year | 1941
@@ -42,36 +48,11 @@ Composer| L. C. Metcalfe |
 Hymnal|  - |
 Tune| METCALFE |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | God the Father: Majesty and Power |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

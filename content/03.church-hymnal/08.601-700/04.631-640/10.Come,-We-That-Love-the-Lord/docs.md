@@ -1,13 +1,17 @@
 ---
-title: 640. Come, We That Love the Lord
+title: |
+    640. Come, We That Love the Lord - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Come, We That Love the Lord, Come, we that love the Lord , We're marching to Zion
+    description: |
+        Church Hymnal 1941 640. Come, We That Love the Lord.  Come, we that love the Lord, And let our joys be known; Join in a song with sweet accord, Join in a song with sweet accord, And thus surround the throne, And thus surround the throne. CHORUS: We're marching to Zion, Beautiful, beautiful Zion; We're marching upward to Zion, The beautiful city of God. 
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Come, We That Love the Lord, Come, we that love the Lord . We're marching to Zion,
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 640. COME, WE THAT LOVE THE LORD
+####  Church Hymnal 1941,
 
 ```txt
 1.
@@ -46,13 +50,14 @@ We're marching thru Immanuel's ground,
 We're marching thru Immanuel's ground
 To fairer worlds on high,
 To fairer worlds on high.
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Come, We That Love the Lord |
 Key | G Major |
-Titles | We're marching to Zion |
+Titles | We're marching to Zion, |
 First Line | Come, we that love the Lord  |
 Author | Isaac Watts (1674-1748)
 Year | 1941
@@ -60,36 +65,11 @@ Composer| Robert Lowry (1826-1899) |
 Hymnal|  - |
 Tune| MARCHING TO ZION |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Eternal Life |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

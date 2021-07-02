@@ -1,15 +1,20 @@
 ---
-title: 200. I Long to Behold Him
+title: |
+    200. I Long to Behold Him - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, I Long to Behold Him, I long to behold Him arrayed with glory, 
+    description: |
+        Church Hymnal 1941 200. I Long to Behold Him.  I long to behold Him arrayed  With glory and light from above;  The King in His beauty displayed,  His beauty of holiest love:  I languish, and sigh to be there,  Where Jesus hath fixed His abode;  O, when shall we meet in the air,  And fly to the mountain of God?  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, I Long to Behold Him, I long to behold Him arrayed with glory. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 200. I LONG TO BEHOLD HIM
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 I long to behold Him arrayed 
 With glory and light from above; 
@@ -40,50 +45,26 @@ Thy soul-healing blessing now give,
 And keep me while waiting for Thee, 
 And then to that city receive.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | I Long to Behold Him |
 Key | G Major |
-Titles |  |
+Titles | undefined |
 First Line | I long to behold Him arrayed with glory |
 Author | Charles Wesley (1707-1788)
 Year | 1941
-Composer|  |
+Composer| undefined |
 Hymnal|  - |
 Tune| CONTRAST |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Kingdom and Reign |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    

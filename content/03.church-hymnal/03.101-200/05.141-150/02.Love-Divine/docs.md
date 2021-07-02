@@ -1,15 +1,20 @@
 ---
-title: 142. Love Divine
+title: |
+    142. Love Divine - Church Hymnal 1941
 metadata:
-    description: 
-    keywords: Church Hymnal, Love Divine, Love divine, all loves excelling, 
+    description: |
+        Church Hymnal 1941 142. Love Divine.  Love divine, all loves excelling,  Joy of heaven, to earth come down;  Fix in us Thy humble dwelling;  All Thy faithful mercies crown!  Jesus Thou art all compassion,  Pure, unbounded love Thou art;  Visit us with Thy salvation;  Enter every trembling heart.  
+    keywords:  |
+        Church Hymnal 1941, adventhymnals, advent hymnals, Love Divine, Love divine, all loves excelling. 
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## 142. LOVE DIVINE
+####  Church Hymnal 1941,
 
 ```txt
+
 1.
 Love divine, all loves excelling, 
 Joy of heaven, to earth come down; 
@@ -50,13 +55,14 @@ Till in heaven we take our place,
 Till we cast our crowns before Thee, 
 Lost in wonder, love, and praise.
 
+
 ```
 
 - |   -  |
 -------------|------------|
 Title | Love Divine |
 Key | B♭ Major |
-Titles |  |
+Titles | undefined |
 First Line | Love divine, all loves excelling |
 Author | Charles Wesley
 Year | 1941
@@ -64,36 +70,11 @@ Composer| John Zundel |
 Hymnal|  - |
 Tune| BEECHER |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Jesus Christ: His Love and Sympathy |
-Texts |  |
+Texts | undefined |
 Print Texts | 
 Scripture Song |  |
-  
-## Learn to Sing
-
->>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalized | unvocalized music |
--------------|------------|------------|------------|------------|
-Soprano | | | |
-Alto | | | |
-Tenor | | | |
-Bass | | | |
-Choir | | | |
-
-## Downloads
-
-- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
--------------|------------|------------|------------|------------|------------|------------|
-pdf | | | | | |
-pdf(x8) | | | | | |
-midi | | | | | |
-vocalized | | | | | |
-unvocalized | | | | | |
-singing file | | | | | |
-Lilypond file | | | | | |
-Lilypond (x8) | | | | | |
-  
+    
