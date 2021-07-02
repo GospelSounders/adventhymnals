@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 011-020
+title: Nyimbo Za Kristo - 011-020
 metadata:
     description: |
-        Nyimbo za kristo - 011-020
+        Nyimbo Za Kristo - 011-020
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 011-020
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 011-020
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 011-020
+## Nyimbo Za Kristo - 011-020
 
 # Index of Titles
 # | Title                        

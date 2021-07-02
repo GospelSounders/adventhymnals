@@ -1,17 +1,17 @@
 ---
 title: |
-    179. Watafurahi - Nyimbo za kristo
+    179. Watafurahi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 179. Watafurahi. Wavunaji watafurahi, pale watakaporudi, Wakiyaleta mavuno hata Yerusalemu.  Chorus Furaha wataipata, furaha hata milele, Furaha, wataipata, wakati wa mavuno.  
+        Nyimbo Za Kristo 179. Watafurahi. Wavunaji watafurahi, pale watakaporudi, Wakiyaleta mavuno hata Yerusalemu.  Chorus Furaha wataipata, furaha hata milele, Furaha, wataipata, wakati wa mavuno.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Watafurahi, Wavunaji watafurahi, pale watakaporudi,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Watafurahi, Wavunaji watafurahi, pale watakaporudi,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 179. WATAFURAHI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

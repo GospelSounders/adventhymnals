@@ -1,17 +1,17 @@
 ---
 title: |
-    147. Uishi Ndani Yangu - Nyimbo za kristo
+    147. Uishi Ndani Yangu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 147. Uishi Ndani Yangu. Tawala ndani yangu, Ee Yesu, Mfalme.  Uwe kwangu majibu Kwa maswala yangu; Uishi ndani yangu, Wewe, mwongozi Utumishi ni wangu, Wako utukufu.  
+        Nyimbo Za Kristo 147. Uishi Ndani Yangu. Tawala ndani yangu, Ee Yesu, Mfalme.  Uwe kwangu majibu Kwa maswala yangu; Uishi ndani yangu, Wewe, mwongozi Utumishi ni wangu, Wako utukufu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Uishi Ndani Yangu, Tawala ndani yangu, Ee Yesu, Mfalme. . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Uishi Ndani Yangu, Tawala ndani yangu, Ee Yesu, Mfalme. . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 147. UISHI NDANI YANGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

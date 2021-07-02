@@ -1,17 +1,17 @@
 ---
 title: |
-    141. Chini Ya Msalaba - Nyimbo za kristo
+    141. Chini Ya Msalaba - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 141. Chini Ya Msalaba. Chini ya msalaba Nataka simama;  Ndio mwamba safarini, Wa kivuli chema; Ni kweli kwa roho yangu Ni tuo kamili,  Tatua mzigo wangu Wakati wa hari.   
+        Nyimbo Za Kristo 141. Chini Ya Msalaba. Chini ya msalaba Nataka simama;  Ndio mwamba safarini, Wa kivuli chema; Ni kweli kwa roho yangu Ni tuo kamili,  Tatua mzigo wangu Wakati wa hari.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Chini Ya Msalaba, Chini ya msalaba Nataka simama; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Chini Ya Msalaba, Chini ya msalaba Nataka simama; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 141. CHINI YA MSALABA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

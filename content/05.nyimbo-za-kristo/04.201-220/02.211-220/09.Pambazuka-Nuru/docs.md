@@ -1,17 +1,17 @@
 ---
 title: |
-    219. Pambazuka Nuru - Nyimbo za kristo
+    219. Pambazuka Nuru - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 219. Pambazuka Nuru. Pambazuka nuru,  Siku mpya yaja,  Basi amkeni na kuimba,  Ninyi nyote!  Pambazuka nuru,  Siku mpya yaja,  Yesu atakaporudi kama Mfalme!      
+        Nyimbo Za Kristo 219. Pambazuka Nuru. Pambazuka nuru,  Siku mpya yaja,  Basi amkeni na kuimba,  Ninyi nyote!  Pambazuka nuru,  Siku mpya yaja,  Yesu atakaporudi kama Mfalme!      
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Pambazuka Nuru, Pambazuka nuru, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Pambazuka Nuru, Pambazuka nuru, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 219. PAMBAZUKA NURU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

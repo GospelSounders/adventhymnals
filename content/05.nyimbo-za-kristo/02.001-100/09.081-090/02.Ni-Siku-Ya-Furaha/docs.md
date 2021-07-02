@@ -1,17 +1,17 @@
 ---
 title: |
-    082. Ni Siku Ya Furaha - Nyimbo za kristo
+    082. Ni Siku Ya Furaha - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 082. Ni Siku Ya Furaha. Ni siku ya furaha, ni siku ya nuru;  Nasi twaona raha, Kuja kushukuru;  Leo watu wa Mungu, wadogo, wakubwa,  Hukaribia mbingu, lilipo baraka.   
+        Nyimbo Za Kristo 082. Ni Siku Ya Furaha. Ni siku ya furaha, ni siku ya nuru;  Nasi twaona raha, Kuja kushukuru;  Leo watu wa Mungu, wadogo, wakubwa,  Hukaribia mbingu, lilipo baraka.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ni Siku Ya Furaha, Ni siku ya furaha, ni siku ya nuru; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ni Siku Ya Furaha, Ni siku ya furaha, ni siku ya nuru; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 082. NI SIKU YA FURAHA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

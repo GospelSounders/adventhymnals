@@ -1,17 +1,17 @@
 ---
 title: |
-    058. Zitakuwa Nyota Tajini - Nyimbo za kristo
+    058. Zitakuwa Nyota Tajini - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 058. Zitakuwa Nyota Tajini. Leo nina fikiria nchi nzuri Ninayotaka kuiona; Nisimamapo karibu na Mwokozi, Tajini zitakuwa nyota?  Chorus Sijui tajini mwangu kama nyota  Zitang`aa kila wakati! Nitakapoamka katika majumba Zitakuwa nyota Tajini?	  
+        Nyimbo Za Kristo 058. Zitakuwa Nyota Tajini. Leo nina fikiria nchi nzuri Ninayotaka kuiona; Nisimamapo karibu na Mwokozi, Tajini zitakuwa nyota?  Chorus Sijui tajini mwangu kama nyota  Zitang`aa kila wakati! Nitakapoamka katika majumba Zitakuwa nyota Tajini?	  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Zitakuwa Nyota Tajini, Leo nina fikiria nchi nzuri Ninayotaka kuiona;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Zitakuwa Nyota Tajini, Leo nina fikiria nchi nzuri Ninayotaka kuiona;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 058. ZITAKUWA NYOTA TAJINI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

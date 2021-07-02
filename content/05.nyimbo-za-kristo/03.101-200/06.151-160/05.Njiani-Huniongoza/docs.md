@@ -1,17 +1,17 @@
 ---
 title: |
-    155. Njiani Huniongoza - Nyimbo za kristo
+    155. Njiani Huniongoza - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 155. Njiani Huniongoza. Njiani huniongoza Yesu wangu, Mwokozi:  Rehema hatapunguza, Milele Kiongozi.  Ina raha kwandamana Duniani daima: Nijaposumbuka sana, yeye hutenda vyema.  
+        Nyimbo Za Kristo 155. Njiani Huniongoza. Njiani huniongoza Yesu wangu, Mwokozi:  Rehema hatapunguza, Milele Kiongozi.  Ina raha kwandamana Duniani daima: Nijaposumbuka sana, yeye hutenda vyema.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Njiani Huniongoza, Njiani huniongoza Yesu wangu, Mwokozi: . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Njiani Huniongoza, Njiani huniongoza Yesu wangu, Mwokozi: . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 155. NJIANI HUNIONGOZA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

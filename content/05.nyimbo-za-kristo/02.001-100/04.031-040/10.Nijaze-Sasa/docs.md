@@ -1,17 +1,17 @@
 ---
 title: |
-    040. Nijaze Sasa - Nyimbo za kristo
+    040. Nijaze Sasa - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 040. Nijaze Sasa. Njoo, Roho Mtukufu uoshe moyo wangu, Utakase nia yangu, njoo, nijaze sasa.	  Chorus Roho Mtukufu, njoo, nijaze sasa. Utakase nia yangu, njoo, nijaze sasa.  
+        Nyimbo Za Kristo 040. Nijaze Sasa. Njoo, Roho Mtukufu uoshe moyo wangu, Utakase nia yangu, njoo, nijaze sasa.	  Chorus Roho Mtukufu, njoo, nijaze sasa. Utakase nia yangu, njoo, nijaze sasa.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nijaze Sasa, Njoo, Roho Mtukufu uoshe moyo wangu,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nijaze Sasa, Njoo, Roho Mtukufu uoshe moyo wangu,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 040. NIJAZE SASA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

@@ -1,17 +1,17 @@
 ---
 title: |
-    016. Ninakuhitaji - Nyimbo za kristo
+    016. Ninakuhitaji - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 016. Ninakuhitaji. Bwana ninakuhitaji! Nimpofu, maskini; Unishike mkononi, Kwako napata nguvu.  Chorus Kila saa, kila saa Bwana ninakuhitaji; Kila saa, kila saa, Unilinde kila saa.  
+        Nyimbo Za Kristo 016. Ninakuhitaji. Bwana ninakuhitaji! Nimpofu, maskini; Unishike mkononi, Kwako napata nguvu.  Chorus Kila saa, kila saa Bwana ninakuhitaji; Kila saa, kila saa, Unilinde kila saa.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ninakuhitaji, Bwana ninakuhitaji! Nimpofu, maskini;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ninakuhitaji, Bwana ninakuhitaji! Nimpofu, maskini;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 016. NINAKUHITAJI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

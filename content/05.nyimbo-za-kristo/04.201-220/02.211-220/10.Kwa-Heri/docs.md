@@ -1,17 +1,17 @@
 ---
 title: |
-    220. Kwa Heri - Nyimbo za kristo
+    220. Kwa Heri - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 220. Kwa Heri. Kwa heri, Mungu awalinde;  Kwa heri, na awaongoze;  Kwa heri, na kuwapa amani,  Bwana awabariki.     
+        Nyimbo Za Kristo 220. Kwa Heri. Kwa heri, Mungu awalinde;  Kwa heri, na awaongoze;  Kwa heri, na kuwapa amani,  Bwana awabariki.     
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kwa Heri, Kwa heri, Mungu awalinde; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kwa Heri, Kwa heri, Mungu awalinde; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 220. KWA HERI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

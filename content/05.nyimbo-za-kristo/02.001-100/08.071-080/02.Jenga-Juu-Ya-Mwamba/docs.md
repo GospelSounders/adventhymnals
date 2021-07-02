@@ -1,17 +1,17 @@
 ---
 title: |
-    072. Jenga Juu Ya Mwamba - Nyimbo za kristo
+    072. Jenga Juu Ya Mwamba - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 072. Jenga Juu Ya Mwamba. Tuta jenga juu ya Mwamba Wa Yesu, Mwaba wa kale; Tutavumilia kishindo Tufani ivumapo.  Chorus Tuta jenga juu, ( tutajenga juu ya Mwamba mkuu) Tuta jenga juu, ( tutajenga juu ya Mwamba mkuu) Tutajenga juu ya Mwamba mkuu, Juu yake yesu.  
+        Nyimbo Za Kristo 072. Jenga Juu Ya Mwamba. Tuta jenga juu ya Mwamba Wa Yesu, Mwaba wa kale; Tutavumilia kishindo Tufani ivumapo.  Chorus Tuta jenga juu, ( tutajenga juu ya Mwamba mkuu) Tuta jenga juu, ( tutajenga juu ya Mwamba mkuu) Tutajenga juu ya Mwamba mkuu, Juu yake yesu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Jenga Juu Ya Mwamba, Tuta jenga juu ya Mwamba Wa Yesu, Mwaba wa kale;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Jenga Juu Ya Mwamba, Tuta jenga juu ya Mwamba Wa Yesu, Mwaba wa kale;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 072. JENGA JUU YA MWAMBA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

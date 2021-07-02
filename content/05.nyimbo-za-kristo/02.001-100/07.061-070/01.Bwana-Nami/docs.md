@@ -1,17 +1,17 @@
 ---
 title: |
-    061. Bwana Nami - Nyimbo za kristo
+    061. Bwana Nami - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 061. Bwana Nami. Nimemwona rafiki wa thamani kubwa, Ananipenda kwa ‘pole, kwa pendo amini: Kuishi kute ngwa naye, la, huki siwezi, Tunakaa pamoja: Bwana nami.  
+        Nyimbo Za Kristo 061. Bwana Nami. Nimemwona rafiki wa thamani kubwa, Ananipenda kwa ‘pole, kwa pendo amini: Kuishi kute ngwa naye, la, huki siwezi, Tunakaa pamoja: Bwana nami.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Bwana Nami, Nimemwona rafiki wa thamani kubwa,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Bwana Nami, Nimemwona rafiki wa thamani kubwa,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 061. BWANA NAMI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

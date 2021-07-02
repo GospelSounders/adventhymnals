@@ -1,17 +1,17 @@
 ---
 title: |
-    205. Msifu Mungu Ee Watoto - Nyimbo za kristo
+    205. Msifu Mungu Ee Watoto - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 205. Msifu Mungu Ee Watoto. Msifu Mungu, Ee watoto wote, Yu pendo, Yu pendo;  Msifu, Msifu, Ee watoto wote Mungu ni upendo.  
+        Nyimbo Za Kristo 205. Msifu Mungu Ee Watoto. Msifu Mungu, Ee watoto wote, Yu pendo, Yu pendo;  Msifu, Msifu, Ee watoto wote Mungu ni upendo.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Msifu Mungu Ee Watoto, Msifu Mungu, Ee watoto wote, Yu pendo, Yu pendo; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Msifu Mungu Ee Watoto, Msifu Mungu, Ee watoto wote, Yu pendo, Yu pendo; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 205. MSIFU MUNGU EE WATOTO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    178. Ukingoni Mwa Tordani - Nyimbo za kristo
+    178. Ukingoni Mwa Tordani - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 178. Ukingoni Mwa Tordani. Ukingoni mwa Yordani ninaangalia  Bara nzuri ya Kanaani, ninayotamani.   Chorus Tutakaa pamoja na Yesu, Katika pwani yenye raha;  Tutaimba wimbo wa Musa na Kondoo, Milele hata milele.  
+        Nyimbo Za Kristo 178. Ukingoni Mwa Tordani. Ukingoni mwa Yordani ninaangalia  Bara nzuri ya Kanaani, ninayotamani.   Chorus Tutakaa pamoja na Yesu, Katika pwani yenye raha;  Tutaimba wimbo wa Musa na Kondoo, Milele hata milele.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ukingoni Mwa Tordani, Ukingoni mwa Yordani ninaangalia . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ukingoni Mwa Tordani, Ukingoni mwa Yordani ninaangalia . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 178. UKINGONI MWA TORDANI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

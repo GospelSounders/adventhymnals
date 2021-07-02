@@ -1,17 +1,17 @@
 ---
 title: |
-    216. Moyoni Nijaze - Nyimbo za kristo
+    216. Moyoni Nijaze - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 216. Moyoni Nijaze. Moyoni 'nijaze,  Na Roho wa Yesu;  Nataka kujitoa,  Moyoni 'nijaze.     
+        Nyimbo Za Kristo 216. Moyoni Nijaze. Moyoni 'nijaze,  Na Roho wa Yesu;  Nataka kujitoa,  Moyoni 'nijaze.     
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Moyoni Nijaze, Moyoni 'nijaze, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Moyoni Nijaze, Moyoni 'nijaze, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 216. MOYONI NIJAZE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    157. Mfalme Yu Mlangoni - Nyimbo za kristo
+    157. Mfalme Yu Mlangoni - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 157. Mfalme Yu Mlangoni. Mfalme yu mlangoni, Ndiye aliyetufia;  Mara wote wampendao atawakusanya.  Chorus Yuaja, yuaja, mlangoni anasimama;  Anakuja, anakuja, Kuja kwake karibu.  
+        Nyimbo Za Kristo 157. Mfalme Yu Mlangoni. Mfalme yu mlangoni, Ndiye aliyetufia;  Mara wote wampendao atawakusanya.  Chorus Yuaja, yuaja, mlangoni anasimama;  Anakuja, anakuja, Kuja kwake karibu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mfalme Yu Mlangoni, Mfalme yu mlangoni, Ndiye aliyetufia; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mfalme Yu Mlangoni, Mfalme yu mlangoni, Ndiye aliyetufia; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 157. MFALME YU MLANGONI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

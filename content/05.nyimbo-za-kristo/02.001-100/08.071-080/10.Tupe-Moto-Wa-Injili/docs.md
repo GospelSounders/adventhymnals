@@ -1,17 +1,17 @@
 ---
 title: |
-    080. Tupe Moto Wa Injili - Nyimbo za kristo
+    080. Tupe Moto Wa Injili - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 080. Tupe Moto Wa Injili. Tupe moto wa uhai Uliowaka zamani,  Uliowaongoza juu Wazee watakatifu.   
+        Nyimbo Za Kristo 080. Tupe Moto Wa Injili. Tupe moto wa uhai Uliowaka zamani,  Uliowaongoza juu Wazee watakatifu.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tupe Moto Wa Injili, Tupe moto wa uhai Uliowaka zamani, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tupe Moto Wa Injili, Tupe moto wa uhai Uliowaka zamani, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 080. TUPE MOTO WA INJILI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

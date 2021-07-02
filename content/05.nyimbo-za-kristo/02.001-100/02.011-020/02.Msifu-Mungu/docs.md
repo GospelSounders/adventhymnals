@@ -1,17 +1,17 @@
 ---
 title: |
-    012. Msifu Mungu - Nyimbo za kristo
+    012. Msifu Mungu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 012. Msifu Mungu. Msifu Mungu wa neema, Enyi viumbe po pote; Wa juu pia sifuni Baba, Mwana naye Roho! Amin!     
+        Nyimbo Za Kristo 012. Msifu Mungu. Msifu Mungu wa neema, Enyi viumbe po pote; Wa juu pia sifuni Baba, Mwana naye Roho! Amin!     
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Msifu Mungu, Msifu Mungu wa neema,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Msifu Mungu, Msifu Mungu wa neema,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 012. MSIFU MUNGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 Msifu Mungu wa neema,

@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 161-170
+title: Nyimbo Za Kristo - 161-170
 metadata:
     description: |
-        Nyimbo za kristo - 161-170
+        Nyimbo Za Kristo - 161-170
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 161-170
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 161-170
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 161-170
+## Nyimbo Za Kristo - 161-170
 
 # Index of Titles
 # | Title                        

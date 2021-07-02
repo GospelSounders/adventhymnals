@@ -1,17 +1,17 @@
 ---
 title: |
-    135. Kwa Maombi Nachangamka - Nyimbo za kristo
+    135. Kwa Maombi Nachangamka - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 135. Kwa Maombi Nachangamka. Saa heri ya maombi, sasa kwako tunarudi,  Sumbuku ya kuondoa, shida zetu na pungufu. Taabuni mara nyingi, roho zetu zimepona,  Mashaka tumeshinda, wakati wa saa tamu.   
+        Nyimbo Za Kristo 135. Kwa Maombi Nachangamka. Saa heri ya maombi, sasa kwako tunarudi,  Sumbuku ya kuondoa, shida zetu na pungufu. Taabuni mara nyingi, roho zetu zimepona,  Mashaka tumeshinda, wakati wa saa tamu.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kwa Maombi Nachangamka, Saa heri ya maombi, sasa kwako tunarudi, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kwa Maombi Nachangamka, Saa heri ya maombi, sasa kwako tunarudi, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 135. KWA MAOMBI NACHANGAMKA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

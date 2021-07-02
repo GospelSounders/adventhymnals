@@ -1,17 +1,17 @@
 ---
 title: |
-    120. Msalaba Wa Yesu - Nyimbo za kristo
+    120. Msalaba Wa Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 120. Msalaba Wa Yesu. Msalaba wa Yesu, Nikae karibu;  Pale pana chemchemi Yakuponya dhambi.  Chorus Pale msalaba Msalaba wake,  Huo ni sifa yangu Kwa maisha yote.  
+        Nyimbo Za Kristo 120. Msalaba Wa Yesu. Msalaba wa Yesu, Nikae karibu;  Pale pana chemchemi Yakuponya dhambi.  Chorus Pale msalaba Msalaba wake,  Huo ni sifa yangu Kwa maisha yote.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Msalaba Wa Yesu, Msalaba wa Yesu, Nikae karibu; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Msalaba Wa Yesu, Msalaba wa Yesu, Nikae karibu; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 120. MSALABA WA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

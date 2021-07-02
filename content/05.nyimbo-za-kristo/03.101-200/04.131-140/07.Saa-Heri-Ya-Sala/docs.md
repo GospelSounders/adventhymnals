@@ -1,17 +1,17 @@
 ---
 title: |
-    137. Saa Heri Ya Sala - Nyimbo za kristo
+    137. Saa Heri Ya Sala - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 137. Saa Heri Ya Sala. Saa heri ya sala tunapojidhili, Kama tukija kwake Yesu rafiki; Tukiwa na imani kwamba yu mlinzi,  Waliochoka sana watapata raha.  Chorus Saa ya sala, iliyo heri;  Waliochoka sana watapata raha.  
+        Nyimbo Za Kristo 137. Saa Heri Ya Sala. Saa heri ya sala tunapojidhili, Kama tukija kwake Yesu rafiki; Tukiwa na imani kwamba yu mlinzi,  Waliochoka sana watapata raha.  Chorus Saa ya sala, iliyo heri;  Waliochoka sana watapata raha.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Saa Heri Ya Sala, Saa heri ya sala tunapojidhili,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Saa Heri Ya Sala, Saa heri ya sala tunapojidhili,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 137. SAA HERI YA SALA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

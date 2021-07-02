@@ -1,17 +1,17 @@
 ---
 title: |
-    189. Tubatize upya - Nyimbo za kristo
+    189. Tubatize upya - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 189. Tubatize upya. Mimina upya nguvu toka juu;  Tupe pendo lako, ewe Mwokozi.  Chorus Twakusihi sana Yesu Mwokozi, Tubatize upya, kwa Roho leo.  
+        Nyimbo Za Kristo 189. Tubatize upya. Mimina upya nguvu toka juu;  Tupe pendo lako, ewe Mwokozi.  Chorus Twakusihi sana Yesu Mwokozi, Tubatize upya, kwa Roho leo.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tubatize upya, Mimina upya nguvu toka juu; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tubatize upya, Mimina upya nguvu toka juu; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 189. TUBATIZE UPYA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    118. Nilipotoka Kabisa - Nyimbo za kristo
+    118. Nilipotoka Kabisa - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 118. Nilipotoka Kabisa. Nilipotoka kabisa, sasa narudi; Nikakawia dhambini, Bwana narudi.  Chorus   Narudi nyumbani: daima kwako.  Kwa upendo nipokee: Naja nyumbani.  
+        Nyimbo Za Kristo 118. Nilipotoka Kabisa. Nilipotoka kabisa, sasa narudi; Nikakawia dhambini, Bwana narudi.  Chorus   Narudi nyumbani: daima kwako.  Kwa upendo nipokee: Naja nyumbani.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nilipotoka Kabisa, Nilipotoka kabisa, sasa narudi;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nilipotoka Kabisa, Nilipotoka kabisa, sasa narudi;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 118. NILIPOTOKA KABISA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

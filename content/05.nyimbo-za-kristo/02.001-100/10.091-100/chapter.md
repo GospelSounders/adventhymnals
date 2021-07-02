@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 091-100
+title: Nyimbo Za Kristo - 091-100
 metadata:
     description: |
-        Nyimbo za kristo - 091-100
+        Nyimbo Za Kristo - 091-100
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 091-100
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 091-100
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 091-100
+## Nyimbo Za Kristo - 091-100
 
 # Index of Titles
 # | Title                        

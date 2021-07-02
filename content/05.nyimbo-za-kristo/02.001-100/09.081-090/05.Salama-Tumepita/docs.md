@@ -1,17 +1,17 @@
 ---
 title: |
-    085. Salama Tumepita - Nyimbo za kristo
+    085. Salama Tumepita - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 085. Salama Tumepita. Salama tumepita, safarini juma hii,  Tumwendee Mwokozi, atubariki sasa:  Siku hiyo ya raha, siku bora ya juma;  Siku hiyo ya raha, siku bora ya juma.   
+        Nyimbo Za Kristo 085. Salama Tumepita. Salama tumepita, safarini juma hii,  Tumwendee Mwokozi, atubariki sasa:  Siku hiyo ya raha, siku bora ya juma;  Siku hiyo ya raha, siku bora ya juma.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Salama Tumepita, Salama tumepita, safarini juma hii, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Salama Tumepita, Salama tumepita, safarini juma hii, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 085. SALAMA TUMEPITA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

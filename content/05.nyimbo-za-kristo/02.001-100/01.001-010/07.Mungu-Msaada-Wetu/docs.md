@@ -1,17 +1,17 @@
 ---
 title: |
-    007. Mungu Msaada Wetu - Nyimbo za kristo
+    007. Mungu Msaada Wetu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 007. Mungu Msaada Wetu. Mungu Msaada wetu tangu miaka yote; Ndiwe tumaini letu la zamani zote.  
+        Nyimbo Za Kristo 007. Mungu Msaada Wetu. Mungu Msaada wetu tangu miaka yote; Ndiwe tumaini letu la zamani zote.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mungu Msaada Wetu, Mungu Msaada wetu tangu miaka yote;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mungu Msaada Wetu, Mungu Msaada wetu tangu miaka yote;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 007. MUNGU MSAADA WETU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

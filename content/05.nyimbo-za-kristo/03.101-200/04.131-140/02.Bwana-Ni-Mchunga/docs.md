@@ -1,17 +1,17 @@
 ---
 title: |
-    132. Bwana Ni Mchunga - Nyimbo za kristo
+    132. Bwana Ni Mchunga - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 132. Bwana Ni Mchunga. Bwana ni Mchunga, Sitahitaji; Majani mabichi malisho yangu. Ananinywesha maji matulivu; Atanirudisha nikipotea.   
+        Nyimbo Za Kristo 132. Bwana Ni Mchunga. Bwana ni Mchunga, Sitahitaji; Majani mabichi malisho yangu. Ananinywesha maji matulivu; Atanirudisha nikipotea.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Bwana Ni Mchunga, Bwana ni Mchunga, Sitahitaji;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Bwana Ni Mchunga, Bwana ni Mchunga, Sitahitaji;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 132. BWANA NI MCHUNGA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

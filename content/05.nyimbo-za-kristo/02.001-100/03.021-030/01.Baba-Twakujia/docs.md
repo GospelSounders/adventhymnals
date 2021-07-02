@@ -1,17 +1,17 @@
 ---
 title: |
-    021. Baba Twakujia - Nyimbo za kristo
+    021. Baba Twakujia - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 021. Baba Twakujia. Baba twakujia, Uwe msaada; Uwe kimbilio, twakusihi. Dunia ni giza tukitengwa nawe; Fufariji hapa, Baba yetu.  Chorus Baba twakujia, tu dhaifu, usitugeue, tusikie.  
+        Nyimbo Za Kristo 021. Baba Twakujia. Baba twakujia, Uwe msaada; Uwe kimbilio, twakusihi. Dunia ni giza tukitengwa nawe; Fufariji hapa, Baba yetu.  Chorus Baba twakujia, tu dhaifu, usitugeue, tusikie.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Baba Twakujia, Baba twakujia, Uwe msaada;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Baba Twakujia, Baba twakujia, Uwe msaada;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 021. BABA TWAKUJIA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

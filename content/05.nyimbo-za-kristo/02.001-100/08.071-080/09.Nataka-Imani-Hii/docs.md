@@ -1,17 +1,17 @@
 ---
 title: |
-    079. Nataka Imani Hii - Nyimbo za kristo
+    079. Nataka Imani Hii - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 079. Nataka Imani Hii. Nataka Imani hii: Imani imara, Ambayo haitetemi Kitu chote  Wakati wa shida,  Wakati wa shida.   
+        Nyimbo Za Kristo 079. Nataka Imani Hii. Nataka Imani hii: Imani imara, Ambayo haitetemi Kitu chote  Wakati wa shida,  Wakati wa shida.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nataka Imani Hii, Nataka Imani hii: Imani imara,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nataka Imani Hii, Nataka Imani hii: Imani imara,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 079. NATAKA IMANI HII
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

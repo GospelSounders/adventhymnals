@@ -1,17 +1,17 @@
 ---
 title: |
-    036. Siku Kuu - Nyimbo za kristo
+    036. Siku Kuu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 036. Siku Kuu. Ni siku kuu siku ile ya kumkiri Mwokozi! Moyo umejaa tele, kunyamaza hauwezi.  Chorus Siku kuu! Siku kuu ya kuoshwa dhambi zangu kuu! Hukesha na kuomba tu, aniongoza miguu. Siku kuu! siku kuu ya kuoshwa dhambi zangu kuu!  
+        Nyimbo Za Kristo 036. Siku Kuu. Ni siku kuu siku ile ya kumkiri Mwokozi! Moyo umejaa tele, kunyamaza hauwezi.  Chorus Siku kuu! Siku kuu ya kuoshwa dhambi zangu kuu! Hukesha na kuomba tu, aniongoza miguu. Siku kuu! siku kuu ya kuoshwa dhambi zangu kuu!  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Siku Kuu, Ni siku kuu siku ile ya kumkiri Mwokozi!. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Siku Kuu, Ni siku kuu siku ile ya kumkiri Mwokozi!. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 036. SIKU KUU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

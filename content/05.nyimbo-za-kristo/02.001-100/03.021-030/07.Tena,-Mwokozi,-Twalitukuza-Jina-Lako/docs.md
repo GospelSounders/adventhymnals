@@ -1,17 +1,17 @@
 ---
 title: |
-    027. Tena, Mwokozi, Twalitukuza Jina Lako - Nyimbo za kristo
+    027. Tena, Mwokozi, Twalitukuza Jina Lako - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 027. Tena, Mwokozi, Twalitukuza Jina Lako. Tena, Mwokozi, twalitukuza jina lako lenye kupendeza, Twangojea neno la amani, Kabla hatujakwenda nyumbani.  
+        Nyimbo Za Kristo 027. Tena, Mwokozi, Twalitukuza Jina Lako. Tena, Mwokozi, twalitukuza jina lako lenye kupendeza, Twangojea neno la amani, Kabla hatujakwenda nyumbani.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tena, Mwokozi, Twalitukuza Jina Lako, Tena, Mwokozi, twalitukuza jina lako lenye kupendeza,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tena, Mwokozi, Twalitukuza Jina Lako, Tena, Mwokozi, twalitukuza jina lako lenye kupendeza,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 027. TENA, MWOKOZI, TWALITUKUZA JINA LAKO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

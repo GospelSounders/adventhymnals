@@ -1,17 +1,17 @@
 ---
 title: |
-    081. Siku Sita Zimepita - Nyimbo za kristo
+    081. Siku Sita Zimepita - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 081. Siku Sita Zimepita. Siku sita zimepita, Sabato tena karudi;  Shangilie roho yangu, itukuze kwa busara.   
+        Nyimbo Za Kristo 081. Siku Sita Zimepita. Siku sita zimepita, Sabato tena karudi;  Shangilie roho yangu, itukuze kwa busara.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Siku Sita Zimepita, Siku sita zimepita, Sabato tena karudi; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Siku Sita Zimepita, Siku sita zimepita, Sabato tena karudi; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 081. SIKU SITA ZIMEPITA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

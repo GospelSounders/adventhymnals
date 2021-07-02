@@ -1,17 +1,17 @@
 ---
 title: |
-    019. Msalabani Pa Mwokozi - Nyimbo za kristo
+    019. Msalabani Pa Mwokozi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 019. Msalabani Pa Mwokozi. Msalabani pa Mwokozi Hapo niliomba upozi, Moyo wangu ulitakaswa, Na asifiwe.  Chorus Na asifiwe, Na asifiwe, Alinikomboa kwa damu, Na asifiwe.  
+        Nyimbo Za Kristo 019. Msalabani Pa Mwokozi. Msalabani pa Mwokozi Hapo niliomba upozi, Moyo wangu ulitakaswa, Na asifiwe.  Chorus Na asifiwe, Na asifiwe, Alinikomboa kwa damu, Na asifiwe.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Msalabani Pa Mwokozi, Msalabani pa Mwokozi Hapo niliomba upozi,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Msalabani Pa Mwokozi, Msalabani pa Mwokozi Hapo niliomba upozi,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 019. MSALABANI PA MWOKOZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

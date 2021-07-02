@@ -1,17 +1,17 @@
 ---
 title: |
-    071. Kesheni Kaombeni - Nyimbo za kristo
+    071. Kesheni Kaombeni - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 071. Kesheni Kaombeni. Kesha ukaombe panapo mafasi;  Wakati si mwingi. Kwa vile ukeshe  Mwili ni dhaifu. Adui hodari  karibu atakuja, Bwana wa arusi.   Chorus Kesha, Omba, Kesha, Omba, Kesha Kaombe gizani, mchana, Daima kesha.   
+        Nyimbo Za Kristo 071. Kesheni Kaombeni. Kesha ukaombe panapo mafasi;  Wakati si mwingi. Kwa vile ukeshe  Mwili ni dhaifu. Adui hodari  karibu atakuja, Bwana wa arusi.   Chorus Kesha, Omba, Kesha, Omba, Kesha Kaombe gizani, mchana, Daima kesha.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kesheni Kaombeni, Kesha ukaombe panapo mafasi; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kesheni Kaombeni, Kesha ukaombe panapo mafasi; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 071. KESHENI KAOMBENI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

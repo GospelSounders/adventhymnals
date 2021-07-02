@@ -1,17 +1,17 @@
 ---
 title: |
-    029. Yesu, Nakupenda - Nyimbo za kristo
+    029. Yesu, Nakupenda - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 029. Yesu, Nakupenda. Yesu nakupenda, u mali yangu, Anasa za dhambi sitaki kwangu: Na mwokozi aliyeniokoa Sasa nakupenda, kuzidi pia.  
+        Nyimbo Za Kristo 029. Yesu, Nakupenda. Yesu nakupenda, u mali yangu, Anasa za dhambi sitaki kwangu: Na mwokozi aliyeniokoa Sasa nakupenda, kuzidi pia.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yesu, Nakupenda, Yesu nakupenda, u mali yangu, Anasa za dhambi sitaki kwangu:. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yesu, Nakupenda, Yesu nakupenda, u mali yangu, Anasa za dhambi sitaki kwangu:. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 029. YESU, NAKUPENDA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

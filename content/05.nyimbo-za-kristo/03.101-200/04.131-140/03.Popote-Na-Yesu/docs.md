@@ -1,17 +1,17 @@
 ---
 title: |
-    133. Popote Na Yesu - Nyimbo za kristo
+    133. Popote Na Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 133. Popote Na Yesu. Popote na Yesu nina furaha: Anitumako Yesu ndiyo raha.  Asipokuwako hapanifai,  Akiwapo Yesu, mimi sitishwi.  Chorus Popote, popote, sina mashaka; Popote na Yesu naweza kwenda.  
+        Nyimbo Za Kristo 133. Popote Na Yesu. Popote na Yesu nina furaha: Anitumako Yesu ndiyo raha.  Asipokuwako hapanifai,  Akiwapo Yesu, mimi sitishwi.  Chorus Popote, popote, sina mashaka; Popote na Yesu naweza kwenda.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Popote Na Yesu, Popote na Yesu nina furaha:. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Popote Na Yesu, Popote na Yesu nina furaha:. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 133. POPOTE NA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

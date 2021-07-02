@@ -1,17 +1,17 @@
 ---
 title: |
-    140. Hivi Nilivyo Unitwae - Nyimbo za kristo
+    140. Hivi Nilivyo Unitwae - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 140. Hivi Nilivyo Unitwae. Nitwae hivi nilivyo, umemwaga damu yako,  Nawe ulivyoniita, Bwana Yesu, sasa naja.  
+        Nyimbo Za Kristo 140. Hivi Nilivyo Unitwae. Nitwae hivi nilivyo, umemwaga damu yako,  Nawe ulivyoniita, Bwana Yesu, sasa naja.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Hivi Nilivyo Unitwae, Nitwae hivi nilivyo, umemwaga damu yako, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Hivi Nilivyo Unitwae, Nitwae hivi nilivyo, umemwaga damu yako, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 140. HIVI NILIVYO UNITWAE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

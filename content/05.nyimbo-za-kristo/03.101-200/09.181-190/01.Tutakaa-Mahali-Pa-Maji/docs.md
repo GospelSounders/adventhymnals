@@ -1,17 +1,17 @@
 ---
 title: |
-    181. Tutakaa Mahali Pa Maji - Nyimbo za kristo
+    181. Tutakaa Mahali Pa Maji - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 181. Tutakaa Mahali Pa Maji. Mahali pa maji mazuri maji ya uzima;  Anapotungoja Yesu tutakaribishwa.  Chorus Mahali pa maji mazuri, penye maji ya uzima;  Tutakaa na Mwokozi, chemchemi ya uzima.  
+        Nyimbo Za Kristo 181. Tutakaa Mahali Pa Maji. Mahali pa maji mazuri maji ya uzima;  Anapotungoja Yesu tutakaribishwa.  Chorus Mahali pa maji mazuri, penye maji ya uzima;  Tutakaa na Mwokozi, chemchemi ya uzima.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tutakaa Mahali Pa Maji, Mahali pa maji mazuri maji ya uzima; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tutakaa Mahali Pa Maji, Mahali pa maji mazuri maji ya uzima; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 181. TUTAKAA MAHALI PA MAJI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

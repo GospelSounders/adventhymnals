@@ -1,17 +1,17 @@
 ---
 title: |
-    073. Bwana, Uniongoze Juu - Nyimbo za kristo
+    073. Bwana, Uniongoze Juu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 073. Bwana, Uniongoze Juu. Nakaza mwendo mbinguni, kila siku napanda juu; Naomba nikisafiri, "Bwana uniongoze juu."  Chorus Bwana uniinue juu Kwa imani hata mbingu. Juu kuliko dunia; Bwana uniongoze juu.  
+        Nyimbo Za Kristo 073. Bwana, Uniongoze Juu. Nakaza mwendo mbinguni, kila siku napanda juu; Naomba nikisafiri, "Bwana uniongoze juu."  Chorus Bwana uniinue juu Kwa imani hata mbingu. Juu kuliko dunia; Bwana uniongoze juu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Bwana, Uniongoze Juu, Nakaza mwendo mbinguni, kila siku napanda juu;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Bwana, Uniongoze Juu, Nakaza mwendo mbinguni, kila siku napanda juu;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 073. BWANA, UNIONGOZE JUU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

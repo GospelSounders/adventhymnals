@@ -1,17 +1,17 @@
 ---
 title: |
-    066. Roho Yangu Amka Sasa - Nyimbo za kristo
+    066. Roho Yangu Amka Sasa - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 066. Roho Yangu Amka Sasa. Roho yangu amka sasa, mara jitahidi; Shindano ni lake Bwana, zawadi ni taji.  
+        Nyimbo Za Kristo 066. Roho Yangu Amka Sasa. Roho yangu amka sasa, mara jitahidi; Shindano ni lake Bwana, zawadi ni taji.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Roho Yangu Amka Sasa, Roho yangu amka sasa, mara jitahidi;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Roho Yangu Amka Sasa, Roho yangu amka sasa, mara jitahidi;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 066. ROHO YANGU AMKA SASA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

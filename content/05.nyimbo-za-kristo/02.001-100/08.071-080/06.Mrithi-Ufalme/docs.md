@@ -1,17 +1,17 @@
 ---
 title: |
-    076. Mrithi Ufalme - Nyimbo za kristo
+    076. Mrithi Ufalme - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 076. Mrithi Ufalme. Mrithi ufalme, kwani walala? Karibu wokovu wasinzia? Amka, simama, uvae silaha,  Haraka sana, saa zapita.  
+        Nyimbo Za Kristo 076. Mrithi Ufalme. Mrithi ufalme, kwani walala? Karibu wokovu wasinzia? Amka, simama, uvae silaha,  Haraka sana, saa zapita.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mrithi Ufalme, Mrithi ufalme, kwani walala?. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mrithi Ufalme, Mrithi ufalme, kwani walala?. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 076. MRITHI UFALME
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

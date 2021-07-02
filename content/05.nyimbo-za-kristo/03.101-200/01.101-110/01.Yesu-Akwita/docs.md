@@ -1,17 +1,17 @@
 ---
 title: |
-    101. Yesu Akwita - Nyimbo za kristo
+    101. Yesu Akwita - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 101. Yesu Akwita. Waiochoka, na wapumzike, Uje leo, uje leo, Wenye mizigo, wenye huzuni, Wapate mapumziko.  
+        Nyimbo Za Kristo 101. Yesu Akwita. Waiochoka, na wapumzike, Uje leo, uje leo, Wenye mizigo, wenye huzuni, Wapate mapumziko.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yesu Akwita, Waiochoka, na wapumzike, Uje leo, uje leo,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yesu Akwita, Waiochoka, na wapumzike, Uje leo, uje leo,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 101. YESU AKWITA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

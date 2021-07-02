@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 021-030
+title: Nyimbo Za Kristo - 021-030
 metadata:
     description: |
-        Nyimbo za kristo - 021-030
+        Nyimbo Za Kristo - 021-030
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 021-030
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 021-030
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 021-030
+## Nyimbo Za Kristo - 021-030
 
 # Index of Titles
 # | Title                        

@@ -1,17 +1,17 @@
 ---
 title: |
-    211. Moyoni - Nyimbo za kristo
+    211. Moyoni - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 211. Moyoni. Moyoni, moyoni; Ingia moyoni, Yesu.  Njoo leo, njoo kukaa, Ingia moyoni Bwana.  Moyoni, moyoni, Angaza moyoni Yesu,  Ng'aa leo siku zote, Angaza moyoni Bwana.  
+        Nyimbo Za Kristo 211. Moyoni. Moyoni, moyoni; Ingia moyoni, Yesu.  Njoo leo, njoo kukaa, Ingia moyoni Bwana.  Moyoni, moyoni, Angaza moyoni Yesu,  Ng'aa leo siku zote, Angaza moyoni Bwana.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Moyoni, Moyoni, moyoni; Ingia moyoni, Yesu. . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Moyoni, Moyoni, moyoni; Ingia moyoni, Yesu. . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 211. MOYONI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    170. Jina Langu Limeandikwa Je - Nyimbo za kristo
+    170. Jina Langu Limeandikwa Je - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 170. Jina Langu Limeandikwa Je. Sitafuti mali, wala utajiri; Nataka kwa yakini nipate Mwokozi. Chuoni mwa Ufalme, niambie Yesu, Jina langu yakini limeandikwa, je?   Chorus Limeandikwa, je? Jina langu huko?  Kitabuni mbinguni, limeandikwa, je?  
+        Nyimbo Za Kristo 170. Jina Langu Limeandikwa Je. Sitafuti mali, wala utajiri; Nataka kwa yakini nipate Mwokozi. Chuoni mwa Ufalme, niambie Yesu, Jina langu yakini limeandikwa, je?   Chorus Limeandikwa, je? Jina langu huko?  Kitabuni mbinguni, limeandikwa, je?  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Jina Langu Limeandikwa Je, Sitafuti mali, wala utajiri; Nataka kwa yakini nipate Mwokozi.. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Jina Langu Limeandikwa Je, Sitafuti mali, wala utajiri; Nataka kwa yakini nipate Mwokozi.. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 170. JINA LANGU LIMEANDIKWA JE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

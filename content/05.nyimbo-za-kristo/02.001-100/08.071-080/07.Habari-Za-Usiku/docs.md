@@ -1,17 +1,17 @@
 ---
 title: |
-    077. Habari Za Usiku - Nyimbo za kristo
+    077. Habari Za Usiku - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 077. Habari Za Usiku. Je! Mkinzi ukutani  Wa mji wa Zayuni,  Habari zake usiku?  Asubuhi karibu?  Kuna dalili za kupambazuka?  Kuna dalili za kupambazuka?   
+        Nyimbo Za Kristo 077. Habari Za Usiku. Je! Mkinzi ukutani  Wa mji wa Zayuni,  Habari zake usiku?  Asubuhi karibu?  Kuna dalili za kupambazuka?  Kuna dalili za kupambazuka?   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Habari Za Usiku, Je! Mkinzi ukutani . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Habari Za Usiku, Je! Mkinzi ukutani . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 077. HABARI ZA USIKU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

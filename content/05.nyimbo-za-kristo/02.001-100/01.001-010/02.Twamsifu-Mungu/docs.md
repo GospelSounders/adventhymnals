@@ -1,17 +1,17 @@
 ---
 title: |
-    002. Twamsifu Mungu - Nyimbo za kristo
+    002. Twamsifu Mungu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 002. Twamsifu Mungu. Twamsifu Mungu, Mwana wa upendo Aliyetufia na kupaa juu.  Chorus Aleluya! Usifiwe, Aleluya! Amin; Aleluya! Usifiwe, utabariki.  
+        Nyimbo Za Kristo 002. Twamsifu Mungu. Twamsifu Mungu, Mwana wa upendo Aliyetufia na kupaa juu.  Chorus Aleluya! Usifiwe, Aleluya! Amin; Aleluya! Usifiwe, utabariki.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Twamsifu Mungu, Twamsifu Mungu, Mwana wa upendo. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Twamsifu Mungu, Twamsifu Mungu, Mwana wa upendo. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 002. TWAMSIFU MUNGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

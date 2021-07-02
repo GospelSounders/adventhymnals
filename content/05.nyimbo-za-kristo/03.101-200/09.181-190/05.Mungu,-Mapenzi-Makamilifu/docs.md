@@ -1,17 +1,17 @@
 ---
 title: |
-    185. Mungu, Mapenzi Makamilifu - Nyimbo za kristo
+    185. Mungu, Mapenzi Makamilifu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 185. Mungu, Mapenzi Makamilifu. Mungu u mapenzi mtakatifu Yapitayo fahamu za watu  Twanyenyekea sisi wapungufu, Wape baraka wapenzi wetu.  
+        Nyimbo Za Kristo 185. Mungu, Mapenzi Makamilifu. Mungu u mapenzi mtakatifu Yapitayo fahamu za watu  Twanyenyekea sisi wapungufu, Wape baraka wapenzi wetu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mungu, Mapenzi Makamilifu, Mungu u mapenzi mtakatifu Yapitayo fahamu za watu . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mungu, Mapenzi Makamilifu, Mungu u mapenzi mtakatifu Yapitayo fahamu za watu . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 185. MUNGU, MAPENZI MAKAMILIFU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

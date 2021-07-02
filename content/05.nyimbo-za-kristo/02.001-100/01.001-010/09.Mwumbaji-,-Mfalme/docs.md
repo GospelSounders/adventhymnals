@@ -1,17 +1,17 @@
 ---
 title: |
-    009. Mwumbaji , Mfalme - Nyimbo za kristo
+    009. Mwumbaji , Mfalme - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 009. Mwumbaji , Mfalme. Mwumbaji, Mfalme, Vitu vyote vyako; Ni kwa ukarimu wako; Ninabarikiwa, Ni kwa ukarimu wako, Ninabarikiwa.  
+        Nyimbo Za Kristo 009. Mwumbaji , Mfalme. Mwumbaji, Mfalme, Vitu vyote vyako; Ni kwa ukarimu wako; Ninabarikiwa, Ni kwa ukarimu wako, Ninabarikiwa.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mwumbaji , Mfalme, Mwumbaji, Mfalme, Vitu vyote vyako;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mwumbaji , Mfalme, Mwumbaji, Mfalme, Vitu vyote vyako;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 009. MWUMBAJI , MFALME
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

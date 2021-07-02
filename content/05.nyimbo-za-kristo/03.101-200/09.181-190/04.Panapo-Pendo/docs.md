@@ -1,17 +1,17 @@
 ---
 title: |
-    184. Panapo Pendo - Nyimbo za kristo
+    184. Panapo Pendo - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 184. Panapo Pendo. Vitu vyote ni sawa, panapo pendo: Kila sauti tamu, panapo pendo Pana amani pale, na furaha nyumbani, Siku zote salama panapo pendo.  Chorus Panapo upendo - Siku zote salama Panapo pendo.  
+        Nyimbo Za Kristo 184. Panapo Pendo. Vitu vyote ni sawa, panapo pendo: Kila sauti tamu, panapo pendo Pana amani pale, na furaha nyumbani, Siku zote salama panapo pendo.  Chorus Panapo upendo - Siku zote salama Panapo pendo.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Panapo Pendo, Vitu vyote ni sawa, panapo pendo:. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Panapo Pendo, Vitu vyote ni sawa, panapo pendo:. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 184. PANAPO PENDO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

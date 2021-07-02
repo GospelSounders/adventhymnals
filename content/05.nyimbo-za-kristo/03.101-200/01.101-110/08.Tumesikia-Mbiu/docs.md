@@ -1,17 +1,17 @@
 ---
 title: |
-    108. Tumesikia Mbiu - Nyimbo za kristo
+    108. Tumesikia Mbiu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 108. Tumesikia Mbiu. Tumesikia mbiu: Yesu huokoa; Utangazeni kote, Yesu huokoa. Tiini amri hiyo: nchini baharini. Enezeni mbiu hii: Yesu huokoa.  
+        Nyimbo Za Kristo 108. Tumesikia Mbiu. Tumesikia mbiu: Yesu huokoa; Utangazeni kote, Yesu huokoa. Tiini amri hiyo: nchini baharini. Enezeni mbiu hii: Yesu huokoa.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tumesikia Mbiu, Tumesikia mbiu: Yesu huokoa; Utangazeni kote, Yesu huokoa.. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tumesikia Mbiu, Tumesikia mbiu: Yesu huokoa; Utangazeni kote, Yesu huokoa.. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 108. TUMESIKIA MBIU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

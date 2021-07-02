@@ -1,17 +1,17 @@
 ---
 title: |
-    064. Piga Panda Ya Injili - Nyimbo za kristo
+    064. Piga Panda Ya Injili - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 064. Piga Panda Ya Injili. Piga panda ya Injili, onyesha watu wote; Ili anayesikia atubu, aokoke.  Chorus Piga panda ya Injili, upige kwa nguvu; Mungu amekuagiza mateka wawe huru.  
+        Nyimbo Za Kristo 064. Piga Panda Ya Injili. Piga panda ya Injili, onyesha watu wote; Ili anayesikia atubu, aokoke.  Chorus Piga panda ya Injili, upige kwa nguvu; Mungu amekuagiza mateka wawe huru.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Piga Panda Ya Injili, Piga panda ya Injili, onyesha watu wote;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Piga Panda Ya Injili, Piga panda ya Injili, onyesha watu wote;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 064. PIGA PANDA YA INJILI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    090. Mapya Ni Mapenzi - Nyimbo za kristo
+    090. Mapya Ni Mapenzi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 090. Mapya Ni Mapenzi. Mapya ni mapenzi hayo,  Asubuhi tuonayo;  Saa za giza hulindwa,  Kwa uzima kuamka.   
+        Nyimbo Za Kristo 090. Mapya Ni Mapenzi. Mapya ni mapenzi hayo,  Asubuhi tuonayo;  Saa za giza hulindwa,  Kwa uzima kuamka.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mapya Ni Mapenzi, Mapya ni mapenzi hayo, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mapya Ni Mapenzi, Mapya ni mapenzi hayo, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 090. MAPYA NI MAPENZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

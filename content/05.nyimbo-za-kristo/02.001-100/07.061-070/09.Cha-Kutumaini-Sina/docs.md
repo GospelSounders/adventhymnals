@@ -1,17 +1,17 @@
 ---
 title: |
-    069. Cha Kutumaini Sina - Nyimbo za kristo
+    069. Cha Kutumaini Sina - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 069. Cha Kutumaini Sina. Cha kutumaini sina ila damu yake Bwana,  Sina wema wa kutosha Dhambi zangu kuziosha.  Chorus Kwake Yesu nasimama, Ndiye mwamba: ni salama; Ndiye mwamba: ni salama;  
+        Nyimbo Za Kristo 069. Cha Kutumaini Sina. Cha kutumaini sina ila damu yake Bwana,  Sina wema wa kutosha Dhambi zangu kuziosha.  Chorus Kwake Yesu nasimama, Ndiye mwamba: ni salama; Ndiye mwamba: ni salama;  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Cha Kutumaini Sina, Cha kutumaini sina ila damu yake Bwana, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Cha Kutumaini Sina, Cha kutumaini sina ila damu yake Bwana, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 069. CHA KUTUMAINI SINA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

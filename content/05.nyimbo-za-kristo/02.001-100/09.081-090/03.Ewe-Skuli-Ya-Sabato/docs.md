@@ -1,17 +1,17 @@
 ---
 title: |
-    083. Ewe Skuli Ya Sabato - Nyimbo za kristo
+    083. Ewe Skuli Ya Sabato - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 083. Ewe Skuli Ya Sabato. Ewe skuli ya Sabato,  U pazuri sana;  Moyo wangu wanivuta,  Nije kwako leo.   Chorus Sabato . . . ni nzuri . . .  Sabato . . . ni nzuri . . .  Moyo wangu wanivuta,  Nije kwako leo.   
+        Nyimbo Za Kristo 083. Ewe Skuli Ya Sabato. Ewe skuli ya Sabato,  U pazuri sana;  Moyo wangu wanivuta,  Nije kwako leo.   Chorus Sabato . . . ni nzuri . . .  Sabato . . . ni nzuri . . .  Moyo wangu wanivuta,  Nije kwako leo.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ewe Skuli Ya Sabato, Ewe skuli ya Sabato, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ewe Skuli Ya Sabato, Ewe skuli ya Sabato, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 083. EWE SKULI YA SABATO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    190. Raha Yangu Yote, Bwana - Nyimbo za kristo
+    190. Raha Yangu Yote, Bwana - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 190. Raha Yangu Yote, Bwana. Raha yangu yote, Bwana, I mbavuni pako;  Mimi sina haja tena ila kifo chako.  
+        Nyimbo Za Kristo 190. Raha Yangu Yote, Bwana. Raha yangu yote, Bwana, I mbavuni pako;  Mimi sina haja tena ila kifo chako.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Raha Yangu Yote, Bwana, Raha yangu yote, Bwana, I mbavuni pako; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Raha Yangu Yote, Bwana, Raha yangu yote, Bwana, I mbavuni pako; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 190. RAHA YANGU YOTE, BWANA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

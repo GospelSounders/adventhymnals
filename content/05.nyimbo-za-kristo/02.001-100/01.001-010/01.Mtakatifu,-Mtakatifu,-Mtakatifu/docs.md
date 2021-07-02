@@ -1,17 +1,17 @@
 ---
 title: |
-    001. Mtakatifu, Mtakatifu, Mtakatifu - Nyimbo za kristo
+    001. Mtakatifu, Mtakatifu, Mtakatifu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 001. Mtakatifu, Mtakatifu, Mtakatifu. U Mtakatifu! Mungu mwenyezi! Alfajiri sifa zako tutaimba; U Mtakatifu , Bwana wa huruma, Mungu wa vyote hata milele.  
+        Nyimbo Za Kristo 001. Mtakatifu, Mtakatifu, Mtakatifu. U Mtakatifu! Mungu mwenyezi! Alfajiri sifa zako tutaimba; U Mtakatifu , Bwana wa huruma, Mungu wa vyote hata milele.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mtakatifu, Mtakatifu, Mtakatifu, U Mtakatifu! Mungu mwenyezi!. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mtakatifu, Mtakatifu, Mtakatifu, U Mtakatifu! Mungu mwenyezi!. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 001. MTAKATIFU, MTAKATIFU, MTAKATIFU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

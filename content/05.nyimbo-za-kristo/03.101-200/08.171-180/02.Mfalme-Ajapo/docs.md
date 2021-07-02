@@ -1,17 +1,17 @@
 ---
 title: |
-    172. Mfalme Ajapo - Nyimbo za kristo
+    172. Mfalme Ajapo - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 172. Mfalme Ajapo. Mfalme wetu atuita tukae karamuni kwake;  Itakuwaje nasi kule Bwana ajapo?  Chorus Bwana ajapo, ndugu, Bwana ajapo!  Itakuwaje na sisi, Bwana akija?  
+        Nyimbo Za Kristo 172. Mfalme Ajapo. Mfalme wetu atuita tukae karamuni kwake;  Itakuwaje nasi kule Bwana ajapo?  Chorus Bwana ajapo, ndugu, Bwana ajapo!  Itakuwaje na sisi, Bwana akija?  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mfalme Ajapo, Mfalme wetu atuita tukae karamuni kwake; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mfalme Ajapo, Mfalme wetu atuita tukae karamuni kwake; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 172. MFALME AJAPO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

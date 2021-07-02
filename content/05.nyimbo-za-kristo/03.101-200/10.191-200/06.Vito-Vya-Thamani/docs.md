@@ -1,17 +1,17 @@
 ---
 title: |
-    196. Vito Vya Thamani - Nyimbo za kristo
+    196. Vito Vya Thamani - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 196. Vito Vya Thamani. Kitambo Bwana yuaja, atafute kote  Vito vya thamani kubwa: mali yake kuu.  Chorus Kama nyota tajini vitang`aa sana,  Vito vizuri kweli vyenye thamani.  
+        Nyimbo Za Kristo 196. Vito Vya Thamani. Kitambo Bwana yuaja, atafute kote  Vito vya thamani kubwa: mali yake kuu.  Chorus Kama nyota tajini vitang`aa sana,  Vito vizuri kweli vyenye thamani.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Vito Vya Thamani, Kitambo Bwana yuaja, atafute kote . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Vito Vya Thamani, Kitambo Bwana yuaja, atafute kote . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 196. VITO VYA THAMANI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

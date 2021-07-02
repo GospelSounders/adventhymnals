@@ -1,17 +1,17 @@
 ---
 title: |
-    183. Yesu Anaporudi - Nyimbo za kristo
+    183. Yesu Anaporudi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 183. Yesu Anaporudi. Furaha na raha tutapata, Furaha na raha tutapata,  Furaha na raha tutapata Yesu anaporudi.  Chorus Yesu anaporudi (rudi) Yesu anaporudi (rudi);  Furaha na raha tutapata Yesu anaporudi.  
+        Nyimbo Za Kristo 183. Yesu Anaporudi. Furaha na raha tutapata, Furaha na raha tutapata,  Furaha na raha tutapata Yesu anaporudi.  Chorus Yesu anaporudi (rudi) Yesu anaporudi (rudi);  Furaha na raha tutapata Yesu anaporudi.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yesu Anaporudi, Furaha na raha tutapata, Furaha na raha tutapata, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yesu Anaporudi, Furaha na raha tutapata, Furaha na raha tutapata, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 183. YESU ANAPORUDI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    164. Mishale Ya Nuru - Nyimbo za kristo
+    164. Mishale Ya Nuru - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 164. Mishale Ya Nuru. Unakaribia wakati wa Kuja kwa Yesu.  Atawachukua watu wake Nyumbani juu.   Chorus Tunaiona mishale ya nuru Inayopenya giza;  Tunaiona mishale ya nuru Ya ufunuo.   
+        Nyimbo Za Kristo 164. Mishale Ya Nuru. Unakaribia wakati wa Kuja kwa Yesu.  Atawachukua watu wake Nyumbani juu.   Chorus Tunaiona mishale ya nuru Inayopenya giza;  Tunaiona mishale ya nuru Ya ufunuo.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mishale Ya Nuru, Unakaribia wakati wa Kuja kwa Yesu. . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mishale Ya Nuru, Unakaribia wakati wa Kuja kwa Yesu. . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 164. MISHALE YA NURU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

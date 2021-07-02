@@ -1,17 +1,17 @@
 ---
 title: |
-    003. Mungu Atukuzwe - Nyimbo za kristo
+    003. Mungu Atukuzwe - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 003. Mungu Atukuzwe. Mungu atukuzwe kwa mambo makuu,  Upendo wake ulitupa Yesu, Aliyejitoa maisha yake, Tuwe nao uzima wamilele.  Chorus Msifu, msifu, dunia sikia; Msifu, msifu, watu wafurahi; Na uje kwa Baba, kwa yesu Mwana, Ukamtutukuze kwa mambo yote.  
+        Nyimbo Za Kristo 003. Mungu Atukuzwe. Mungu atukuzwe kwa mambo makuu,  Upendo wake ulitupa Yesu, Aliyejitoa maisha yake, Tuwe nao uzima wamilele.  Chorus Msifu, msifu, dunia sikia; Msifu, msifu, watu wafurahi; Na uje kwa Baba, kwa yesu Mwana, Ukamtutukuze kwa mambo yote.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mungu Atukuzwe, Mungu atukuzwe kwa mambo makuu, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mungu Atukuzwe, Mungu atukuzwe kwa mambo makuu, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 003. MUNGU ATUKUZWE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

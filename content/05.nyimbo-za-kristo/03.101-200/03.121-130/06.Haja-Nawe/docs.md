@@ -1,17 +1,17 @@
 ---
 title: |
-    126. Haja Nawe - Nyimbo za kristo
+    126. Haja Nawe - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 126. Haja Nawe. Nina haja nawe kila saa; Hawezi mwingine kunifaa.  Chorus Yesu nakuhitaji vivyo kila saa! Niwezeshe mwokozi, nakujia.  
+        Nyimbo Za Kristo 126. Haja Nawe. Nina haja nawe kila saa; Hawezi mwingine kunifaa.  Chorus Yesu nakuhitaji vivyo kila saa! Niwezeshe mwokozi, nakujia.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Haja Nawe, Nina haja nawe kila saa;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Haja Nawe, Nina haja nawe kila saa;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 126. HAJA NAWE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

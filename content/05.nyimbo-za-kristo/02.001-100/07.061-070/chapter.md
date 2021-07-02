@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 061-070
+title: Nyimbo Za Kristo - 061-070
 metadata:
     description: |
-        Nyimbo za kristo - 061-070
+        Nyimbo Za Kristo - 061-070
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 061-070
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 061-070
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 061-070
+## Nyimbo Za Kristo - 061-070
 
 # Index of Titles
 # | Title                        

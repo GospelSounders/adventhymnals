@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 191-200
+title: Nyimbo Za Kristo - 191-200
 metadata:
     description: |
-        Nyimbo za kristo - 191-200
+        Nyimbo Za Kristo - 191-200
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 191-200
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 191-200
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 191-200
+## Nyimbo Za Kristo - 191-200
 
 # Index of Titles
 # | Title                        

@@ -1,17 +1,17 @@
 ---
 title: |
-    186. Hatutaagana Tena - Nyimbo za kristo
+    186. Hatutaagana Tena - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 186. Hatutaagana Tena. Tuonanapo na rafiki sote twafurahi,  Ila tumepaswa mwishowe kuagana tena.  Chorus Hatutaagana tena nyumbani mbinguni,  Kwenye nchi tamu juu, Hatutaagana.  
+        Nyimbo Za Kristo 186. Hatutaagana Tena. Tuonanapo na rafiki sote twafurahi,  Ila tumepaswa mwishowe kuagana tena.  Chorus Hatutaagana tena nyumbani mbinguni,  Kwenye nchi tamu juu, Hatutaagana.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Hatutaagana Tena, Tuonanapo na rafiki sote twafurahi, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Hatutaagana Tena, Tuonanapo na rafiki sote twafurahi, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 186. HATUTAAGANA TENA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

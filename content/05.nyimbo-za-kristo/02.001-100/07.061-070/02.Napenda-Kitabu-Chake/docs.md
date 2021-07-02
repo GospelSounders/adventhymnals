@@ -1,17 +1,17 @@
 ---
 title: |
-    062. Napenda Kitabu Chake - Nyimbo za kristo
+    062. Napenda Kitabu Chake - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 062. Napenda Kitabu Chake. Napenda kitabu chake, kilichotoka mbinguni, Barua kwangu ya Bwana Ujumbe wake wa`pendo.  
+        Nyimbo Za Kristo 062. Napenda Kitabu Chake. Napenda kitabu chake, kilichotoka mbinguni, Barua kwangu ya Bwana Ujumbe wake wa`pendo.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Napenda Kitabu Chake, Napenda kitabu chake, kilichotoka mbinguni,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Napenda Kitabu Chake, Napenda kitabu chake, kilichotoka mbinguni,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 062. NAPENDA KITABU CHAKE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    033. Karibu Sana - Nyimbo za kristo
+    033. Karibu Sana - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 033. Karibu Sana. Karibu sana univute, karibu sana daima niwe. Bwana napenda unishike, Unilinde nisitengwe nawe, Unilinde nisitengwe nawe.  
+        Nyimbo Za Kristo 033. Karibu Sana. Karibu sana univute, karibu sana daima niwe. Bwana napenda unishike, Unilinde nisitengwe nawe, Unilinde nisitengwe nawe.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Karibu Sana, Karibu sana univute, karibu sana daima niwe.. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Karibu Sana, Karibu sana univute, karibu sana daima niwe.. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 033. KARIBU SANA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

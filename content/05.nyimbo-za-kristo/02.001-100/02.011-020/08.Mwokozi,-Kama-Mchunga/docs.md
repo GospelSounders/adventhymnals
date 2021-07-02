@@ -1,17 +1,17 @@
 ---
 title: |
-    018. Mwokozi, Kama Mchunga - Nyimbo za kristo
+    018. Mwokozi, Kama Mchunga - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 018. Mwokozi, Kama Mchunga. Mwokozi, kama mchunga Utuongoze leo; Ututume malishoni; Fanya tayari boma. Bwana Yesu, peke yako Umetuvuta kwako.  
+        Nyimbo Za Kristo 018. Mwokozi, Kama Mchunga. Mwokozi, kama mchunga Utuongoze leo; Ututume malishoni; Fanya tayari boma. Bwana Yesu, peke yako Umetuvuta kwako.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mwokozi, Kama Mchunga, Mwokozi, kama mchunga Utuongoze leo;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mwokozi, Kama Mchunga, Mwokozi, kama mchunga Utuongoze leo;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 018. MWOKOZI, KAMA MCHUNGA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

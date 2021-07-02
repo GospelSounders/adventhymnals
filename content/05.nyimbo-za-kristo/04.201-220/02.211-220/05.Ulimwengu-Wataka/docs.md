@@ -1,17 +1,17 @@
 ---
 title: |
-    215. Ulimwengu Wataka - Nyimbo za kristo
+    215. Ulimwengu Wataka - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 215. Ulimwengu Wataka. Ulimwengu wataka kumwona Yesu;  Ulimwengu wataka kumwona Yesu.  Analeta furaha, shangilio kutosha,  Ulimwengu wataka kumwona Yesu.     
+        Nyimbo Za Kristo 215. Ulimwengu Wataka. Ulimwengu wataka kumwona Yesu;  Ulimwengu wataka kumwona Yesu.  Analeta furaha, shangilio kutosha,  Ulimwengu wataka kumwona Yesu.     
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ulimwengu Wataka, Ulimwengu wataka kumwona Yesu; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ulimwengu Wataka, Ulimwengu wataka kumwona Yesu; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 215. ULIMWENGU WATAKA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

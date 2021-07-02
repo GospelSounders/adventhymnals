@@ -1,17 +1,17 @@
 ---
 title: |
-    010. Kristo Wa Neema Yote - Nyimbo za kristo
+    010. Kristo Wa Neema Yote - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 010. Kristo Wa Neema Yote. Kristo wa neema zote imbisha moyo wangu Mifulizo ya Baraka inaamsha shangwe kuu. Unifunze nikupende, nikuandame kote, Moyo wangu ukajaefuraha na tumaini.  
+        Nyimbo Za Kristo 010. Kristo Wa Neema Yote. Kristo wa neema zote imbisha moyo wangu Mifulizo ya Baraka inaamsha shangwe kuu. Unifunze nikupende, nikuandame kote, Moyo wangu ukajaefuraha na tumaini.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kristo Wa Neema Yote, Kristo wa neema zote imbisha moyo wangu. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kristo Wa Neema Yote, Kristo wa neema zote imbisha moyo wangu. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 010. KRISTO WA NEEMA YOTE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

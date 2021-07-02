@@ -1,17 +1,17 @@
 ---
 title: |
-    143. Naamini - Nyimbo za kristo
+    143. Naamini - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 143. Naamini. Baba sina msaada Ila kwako pekee:  Kama kwangu ungefichwa, Nifanyeje, Baba?  Chorus Sasa hivi naamini Yesu alikufa, Alimwaga damu yake, Nitoke dhambini.  
+        Nyimbo Za Kristo 143. Naamini. Baba sina msaada Ila kwako pekee:  Kama kwangu ungefichwa, Nifanyeje, Baba?  Chorus Sasa hivi naamini Yesu alikufa, Alimwaga damu yake, Nitoke dhambini.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Naamini, Baba sina msaada Ila kwako pekee: . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Naamini, Baba sina msaada Ila kwako pekee: . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 143. NAAMINI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

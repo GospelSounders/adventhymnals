@@ -1,17 +1,17 @@
 ---
 title: |
-    089. Asubuhi - Nyimbo za kristo
+    089. Asubuhi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 089. Asubuhi. Bwana asubuhi kucha nitakuinua  Sauti yangu kuomba, nipate baraka.   
+        Nyimbo Za Kristo 089. Asubuhi. Bwana asubuhi kucha nitakuinua  Sauti yangu kuomba, nipate baraka.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Asubuhi, Bwana asubuhi kucha nitakuinua . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Asubuhi, Bwana asubuhi kucha nitakuinua . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 089. ASUBUHI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

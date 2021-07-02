@@ -1,17 +1,17 @@
 ---
 title: |
-    070. Wapenzi Wa Bwana - Nyimbo za kristo
+    070. Wapenzi Wa Bwana - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 070. Wapenzi Wa Bwana. Wapenzi wa Bwana ije raha yenu! Imbeni nyimbo za raha, Imbeni nyimbo za raha; Za ibada yenu, za ibada yenu.  Chorus Twenenda Zayuni, mji mzuri Zayuni! Twenenda juu Zayuni, Ni maskani ya Mungu.  
+        Nyimbo Za Kristo 070. Wapenzi Wa Bwana. Wapenzi wa Bwana ije raha yenu! Imbeni nyimbo za raha, Imbeni nyimbo za raha; Za ibada yenu, za ibada yenu.  Chorus Twenenda Zayuni, mji mzuri Zayuni! Twenenda juu Zayuni, Ni maskani ya Mungu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Wapenzi Wa Bwana, Wapenzi wa Bwana ije raha yenu! Imbeni nyimbo za raha,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Wapenzi Wa Bwana, Wapenzi wa Bwana ije raha yenu! Imbeni nyimbo za raha,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 070. WAPENZI WA BWANA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    217. Omba Sana Asubuhi - Nyimbo za kristo
+    217. Omba Sana Asubuhi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 217. Omba Sana Asubuhi. Omba sana asubuhi,  Omba sana mchana,  Omba sana na jioni,  Bwana hutusikia.   
+        Nyimbo Za Kristo 217. Omba Sana Asubuhi. Omba sana asubuhi,  Omba sana mchana,  Omba sana na jioni,  Bwana hutusikia.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Omba Sana Asubuhi, Omba sana asubuhi, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Omba Sana Asubuhi, Omba sana asubuhi, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 217. OMBA SANA ASUBUHI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

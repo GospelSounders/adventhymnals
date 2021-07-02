@@ -1,17 +1,17 @@
 ---
 title: |
-    162. Tumaini Liko - Nyimbo za kristo
+    162. Tumaini Liko - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 162. Tumaini Liko. Tumaini liko La thamani kuu, Kupita anasa tupu zake ulimwengu.   
+        Nyimbo Za Kristo 162. Tumaini Liko. Tumaini liko La thamani kuu, Kupita anasa tupu zake ulimwengu.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tumaini Liko, Tumaini liko La thamani kuu,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tumaini Liko, Tumaini liko La thamani kuu,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 162. TUMAINI LIKO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

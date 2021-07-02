@@ -1,17 +1,17 @@
 ---
 title: |
-    035. Nimekombolewa Na Yesu - Nyimbo za kristo
+    035. Nimekombolewa Na Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 035. Nimekombolewa Na Yesu. Nimekombolewa na Yesu na sasa nimefurahi; Kwa bei ya mauti yake mimi ni mtoto wake.  Chorus Kombolewa! Nakombolewa na damu; Kombolewa! mimi mwana wake kweli.  
+        Nyimbo Za Kristo 035. Nimekombolewa Na Yesu. Nimekombolewa na Yesu na sasa nimefurahi; Kwa bei ya mauti yake mimi ni mtoto wake.  Chorus Kombolewa! Nakombolewa na damu; Kombolewa! mimi mwana wake kweli.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nimekombolewa Na Yesu, Nimekombolewa na Yesu na sasa nimefurahi;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nimekombolewa Na Yesu, Nimekombolewa na Yesu na sasa nimefurahi;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 035. NIMEKOMBOLEWA NA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

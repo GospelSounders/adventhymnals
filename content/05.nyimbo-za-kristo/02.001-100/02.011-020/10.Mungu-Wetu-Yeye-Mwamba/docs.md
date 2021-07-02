@@ -1,17 +1,17 @@
 ---
 title: |
-    020. Mungu Wetu Yeye Mwamba - Nyimbo za kristo
+    020. Mungu Wetu Yeye Mwamba - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 020. Mungu Wetu Yeye Mwamba. Mungu wetu yeye mwamba, Kimbilio taabuni; Msaada penye shida ulio karibu sana.  Chorus Mwambna wetu kutupumzisha, yu kivuli kuburudisha  Yu Mwongozi katika njia, kimbilio taabuni.  
+        Nyimbo Za Kristo 020. Mungu Wetu Yeye Mwamba. Mungu wetu yeye mwamba, Kimbilio taabuni; Msaada penye shida ulio karibu sana.  Chorus Mwambna wetu kutupumzisha, yu kivuli kuburudisha  Yu Mwongozi katika njia, kimbilio taabuni.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mungu Wetu Yeye Mwamba, Mungu wetu yeye mwamba, Kimbilio taabuni;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mungu Wetu Yeye Mwamba, Mungu wetu yeye mwamba, Kimbilio taabuni;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 020. MUNGU WETU YEYE MWAMBA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

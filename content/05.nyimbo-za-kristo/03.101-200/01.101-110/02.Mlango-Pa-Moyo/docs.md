@@ -1,17 +1,17 @@
 ---
 title: |
-    102. Mlango Pa Moyo - Nyimbo za kristo
+    102. Mlango Pa Moyo - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 102. Mlango Pa Moyo. Mlangoni pa moyo; Mgeni! (Amesimama)  Amesimama pale, Mgeni! (Amesimama)  Umkaribishe sasa,  Umkaribishe Mwana  Wa Baba wa upendo: Mgeni! (Umkaribishe)   
+        Nyimbo Za Kristo 102. Mlango Pa Moyo. Mlangoni pa moyo; Mgeni! (Amesimama)  Amesimama pale, Mgeni! (Amesimama)  Umkaribishe sasa,  Umkaribishe Mwana  Wa Baba wa upendo: Mgeni! (Umkaribishe)   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mlango Pa Moyo, Mlangoni pa moyo; Mgeni! (Amesimama) . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mlango Pa Moyo, Mlangoni pa moyo; Mgeni! (Amesimama) . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 102. MLANGO PA MOYO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

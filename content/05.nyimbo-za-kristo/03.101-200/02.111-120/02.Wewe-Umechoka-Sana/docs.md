@@ -1,17 +1,17 @@
 ---
 title: |
-    112. Wewe Umechoka Sana - Nyimbo za kristo
+    112. Wewe Umechoka Sana - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 112. Wewe Umechoka Sana. Alama anazo Yeye? Sana! Makovu  Ya mikono, na miguu, Na mbavu.  
+        Nyimbo Za Kristo 112. Wewe Umechoka Sana. Alama anazo Yeye? Sana! Makovu  Ya mikono, na miguu, Na mbavu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Wewe Umechoka Sana, Alama anazo Yeye? Sana! Makovu . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Wewe Umechoka Sana, Alama anazo Yeye? Sana! Makovu . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 112. WEWE UMECHOKA SANA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

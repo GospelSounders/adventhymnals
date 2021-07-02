@@ -1,17 +1,17 @@
 ---
 title: |
-    042. Ewe Roho Wa Mbinguni - Nyimbo za kristo
+    042. Ewe Roho Wa Mbinguni - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 042. Ewe Roho Wa Mbinguni. Ewe Roho wa Mbinguni, Maombi sikia! Makao yako yafanye Mioyoni mwetu.  
+        Nyimbo Za Kristo 042. Ewe Roho Wa Mbinguni. Ewe Roho wa Mbinguni, Maombi sikia! Makao yako yafanye Mioyoni mwetu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ewe Roho Wa Mbinguni, Ewe Roho wa Mbinguni, Maombi sikia!. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ewe Roho Wa Mbinguni, Ewe Roho wa Mbinguni, Maombi sikia!. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 042. EWE ROHO WA MBINGUNI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

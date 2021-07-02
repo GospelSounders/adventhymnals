@@ -1,17 +1,17 @@
 ---
 title: |
-    005. Na Tumwabudu Mfalme Mtukufu - Nyimbo za kristo
+    005. Na Tumwabudu Mfalme Mtukufu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 005. Na Tumwabudu Mfalme Mtukufu. Na tumwabudu  huyu Mfalme, Sifa za nguvu zake zivume; Ni ngao, ni ngome, Yeye milele, Ndizo sifa zake kale na kale.  
+        Nyimbo Za Kristo 005. Na Tumwabudu Mfalme Mtukufu. Na tumwabudu  huyu Mfalme, Sifa za nguvu zake zivume; Ni ngao, ni ngome, Yeye milele, Ndizo sifa zake kale na kale.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Na Tumwabudu Mfalme Mtukufu, Na tumwabudu  huyu Mfalme,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Na Tumwabudu Mfalme Mtukufu, Na tumwabudu  huyu Mfalme,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 005. NA TUMWABUDU MFALME MTUKUFU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

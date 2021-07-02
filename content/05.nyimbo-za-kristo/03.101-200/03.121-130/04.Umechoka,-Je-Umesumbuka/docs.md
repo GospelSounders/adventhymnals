@@ -1,17 +1,17 @@
 ---
 title: |
-    124. Umechoka, Je Umesumbuka - Nyimbo za kristo
+    124. Umechoka, Je Umesumbuka - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 124. Umechoka, Je Umesumbuka. Umechoka, je, umesumbuka? Mwambie Yesu sumbuko lako; Unayalilia yapitayo? Mwambie Yesu pekee.  Chorus Mwambie Yesu, sumbuko lako, Yu rafiki amini,  Hakuna rafiki kama yeye, Mwambie Yesu pekee.  
+        Nyimbo Za Kristo 124. Umechoka, Je Umesumbuka. Umechoka, je, umesumbuka? Mwambie Yesu sumbuko lako; Unayalilia yapitayo? Mwambie Yesu pekee.  Chorus Mwambie Yesu, sumbuko lako, Yu rafiki amini,  Hakuna rafiki kama yeye, Mwambie Yesu pekee.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Umechoka, Je Umesumbuka, Umechoka, je, umesumbuka? Mwambie Yesu sumbuko lako;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Umechoka, Je Umesumbuka, Umechoka, je, umesumbuka? Mwambie Yesu sumbuko lako;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 124. UMECHOKA, JE UMESUMBUKA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

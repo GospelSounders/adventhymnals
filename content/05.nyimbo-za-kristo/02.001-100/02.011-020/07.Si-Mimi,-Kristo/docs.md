@@ -1,17 +1,17 @@
 ---
 title: |
-    017. Si Mimi, Kristo - Nyimbo za kristo
+    017. Si Mimi, Kristo - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 017. Si Mimi, Kristo. Si mimi, Kristo astahili sifa; Si mimi, Kristo ajulikane; Si mimi, Kristo katika maneno Si mimi, Kristo kwa kila tendo  
+        Nyimbo Za Kristo 017. Si Mimi, Kristo. Si mimi, Kristo astahili sifa; Si mimi, Kristo ajulikane; Si mimi, Kristo katika maneno Si mimi, Kristo kwa kila tendo  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Si Mimi, Kristo, Si mimi, Kristo astahili sifa; Si mimi, Kristo ajulikane;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Si Mimi, Kristo, Si mimi, Kristo astahili sifa; Si mimi, Kristo ajulikane;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 017. SI MIMI, KRISTO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

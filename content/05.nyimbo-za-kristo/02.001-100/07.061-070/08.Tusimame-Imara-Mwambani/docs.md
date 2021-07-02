@@ -1,17 +1,17 @@
 ---
 title: |
-    068. Tusimame Imara Mwambani - Nyimbo za kristo
+    068. Tusimame Imara Mwambani - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 068. Tusimame Imara Mwambani. Umtetee Mungu duniani ijapo pepo kali za vuma; Mwambani pekee pana nguvu Dhambi ikimea.  Chorus Tusimame imara katika mwamba, Mwamba wa Kristo pekee; Ndipo salamini tutasimama Kule kitini pa enzi.  
+        Nyimbo Za Kristo 068. Tusimame Imara Mwambani. Umtetee Mungu duniani ijapo pepo kali za vuma; Mwambani pekee pana nguvu Dhambi ikimea.  Chorus Tusimame imara katika mwamba, Mwamba wa Kristo pekee; Ndipo salamini tutasimama Kule kitini pa enzi.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tusimame Imara Mwambani, Umtetee Mungu duniani ijapo pepo kali za vuma;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tusimame Imara Mwambani, Umtetee Mungu duniani ijapo pepo kali za vuma;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 068. TUSIMAME IMARA MWAMBANI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

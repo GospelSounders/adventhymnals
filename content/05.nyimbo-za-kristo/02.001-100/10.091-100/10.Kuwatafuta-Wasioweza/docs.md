@@ -1,17 +1,17 @@
 ---
 title: |
-    100. Kuwatafuta Wasioweza - Nyimbo za kristo
+    100. Kuwatafuta Wasioweza - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 100. Kuwatafuta Wasioweza. Kuwatafuta wasioweza, Kuomba wamrejee Yesu, Kuwaambia maneno yake, "Njooni kwangu, nawapenda".  Chorus Nitakwenda (Nitakwenda) niwatafute Wapotevu (wapotevu) wageuke,  Waingie (Waingie) Katika zizi La Mwokozi (La Mwokozi) Yesu Kristo  
+        Nyimbo Za Kristo 100. Kuwatafuta Wasioweza. Kuwatafuta wasioweza, Kuomba wamrejee Yesu, Kuwaambia maneno yake, "Njooni kwangu, nawapenda".  Chorus Nitakwenda (Nitakwenda) niwatafute Wapotevu (wapotevu) wageuke,  Waingie (Waingie) Katika zizi La Mwokozi (La Mwokozi) Yesu Kristo  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kuwatafuta Wasioweza, Kuwatafuta wasioweza, Kuomba wamrejee Yesu,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kuwatafuta Wasioweza, Kuwatafuta wasioweza, Kuomba wamrejee Yesu,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 100. KUWATAFUTA WASIOWEZA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

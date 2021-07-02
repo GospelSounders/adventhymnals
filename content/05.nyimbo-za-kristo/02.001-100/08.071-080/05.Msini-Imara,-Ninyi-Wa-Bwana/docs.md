@@ -1,17 +1,17 @@
 ---
 title: |
-    075. Msini Imara, Ninyi Wa Bwana - Nyimbo za kristo
+    075. Msini Imara, Ninyi Wa Bwana - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 075. Msini Imara, Ninyi Wa Bwana. Msingi imara, ninyi wa Bwana, Umewekwa kwenu kwa neno lake. Nini zaidi atasema Bwana,  Imaniyenu ipate kuzidi?  
+        Nyimbo Za Kristo 075. Msini Imara, Ninyi Wa Bwana. Msingi imara, ninyi wa Bwana, Umewekwa kwenu kwa neno lake. Nini zaidi atasema Bwana,  Imaniyenu ipate kuzidi?  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Msini Imara, Ninyi Wa Bwana, Msingi imara, ninyi wa Bwana,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Msini Imara, Ninyi Wa Bwana, Msingi imara, ninyi wa Bwana,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 075. MSINI IMARA, NINYI WA BWANA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    117. Wamwendea Yesu  - Nyimbo za kristo
+    117. Wamwendea Yesu  - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 117. Wamwendea Yesu . Wamwendea Yesu kwa kusafiwa. Kuoshwa kwa damu ya Kondoo?  Je, neema yake yatumwagiwa? Waoshwa kwa damu ya Kondoo?   Chorus Kuoshwa kwa damu Itutakasayo ya Kondoo? Ziwe safi nguo nyeupe sana; Waoshwa kwa damu ya Kondoo?   
+        Nyimbo Za Kristo 117. Wamwendea Yesu . Wamwendea Yesu kwa kusafiwa. Kuoshwa kwa damu ya Kondoo?  Je, neema yake yatumwagiwa? Waoshwa kwa damu ya Kondoo?   Chorus Kuoshwa kwa damu Itutakasayo ya Kondoo? Ziwe safi nguo nyeupe sana; Waoshwa kwa damu ya Kondoo?   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Wamwendea Yesu , Wamwendea Yesu kwa kusafiwa. Kuoshwa kwa damu ya Kondoo? . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Wamwendea Yesu , Wamwendea Yesu kwa kusafiwa. Kuoshwa kwa damu ya Kondoo? . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 117. WAMWENDEA YESU 
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

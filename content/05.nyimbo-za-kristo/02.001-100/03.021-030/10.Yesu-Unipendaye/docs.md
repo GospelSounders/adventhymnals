@@ -1,17 +1,17 @@
 ---
 title: |
-    030. Yesu Unipendaye - Nyimbo za kristo
+    030. Yesu Unipendaye - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 030. Yesu Unipendaye. Ngome nyingine sina; nategemea kwako, Usinitupe Bwana, nipe neema yako, Ninakuamania, kuniweshesha; Shari wanikingia, vitani wanitosha.  
+        Nyimbo Za Kristo 030. Yesu Unipendaye. Ngome nyingine sina; nategemea kwako, Usinitupe Bwana, nipe neema yako, Ninakuamania, kuniweshesha; Shari wanikingia, vitani wanitosha.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yesu Unipendaye, Ngome nyingine sina; nategemea kwako,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yesu Unipendaye, Ngome nyingine sina; nategemea kwako,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 030. YESU UNIPENDAYE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    153. Fikira Moja Tu - Nyimbo za kristo
+    153. Fikira Moja Tu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 153. Fikira Moja Tu. Fikira moja tu  Hurejea tena;  Nimekaribia mbingu Zaidi ya jana.  Chorus Karibu na kwetu mbingu,  Karibu na kwetu sasa,   Nikwone karibu.  
+        Nyimbo Za Kristo 153. Fikira Moja Tu. Fikira moja tu  Hurejea tena;  Nimekaribia mbingu Zaidi ya jana.  Chorus Karibu na kwetu mbingu,  Karibu na kwetu sasa,   Nikwone karibu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Fikira Moja Tu, Fikira moja tu  Hurejea tena; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Fikira Moja Tu, Fikira moja tu  Hurejea tena; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 153. FIKIRA MOJA TU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

@@ -1,17 +1,17 @@
 ---
 title: |
-    086. Ukaribie Tena - Nyimbo za kristo
+    086. Ukaribie Tena - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 086. Ukaribie Tena. Ukaribie tena, ewe siku ya raha;  Roho yakusalimu kama mwanga wa mbingu.   
+        Nyimbo Za Kristo 086. Ukaribie Tena. Ukaribie tena, ewe siku ya raha;  Roho yakusalimu kama mwanga wa mbingu.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ukaribie Tena, Ukaribie tena, ewe siku ya raha; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ukaribie Tena, Ukaribie tena, ewe siku ya raha; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 086. UKARIBIE TENA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

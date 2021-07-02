@@ -1,17 +1,17 @@
 ---
 title: |
-    139. Uniimbie Tena - Nyimbo za kristo
+    139. Uniimbie Tena - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 139. Uniimbie Tena. Uliniimbie tena, Neno la uzima;, Uzuri wake nione, Neno la uzima; Neno hili zuri, lafundisha kweli.  Chorus Maneno ya uzima ni maneno mazuri Maneno ya uzima ni maneno mazuri  
+        Nyimbo Za Kristo 139. Uniimbie Tena. Uliniimbie tena, Neno la uzima;, Uzuri wake nione, Neno la uzima; Neno hili zuri, lafundisha kweli.  Chorus Maneno ya uzima ni maneno mazuri Maneno ya uzima ni maneno mazuri  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Uniimbie Tena, Uliniimbie tena, Neno la uzima;,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Uniimbie Tena, Uliniimbie tena, Neno la uzima;,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 139. UNIIMBIE TENA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

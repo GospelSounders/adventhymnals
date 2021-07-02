@@ -1,17 +1,17 @@
 ---
 title: |
-    149. Kuwa Wake Yesu - Nyimbo za kristo
+    149. Kuwa Wake Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 149. Kuwa Wake Yesu. Kuwa  wake Yesu, Je! Ni kusudi lako? Ungeenda naye njia nyembamba? Unataka aubebe mzigo wako? Awe Mwongozi wako.  Chorus Uwezo wake unakutosha Na damu yake itakusafi; Kwa vile ukubali ni bora Afanye mapenzi yake nawe.  
+        Nyimbo Za Kristo 149. Kuwa Wake Yesu. Kuwa  wake Yesu, Je! Ni kusudi lako? Ungeenda naye njia nyembamba? Unataka aubebe mzigo wako? Awe Mwongozi wako.  Chorus Uwezo wake unakutosha Na damu yake itakusafi; Kwa vile ukubali ni bora Afanye mapenzi yake nawe.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kuwa Wake Yesu, Kuwa  wake Yesu, Je! Ni kusudi lako?. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kuwa Wake Yesu, Kuwa  wake Yesu, Je! Ni kusudi lako?. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 149. KUWA WAKE YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

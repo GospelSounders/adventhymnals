@@ -1,17 +1,17 @@
 ---
 title: |
-    059. Fanyeni Kazi Zenu - Nyimbo za kristo
+    059. Fanyeni Kazi Zenu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 059. Fanyeni Kazi Zenu. Fanyeni kazi zenu, usiku si mbali; Kesheni saa zenu vumilieni; Kwa Yesu tumikeni na hiyo injili. Sana wahubirini watu wa mbali.  
+        Nyimbo Za Kristo 059. Fanyeni Kazi Zenu. Fanyeni kazi zenu, usiku si mbali; Kesheni saa zenu vumilieni; Kwa Yesu tumikeni na hiyo injili. Sana wahubirini watu wa mbali.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Fanyeni Kazi Zenu, Fanyeni kazi zenu, usiku si mbali;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Fanyeni Kazi Zenu, Fanyeni kazi zenu, usiku si mbali;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 059. FANYENI KAZI ZENU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

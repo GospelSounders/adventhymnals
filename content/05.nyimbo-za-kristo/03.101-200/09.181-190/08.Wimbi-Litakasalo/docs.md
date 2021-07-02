@@ -1,17 +1,17 @@
 ---
 title: |
-    188. Wimbi Litakasalo - Nyimbo za kristo
+    188. Wimbi Litakasalo - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 188. Wimbi Litakasalo. Wimbi la damu ya Yesu Linatutakasa;  Aliumia kusudi Tupate uzima.  Chorus	 Wimbi la damu naona, Naingia, natakaswa!  Bwana asifiwe sana, Hutakasa, hutakasa.  
+        Nyimbo Za Kristo 188. Wimbi Litakasalo. Wimbi la damu ya Yesu Linatutakasa;  Aliumia kusudi Tupate uzima.  Chorus	 Wimbi la damu naona, Naingia, natakaswa!  Bwana asifiwe sana, Hutakasa, hutakasa.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Wimbi Litakasalo, Wimbi la damu ya Yesu Linatutakasa; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Wimbi Litakasalo, Wimbi la damu ya Yesu Linatutakasa; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 188. WIMBI LITAKASALO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

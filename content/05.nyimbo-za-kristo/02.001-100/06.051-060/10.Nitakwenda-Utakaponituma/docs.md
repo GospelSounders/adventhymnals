@@ -1,17 +1,17 @@
 ---
 title: |
-    060. Nitakwenda Utakaponituma - Nyimbo za kristo
+    060. Nitakwenda Utakaponituma - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 060. Nitakwenda Utakaponituma. Pengine sio milimani Utakaponiita Pengine sio baharini Wala palipo vita; Lakini unaponiita, Na njia siijui. Bwana, nitajibu, ni tayari Kwanda uniagizapo.  Chorus Ukiwa pamoja nami, Bwana, Mlimani, baharini, Niende utakaponiita; Na fuata uendako.  
+        Nyimbo Za Kristo 060. Nitakwenda Utakaponituma. Pengine sio milimani Utakaponiita Pengine sio baharini Wala palipo vita; Lakini unaponiita, Na njia siijui. Bwana, nitajibu, ni tayari Kwanda uniagizapo.  Chorus Ukiwa pamoja nami, Bwana, Mlimani, baharini, Niende utakaponiita; Na fuata uendako.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nitakwenda Utakaponituma, Pengine sio milimani Utakaponiita. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nitakwenda Utakaponituma, Pengine sio milimani Utakaponiita. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 060. NITAKWENDA UTAKAPONITUMA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

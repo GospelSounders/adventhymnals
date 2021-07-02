@@ -1,17 +1,17 @@
 ---
 title: |
-    163. Anakuja Bwana Yesu - Nyimbo za kristo
+    163. Anakuja Bwana Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 163. Anakuja Bwana Yesu. Pengine ni saa ya kupambazuka, Mishale ya jua ipenyapo giza, Kwamba atakuja Yesu mtukufu, Awapokee wake.   Bwana itakuwa lini Tutapoimba, "Anakuja, Bwana Yesu, Aleluya, Amin, Aleluya, Amin?"  
+        Nyimbo Za Kristo 163. Anakuja Bwana Yesu. Pengine ni saa ya kupambazuka, Mishale ya jua ipenyapo giza, Kwamba atakuja Yesu mtukufu, Awapokee wake.   Bwana itakuwa lini Tutapoimba, "Anakuja, Bwana Yesu, Aleluya, Amin, Aleluya, Amin?"  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Anakuja Bwana Yesu, Pengine ni saa ya kupambazuka,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Anakuja Bwana Yesu, Pengine ni saa ya kupambazuka,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 163. ANAKUJA BWANA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

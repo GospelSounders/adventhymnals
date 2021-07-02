@@ -1,17 +1,17 @@
 ---
 title: |
-    103. Njoni Kwangu - Nyimbo za kristo
+    103. Njoni Kwangu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 103. Njoni Kwangu. Yesu huita kwa upole mwingi, atwita wewe nami; Moyoni mwetu hungoja, hukesha, Hukungojea wewe.   Chorus "Njoni kwangu, Mliochoka, njoni: Yesu huita kwa upole mwingi, Akwita, "uje kwangu"   
+        Nyimbo Za Kristo 103. Njoni Kwangu. Yesu huita kwa upole mwingi, atwita wewe nami; Moyoni mwetu hungoja, hukesha, Hukungojea wewe.   Chorus "Njoni kwangu, Mliochoka, njoni: Yesu huita kwa upole mwingi, Akwita, "uje kwangu"   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Njoni Kwangu, Yesu huita kwa upole mwingi, atwita wewe nami; Moyoni mwetu hungoja, hukesha, Hukungojea wewe. . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Njoni Kwangu, Yesu huita kwa upole mwingi, atwita wewe nami; Moyoni mwetu hungoja, hukesha, Hukungojea wewe. . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 103. NJONI KWANGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

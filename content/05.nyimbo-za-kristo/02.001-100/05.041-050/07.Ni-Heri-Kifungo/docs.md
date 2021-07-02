@@ -1,17 +1,17 @@
 ---
 title: |
-    047. Ni Heri Kifungo - Nyimbo za kristo
+    047. Ni Heri Kifungo - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 047. Ni Heri Kifungo. Ni heri kifungo Kinachotufunga Mioyo yetu kwa upendo Pendo la Kikristo  
+        Nyimbo Za Kristo 047. Ni Heri Kifungo. Ni heri kifungo Kinachotufunga Mioyo yetu kwa upendo Pendo la Kikristo  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ni Heri Kifungo, Ni heri kifungo Kinachotufunga. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ni Heri Kifungo, Ni heri kifungo Kinachotufunga. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 047. NI HERI KIFUNGO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    168. Tarumbeta Ya Mwana - Nyimbo za kristo
+    168. Tarumbeta Ya Mwana - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 168. Tarumbeta Ya Mwana. Tarumbeta ya mwana itakapolia mara, Milele itakapopambazuka, Nao wa haki watakapokusanyika ng`ambo, Majina yaitwapo, lo! - niweko.  Chorus Majina yaitwapo, lo! - Majina yaitwapo, lo! - Majina yaitwapo, lo! - Majina yaitwapo, lo! - Niweko.   
+        Nyimbo Za Kristo 168. Tarumbeta Ya Mwana. Tarumbeta ya mwana itakapolia mara, Milele itakapopambazuka, Nao wa haki watakapokusanyika ng`ambo, Majina yaitwapo, lo! - niweko.  Chorus Majina yaitwapo, lo! - Majina yaitwapo, lo! - Majina yaitwapo, lo! - Majina yaitwapo, lo! - Niweko.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tarumbeta Ya Mwana, Tarumbeta ya mwana itakapolia mara,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tarumbeta Ya Mwana, Tarumbeta ya mwana itakapolia mara,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 168. TARUMBETA YA MWANA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

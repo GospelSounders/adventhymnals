@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 141-150
+title: Nyimbo Za Kristo - 141-150
 metadata:
     description: |
-        Nyimbo za kristo - 141-150
+        Nyimbo Za Kristo - 141-150
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 141-150
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 141-150
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 141-150
+## Nyimbo Za Kristo - 141-150
 
 # Index of Titles
 # | Title                        

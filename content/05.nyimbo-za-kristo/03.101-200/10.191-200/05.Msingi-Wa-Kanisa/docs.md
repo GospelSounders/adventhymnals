@@ -1,17 +1,17 @@
 ---
 title: |
-    195. Msingi Wa Kanisa - Nyimbo za kristo
+    195. Msingi Wa Kanisa - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 195. Msingi Wa Kanisa. Msingi wa Kanisa Ndiye Yesu Bwana; Kiumbe chake kipya Akipenda sana;  Kutaka ‘kitafuta Alishuka chini,  Naye kwa haja yake, Akafa Mtini.  
+        Nyimbo Za Kristo 195. Msingi Wa Kanisa. Msingi wa Kanisa Ndiye Yesu Bwana; Kiumbe chake kipya Akipenda sana;  Kutaka ‘kitafuta Alishuka chini,  Naye kwa haja yake, Akafa Mtini.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Msingi Wa Kanisa, Msingi wa Kanisa Ndiye Yesu Bwana;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Msingi Wa Kanisa, Msingi wa Kanisa Ndiye Yesu Bwana;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 195. MSINGI WA KANISA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

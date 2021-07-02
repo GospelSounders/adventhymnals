@@ -1,17 +1,17 @@
 ---
 title: |
-    160. Watakatifu Kesheni - Nyimbo za kristo
+    160. Watakatifu Kesheni - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 160. Watakatifu Kesheni. Watakatifu kesheni, nguvu za mbingu zagonga;  Washeni taa tayari kwa kurudi kwake Bwana.  Chorus Yuaja, Yesu Mfalme, Yuaja mwenye fahari,  Yesu yuaja enzini Karibu Yesu, uje.  
+        Nyimbo Za Kristo 160. Watakatifu Kesheni. Watakatifu kesheni, nguvu za mbingu zagonga;  Washeni taa tayari kwa kurudi kwake Bwana.  Chorus Yuaja, Yesu Mfalme, Yuaja mwenye fahari,  Yesu yuaja enzini Karibu Yesu, uje.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Watakatifu Kesheni, Watakatifu kesheni, nguvu za mbingu zagonga; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Watakatifu Kesheni, Watakatifu kesheni, nguvu za mbingu zagonga; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 160. WATAKATIFU KESHENI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

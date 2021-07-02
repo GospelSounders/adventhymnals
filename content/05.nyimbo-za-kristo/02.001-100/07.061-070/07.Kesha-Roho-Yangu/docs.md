@@ -1,17 +1,17 @@
 ---
 title: |
-    067. Kesha Roho Yangu - Nyimbo za kristo
+    067. Kesha Roho Yangu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 067. Kesha Roho Yangu. Kesha roho yangu, adui maelfu Hujaribu kuangusha, kuvuta dhambini.  
+        Nyimbo Za Kristo 067. Kesha Roho Yangu. Kesha roho yangu, adui maelfu Hujaribu kuangusha, kuvuta dhambini.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kesha Roho Yangu, Kesha roho yangu, adui maelfu. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kesha Roho Yangu, Kesha roho yangu, adui maelfu. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 067. KESHA ROHO YANGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

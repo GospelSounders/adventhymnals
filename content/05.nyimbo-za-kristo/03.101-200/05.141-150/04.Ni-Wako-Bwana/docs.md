@@ -1,17 +1,17 @@
 ---
 title: |
-    144. Ni Wako Bwana - Nyimbo za kristo
+    144. Ni Wako Bwana - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 144. Ni Wako Bwana. Ni wako, Bwana, ninasikia Unaponena nami;  Lakini, kweli, nataka kwako Nizidi kusongea:  Chorus Bwana vuta, (vuta) nije nisongee   Sana kwako mtini.  Bwana, vuta, vuta, nije nisongee   Pa damu ya thamani.   
+        Nyimbo Za Kristo 144. Ni Wako Bwana. Ni wako, Bwana, ninasikia Unaponena nami;  Lakini, kweli, nataka kwako Nizidi kusongea:  Chorus Bwana vuta, (vuta) nije nisongee   Sana kwako mtini.  Bwana, vuta, vuta, nije nisongee   Pa damu ya thamani.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ni Wako Bwana, Ni wako, Bwana, ninasikia Unaponena nami; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ni Wako Bwana, Ni wako, Bwana, ninasikia Unaponena nami; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 144. NI WAKO BWANA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

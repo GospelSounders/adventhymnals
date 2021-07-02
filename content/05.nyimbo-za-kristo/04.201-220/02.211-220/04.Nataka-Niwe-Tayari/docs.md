@@ -1,17 +1,17 @@
 ---
 title: |
-    214. Nataka Niwe Tayari - Nyimbo za kristo
+    214. Nataka Niwe Tayari - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 214. Nataka Niwe Tayari. Nataka niwe tayari, Bwana,  Nataka niwe tayari, Bwana,  Furaha za ulimwengu ni bure; Nilinde hata uje!      
+        Nyimbo Za Kristo 214. Nataka Niwe Tayari. Nataka niwe tayari, Bwana,  Nataka niwe tayari, Bwana,  Furaha za ulimwengu ni bure; Nilinde hata uje!      
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nataka Niwe Tayari, Nataka niwe tayari, Bwana, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nataka Niwe Tayari, Nataka niwe tayari, Bwana, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 214. NATAKA NIWE TAYARI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

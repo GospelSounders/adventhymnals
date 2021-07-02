@@ -1,17 +1,17 @@
 ---
 title: |
-    208. Mungu Afanya Upinde - Nyimbo za kristo
+    208. Mungu Afanya Upinde - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 208. Mungu Afanya Upinde. Nani afanya upindi,  Namjua, namjua  Mungu afanya upindi  Nampenda kwa hiyo.   
+        Nyimbo Za Kristo 208. Mungu Afanya Upinde. Nani afanya upindi,  Namjua, namjua  Mungu afanya upindi  Nampenda kwa hiyo.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mungu Afanya Upinde, Nani afanya upindi, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mungu Afanya Upinde, Nani afanya upindi, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 208. MUNGU AFANYA UPINDE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

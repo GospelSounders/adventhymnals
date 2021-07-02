@@ -1,17 +1,17 @@
 ---
 title: |
-    148. Univute Karibu - Nyimbo za kristo
+    148. Univute Karibu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 148. Univute Karibu. Univute karibu, Baba, Unikumbatie;  Unisongeze kifuani, Nataka pumziko.    Chorus Univute karibu (Vuta, univute karibu)    Kwa kamba za upendo, (Kwa kamba, kamba za upendo)    Univute (Kwa kamba za upendo, Univute karibu)   Karibu nawe. (Univute karibu)  
+        Nyimbo Za Kristo 148. Univute Karibu. Univute karibu, Baba, Unikumbatie;  Unisongeze kifuani, Nataka pumziko.    Chorus Univute karibu (Vuta, univute karibu)    Kwa kamba za upendo, (Kwa kamba, kamba za upendo)    Univute (Kwa kamba za upendo, Univute karibu)   Karibu nawe. (Univute karibu)  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Univute Karibu, Univute karibu, Baba, Unikumbatie; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Univute Karibu, Univute karibu, Baba, Unikumbatie; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 148. UNIVUTE KARIBU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

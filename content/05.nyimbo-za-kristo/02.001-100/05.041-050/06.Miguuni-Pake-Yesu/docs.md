@@ -1,17 +1,17 @@
 ---
 title: |
-    046. Miguuni Pake Yesu - Nyimbo za kristo
+    046. Miguuni Pake Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 046. Miguuni Pake Yesu. Miguuni pake Yesu, Maneno yake tamu; Pahali palipo heri, Niwepo kila siku. Miguuni pake Yesu, Nakumbuka upendo Nahisani vyake kwangu, Vimenivuta moyo.  
+        Nyimbo Za Kristo 046. Miguuni Pake Yesu. Miguuni pake Yesu, Maneno yake tamu; Pahali palipo heri, Niwepo kila siku. Miguuni pake Yesu, Nakumbuka upendo Nahisani vyake kwangu, Vimenivuta moyo.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Miguuni Pake Yesu, Miguuni pake Yesu, Maneno yake tamu;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Miguuni Pake Yesu, Miguuni pake Yesu, Maneno yake tamu;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 046. MIGUUNI PAKE YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

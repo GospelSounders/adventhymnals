@@ -1,17 +1,17 @@
 ---
 title: |
-    180. Pana Mahali Pazuri Mno - Nyimbo za kristo
+    180. Pana Mahali Pazuri Mno - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 180. Pana Mahali Pazuri Mno. Pana mahali pazuri mno, Twapaona kwa mbali sasa;  Baba yetu angoja pale, Amepanga makao yetu.  Chorus Kitambo tu bado, Tutakutana ng`ambo pale.  Kitambo tu bado, Tutakutana ng`ambo pale.  
+        Nyimbo Za Kristo 180. Pana Mahali Pazuri Mno. Pana mahali pazuri mno, Twapaona kwa mbali sasa;  Baba yetu angoja pale, Amepanga makao yetu.  Chorus Kitambo tu bado, Tutakutana ng`ambo pale.  Kitambo tu bado, Tutakutana ng`ambo pale.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Pana Mahali Pazuri Mno, Pana mahali pazuri mno, Twapaona kwa mbali sasa; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Pana Mahali Pazuri Mno, Pana mahali pazuri mno, Twapaona kwa mbali sasa; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 180. PANA MAHALI PAZURI MNO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

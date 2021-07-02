@@ -1,17 +1,17 @@
 ---
 title: |
-    038. Nasifu Shani Ya Mungu - Nyimbo za kristo
+    038. Nasifu Shani Ya Mungu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 038. Nasifu Shani Ya Mungu. Nasifu shani ya Mungu, mweneza bahari, Muumba pia wa mbingu, jua, nyota, mwezi, Ni tukufu yako shani, mtengeza mambo Ya nyakati na zamani, yasiyo na mwisho.  
+        Nyimbo Za Kristo 038. Nasifu Shani Ya Mungu. Nasifu shani ya Mungu, mweneza bahari, Muumba pia wa mbingu, jua, nyota, mwezi, Ni tukufu yako shani, mtengeza mambo Ya nyakati na zamani, yasiyo na mwisho.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nasifu Shani Ya Mungu, Nasifu shani ya Mungu, mweneza bahari,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nasifu Shani Ya Mungu, Nasifu shani ya Mungu, mweneza bahari,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 038. NASIFU SHANI YA MUNGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

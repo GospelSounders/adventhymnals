@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 031-040
+title: Nyimbo Za Kristo - 031-040
 metadata:
     description: |
-        Nyimbo za kristo - 031-040
+        Nyimbo Za Kristo - 031-040
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 031-040
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 031-040
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 031-040
+## Nyimbo Za Kristo - 031-040
 
 # Index of Titles
 # | Title                        

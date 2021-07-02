@@ -1,17 +1,17 @@
 ---
 title: |
-    194. Twaomba Baraka Zako - Nyimbo za kristo
+    194. Twaomba Baraka Zako - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 194. Twaomba Baraka Zako. Twaomba, Bwana, umpokee Kama mhudumu;  Ambaye anjitoa Kuwa mtumishi.  
+        Nyimbo Za Kristo 194. Twaomba Baraka Zako. Twaomba, Bwana, umpokee Kama mhudumu;  Ambaye anjitoa Kuwa mtumishi.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Twaomba Baraka Zako, Twaomba, Bwana, umpokee Kama mhudumu; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Twaomba Baraka Zako, Twaomba, Bwana, umpokee Kama mhudumu; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 194. TWAOMBA BARAKA ZAKO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

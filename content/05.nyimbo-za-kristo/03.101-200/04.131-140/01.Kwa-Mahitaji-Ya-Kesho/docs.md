@@ -1,17 +1,17 @@
 ---
 title: |
-    131. Kwa Mahitaji Ya Kesho - Nyimbo za kristo
+    131. Kwa Mahitaji Ya Kesho - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 131. Kwa Mahitaji Ya Kesho. Kwa mahitaji ya kesho, Sina ombi;  Unilinde nisitende Dhambi leo; Nisiseme neno baya, Mkombozi,  Nisifikiri uovu, Leo hivi.   
+        Nyimbo Za Kristo 131. Kwa Mahitaji Ya Kesho. Kwa mahitaji ya kesho, Sina ombi;  Unilinde nisitende Dhambi leo; Nisiseme neno baya, Mkombozi,  Nisifikiri uovu, Leo hivi.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kwa Mahitaji Ya Kesho, Kwa mahitaji ya kesho, Sina ombi; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kwa Mahitaji Ya Kesho, Kwa mahitaji ya kesho, Sina ombi; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 131. KWA MAHITAJI YA KESHO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

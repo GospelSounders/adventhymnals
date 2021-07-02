@@ -1,17 +1,17 @@
 ---
 title: |
-    187. Kufariki Naye Yesu - Nyimbo za kristo
+    187. Kufariki Naye Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 187. Kufariki Naye Yesu. Kufariki naye Yesu! Usingizi wewe heri;  Raha isiyofujika kwa majozi na adui.  
+        Nyimbo Za Kristo 187. Kufariki Naye Yesu. Kufariki naye Yesu! Usingizi wewe heri;  Raha isiyofujika kwa majozi na adui.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kufariki Naye Yesu, Kufariki naye Yesu! Usingizi wewe heri; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kufariki Naye Yesu, Kufariki naye Yesu! Usingizi wewe heri; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 187. KUFARIKI NAYE YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

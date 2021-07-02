@@ -1,17 +1,17 @@
 ---
 title: |
-    138. Nitakuandama Kote - Nyimbo za kristo
+    138. Nitakuandama Kote - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 138. Nitakuandama Kote. Nitakuandama kote, nitakapoagizwa  Wewe ukiniongoza nami nitaandama.  Chorus Nitakuandama kote, naam, ulinifia;  Kwa neema yako Bwana napenda kuandama.  
+        Nyimbo Za Kristo 138. Nitakuandama Kote. Nitakuandama kote, nitakapoagizwa  Wewe ukiniongoza nami nitaandama.  Chorus Nitakuandama kote, naam, ulinifia;  Kwa neema yako Bwana napenda kuandama.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nitakuandama Kote, Nitakuandama kote, nitakapoagizwa . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nitakuandama Kote, Nitakuandama kote, nitakapoagizwa . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 138. NITAKUANDAMA KOTE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

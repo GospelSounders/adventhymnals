@@ -1,17 +1,17 @@
 ---
 title: |
-    022. Usinipite Mwokozi - Nyimbo za kristo
+    022. Usinipite Mwokozi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 022. Usinipite Mwokozi. Usinipite , Mwokozi, unisikie; Unapozuru wengine, usinipite.  Chrous Bwana, Bwana, unisikie; Unapozuru wengine, usinipite.  
+        Nyimbo Za Kristo 022. Usinipite Mwokozi. Usinipite , Mwokozi, unisikie; Unapozuru wengine, usinipite.  Chrous Bwana, Bwana, unisikie; Unapozuru wengine, usinipite.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Usinipite Mwokozi, Usinipite , Mwokozi, unisikie;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Usinipite Mwokozi, Usinipite , Mwokozi, unisikie;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 022. USINIPITE MWOKOZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    201. Hunipenda Pia - Nyimbo za kristo
+    201. Hunipenda Pia - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 201. Hunipenda Pia. Mungu huona videge wanaoanguka; Akiwapenda videge, vile hunipenda.  Chorus Hunipenda, hunipenda, hunipenda pia; Najua ananipenda niliye mdogo.  
+        Nyimbo Za Kristo 201. Hunipenda Pia. Mungu huona videge wanaoanguka; Akiwapenda videge, vile hunipenda.  Chorus Hunipenda, hunipenda, hunipenda pia; Najua ananipenda niliye mdogo.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Hunipenda Pia, Mungu huona videge wanaoanguka;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Hunipenda Pia, Mungu huona videge wanaoanguka;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 201. HUNIPENDA PIA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

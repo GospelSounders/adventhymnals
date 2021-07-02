@@ -1,17 +1,17 @@
 ---
 title: |
-    166. Furaha Kwa Ulimwengu - Nyimbo za kristo
+    166. Furaha Kwa Ulimwengu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 166. Furaha Kwa Ulimwengu. Furaha kwa ulimwengu, Bwana atakuja!  Kila moyo umpokee, Viumbe imbeni,  Viumbe imbeni, Viumbe vyote imbeni.   
+        Nyimbo Za Kristo 166. Furaha Kwa Ulimwengu. Furaha kwa ulimwengu, Bwana atakuja!  Kila moyo umpokee, Viumbe imbeni,  Viumbe imbeni, Viumbe vyote imbeni.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Furaha Kwa Ulimwengu, Furaha kwa ulimwengu, Bwana atakuja! . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Furaha Kwa Ulimwengu, Furaha kwa ulimwengu, Bwana atakuja! . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 166. FURAHA KWA ULIMWENGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

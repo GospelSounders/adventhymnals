@@ -1,17 +1,17 @@
 ---
 title: |
-    074. Niambie, Ee Mlinzi - Nyimbo za kristo
+    074. Niambie, Ee Mlinzi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 074. Niambie, Ee Mlinzi. Niambie, Ee mlinzi, Umepambazuka je! Utukufu wa Zayini, Pana dalili zake? Msafiri uondoke, Utazame mbinguni, Kiunoni ujifunge, Ni kucha alfajiri.  
+        Nyimbo Za Kristo 074. Niambie, Ee Mlinzi. Niambie, Ee mlinzi, Umepambazuka je! Utukufu wa Zayini, Pana dalili zake? Msafiri uondoke, Utazame mbinguni, Kiunoni ujifunge, Ni kucha alfajiri.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Niambie, Ee Mlinzi, Niambie, Ee mlinzi, Umepambazuka je!. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Niambie, Ee Mlinzi, Niambie, Ee mlinzi, Umepambazuka je!. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 074. NIAMBIE, EE MLINZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

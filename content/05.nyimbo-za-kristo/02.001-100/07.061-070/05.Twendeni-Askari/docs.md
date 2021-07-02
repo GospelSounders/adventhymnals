@@ -1,17 +1,17 @@
 ---
 title: |
-    065. Twendeni Askari - Nyimbo za kristo
+    065. Twendeni Askari - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 065. Twendeni Askari. Twendeni askari, Watu wa Mungu; Yesu yuko mbele, Tumwandame juu; Ametangulia Bwana vitani, Twende mbele kwani ndiye amini.  Chorus Twendeni Askari, Watu wa Mungu;  Yesu yuko mbele, Tumwandame juu;  
+        Nyimbo Za Kristo 065. Twendeni Askari. Twendeni askari, Watu wa Mungu; Yesu yuko mbele, Tumwandame juu; Ametangulia Bwana vitani, Twende mbele kwani ndiye amini.  Chorus Twendeni Askari, Watu wa Mungu;  Yesu yuko mbele, Tumwandame juu;  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Twendeni Askari, Twendeni askari, Watu wa Mungu;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Twendeni Askari, Twendeni askari, Watu wa Mungu;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 065. TWENDENI ASKARI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

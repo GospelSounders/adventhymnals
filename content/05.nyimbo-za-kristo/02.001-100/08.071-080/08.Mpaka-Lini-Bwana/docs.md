@@ -1,17 +1,17 @@
 ---
 title: |
-    078. Mpaka Lini Bwana - Nyimbo za kristo
+    078. Mpaka Lini Bwana - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 078. Mpaka Lini Bwana. Mpaka lini Bwana, Utakaa mbali? Kumetuchosha moyo kukawia hivi. Utatujia lini, Ili tufurahi Katika ile nuru, kuja kutukufu?  
+        Nyimbo Za Kristo 078. Mpaka Lini Bwana. Mpaka lini Bwana, Utakaa mbali? Kumetuchosha moyo kukawia hivi. Utatujia lini, Ili tufurahi Katika ile nuru, kuja kutukufu?  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mpaka Lini Bwana, Mpaka lini Bwana, Utakaa mbali?. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mpaka Lini Bwana, Mpaka lini Bwana, Utakaa mbali?. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 078. MPAKA LINI BWANA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

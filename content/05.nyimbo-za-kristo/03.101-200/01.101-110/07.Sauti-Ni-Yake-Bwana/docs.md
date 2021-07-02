@@ -1,17 +1,17 @@
 ---
 title: |
-    107. Sauti Ni Yake Bwana - Nyimbo za kristo
+    107. Sauti Ni Yake Bwana - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 107. Sauti Ni Yake Bwana. Sauti ni yake Bwana, "Kwenda nani tayari?" Mavuno yanakawia, Nani atayavuna? Kwa kudumu anaita, Zawadi atatoa; Nani atakayejibu, "Nipo Bwana nitume."  
+        Nyimbo Za Kristo 107. Sauti Ni Yake Bwana. Sauti ni yake Bwana, "Kwenda nani tayari?" Mavuno yanakawia, Nani atayavuna? Kwa kudumu anaita, Zawadi atatoa; Nani atakayejibu, "Nipo Bwana nitume."  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Sauti Ni Yake Bwana, Sauti ni yake Bwana, "Kwenda nani tayari?". 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Sauti Ni Yake Bwana, Sauti ni yake Bwana, "Kwenda nani tayari?". 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 107. SAUTI NI YAKE BWANA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    093. Jua La Rohoni Mwangu - Nyimbo za kristo
+    093. Jua La Rohoni Mwangu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 093. Jua La Rohoni Mwangu. Jua la rohoni mwangu, mpendwa Mwokozi wangu; Usiku  giza hapana, ukiwa karibu Bwana  
+        Nyimbo Za Kristo 093. Jua La Rohoni Mwangu. Jua la rohoni mwangu, mpendwa Mwokozi wangu; Usiku  giza hapana, ukiwa karibu Bwana  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Jua La Rohoni Mwangu, Jua la rohoni mwangu, mpendwa Mwokozi wangu;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Jua La Rohoni Mwangu, Jua la rohoni mwangu, mpendwa Mwokozi wangu;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 093. JUA LA ROHONI MWANGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

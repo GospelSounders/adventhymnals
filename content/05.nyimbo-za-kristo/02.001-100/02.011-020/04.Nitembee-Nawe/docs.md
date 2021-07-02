@@ -1,17 +1,17 @@
 ---
 title: |
-    014. Nitembee Nawe - Nyimbo za kristo
+    014. Nitembee Nawe - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 014. Nitembee Nawe. Nitembee nawe mungu Alivyo tembea Henok; Mkonop wangu uushike: Unene nami kwa pole; Ingawa njia siioni, Yesu nitembee nawe.  
+        Nyimbo Za Kristo 014. Nitembee Nawe. Nitembee nawe mungu Alivyo tembea Henok; Mkonop wangu uushike: Unene nami kwa pole; Ingawa njia siioni, Yesu nitembee nawe.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nitembee Nawe, Nitembee nawe mungu Alivyo tembea Henok;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nitembee Nawe, Nitembee nawe mungu Alivyo tembea Henok;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 014. NITEMBEE NAWE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

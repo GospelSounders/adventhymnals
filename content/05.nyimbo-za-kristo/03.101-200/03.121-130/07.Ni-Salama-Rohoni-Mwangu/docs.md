@@ -1,17 +1,17 @@
 ---
 title: |
-    127. Ni Salama Rohoni Mwangu - Nyimbo za kristo
+    127. Ni Salama Rohoni Mwangu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 127. Ni Salama Rohoni Mwangu. Nionapo amani kama shwari, au nionapo shida;  Kwa hali zote umenijulisha ni salama rohoni mwangu.  Chorus Salama rohoni,   Ni salama rohoni mwangu.  
+        Nyimbo Za Kristo 127. Ni Salama Rohoni Mwangu. Nionapo amani kama shwari, au nionapo shida;  Kwa hali zote umenijulisha ni salama rohoni mwangu.  Chorus Salama rohoni,   Ni salama rohoni mwangu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ni Salama Rohoni Mwangu, Nionapo amani kama shwari, au nionapo shida; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ni Salama Rohoni Mwangu, Nionapo amani kama shwari, au nionapo shida; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 127. NI SALAMA ROHONI MWANGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

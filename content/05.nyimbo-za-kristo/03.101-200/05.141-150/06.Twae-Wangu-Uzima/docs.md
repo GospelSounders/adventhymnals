@@ -1,17 +1,17 @@
 ---
 title: |
-    146. Twae Wangu Uzima - Nyimbo za kristo
+    146. Twae Wangu Uzima - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 146. Twae Wangu Uzima. Twae wangu uzima, Sadaka ya daima; Twae saa na usiku, Zikutukuze huku.  
+        Nyimbo Za Kristo 146. Twae Wangu Uzima. Twae wangu uzima, Sadaka ya daima; Twae saa na usiku, Zikutukuze huku.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Twae Wangu Uzima, Twae wangu uzima, Sadaka ya daima;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Twae Wangu Uzima, Twae wangu uzima, Sadaka ya daima;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 146. TWAE WANGU UZIMA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

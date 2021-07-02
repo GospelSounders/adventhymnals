@@ -1,17 +1,17 @@
 ---
 title: |
-    121. Katika Wenye Dhambi - Nyimbo za kristo
+    121. Katika Wenye Dhambi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 121. Katika Wenye Dhambi. Katika wenye dhambi,  Ndimi mkuu wao-  Ila Yesu ukaja,  Kwa dhambi alikufa, Akamimina damu,  Niupate uzima.  
+        Nyimbo Za Kristo 121. Katika Wenye Dhambi. Katika wenye dhambi,  Ndimi mkuu wao-  Ila Yesu ukaja,  Kwa dhambi alikufa, Akamimina damu,  Niupate uzima.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Katika Wenye Dhambi, Katika wenye dhambi, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Katika Wenye Dhambi, Katika wenye dhambi, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 121. KATIKA WENYE DHAMBI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

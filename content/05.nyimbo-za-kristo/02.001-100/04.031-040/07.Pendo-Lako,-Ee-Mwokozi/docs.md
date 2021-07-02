@@ -1,17 +1,17 @@
 ---
 title: |
-    037. Pendo Lako, Ee Mwokozi - Nyimbo za kristo
+    037. Pendo Lako, Ee Mwokozi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 037. Pendo Lako, Ee Mwokozi. Pendo lako , Ee Mwokozi, Hushinda pendo zote! Kaa nasi, ndani yetu, Furaha ya mbinguni. Yesu, u rehema tupu, Safi, na kusamehe, Mfariji mwenye huzuni Ziondoe machozi.  
+        Nyimbo Za Kristo 037. Pendo Lako, Ee Mwokozi. Pendo lako , Ee Mwokozi, Hushinda pendo zote! Kaa nasi, ndani yetu, Furaha ya mbinguni. Yesu, u rehema tupu, Safi, na kusamehe, Mfariji mwenye huzuni Ziondoe machozi.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Pendo Lako, Ee Mwokozi, Pendo lako , Ee Mwokozi, Hushinda pendo zote!. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Pendo Lako, Ee Mwokozi, Pendo lako , Ee Mwokozi, Hushinda pendo zote!. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 037. PENDO LAKO, EE MWOKOZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

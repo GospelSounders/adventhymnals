@@ -1,17 +1,17 @@
 ---
 title: |
-    151. Huniongoza Mwokozi - Nyimbo za kristo
+    151. Huniongoza Mwokozi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 151. Huniongoza Mwokozi. Huniongoza Mwokozi, ndipo nami hufurahi,  Niendapo pote napo, ataniongoza papo.  Chorus Kuongoza hunishika; kwa mkono wa hakika;  Nitaandamana naye Kristo aniongozaye.  
+        Nyimbo Za Kristo 151. Huniongoza Mwokozi. Huniongoza Mwokozi, ndipo nami hufurahi,  Niendapo pote napo, ataniongoza papo.  Chorus Kuongoza hunishika; kwa mkono wa hakika;  Nitaandamana naye Kristo aniongozaye.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Huniongoza Mwokozi, Huniongoza Mwokozi, ndipo nami hufurahi, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Huniongoza Mwokozi, Huniongoza Mwokozi, ndipo nami hufurahi, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 151. HUNIONGOZA MWOKOZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

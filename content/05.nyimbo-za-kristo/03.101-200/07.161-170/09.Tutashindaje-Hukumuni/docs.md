@@ -1,17 +1,17 @@
 ---
 title: |
-    169. Tutashindaje Hukumuni - Nyimbo za kristo
+    169. Tutashindaje Hukumuni - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 169. Tutashindaje Hukumuni. Hapo Yesu atakapoita mataifa mbele yake,  Tutashindaje kwenye hukumu mbele ya kiti cha enzi?   Chorus Atakusanya ngano ghalani, atatupambali makapo;  Tutashindaje hukumuni siku kuu ya kiyama?   
+        Nyimbo Za Kristo 169. Tutashindaje Hukumuni. Hapo Yesu atakapoita mataifa mbele yake,  Tutashindaje kwenye hukumu mbele ya kiti cha enzi?   Chorus Atakusanya ngano ghalani, atatupambali makapo;  Tutashindaje hukumuni siku kuu ya kiyama?   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tutashindaje Hukumuni, Hapo Yesu atakapoita mataifa mbele yake, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tutashindaje Hukumuni, Hapo Yesu atakapoita mataifa mbele yake, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 169. TUTASHINDAJE HUKUMUNI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

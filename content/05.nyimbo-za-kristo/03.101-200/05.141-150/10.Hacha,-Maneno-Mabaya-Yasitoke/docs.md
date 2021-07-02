@@ -1,17 +1,17 @@
 ---
 title: |
-    150. Hacha, Maneno Mabaya Yasitoke - Nyimbo za kristo
+    150. Hacha, Maneno Mabaya Yasitoke - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 150. Hacha, Maneno Mabaya Yasitoke. Hacha, maneno mabaya Yasitoke Kinywani  Moyo mwema uzuie Ndimi, zisichafuke  Chorus "Nanyi pendeni", Asema Yesu,   (mpendane) (mpendane)   Kama mwanzo alivyotupenda: "Nanyi pendeni", Asema Yesu,   (mpendane) (mpendane) Wana, tiini amri hii. (amri heri hii).   
+        Nyimbo Za Kristo 150. Hacha, Maneno Mabaya Yasitoke. Hacha, maneno mabaya Yasitoke Kinywani  Moyo mwema uzuie Ndimi, zisichafuke  Chorus "Nanyi pendeni", Asema Yesu,   (mpendane) (mpendane)   Kama mwanzo alivyotupenda: "Nanyi pendeni", Asema Yesu,   (mpendane) (mpendane) Wana, tiini amri hii. (amri heri hii).   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Hacha, Maneno Mabaya Yasitoke, Hacha, maneno mabaya Yasitoke Kinywani . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Hacha, Maneno Mabaya Yasitoke, Hacha, maneno mabaya Yasitoke Kinywani . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 150. HACHA, MANENO MABAYA YASITOKE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    213. Niwe Nao Uzuri Wa Mwokozi - Nyimbo za kristo
+    213. Niwe Nao Uzuri Wa Mwokozi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 213. Niwe Nao Uzuri Wa Mwokozi. Niwe nao uzuri wa Mwokozi,  Nazo huruma Zake na usafi,  Roho Mtakatifu anibadilishe,  Aonekane Yesu ndani yangu.      
+        Nyimbo Za Kristo 213. Niwe Nao Uzuri Wa Mwokozi. Niwe nao uzuri wa Mwokozi,  Nazo huruma Zake na usafi,  Roho Mtakatifu anibadilishe,  Aonekane Yesu ndani yangu.      
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Niwe Nao Uzuri Wa Mwokozi, Niwe nao uzuri wa Mwokozi, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Niwe Nao Uzuri Wa Mwokozi, Niwe nao uzuri wa Mwokozi, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 213. NIWE NAO UZURI WA MWOKOZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

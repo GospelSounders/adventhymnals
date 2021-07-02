@@ -1,17 +1,17 @@
 ---
 title: |
-    119. Alilipa Bei - Nyimbo za kristo
+    119. Alilipa Bei - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 119. Alilipa Bei. Yesu anasema, "Wewe huna nguvu, Kesha ukaombe, Na uje, Mwanagu."  Chorus Alilipa bei, Nawiwa naye; Dhambi ilitia waa, Aliiondoa.  
+        Nyimbo Za Kristo 119. Alilipa Bei. Yesu anasema, "Wewe huna nguvu, Kesha ukaombe, Na uje, Mwanagu."  Chorus Alilipa bei, Nawiwa naye; Dhambi ilitia waa, Aliiondoa.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Alilipa Bei, Yesu anasema, "Wewe huna nguvu,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Alilipa Bei, Yesu anasema, "Wewe huna nguvu,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 119. ALILIPA BEI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

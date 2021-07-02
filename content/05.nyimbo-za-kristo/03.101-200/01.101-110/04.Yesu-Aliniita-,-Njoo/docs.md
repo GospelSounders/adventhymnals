@@ -1,17 +1,17 @@
 ---
 title: |
-    104. Yesu Aliniita , Njoo - Nyimbo za kristo
+    104. Yesu Aliniita , Njoo - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 104. Yesu Aliniita , Njoo. Yesu aliniita, "Njoo, Raha iko kwangu, Kichwa chako ukilaze kituani mwangu." Nilikwenda kwake mara, Sana nilichoka; Nikapata kwake raha na furaha.  
+        Nyimbo Za Kristo 104. Yesu Aliniita , Njoo. Yesu aliniita, "Njoo, Raha iko kwangu, Kichwa chako ukilaze kituani mwangu." Nilikwenda kwake mara, Sana nilichoka; Nikapata kwake raha na furaha.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yesu Aliniita , Njoo, Yesu aliniita, "Njoo, Raha iko kwangu,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yesu Aliniita , Njoo, Yesu aliniita, "Njoo, Raha iko kwangu,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 104. YESU ALINIITA , NJOO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

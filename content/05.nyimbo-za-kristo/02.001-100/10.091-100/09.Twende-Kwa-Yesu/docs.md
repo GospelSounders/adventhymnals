@@ -1,17 +1,17 @@
 ---
 title: |
-    099. Twende Kwa Yesu - Nyimbo za kristo
+    099. Twende Kwa Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 099. Twende Kwa Yesu. Twende kwa Yesu mimi nawe, Njia atwonya tuijue Imo Chuoni na mwenyewe, Hapa asema, njoo!  Chorus Na furaha tutaiyona, Mioyo ikitakata sana, Kwako Mwokozi kuonana, Na milele kukaa.  
+        Nyimbo Za Kristo 099. Twende Kwa Yesu. Twende kwa Yesu mimi nawe, Njia atwonya tuijue Imo Chuoni na mwenyewe, Hapa asema, njoo!  Chorus Na furaha tutaiyona, Mioyo ikitakata sana, Kwako Mwokozi kuonana, Na milele kukaa.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Twende Kwa Yesu, Twende kwa Yesu mimi nawe, Njia atwonya tuijue. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Twende Kwa Yesu, Twende kwa Yesu mimi nawe, Njia atwonya tuijue. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 099. TWENDE KWA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

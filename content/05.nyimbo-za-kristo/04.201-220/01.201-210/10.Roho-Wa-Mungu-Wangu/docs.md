@@ -1,17 +1,17 @@
 ---
 title: |
-    210. Roho Wa Mungu Wangu - Nyimbo za kristo
+    210. Roho Wa Mungu Wangu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 210. Roho Wa Mungu Wangu. Roho wa Mungu wangu, Nakuhitaji!  Roho wa Mungu wangu, Nakuhitaji!  Unilinde na unijaze;  Roho wa Mungu wangu, Nakuhitaji!     
+        Nyimbo Za Kristo 210. Roho Wa Mungu Wangu. Roho wa Mungu wangu, Nakuhitaji!  Roho wa Mungu wangu, Nakuhitaji!  Unilinde na unijaze;  Roho wa Mungu wangu, Nakuhitaji!     
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Roho Wa Mungu Wangu, Roho wa Mungu wangu, Nakuhitaji! . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Roho Wa Mungu Wangu, Roho wa Mungu wangu, Nakuhitaji! . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 210. ROHO WA MUNGU WANGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

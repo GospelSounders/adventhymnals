@@ -1,17 +1,17 @@
 ---
 title: |
-    050. Mungu Nawe Nanyi Daima - Nyimbo za kristo
+    050. Mungu Nawe Nanyi Daima - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 050. Mungu Nawe Nanyi Daima. Mungu nawe nanyi daima; hata twonane ya pili, Awachunge kwa fadhili, Mungu nawe nanyi daima.   Chorus Hata twonane juu, hata twonane tena kwake; Hata twonane juu, Mungu nawe nanyi daima.  
+        Nyimbo Za Kristo 050. Mungu Nawe Nanyi Daima. Mungu nawe nanyi daima; hata twonane ya pili, Awachunge kwa fadhili, Mungu nawe nanyi daima.   Chorus Hata twonane juu, hata twonane tena kwake; Hata twonane juu, Mungu nawe nanyi daima.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mungu Nawe Nanyi Daima, Mungu nawe nanyi daima; hata twonane ya pili,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mungu Nawe Nanyi Daima, Mungu nawe nanyi daima; hata twonane ya pili,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 050. MUNGU NAWE NANYI DAIMA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

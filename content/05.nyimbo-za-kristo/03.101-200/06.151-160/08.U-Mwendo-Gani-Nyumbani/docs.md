@@ -1,17 +1,17 @@
 ---
 title: |
-    158. U Mwendo Gani Nyumbani - Nyimbo za kristo
+    158. U Mwendo Gani Nyumbani - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 158. U Mwendo Gani Nyumbani. U mwendo gain nyumbani? Mlinzi akanijibu,  "Usiku sasa waisha, macheo karibu." Usihuzunike tena, bali ulemee mwendo  Hata ushike ufalme kule mwangani juu.   
+        Nyimbo Za Kristo 158. U Mwendo Gani Nyumbani. U mwendo gain nyumbani? Mlinzi akanijibu,  "Usiku sasa waisha, macheo karibu." Usihuzunike tena, bali ulemee mwendo  Hata ushike ufalme kule mwangani juu.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, U Mwendo Gani Nyumbani, U mwendo gain nyumbani? Mlinzi akanijibu, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, U Mwendo Gani Nyumbani, U mwendo gain nyumbani? Mlinzi akanijibu, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 158. U MWENDO GANI NYUMBANI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

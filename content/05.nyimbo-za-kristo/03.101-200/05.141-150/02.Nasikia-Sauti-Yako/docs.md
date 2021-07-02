@@ -1,17 +1,17 @@
 ---
 title: |
-    142. Nasikia Sauti Yako - Nyimbo za kristo
+    142. Nasikia Sauti Yako - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 142. Nasikia Sauti Yako. Nasikia mwito, Ni sauti yako;  Nikasafiwe kwa damu Ya kwangikwa kwako.   Chorus Nimesongea mtini pako,  Unisafi kwa damu ya kwangikwa kwako.   
+        Nyimbo Za Kristo 142. Nasikia Sauti Yako. Nasikia mwito, Ni sauti yako;  Nikasafiwe kwa damu Ya kwangikwa kwako.   Chorus Nimesongea mtini pako,  Unisafi kwa damu ya kwangikwa kwako.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nasikia Sauti Yako, Nasikia mwito, Ni sauti yako; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nasikia Sauti Yako, Nasikia mwito, Ni sauti yako; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 142. NASIKIA SAUTI YAKO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

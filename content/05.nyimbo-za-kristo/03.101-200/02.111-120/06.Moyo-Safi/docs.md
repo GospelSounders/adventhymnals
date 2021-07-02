@@ -1,17 +1,17 @@
 ---
 title: |
-    116. Moyo Safi - Nyimbo za kristo
+    116. Moyo Safi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 116. Moyo Safi. Bwana ninataka hili, kwa kuwa nimechafuka,  Kwa moto au kwa maji unisafishe kabisa.  Chorus Unisafishe Mwokozi ndani, na nje, kwa moto  Utakavyo: ili dhambi ife kwangu, ife kwangu.  2	 Kupewa hekima yote, itakuwa tunu kubwa;  Lakini moyo safi ni, bora kwangu, bora kwangu!  
+        Nyimbo Za Kristo 116. Moyo Safi. Bwana ninataka hili, kwa kuwa nimechafuka,  Kwa moto au kwa maji unisafishe kabisa.  Chorus Unisafishe Mwokozi ndani, na nje, kwa moto  Utakavyo: ili dhambi ife kwangu, ife kwangu.  2	 Kupewa hekima yote, itakuwa tunu kubwa;  Lakini moyo safi ni, bora kwangu, bora kwangu!  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Moyo Safi, Bwana ninataka hili, kwa kuwa nimechafuka, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Moyo Safi, Bwana ninataka hili, kwa kuwa nimechafuka, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 116. MOYO SAFI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

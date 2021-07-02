@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 041-050
+title: Nyimbo Za Kristo - 041-050
 metadata:
     description: |
-        Nyimbo za kristo - 041-050
+        Nyimbo Za Kristo - 041-050
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 041-050
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 041-050
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 041-050
+## Nyimbo Za Kristo - 041-050
 
 # Index of Titles
 # | Title                        

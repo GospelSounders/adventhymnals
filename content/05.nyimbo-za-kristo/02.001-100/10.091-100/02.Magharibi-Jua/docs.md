@@ -1,17 +1,17 @@
 ---
 title: |
-    092. Magharibi Jua - Nyimbo za kristo
+    092. Magharibi Jua - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 092. Magharibi Jua. Magharibi jua limekwisha kushuka, Mwezi na nyota sasa vinamsifu Muumba wa usiku  Chorus Mungu Mtukufu, Mungu Mkuu, Wote juu mbinguni, na wanadamu chini Twakusifu.  
+        Nyimbo Za Kristo 092. Magharibi Jua. Magharibi jua limekwisha kushuka, Mwezi na nyota sasa vinamsifu Muumba wa usiku  Chorus Mungu Mtukufu, Mungu Mkuu, Wote juu mbinguni, na wanadamu chini Twakusifu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Magharibi Jua, Magharibi jua limekwisha kushuka,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Magharibi Jua, Magharibi jua limekwisha kushuka,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 092. MAGHARIBI JUA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

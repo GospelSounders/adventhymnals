@@ -1,17 +1,17 @@
 ---
 title: |
-    006. Kumekucha Kwa Uzuri - Nyimbo za kristo
+    006. Kumekucha Kwa Uzuri - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 006. Kumekucha Kwa Uzuri. Kumekucha kwa uzuri. Nafumbua macho; Baba amenihifadhi, Ni wake moto.  
+        Nyimbo Za Kristo 006. Kumekucha Kwa Uzuri. Kumekucha kwa uzuri. Nafumbua macho; Baba amenihifadhi, Ni wake moto.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kumekucha Kwa Uzuri, Kumekucha kwa uzuri. Nafumbua macho;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kumekucha Kwa Uzuri, Kumekucha kwa uzuri. Nafumbua macho;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 006. KUMEKUCHA KWA UZURI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 111-120
+title: Nyimbo Za Kristo - 111-120
 metadata:
     description: |
-        Nyimbo za kristo - 111-120
+        Nyimbo Za Kristo - 111-120
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 111-120
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 111-120
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 111-120
+## Nyimbo Za Kristo - 111-120
 
 # Index of Titles
 # | Title                        

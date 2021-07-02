@@ -1,17 +1,17 @@
 ---
 title: |
-    202. Sikia Mlio - Nyimbo za kristo
+    202. Sikia Mlio - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 202. Sikia Mlio. Sikia mlio! Pesa koponi  Zinalialia - zote kwa Yesu.  Chorus	 Kuanguka kuanguka pesa koponi, Kila moja kwako, Yesu zipokee.  
+        Nyimbo Za Kristo 202. Sikia Mlio. Sikia mlio! Pesa koponi  Zinalialia - zote kwa Yesu.  Chorus	 Kuanguka kuanguka pesa koponi, Kila moja kwako, Yesu zipokee.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Sikia Mlio, Sikia mlio! Pesa koponi . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Sikia Mlio, Sikia mlio! Pesa koponi . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 202. SIKIA MLIO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    057. Usikatae Kazi - Nyimbo za kristo
+    057. Usikatae Kazi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 057. Usikatae Kazi. Usiikatae kazi yake Bwana; Ukae tayari kuifanya kazi; Uende po pote Mungu akwitapo, Nawe utaona furaha kazini  Chorus Njoo, We! Usikatae; Njoo, We! Uifanye kazi; Usiikatae kazi yake Bwana, Ili hatimaye usikatazwe juu.  
+        Nyimbo Za Kristo 057. Usikatae Kazi. Usiikatae kazi yake Bwana; Ukae tayari kuifanya kazi; Uende po pote Mungu akwitapo, Nawe utaona furaha kazini  Chorus Njoo, We! Usikatae; Njoo, We! Uifanye kazi; Usiikatae kazi yake Bwana, Ili hatimaye usikatazwe juu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Usikatae Kazi, Usiikatae kazi yake Bwana; Ukae tayari kuifanya kazi;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Usikatae Kazi, Usiikatae kazi yake Bwana; Ukae tayari kuifanya kazi;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 057. USIKATAE KAZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

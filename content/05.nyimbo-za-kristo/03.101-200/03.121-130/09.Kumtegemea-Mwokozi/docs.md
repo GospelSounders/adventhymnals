@@ -1,17 +1,17 @@
 ---
 title: |
-    129. Kumtegemea Mwokozi - Nyimbo za kristo
+    129. Kumtegemea Mwokozi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 129. Kumtegemea Mwokozi. Kumtengemea Mwokozi, kwangu tamu kabisa, Kukubali neno lake, Nina raha moyoni.  Chorus Yesu,Yesu namwamini, Nimemwona thabiti, Yesu,Yesu, yu thamani, Ahadi zake kweli.  
+        Nyimbo Za Kristo 129. Kumtegemea Mwokozi. Kumtengemea Mwokozi, kwangu tamu kabisa, Kukubali neno lake, Nina raha moyoni.  Chorus Yesu,Yesu namwamini, Nimemwona thabiti, Yesu,Yesu, yu thamani, Ahadi zake kweli.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kumtegemea Mwokozi, Kumtengemea Mwokozi, kwangu tamu kabisa,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kumtegemea Mwokozi, Kumtengemea Mwokozi, kwangu tamu kabisa,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 129. KUMTEGEMEA MWOKOZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 101-110
+title: Nyimbo Za Kristo - 101-110
 metadata:
     description: |
-        Nyimbo za kristo - 101-110
+        Nyimbo Za Kristo - 101-110
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 101-110
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 101-110
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 101-110
+## Nyimbo Za Kristo - 101-110
 
 # Index of Titles
 # | Title                        

@@ -1,17 +1,17 @@
 ---
 title: |
-    173. Hatujui Saa - Nyimbo za kristo
+    173. Hatujui Saa - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 173. Hatujui Saa. Hatujui sa-a ya kuja kwa Bwana, Lakini dalili zasema karibu, Atakaporudi, -lakini kwa kweli, Hatujui sa-a.  Chorus Atakuja, kwa vile tukeshe; Atakuja Mwokozi, Aleluya! Atakuja kwa fahari ya Baba yake, -Hatujui saa.  
+        Nyimbo Za Kristo 173. Hatujui Saa. Hatujui sa-a ya kuja kwa Bwana, Lakini dalili zasema karibu, Atakaporudi, -lakini kwa kweli, Hatujui sa-a.  Chorus Atakuja, kwa vile tukeshe; Atakuja Mwokozi, Aleluya! Atakuja kwa fahari ya Baba yake, -Hatujui saa.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Hatujui Saa, Hatujui sa-a ya kuja kwa Bwana,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Hatujui Saa, Hatujui sa-a ya kuja kwa Bwana,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 173. HATUJUI SAA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    207. Nani Afanya Maua - Nyimbo za kristo
+    207. Nani Afanya Maua - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 207. Nani Afanya Maua. Nani ayafanya maua, maua,  Nani ayafanya, Mungu juu.   
+        Nyimbo Za Kristo 207. Nani Afanya Maua. Nani ayafanya maua, maua,  Nani ayafanya, Mungu juu.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nani Afanya Maua, Nani ayafanya maua, maua, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nani Afanya Maua, Nani ayafanya maua, maua, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 207. NANI AFANYA MAUA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

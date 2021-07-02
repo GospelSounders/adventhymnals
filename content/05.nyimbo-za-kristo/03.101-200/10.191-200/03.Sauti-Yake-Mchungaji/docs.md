@@ -1,17 +1,17 @@
 ---
 title: |
-    193. Sauti Yake Mchungaji - Nyimbo za kristo
+    193. Sauti Yake Mchungaji - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 193. Sauti Yake Mchungaji. Sauti ya Mchungaji, ninasikia jangwani,  Kondoo waliopotea anwaita warudi.  Chorus Leteni, leteni, leteni toka dhambini;  Leteni, leteni, waleteni kwa Yesu.  
+        Nyimbo Za Kristo 193. Sauti Yake Mchungaji. Sauti ya Mchungaji, ninasikia jangwani,  Kondoo waliopotea anwaita warudi.  Chorus Leteni, leteni, leteni toka dhambini;  Leteni, leteni, waleteni kwa Yesu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Sauti Yake Mchungaji, Sauti ya Mchungaji, ninasikia jangwani, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Sauti Yake Mchungaji, Sauti ya Mchungaji, ninasikia jangwani, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 193. SAUTI YAKE MCHUNGAJI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

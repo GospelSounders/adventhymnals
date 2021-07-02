@@ -1,17 +1,17 @@
 ---
 title: |
-    130. Yesu Kwetu Ni Rafiki - Nyimbo za kristo
+    130. Yesu Kwetu Ni Rafiki - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 130. Yesu Kwetu Ni Rafiki. Yesu kwetu ni rafiki, hwambiwa haja pia:  Tukiomba kwa Babaye, maombi asikia: Lakini twajikosesha,twajitweka vibaya:  Kama tulimwomba Mungu, dua alisikia.   
+        Nyimbo Za Kristo 130. Yesu Kwetu Ni Rafiki. Yesu kwetu ni rafiki, hwambiwa haja pia:  Tukiomba kwa Babaye, maombi asikia: Lakini twajikosesha,twajitweka vibaya:  Kama tulimwomba Mungu, dua alisikia.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yesu Kwetu Ni Rafiki, Yesu kwetu ni rafiki, hwambiwa haja pia: . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yesu Kwetu Ni Rafiki, Yesu kwetu ni rafiki, hwambiwa haja pia: . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 130. YESU KWETU NI RAFIKI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

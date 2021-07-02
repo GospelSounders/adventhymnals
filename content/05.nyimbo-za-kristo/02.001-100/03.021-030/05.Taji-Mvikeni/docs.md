@@ -1,17 +1,17 @@
 ---
 title: |
-    025. Taji Mvikeni - Nyimbo za kristo
+    025. Taji Mvikeni - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 025. Taji Mvikeni. Taji mvikeni Taji nyingisana, kondoo mwake Kitini, Bwana wa mabwana; Nami tamsifu Alikufa kwangu, Ni mfalme mtukufu, Seyidi wa mbingu.  
+        Nyimbo Za Kristo 025. Taji Mvikeni. Taji mvikeni Taji nyingisana, kondoo mwake Kitini, Bwana wa mabwana; Nami tamsifu Alikufa kwangu, Ni mfalme mtukufu, Seyidi wa mbingu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Taji Mvikeni, Taji mvikeni Taji nyingisana, kondoo mwake Kitini,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Taji Mvikeni, Taji mvikeni Taji nyingisana, kondoo mwake Kitini,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 025. TAJI MVIKENI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

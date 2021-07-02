@@ -1,17 +1,17 @@
 ---
 title: |
-    128. Taamini Nitii Pia - Nyimbo za kristo
+    128. Taamini Nitii Pia - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 128. Taamini Nitii Pia. Namwandama Bwana kwa alilonena, Njia zangu huning`azia; Na nikimridhisha atanidumisha, Taamini nitii pia.   Chorus Kuamini, Njiani pweke ni hii  Ya furaha kwa Yesu: Amini ukatii.  
+        Nyimbo Za Kristo 128. Taamini Nitii Pia. Namwandama Bwana kwa alilonena, Njia zangu huning`azia; Na nikimridhisha atanidumisha, Taamini nitii pia.   Chorus Kuamini, Njiani pweke ni hii  Ya furaha kwa Yesu: Amini ukatii.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Taamini Nitii Pia, Namwandama Bwana kwa alilonena, Njia zangu huning`azia;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Taamini Nitii Pia, Namwandama Bwana kwa alilonena, Njia zangu huning`azia;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 128. TAAMINI NITII PIA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

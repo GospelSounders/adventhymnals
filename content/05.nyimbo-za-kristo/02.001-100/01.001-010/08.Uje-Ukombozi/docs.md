@@ -1,17 +1,17 @@
 ---
 title: |
-    008. Uje Ukombozi - Nyimbo za kristo
+    008. Uje Ukombozi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 008. Uje Ukombozi. Unisikie ninapolia, Uje. M-kombozi; Moyo wangu hukutazamia, Uje. M-kombozi.  Chorus Nimepotea mbali na kwangu, Nimetanga peke yangu; Unichukulie sasa kwako: Uje M-kombozi.  
+        Nyimbo Za Kristo 008. Uje Ukombozi. Unisikie ninapolia, Uje. M-kombozi; Moyo wangu hukutazamia, Uje. M-kombozi.  Chorus Nimepotea mbali na kwangu, Nimetanga peke yangu; Unichukulie sasa kwako: Uje M-kombozi.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Uje Ukombozi, Unisikie ninapolia, Uje. M-kombozi;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Uje Ukombozi, Unisikie ninapolia, Uje. M-kombozi;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 008. UJE UKOMBOZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

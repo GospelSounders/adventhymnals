@@ -1,17 +1,17 @@
 ---
 title: |
-    110. Mlango Wazi - Nyimbo za kristo
+    110. Mlango Wazi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 110. Mlango Wazi. Mlango uko wa wema, Mlango wazi huo:  Yesu ameufungua Na hakuna kufunga    Chorus Mlango wazi, ajabu, Uliachwa wazi kwangu?  Kwangu, Kwangu? Wazi, wazi kwangu?  
+        Nyimbo Za Kristo 110. Mlango Wazi. Mlango uko wa wema, Mlango wazi huo:  Yesu ameufungua Na hakuna kufunga    Chorus Mlango wazi, ajabu, Uliachwa wazi kwangu?  Kwangu, Kwangu? Wazi, wazi kwangu?  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mlango Wazi, Mlango uko wa wema, Mlango wazi huo: . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mlango Wazi, Mlango uko wa wema, Mlango wazi huo: . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 110. MLANGO WAZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

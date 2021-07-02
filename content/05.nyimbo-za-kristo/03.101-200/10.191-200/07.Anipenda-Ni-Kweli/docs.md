@@ -1,17 +1,17 @@
 ---
 title: |
-    197. Anipenda Ni Kweli - Nyimbo za kristo
+    197. Anipenda Ni Kweli - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 197. Anipenda Ni Kweli. Anipenda ni kweli: Mungu anena hili;  Sisi wake watoto kutulinda si zito.  Chorus Yesu Mwokozi ananipenda; Kweli hupenda, Mungu  amesema.  
+        Nyimbo Za Kristo 197. Anipenda Ni Kweli. Anipenda ni kweli: Mungu anena hili;  Sisi wake watoto kutulinda si zito.  Chorus Yesu Mwokozi ananipenda; Kweli hupenda, Mungu  amesema.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Anipenda Ni Kweli, Anipenda ni kweli: Mungu anena hili; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Anipenda Ni Kweli, Anipenda ni kweli: Mungu anena hili; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 197. ANIPENDA NI KWELI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    175. Uso Kwa Uso - Nyimbo za kristo
+    175. Uso Kwa Uso - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 175. Uso Kwa Uso. Nitaonana na Yesu, uso kwa uso kweli;  Siku ile shangwe tele nikimwona Mwokozi  Chorus Tutaonana kwa macho, huko kwetu mbinguni;  Na kwa utukufu wake  nitamwona milele.  
+        Nyimbo Za Kristo 175. Uso Kwa Uso. Nitaonana na Yesu, uso kwa uso kweli;  Siku ile shangwe tele nikimwona Mwokozi  Chorus Tutaonana kwa macho, huko kwetu mbinguni;  Na kwa utukufu wake  nitamwona milele.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Uso Kwa Uso, Nitaonana na Yesu, uso kwa uso kweli; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Uso Kwa Uso, Nitaonana na Yesu, uso kwa uso kweli; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 175. USO KWA USO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

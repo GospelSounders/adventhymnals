@@ -1,17 +1,17 @@
 ---
 title: |
-    145. Namtaka Bwana Yesu - Nyimbo za kristo
+    145. Namtaka Bwana Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 145. Namtaka Bwana Yesu. Ulimwengu siutaki, Namtaka Bwana Yesu;  Dunia hunidanganya; Yesu yu mwaminifu.  Chorus	 Rehema ni ya ajabu! Pendo bila kipimo!  Wokovu mkamilifu, Amana ya uzima!  
+        Nyimbo Za Kristo 145. Namtaka Bwana Yesu. Ulimwengu siutaki, Namtaka Bwana Yesu;  Dunia hunidanganya; Yesu yu mwaminifu.  Chorus	 Rehema ni ya ajabu! Pendo bila kipimo!  Wokovu mkamilifu, Amana ya uzima!  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Namtaka Bwana Yesu, Ulimwengu siutaki, Namtaka Bwana Yesu; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Namtaka Bwana Yesu, Ulimwengu siutaki, Namtaka Bwana Yesu; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 145. NAMTAKA BWANA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

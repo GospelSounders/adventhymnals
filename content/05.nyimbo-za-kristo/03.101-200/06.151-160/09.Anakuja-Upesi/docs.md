@@ -1,17 +1,17 @@
 ---
 title: |
-    159. Anakuja Upesi - Nyimbo za kristo
+    159. Anakuja Upesi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 159. Anakuja Upesi. Anakuja upesi, Yesu Bwana wetu, Msafiri  mbali na kwao; Alisema dhahiri, "Nitakuja tena";  Amina; na uje, E Bwana.   Chorus Yuaja, Yesu atarudi sasa; Anakuja duniani. Wasafiri wote watapumzika, Yesu anaporudi tena.  
+        Nyimbo Za Kristo 159. Anakuja Upesi. Anakuja upesi, Yesu Bwana wetu, Msafiri  mbali na kwao; Alisema dhahiri, "Nitakuja tena";  Amina; na uje, E Bwana.   Chorus Yuaja, Yesu atarudi sasa; Anakuja duniani. Wasafiri wote watapumzika, Yesu anaporudi tena.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Anakuja Upesi, Anakuja upesi, Yesu Bwana wetu,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Anakuja Upesi, Anakuja upesi, Yesu Bwana wetu,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 159. ANAKUJA UPESI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

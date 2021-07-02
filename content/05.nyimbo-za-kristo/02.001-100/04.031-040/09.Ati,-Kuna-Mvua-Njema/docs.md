@@ -1,17 +1,17 @@
 ---
 title: |
-    039. Ati, Kuna Mvua Njema - Nyimbo za kristo
+    039. Ati, Kuna Mvua Njema - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 039. Ati, Kuna Mvua Njema. Ati, kuna mvua njema yenye neema; Watu wanaona vyema Bwana, huninyeshei?  Chorus Na mimi? Na mimi? Bwana, huninyeshei?  
+        Nyimbo Za Kristo 039. Ati, Kuna Mvua Njema. Ati, kuna mvua njema yenye neema; Watu wanaona vyema Bwana, huninyeshei?  Chorus Na mimi? Na mimi? Bwana, huninyeshei?  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ati, Kuna Mvua Njema, Ati, kuna mvua njema yenye neema;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ati, Kuna Mvua Njema, Ati, kuna mvua njema yenye neema;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 039. ATI, KUNA MVUA NJEMA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

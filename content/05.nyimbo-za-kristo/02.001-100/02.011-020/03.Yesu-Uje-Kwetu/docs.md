@@ -1,17 +1,17 @@
 ---
 title: |
-    013. Yesu Uje Kwetu - Nyimbo za kristo
+    013. Yesu Uje Kwetu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 013. Yesu Uje Kwetu. Umetuahidi kwamba wawili watatu , Kwajina lako wakija, Utabariki; Kwa hivi leo twapiga magoti nyumbani pako.  Chorus Yesu uje kwetu Utubariki; Yesu uje kwetu Uwe karibu.  
+        Nyimbo Za Kristo 013. Yesu Uje Kwetu. Umetuahidi kwamba wawili watatu , Kwajina lako wakija, Utabariki; Kwa hivi leo twapiga magoti nyumbani pako.  Chorus Yesu uje kwetu Utubariki; Yesu uje kwetu Uwe karibu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yesu Uje Kwetu, Umetuahidi kwamba wawili watatu , Kwajina lako wakija,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yesu Uje Kwetu, Umetuahidi kwamba wawili watatu , Kwajina lako wakija,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 013. YESU UJE KWETU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

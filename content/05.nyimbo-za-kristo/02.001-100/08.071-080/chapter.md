@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 071-080
+title: Nyimbo Za Kristo - 071-080
 metadata:
     description: |
-        Nyimbo za kristo - 071-080
+        Nyimbo Za Kristo - 071-080
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 071-080
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 071-080
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 071-080
+## Nyimbo Za Kristo - 071-080
 
 # Index of Titles
 # | Title                        

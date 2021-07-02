@@ -1,17 +1,17 @@
 ---
 title: |
-    176. Ati Tuonane Mtoni - Nyimbo za kristo
+    176. Ati Tuonane Mtoni - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 176. Ati Tuonane Mtoni. Ati tuonane mtoni? Maji mazuri ya mbingu;  Yanatokea mwangani, penye kiti cha Mungu.  Chorus Naam, tuonane mtoni! Watakatifu, kwenu ni mtoni!  Tutakutanika kule mtoni penye kiti cha Mungu.  
+        Nyimbo Za Kristo 176. Ati Tuonane Mtoni. Ati tuonane mtoni? Maji mazuri ya mbingu;  Yanatokea mwangani, penye kiti cha Mungu.  Chorus Naam, tuonane mtoni! Watakatifu, kwenu ni mtoni!  Tutakutanika kule mtoni penye kiti cha Mungu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ati Tuonane Mtoni, Ati tuonane mtoni? Maji mazuri ya mbingu; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ati Tuonane Mtoni, Ati tuonane mtoni? Maji mazuri ya mbingu; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 176. ATI TUONANE MTONI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

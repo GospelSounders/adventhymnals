@@ -1,17 +1,17 @@
 ---
 title: |
-    044. Urafiki Wa Yesu - Nyimbo za kristo
+    044. Urafiki Wa Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 044. Urafiki Wa Yesu. Hakuna rafiki kama Yesu, Hakuna, hakuna! Tabibu mwingine wa rohoni, Hakuna, hakuna!  Chorus Yesu ajua shida zetu; Daima ataongoza Hakuna rafiki kama Yesu, Hakuna, hakuna!  
+        Nyimbo Za Kristo 044. Urafiki Wa Yesu. Hakuna rafiki kama Yesu, Hakuna, hakuna! Tabibu mwingine wa rohoni, Hakuna, hakuna!  Chorus Yesu ajua shida zetu; Daima ataongoza Hakuna rafiki kama Yesu, Hakuna, hakuna!  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Urafiki Wa Yesu, Hakuna rafiki kama Yesu, Hakuna, hakuna!. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Urafiki Wa Yesu, Hakuna rafiki kama Yesu, Hakuna, hakuna!. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 044. URAFIKI WA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

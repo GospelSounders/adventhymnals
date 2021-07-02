@@ -1,17 +1,17 @@
 ---
 title: |
-    004. Jina LA Yesu Salamu - Nyimbo za kristo
+    004. Jina LA Yesu Salamu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 004. Jina LA Yesu Salamu. Jina la Yesu, salamu! Lisujidieni, Ninyi mbinguni, hukumu, Na enzi mpeni Ninyi mbinguni, hukumu, Na enzi mpeni  
+        Nyimbo Za Kristo 004. Jina LA Yesu Salamu. Jina la Yesu, salamu! Lisujidieni, Ninyi mbinguni, hukumu, Na enzi mpeni Ninyi mbinguni, hukumu, Na enzi mpeni  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Jina LA Yesu Salamu, Jina la Yesu, salamu! Lisujidieni,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Jina LA Yesu Salamu, Jina la Yesu, salamu! Lisujidieni,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 004. JINA LA YESU SALAMU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

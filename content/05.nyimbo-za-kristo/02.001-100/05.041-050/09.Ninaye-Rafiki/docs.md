@@ -1,17 +1,17 @@
 ---
 title: |
-    049. Ninaye Rafiki - Nyimbo za kristo
+    049. Ninaye Rafiki - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 049. Ninaye Rafiki. Ninaye rafiki naye Alinipenda mbele; Kwa kamba za pendo lake Nimefungwa milele.	 Aukaza moyo wangu, Uache ugeuzi, Ninakaa ndani yake, Yeye Kwangu, milele.  
+        Nyimbo Za Kristo 049. Ninaye Rafiki. Ninaye rafiki naye Alinipenda mbele; Kwa kamba za pendo lake Nimefungwa milele.	 Aukaza moyo wangu, Uache ugeuzi, Ninakaa ndani yake, Yeye Kwangu, milele.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ninaye Rafiki, Ninaye rafiki naye Alinipenda mbele;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ninaye Rafiki, Ninaye rafiki naye Alinipenda mbele;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 049. NINAYE RAFIKI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

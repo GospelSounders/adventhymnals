@@ -1,17 +1,17 @@
 ---
 title: |
-    043. Furaha Gani! - Nyimbo za kristo
+    043. Furaha Gani! - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 043. Furaha Gani!. Furaha gain na ushiriki, Nikimtegemea Yesu tu! Baraka gain, tena amani, Nikimtegemea Yesu tu!  Chorus Tegemea, salama bila hatari; Tegemea, tegemea  Mwokozi Yesu.  
+        Nyimbo Za Kristo 043. Furaha Gani!. Furaha gain na ushiriki, Nikimtegemea Yesu tu! Baraka gain, tena amani, Nikimtegemea Yesu tu!  Chorus Tegemea, salama bila hatari; Tegemea, tegemea  Mwokozi Yesu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Furaha Gani!, Furaha gain na ushiriki, Nikimtegemea Yesu tu!. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Furaha Gani!, Furaha gain na ushiriki, Nikimtegemea Yesu tu!. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 043. FURAHA GANI!
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

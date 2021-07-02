@@ -1,17 +1,17 @@
 ---
 title: |
-    209. Nakupenda Sana Kufika - Nyimbo za kristo
+    209. Nakupenda Sana Kufika - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 209. Nakupenda Sana Kufika. Napenda sana kufika, skuli ya Sabato  Napenda sana kufika, skuli ya Sabato  
+        Nyimbo Za Kristo 209. Nakupenda Sana Kufika. Napenda sana kufika, skuli ya Sabato  Napenda sana kufika, skuli ya Sabato  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nakupenda Sana Kufika, Napenda sana kufika, skuli ya Sabato . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nakupenda Sana Kufika, Napenda sana kufika, skuli ya Sabato . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 209. NAKUPENDA SANA KUFIKA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

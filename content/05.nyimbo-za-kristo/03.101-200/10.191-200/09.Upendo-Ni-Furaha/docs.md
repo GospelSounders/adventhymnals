@@ -1,17 +1,17 @@
 ---
 title: |
-    199. Upendo Ni Furaha - Nyimbo za kristo
+    199. Upendo Ni Furaha - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 199. Upendo Ni Furaha. Upendo ni furaha, ni kweli desturi; Yake kuzisahihisha, njia zetu zote.  Chorus Yu pendo: tu watoto wake, Yu pendo, Mwana wa Mungu!  
+        Nyimbo Za Kristo 199. Upendo Ni Furaha. Upendo ni furaha, ni kweli desturi; Yake kuzisahihisha, njia zetu zote.  Chorus Yu pendo: tu watoto wake, Yu pendo, Mwana wa Mungu!  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Upendo Ni Furaha, Upendo ni furaha, ni kweli desturi;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Upendo Ni Furaha, Upendo ni furaha, ni kweli desturi;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 199. UPENDO NI FURAHA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

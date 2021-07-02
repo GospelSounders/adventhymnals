@@ -1,17 +1,17 @@
 ---
 title: |
-    023. Yesu Furaha Ya Moyo - Nyimbo za kristo
+    023. Yesu Furaha Ya Moyo - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 023. Yesu Furaha Ya Moyo. Yesu, furaha ya moyo!Hazina ya pendo, na nuru. Yote yatupendezayo, yasilinganishwe nawe.  
+        Nyimbo Za Kristo 023. Yesu Furaha Ya Moyo. Yesu, furaha ya moyo!Hazina ya pendo, na nuru. Yote yatupendezayo, yasilinganishwe nawe.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yesu Furaha Ya Moyo, Yesu, furaha ya moyo!Hazina ya pendo, na nuru.. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yesu Furaha Ya Moyo, Yesu, furaha ya moyo!Hazina ya pendo, na nuru.. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 023. YESU FURAHA YA MOYO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

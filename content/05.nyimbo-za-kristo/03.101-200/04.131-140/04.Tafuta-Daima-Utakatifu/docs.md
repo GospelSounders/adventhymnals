@@ -1,17 +1,17 @@
 ---
 title: |
-    134. Tafuta Daima Utakatifu - Nyimbo za kristo
+    134. Tafuta Daima Utakatifu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 134. Tafuta Daima Utakatifu. Tafuta daima utakatifu;  Fanya urafiki na Wakristo tu; Nena siku zote, na Bwana wako,  Baraka uombe kwa kila jambo.   
+        Nyimbo Za Kristo 134. Tafuta Daima Utakatifu. Tafuta daima utakatifu;  Fanya urafiki na Wakristo tu; Nena siku zote, na Bwana wako,  Baraka uombe kwa kila jambo.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tafuta Daima Utakatifu, Tafuta daima utakatifu; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tafuta Daima Utakatifu, Tafuta daima utakatifu; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 134. TAFUTA DAIMA UTAKATIFU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

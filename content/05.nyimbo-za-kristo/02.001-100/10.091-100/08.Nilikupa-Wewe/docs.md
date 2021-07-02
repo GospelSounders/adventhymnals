@@ -1,17 +1,17 @@
 ---
 title: |
-    098. Nilikupa Wewe - Nyimbo za kristo
+    098. Nilikupa Wewe - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 098. Nilikupa Wewe. Nilikupa wewe, damu ya moyoni, Ili wokolewe, winuke ufuni.  Chorus Nimekunyima ni wewe? Umenipa nini? Nimekunyima ni wewe? Umenipa nini?  
+        Nyimbo Za Kristo 098. Nilikupa Wewe. Nilikupa wewe, damu ya moyoni, Ili wokolewe, winuke ufuni.  Chorus Nimekunyima ni wewe? Umenipa nini? Nimekunyima ni wewe? Umenipa nini?  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nilikupa Wewe, Nilikupa wewe, damu ya moyoni,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nilikupa Wewe, Nilikupa wewe, damu ya moyoni,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 098. NILIKUPA WEWE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

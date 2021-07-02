@@ -1,17 +1,17 @@
 ---
 title: |
-    111. Tabibu Mkuu - Nyimbo za kristo
+    111. Tabibu Mkuu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 111. Tabibu Mkuu. Tabibu mkuu huyu, Yesu mwenye huruma Atuletaye faraja: Yesu, Mwokozi wetu.  Chorus Imbeni, Malaika, SIfa za Bwana wetu: Jina la pekee kwetu, ni la Yesu Bwana.  
+        Nyimbo Za Kristo 111. Tabibu Mkuu. Tabibu mkuu huyu, Yesu mwenye huruma Atuletaye faraja: Yesu, Mwokozi wetu.  Chorus Imbeni, Malaika, SIfa za Bwana wetu: Jina la pekee kwetu, ni la Yesu Bwana.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tabibu Mkuu, Tabibu mkuu huyu, Yesu mwenye huruma. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tabibu Mkuu, Tabibu mkuu huyu, Yesu mwenye huruma. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 111. TABIBU MKUU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

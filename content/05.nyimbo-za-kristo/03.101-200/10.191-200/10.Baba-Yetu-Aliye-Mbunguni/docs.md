@@ -1,17 +1,17 @@
 ---
 title: |
-    200. Baba Yetu Aliye Mbunguni - Nyimbo za kristo
+    200. Baba Yetu Aliye Mbunguni - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 200. Baba Yetu Aliye Mbunguni. Baba yetu aliye mbinguni, Amenifurahisha yakini. Kuniaambia mwake Chuoni, Ya kuwa name Yesu pendoni.  Chorus Anipenda Mwokozi Yesu, Anipenda, Anipenda;  Anipenda Mwokozi Yesu, Anipenda mimi.  
+        Nyimbo Za Kristo 200. Baba Yetu Aliye Mbunguni. Baba yetu aliye mbinguni, Amenifurahisha yakini. Kuniaambia mwake Chuoni, Ya kuwa name Yesu pendoni.  Chorus Anipenda Mwokozi Yesu, Anipenda, Anipenda;  Anipenda Mwokozi Yesu, Anipenda mimi.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Baba Yetu Aliye Mbunguni, Baba yetu aliye mbinguni,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Baba Yetu Aliye Mbunguni, Baba yetu aliye mbinguni,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 200. BABA YETU ALIYE MBUNGUNI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

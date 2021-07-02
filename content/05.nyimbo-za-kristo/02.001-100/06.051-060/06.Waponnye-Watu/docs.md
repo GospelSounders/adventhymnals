@@ -1,17 +1,17 @@
 ---
 title: |
-    056. Waponnye Watu - Nyimbo za kristo
+    056. Waponnye Watu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 056. Waponnye Watu. Walio kifoni, nenda waponye. Uwatoe walio shimoni; Wanaoanguka uwainue; Habari njema uwajulishe.  Chorus Walio kifoni waokoeni, Mwokozi yuko huwangojea  
+        Nyimbo Za Kristo 056. Waponnye Watu. Walio kifoni, nenda waponye. Uwatoe walio shimoni; Wanaoanguka uwainue; Habari njema uwajulishe.  Chorus Walio kifoni waokoeni, Mwokozi yuko huwangojea  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Waponnye Watu, Walio kifoni, nenda waponye. Uwatoe walio shimoni;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Waponnye Watu, Walio kifoni, nenda waponye. Uwatoe walio shimoni;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 056. WAPONNYE WATU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

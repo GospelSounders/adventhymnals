@@ -1,16 +1,16 @@
 ---
-title: Index of Titles - Church Hymnal 1941
+title: Index of Titles - Nyimbo Za Kristo
 metadata:
     description: |
-        Church Hymnal 1941 - Index of Titles
+        Nyimbo Za Kristo - Index of Titles
     keywords: |
-        Church Hymnal 1941, adventhymnals, advent hymnals, index
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, index
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 
-## Church Hymnal 1941
+## Nyimbo Za Kristo
 
 # Index of Titles
 # | Title                        

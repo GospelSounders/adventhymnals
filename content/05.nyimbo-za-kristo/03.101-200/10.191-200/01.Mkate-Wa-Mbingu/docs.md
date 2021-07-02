@@ -1,17 +1,17 @@
 ---
 title: |
-    191. Mkate Wa Mbingu - Nyimbo za kristo
+    191. Mkate Wa Mbingu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 191. Mkate Wa Mbingu. Mkate wa mbingu mega kwetu; Ulivyotoa kwa thenashara.  Katika kitabu, twakuona.  Moyo unatweta kukutana.  
+        Nyimbo Za Kristo 191. Mkate Wa Mbingu. Mkate wa mbingu mega kwetu; Ulivyotoa kwa thenashara.  Katika kitabu, twakuona.  Moyo unatweta kukutana.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mkate Wa Mbingu, Mkate wa mbingu mega kwetu;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mkate Wa Mbingu, Mkate wa mbingu mega kwetu;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 191. MKATE WA MBINGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

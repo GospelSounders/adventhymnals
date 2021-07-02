@@ -1,17 +1,17 @@
 ---
 title: |
-    055. Twapanda Mapema - Nyimbo za kristo
+    055. Twapanda Mapema - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 055. Twapanda Mapema. Twapanda mapema na mchana kutwa	 Mbegu za fadhili hata jioni Twangojea sasa siku za kuvuna; Tutashangilia wenye mavuno.  Wenye mavuno wenye mavuno, Tutasha ngilia wenye mavuno; Wenye mavuno wenye mavuno, Tutasha ngilia wenye mavuno.  
+        Nyimbo Za Kristo 055. Twapanda Mapema. Twapanda mapema na mchana kutwa	 Mbegu za fadhili hata jioni Twangojea sasa siku za kuvuna; Tutashangilia wenye mavuno.  Wenye mavuno wenye mavuno, Tutasha ngilia wenye mavuno; Wenye mavuno wenye mavuno, Tutasha ngilia wenye mavuno.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Twapanda Mapema, Twapanda mapema na mchana kutwa	. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Twapanda Mapema, Twapanda mapema na mchana kutwa	. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 055. TWAPANDA MAPEMA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

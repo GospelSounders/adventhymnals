@@ -1,17 +1,17 @@
 ---
 title: |
-    122. Yote Namtolea Yesu - Nyimbo za kristo
+    122. Yote Namtolea Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 122. Yote Namtolea Yesu. Yote namtolea Yesu, moyo wangu ni wake:  Ninavutwa na upendo, kwa hivyo, najitoa.   Chorus Yote kwa yesu, Yote kwa Yesu, Upendo wako hushinda; Yesu, natoa.   
+        Nyimbo Za Kristo 122. Yote Namtolea Yesu. Yote namtolea Yesu, moyo wangu ni wake:  Ninavutwa na upendo, kwa hivyo, najitoa.   Chorus Yote kwa yesu, Yote kwa Yesu, Upendo wako hushinda; Yesu, natoa.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yote Namtolea Yesu, Yote namtolea Yesu, moyo wangu ni wake: . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yote Namtolea Yesu, Yote namtolea Yesu, moyo wangu ni wake: . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 122. YOTE NAMTOLEA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

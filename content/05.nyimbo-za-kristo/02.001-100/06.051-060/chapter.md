@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 051-060
+title: Nyimbo Za Kristo - 051-060
 metadata:
     description: |
-        Nyimbo za kristo - 051-060
+        Nyimbo Za Kristo - 051-060
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 051-060
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 051-060
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 051-060
+## Nyimbo Za Kristo - 051-060
 
 # Index of Titles
 # | Title                        

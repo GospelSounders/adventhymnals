@@ -1,17 +1,17 @@
 ---
 title: |
-    026. Tupe Amani - Nyimbo za kristo
+    026. Tupe Amani - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 026. Tupe Amani. Mungu mtukufu Aliyeumba Pepo kuvuma Na radi kali; Toa neema unapotawala, Tupe amni, Bwana wa wema.  
+        Nyimbo Za Kristo 026. Tupe Amani. Mungu mtukufu Aliyeumba Pepo kuvuma Na radi kali; Toa neema unapotawala, Tupe amni, Bwana wa wema.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tupe Amani, Mungu mtukufu Aliyeumba Pepo kuvuma Na radi kali;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tupe Amani, Mungu mtukufu Aliyeumba Pepo kuvuma Na radi kali;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 026. TUPE AMANI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

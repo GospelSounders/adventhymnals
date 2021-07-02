@@ -1,17 +1,17 @@
 ---
 title: |
-    154. Yanipasa Kuwa Naye - Nyimbo za kristo
+    154. Yanipasa Kuwa Naye - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 154. Yanipasa Kuwa Naye. Yanipasa kuwa naye, Mwokozi Bwana wangu.  Akiwa karibu nami, napata nguvu kweli.  Chorus Moyo hauogopi, wala kutikisika.  Nitakwenda apendapo, kwa kuwa anilinda.  
+        Nyimbo Za Kristo 154. Yanipasa Kuwa Naye. Yanipasa kuwa naye, Mwokozi Bwana wangu.  Akiwa karibu nami, napata nguvu kweli.  Chorus Moyo hauogopi, wala kutikisika.  Nitakwenda apendapo, kwa kuwa anilinda.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yanipasa Kuwa Naye, Yanipasa kuwa naye, Mwokozi Bwana wangu. . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yanipasa Kuwa Naye, Yanipasa kuwa naye, Mwokozi Bwana wangu. . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 154. YANIPASA KUWA NAYE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    032. Tangu Kuamini - Nyimbo za kristo
+    032. Tangu Kuamini - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 032. Tangu Kuamini. Ninao wimbo mzuri, Tangu kuamini; Wa mkombozi, Mfalme, Tangu kuamini.  Chorus Tangu kuamini, Jina lake `tasifu, Tangu kuamini, Nitalisifu Jina lake.  
+        Nyimbo Za Kristo 032. Tangu Kuamini. Ninao wimbo mzuri, Tangu kuamini; Wa mkombozi, Mfalme, Tangu kuamini.  Chorus Tangu kuamini, Jina lake `tasifu, Tangu kuamini, Nitalisifu Jina lake.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tangu Kuamini, Ninao wimbo mzuri, Tangu kuamini;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tangu Kuamini, Ninao wimbo mzuri, Tangu kuamini;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 032. TANGU KUAMINI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

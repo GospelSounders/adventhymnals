@@ -1,17 +1,17 @@
 ---
 title: |
-    034. Hadithi Kisa Yesu - Nyimbo za kristo
+    034. Hadithi Kisa Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 034. Hadithi Kisa Yesu. Nipe habari za Yesu, Kwangu ni tamu sana; Kisa chake cha dhamani Hunipendeza sasa. Jinsi malaika wengi walivyoimba sifa, Alipoleta amani kwa watu wa dunia.  Chorus Nipe habari za Yesu, Kaza moyoni mwangu; Kisa chake cha dhamani Hunipendeza sasa.  
+        Nyimbo Za Kristo 034. Hadithi Kisa Yesu. Nipe habari za Yesu, Kwangu ni tamu sana; Kisa chake cha dhamani Hunipendeza sasa. Jinsi malaika wengi walivyoimba sifa, Alipoleta amani kwa watu wa dunia.  Chorus Nipe habari za Yesu, Kaza moyoni mwangu; Kisa chake cha dhamani Hunipendeza sasa.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Hadithi Kisa Yesu, Nipe habari za Yesu, Kwangu ni tamu sana;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Hadithi Kisa Yesu, Nipe habari za Yesu, Kwangu ni tamu sana;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 034. HADITHI KISA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

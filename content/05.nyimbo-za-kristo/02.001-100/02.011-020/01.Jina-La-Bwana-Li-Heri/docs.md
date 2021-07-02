@@ -1,17 +1,17 @@
 ---
 title: |
-    011. Jina La Bwana Li Heri - Nyimbo za kristo
+    011. Jina La Bwana Li Heri - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 011. Jina La Bwana Li Heri. Sauti zote ziimbe, jina la Yesu li heri ! Sifa za mfalme Mungu, jina la Yesu li heri !  Chorus Jina li heri, jina li heri, jina la Yesu li heri. Jina li heri, jina li heri, jina la Yesu li heri  
+        Nyimbo Za Kristo 011. Jina La Bwana Li Heri. Sauti zote ziimbe, jina la Yesu li heri ! Sifa za mfalme Mungu, jina la Yesu li heri !  Chorus Jina li heri, jina li heri, jina la Yesu li heri. Jina li heri, jina li heri, jina la Yesu li heri  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Jina La Bwana Li Heri, Sauti zote ziimbe, jina la Yesu li heri !. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Jina La Bwana Li Heri, Sauti zote ziimbe, jina la Yesu li heri !. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 011. JINA LA BWANA LI HERI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    109. Anisikiaye - Nyimbo za kristo
+    109. Anisikiaye - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 109. Anisikiaye. Anisikiaye, aliye yote, sana litangae, wajue wote, Duniani kote neno wapate, atakaye na aje!  Chorus Ni "atakaye," ni "atakaye";   Pwani hata bara, na litangae:  Ni Baba mpenzi alinganaye atakaye na aje.  
+        Nyimbo Za Kristo 109. Anisikiaye. Anisikiaye, aliye yote, sana litangae, wajue wote, Duniani kote neno wapate, atakaye na aje!  Chorus Ni "atakaye," ni "atakaye";   Pwani hata bara, na litangae:  Ni Baba mpenzi alinganaye atakaye na aje.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Anisikiaye, Anisikiaye, aliye yote, sana litangae, wajue wote,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Anisikiaye, Anisikiaye, aliye yote, sana litangae, wajue wote,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 109. ANISIKIAYE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

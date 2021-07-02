@@ -1,17 +1,17 @@
 ---
 title: |
-    028. Jina La Thamani - Nyimbo za kristo
+    028. Jina La Thamani - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 028. Jina La Thamani. Jina lake Yesu tamu, Lihifadhi moyoni; Litakufariji ndugu,Enda nalo popote.  Chorus Jina la Thamani, (Thamani)  (thamani) Tumai la dunia Jina la thamani - - tamu!) Furaha ya mbinguni.  
+        Nyimbo Za Kristo 028. Jina La Thamani. Jina lake Yesu tamu, Lihifadhi moyoni; Litakufariji ndugu,Enda nalo popote.  Chorus Jina la Thamani, (Thamani)  (thamani) Tumai la dunia Jina la thamani - - tamu!) Furaha ya mbinguni.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Jina La Thamani, Jina lake Yesu tamu, Lihifadhi moyoni;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Jina La Thamani, Jina lake Yesu tamu, Lihifadhi moyoni;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 028. JINA LA THAMANI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

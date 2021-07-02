@@ -1,17 +1,17 @@
 ---
 title: |
-    113. Bubujiko - Nyimbo za kristo
+    113. Bubujiko - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 113. Bubujiko. Damu imebubujika, Ni ya Imanweli,  Wakioga wenye taka, Husafiwa kweli.  
+        Nyimbo Za Kristo 113. Bubujiko. Damu imebubujika, Ni ya Imanweli,  Wakioga wenye taka, Husafiwa kweli.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Bubujiko, Damu imebubujika, Ni ya Imanweli, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Bubujiko, Damu imebubujika, Ni ya Imanweli, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 113. BUBUJIKO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

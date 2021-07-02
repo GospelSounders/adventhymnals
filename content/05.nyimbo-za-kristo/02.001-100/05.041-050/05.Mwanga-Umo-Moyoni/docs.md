@@ -1,17 +1,17 @@
 ---
 title: |
-    045. Mwanga Umo Moyoni - Nyimbo za kristo
+    045. Mwanga Umo Moyoni - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 045. Mwanga Umo Moyoni. Mlimani pana mwanga, Mwanga wa jua zuri Shambani na baharini Jua tukufu liko; Mwanga uliyo mkubwa Umo moyoni mwangu, Kwa kuwa Yesu alipo Hapa pana mwangaza.  Chorus Mwangaza ulio mzuri. Mwanga umo moyoni; Akiwapo Bwana Yesu Pana mwanga moyoni.  
+        Nyimbo Za Kristo 045. Mwanga Umo Moyoni. Mlimani pana mwanga, Mwanga wa jua zuri Shambani na baharini Jua tukufu liko; Mwanga uliyo mkubwa Umo moyoni mwangu, Kwa kuwa Yesu alipo Hapa pana mwangaza.  Chorus Mwangaza ulio mzuri. Mwanga umo moyoni; Akiwapo Bwana Yesu Pana mwanga moyoni.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mwanga Umo Moyoni, Mlimani pana mwanga, Mwanga wa jua zuri. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mwanga Umo Moyoni, Mlimani pana mwanga, Mwanga wa jua zuri. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 045. MWANGA UMO MOYONI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

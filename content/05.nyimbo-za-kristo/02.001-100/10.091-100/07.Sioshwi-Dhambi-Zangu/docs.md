@@ -1,17 +1,17 @@
 ---
 title: |
-    097. Sioshwi Dhambi Zangu - Nyimbo za kristo
+    097. Sioshwi Dhambi Zangu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 097. Sioshwi Dhambi Zangu. Sioshwi dhambi zangu? Bila damu yake Yesu, Hapendezewi dhambi zangu? Bila damu yake Yesu.  Chorus Hakuna kabisa Dawa ya makosa Ya kututakasa ila Damu yake Yesu.  
+        Nyimbo Za Kristo 097. Sioshwi Dhambi Zangu. Sioshwi dhambi zangu? Bila damu yake Yesu, Hapendezewi dhambi zangu? Bila damu yake Yesu.  Chorus Hakuna kabisa Dawa ya makosa Ya kututakasa ila Damu yake Yesu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Sioshwi Dhambi Zangu, Sioshwi dhambi zangu? Bila damu yake Yesu,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Sioshwi Dhambi Zangu, Sioshwi dhambi zangu? Bila damu yake Yesu,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 097. SIOSHWI DHAMBI ZANGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

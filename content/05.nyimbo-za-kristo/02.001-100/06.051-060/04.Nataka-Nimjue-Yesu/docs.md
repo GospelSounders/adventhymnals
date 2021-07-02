@@ -1,17 +1,17 @@
 ---
 title: |
-    054. Nataka Nimjue Yesu - Nyimbo za kristo
+    054. Nataka Nimjue Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 054. Nataka Nimjue Yesu. Nataka nimjue Yesu, na nizidi kumfahamu, Nijue pendo lake tu, wokovu wake kamili.  Chorus Zaidi, zaidi,nimfahamu Yesu Nijue upendo wake, wokovu wake kamili.  
+        Nyimbo Za Kristo 054. Nataka Nimjue Yesu. Nataka nimjue Yesu, na nizidi kumfahamu, Nijue pendo lake tu, wokovu wake kamili.  Chorus Zaidi, zaidi,nimfahamu Yesu Nijue upendo wake, wokovu wake kamili.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nataka Nimjue Yesu, Nataka nimjue Yesu, na nizidi kumfahamu,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nataka Nimjue Yesu, Nataka nimjue Yesu, na nizidi kumfahamu,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 054. NATAKA NIMJUE YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

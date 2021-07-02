@@ -1,17 +1,17 @@
 ---
 title: |
-    182. Hapana Giza - Nyimbo za kristo
+    182. Hapana Giza - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 182. Hapana Giza. Mchana hauishi Mjini mzuri; Mji hautapita; Na hapana giza.  Chorus Machozi yatafutwa, Kifo hapana pale;  Hawahesabu siku, Na hapana giza.  
+        Nyimbo Za Kristo 182. Hapana Giza. Mchana hauishi Mjini mzuri; Mji hautapita; Na hapana giza.  Chorus Machozi yatafutwa, Kifo hapana pale;  Hawahesabu siku, Na hapana giza.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Hapana Giza, Mchana hauishi Mjini mzuri;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Hapana Giza, Mchana hauishi Mjini mzuri;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 182. HAPANA GIZA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

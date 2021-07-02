@@ -1,17 +1,17 @@
 ---
 title: |
-    192. Mwamba Wenye Imara - Nyimbo za kristo
+    192. Mwamba Wenye Imara - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 192. Mwamba Wenye Imara. Mwamba wenye imara,kwako nitajificha! Maji hayo na damu yaliyotoka humu, Hunisafi na dhambi,Hunifanya m-shindi.  
+        Nyimbo Za Kristo 192. Mwamba Wenye Imara. Mwamba wenye imara,kwako nitajificha! Maji hayo na damu yaliyotoka humu, Hunisafi na dhambi,Hunifanya m-shindi.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mwamba Wenye Imara, Mwamba wenye imara,kwako nitajificha!. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mwamba Wenye Imara, Mwamba wenye imara,kwako nitajificha!. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 192. MWAMBA WENYE IMARA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

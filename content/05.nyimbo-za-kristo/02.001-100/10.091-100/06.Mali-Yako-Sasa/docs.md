@@ -1,17 +1,17 @@
 ---
 title: |
-    096. Mali Yako Sasa - Nyimbo za kristo
+    096. Mali Yako Sasa - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 096. Mali Yako Sasa. Mali yako sasa, Bwana, tutatoa; Hatuna yaliyo yetu, Yote ni vipaji.  
+        Nyimbo Za Kristo 096. Mali Yako Sasa. Mali yako sasa, Bwana, tutatoa; Hatuna yaliyo yetu, Yote ni vipaji.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mali Yako Sasa, Mali yako sasa, Bwana, tutatoa;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mali Yako Sasa, Mali yako sasa, Bwana, tutatoa;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 096. MALI YAKO SASA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

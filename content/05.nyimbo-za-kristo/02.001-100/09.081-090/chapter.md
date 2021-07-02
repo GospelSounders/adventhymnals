@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 081-090
+title: Nyimbo Za Kristo - 081-090
 metadata:
     description: |
-        Nyimbo za kristo - 081-090
+        Nyimbo Za Kristo - 081-090
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 081-090
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 081-090
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 081-090
+## Nyimbo Za Kristo - 081-090
 
 # Index of Titles
 # | Title                        

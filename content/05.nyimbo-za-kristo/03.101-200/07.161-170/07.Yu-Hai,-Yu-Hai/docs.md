@@ -1,17 +1,17 @@
 ---
 title: |
-    167. Yu Hai, Yu Hai - Nyimbo za kristo
+    167. Yu Hai, Yu Hai - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 167. Yu Hai, Yu Hai. Yesu Bwana Mwokozi aishi milele,  Najua kwamba Yupo pamoja na mimi;  Sauti nasikia, Rehema naona;  Wakati namhitaji, yupo nami.   Chorus Yu hai, Yu hai,Yu hai Bwana Yesu!  Atembea, azungumza nami siku zote.  Yu hai, Yu hai, kutoa uzima!  Hivi ndivyo nijuavyo,  Yu hai ndani yangu!   
+        Nyimbo Za Kristo 167. Yu Hai, Yu Hai. Yesu Bwana Mwokozi aishi milele,  Najua kwamba Yupo pamoja na mimi;  Sauti nasikia, Rehema naona;  Wakati namhitaji, yupo nami.   Chorus Yu hai, Yu hai,Yu hai Bwana Yesu!  Atembea, azungumza nami siku zote.  Yu hai, Yu hai, kutoa uzima!  Hivi ndivyo nijuavyo,  Yu hai ndani yangu!   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yu Hai, Yu Hai, Yesu Bwana Mwokozi aishi milele, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yu Hai, Yu Hai, Yesu Bwana Mwokozi aishi milele, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 167. YU HAI, YU HAI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

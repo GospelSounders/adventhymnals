@@ -1,15 +1,15 @@
 ---
-title: Nyimbo za kristo - 201-210
+title: Nyimbo Za Kristo - 201-210
 metadata:
     description: |
-        Nyimbo za kristo - 201-210
+        Nyimbo Za Kristo - 201-210
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, 201-210
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, 201-210
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo za kristo - 201-210
+## Nyimbo Za Kristo - 201-210
 
 # Index of Titles
 # | Title                        

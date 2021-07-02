@@ -1,17 +1,17 @@
 ---
 title: |
-    156. Uniongoze Jehova - Nyimbo za kristo
+    156. Uniongoze Jehova - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 156. Uniongoze Jehova. Uniongoze, Yehova, Ni msafiri chini; Ni mnyonge, u hodari, `Nilinde kwa mkono.  Unitunze, unilinde, Unionyeshe njia!  
+        Nyimbo Za Kristo 156. Uniongoze Jehova. Uniongoze, Yehova, Ni msafiri chini; Ni mnyonge, u hodari, `Nilinde kwa mkono.  Unitunze, unilinde, Unionyeshe njia!  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Uniongoze Jehova, Uniongoze, Yehova, Ni msafiri chini;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Uniongoze Jehova, Uniongoze, Yehova, Ni msafiri chini;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 156. UNIONGOZE JEHOVA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    052. Nipe Biblia - Nyimbo za kristo
+    052. Nipe Biblia - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 052. Nipe Biblia. Nipe Biblia nyota ya furaha, wapate nuru wasafirio; Hakuna la kuzuia amani, Kwani Yesu alituokoa.  Chorus Nipe Biblia neno takatifu, Nuru yako itaniongoza, Sheria na ahadi na upendo, Hata mwisho vitaendelea.  
+        Nyimbo Za Kristo 052. Nipe Biblia. Nipe Biblia nyota ya furaha, wapate nuru wasafirio; Hakuna la kuzuia amani, Kwani Yesu alituokoa.  Chorus Nipe Biblia neno takatifu, Nuru yako itaniongoza, Sheria na ahadi na upendo, Hata mwisho vitaendelea.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Nipe Biblia, Nipe Biblia nyota ya furaha, wapate nuru wasafirio;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Nipe Biblia, Nipe Biblia nyota ya furaha, wapate nuru wasafirio;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 052. NIPE BIBLIA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

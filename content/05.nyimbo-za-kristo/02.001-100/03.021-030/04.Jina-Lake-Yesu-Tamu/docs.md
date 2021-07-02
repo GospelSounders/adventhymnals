@@ -1,17 +1,17 @@
 ---
 title: |
-    024. Jina Lake Yesu Tamu - Nyimbo za kristo
+    024. Jina Lake Yesu Tamu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 024. Jina Lake Yesu Tamu. Jina lake Yesu tamu Tukilisikia, Hutupoza, tena hamu Hutuondolea,  
+        Nyimbo Za Kristo 024. Jina Lake Yesu Tamu. Jina lake Yesu tamu Tukilisikia, Hutupoza, tena hamu Hutuondolea,  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Jina Lake Yesu Tamu, Jina lake Yesu tamu Tukilisikia,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Jina Lake Yesu Tamu, Jina lake Yesu tamu Tukilisikia,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 024. JINA LAKE YESU TAMU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

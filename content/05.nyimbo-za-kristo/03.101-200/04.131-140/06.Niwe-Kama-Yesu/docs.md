@@ -1,17 +1,17 @@
 ---
 title: |
-    136. Niwe Kama Yesu - Nyimbo za kristo
+    136. Niwe Kama Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 136. Niwe Kama Yesu. Unifundishe, Baba; Ile njia ya sala;  Uniendeshe sana, Niwe kama Yesu.  Chorus Niwe kama Yesu, Niwe kama Yesu,  Uniongoze, Baba; Niwe kama Yesu,  
+        Nyimbo Za Kristo 136. Niwe Kama Yesu. Unifundishe, Baba; Ile njia ya sala;  Uniendeshe sana, Niwe kama Yesu.  Chorus Niwe kama Yesu, Niwe kama Yesu,  Uniongoze, Baba; Niwe kama Yesu,  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Niwe Kama Yesu, Unifundishe, Baba; Ile njia ya sala; . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Niwe Kama Yesu, Unifundishe, Baba; Ile njia ya sala; . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 136. NIWE KAMA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    053. Napenda Kuhubiri - Nyimbo za kristo
+    053. Napenda Kuhubiri - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 053. Napenda Kuhubiri. Napenda kuhubiri habari ya Yesu, Ya Bwana wa fahari na pendo zake kuu. Kuhubiri napenda kwa hali na mali: Mwanyewe nimeonja, najua ni kweli.  Chorus Napenda kuhubiri kisa cha Bwana Yesu. Ya Bwana wa fahari na pendo zake kuu.  
+        Nyimbo Za Kristo 053. Napenda Kuhubiri. Napenda kuhubiri habari ya Yesu, Ya Bwana wa fahari na pendo zake kuu. Kuhubiri napenda kwa hali na mali: Mwanyewe nimeonja, najua ni kweli.  Chorus Napenda kuhubiri kisa cha Bwana Yesu. Ya Bwana wa fahari na pendo zake kuu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Napenda Kuhubiri, Napenda kuhubiri habari ya Yesu,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Napenda Kuhubiri, Napenda kuhubiri habari ya Yesu,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 053. NAPENDA KUHUBIRI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

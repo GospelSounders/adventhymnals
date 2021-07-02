@@ -1,17 +1,17 @@
 ---
 title: |
-    106. Huna Kitu Kwa Yesu - Nyimbo za kristo
+    106. Huna Kitu Kwa Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 106. Huna Kitu Kwa Yesu. Ukitafuta mali, Huna wasaa kwa Yesu? Kwa matendo ya haki Huna wasaa kwa Yesu? Anasa za dunia, Mambo yako ya raha Haya unatafuta; Huna wasaa kwa Yesu?   
+        Nyimbo Za Kristo 106. Huna Kitu Kwa Yesu. Ukitafuta mali, Huna wasaa kwa Yesu? Kwa matendo ya haki Huna wasaa kwa Yesu? Anasa za dunia, Mambo yako ya raha Haya unatafuta; Huna wasaa kwa Yesu?   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Huna Kitu Kwa Yesu, Ukitafuta mali, Huna wasaa kwa Yesu?. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Huna Kitu Kwa Yesu, Ukitafuta mali, Huna wasaa kwa Yesu?. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 106. HUNA KITU KWA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

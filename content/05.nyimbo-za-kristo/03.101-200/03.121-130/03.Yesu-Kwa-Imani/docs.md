@@ -1,17 +1,17 @@
 ---
 title: |
-    123. Yesu Kwa Imani - Nyimbo za kristo
+    123. Yesu Kwa Imani - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 123. Yesu Kwa Imani. Yesu kwa imani, nakutumaini, peke yako Nishike sasa, na kunitakasa, ni wako kabisa Tangu leo.  
+        Nyimbo Za Kristo 123. Yesu Kwa Imani. Yesu kwa imani, nakutumaini, peke yako Nishike sasa, na kunitakasa, ni wako kabisa Tangu leo.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Yesu Kwa Imani, Yesu kwa imani, nakutumaini, peke yako. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Yesu Kwa Imani, Yesu kwa imani, nakutumaini, peke yako. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 123. YESU KWA IMANI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    161. Piga Panda - Nyimbo za kristo
+    161. Piga Panda - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 161. Piga Panda. Piga panda na ya makelele; Yesu yuaja tena!  Ipaze sauti, imba sana; Yesu yuaja tena!  Chorus Anakuja, anakuja; Yesu yuaja tena!  
+        Nyimbo Za Kristo 161. Piga Panda. Piga panda na ya makelele; Yesu yuaja tena!  Ipaze sauti, imba sana; Yesu yuaja tena!  Chorus Anakuja, anakuja; Yesu yuaja tena!  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Piga Panda, Piga panda na ya makelele; Yesu yuaja tena! . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Piga Panda, Piga panda na ya makelele; Yesu yuaja tena! . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 161. PIGA PANDA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    084. Ikumbuke Sabato - Nyimbo za kristo
+    084. Ikumbuke Sabato - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 084. Ikumbuke Sabato. Ikumbuke kote Sabato ya Bwana,  Siku tamu na bora, kupita nyingine;  Yatuletea raha, na furaha kweli,  Mwanga wake hungaza, urembo wa Yesu.   Chorus Karibie, karibie, Sabato tamu;  Karibie, Yesu pia, Bwana wa raha.   
+        Nyimbo Za Kristo 084. Ikumbuke Sabato. Ikumbuke kote Sabato ya Bwana,  Siku tamu na bora, kupita nyingine;  Yatuletea raha, na furaha kweli,  Mwanga wake hungaza, urembo wa Yesu.   Chorus Karibie, karibie, Sabato tamu;  Karibie, Yesu pia, Bwana wa raha.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ikumbuke Sabato, Ikumbuke kote Sabato ya Bwana, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ikumbuke Sabato, Ikumbuke kote Sabato ya Bwana, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 084. IKUMBUKE SABATO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

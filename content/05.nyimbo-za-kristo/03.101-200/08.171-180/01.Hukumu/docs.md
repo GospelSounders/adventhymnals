@@ -1,17 +1,17 @@
 ---
 title: |
-    171. Hukumu - Nyimbo za kristo
+    171. Hukumu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 171. Hukumu. Imeanzishwa hukumu mbinguni; tutasimamaje pale; Apimapo Mungu Hakimu kila wazo na tendo?  Chorus Tutasimamaje sote katika siku kuu ile? Dhambi zetu zitafutika ama zitatuangusha?  
+        Nyimbo Za Kristo 171. Hukumu. Imeanzishwa hukumu mbinguni; tutasimamaje pale; Apimapo Mungu Hakimu kila wazo na tendo?  Chorus Tutasimamaje sote katika siku kuu ile? Dhambi zetu zitafutika ama zitatuangusha?  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Hukumu, Imeanzishwa hukumu mbinguni; tutasimamaje pale;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Hukumu, Imeanzishwa hukumu mbinguni; tutasimamaje pale;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 171. HUKUMU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

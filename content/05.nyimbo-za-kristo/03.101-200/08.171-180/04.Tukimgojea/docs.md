@@ -1,17 +1,17 @@
 ---
 title: |
-    174. Tukimgojea - Nyimbo za kristo
+    174. Tukimgojea - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 174. Tukimgojea. Sijui atakapokuja, Mchana au usiku; Labda sa-a ya alasiri. Pengine ni alfajiri. Hutwambia tuwe tayari, Ta-a zetu tusizime;  Ili ajapo atukute; Tuwe tukimngoja Yeye.   Chorus Tu---kimngoje---a,   (Kukesha, tunakungoja Wewe)  Tu---kimngoja---a,   (Kukesha, tunakungoja Wewe)  Tu---kimngoja---a,   (Kukesha, tunakungoja Wewe)  Twakesha, twamngoja Yeye.  
+        Nyimbo Za Kristo 174. Tukimgojea. Sijui atakapokuja, Mchana au usiku; Labda sa-a ya alasiri. Pengine ni alfajiri. Hutwambia tuwe tayari, Ta-a zetu tusizime;  Ili ajapo atukute; Tuwe tukimngoja Yeye.   Chorus Tu---kimngoje---a,   (Kukesha, tunakungoja Wewe)  Tu---kimngoja---a,   (Kukesha, tunakungoja Wewe)  Tu---kimngoja---a,   (Kukesha, tunakungoja Wewe)  Twakesha, twamngoja Yeye.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Tukimgojea, Sijui atakapokuja, Mchana au usiku;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Tukimgojea, Sijui atakapokuja, Mchana au usiku;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 174. TUKIMGOJEA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

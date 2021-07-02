@@ -1,17 +1,17 @@
 ---
 title: |
-    088. Siku Hii Ya Sabato - Nyimbo za kristo
+    088. Siku Hii Ya Sabato - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 088. Siku Hii Ya Sabato. Siku hii ya Sabato, Tamu kufikiri  Juu ya Mungu na Mbingu Kuacha dunia.   
+        Nyimbo Za Kristo 088. Siku Hii Ya Sabato. Siku hii ya Sabato, Tamu kufikiri  Juu ya Mungu na Mbingu Kuacha dunia.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Siku Hii Ya Sabato, Siku hii ya Sabato, Tamu kufikiri . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Siku Hii Ya Sabato, Siku hii ya Sabato, Tamu kufikiri . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 088. SIKU HII YA SABATO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

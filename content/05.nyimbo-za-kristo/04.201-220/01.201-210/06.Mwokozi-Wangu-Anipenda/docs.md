@@ -1,17 +1,17 @@
 ---
 title: |
-    206. Mwokozi Wangu Anipenda - Nyimbo za kristo
+    206. Mwokozi Wangu Anipenda - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 206. Mwokozi Wangu Anipenda. Mwokozi wangu alinipenda,  Maovu ayanitengi naye,  Alijitoa, kuniponya,  Sasa mimi wake.   Chorus Mimi wake kabisa,  Naye Yesu wangu,  Si kwa wakati huu tu,  Bali na milele.   
+        Nyimbo Za Kristo 206. Mwokozi Wangu Anipenda. Mwokozi wangu alinipenda,  Maovu ayanitengi naye,  Alijitoa, kuniponya,  Sasa mimi wake.   Chorus Mimi wake kabisa,  Naye Yesu wangu,  Si kwa wakati huu tu,  Bali na milele.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mwokozi Wangu Anipenda, Mwokozi wangu alinipenda, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mwokozi Wangu Anipenda, Mwokozi wangu alinipenda, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 206. MWOKOZI WANGU ANIPENDA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

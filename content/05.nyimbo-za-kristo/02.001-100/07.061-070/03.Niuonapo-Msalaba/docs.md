@@ -1,17 +1,17 @@
 ---
 title: |
-    063. Niuonapo Msalaba - Nyimbo za kristo
+    063. Niuonapo Msalaba - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 063. Niuonapo Msalaba. Niuonapo msalaba, Kristo aliponifilia; Kwangu pato ni hasara. Kiburi nakichukia.  
+        Nyimbo Za Kristo 063. Niuonapo Msalaba. Niuonapo msalaba, Kristo aliponifilia; Kwangu pato ni hasara. Kiburi nakichukia.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Niuonapo Msalaba, Niuonapo msalaba, Kristo aliponifilia;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Niuonapo Msalaba, Niuonapo msalaba, Kristo aliponifilia;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 063. NIUONAPO MSALABA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

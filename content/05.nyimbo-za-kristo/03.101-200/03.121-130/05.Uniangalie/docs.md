@@ -1,17 +1,17 @@
 ---
 title: |
-    125. Uniangalie - Nyimbo za kristo
+    125. Uniangalie - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 125. Uniangalie. Uniangalie atwambia, Yesu aliyetufia; Msalabani ni uzima, Hapa utaipata hazina.  Chorus Kutazama Kalvari, Kutazama Kalvari,  Ni kupewa kuishi Kuutazama mti wa Kalvari.  
+        Nyimbo Za Kristo 125. Uniangalie. Uniangalie atwambia, Yesu aliyetufia; Msalabani ni uzima, Hapa utaipata hazina.  Chorus Kutazama Kalvari, Kutazama Kalvari,  Ni kupewa kuishi Kuutazama mti wa Kalvari.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Uniangalie, Uniangalie atwambia, Yesu aliyetufia;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Uniangalie, Uniangalie atwambia, Yesu aliyetufia;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 125. UNIANGALIE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

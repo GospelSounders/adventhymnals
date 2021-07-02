@@ -1,17 +1,17 @@
 ---
 title: |
-    212. Mtazame Mwokozi - Nyimbo za kristo
+    212. Mtazame Mwokozi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 212. Mtazame Mwokozi. Mtazame Mwokozi,  Usoni Mwake mzuri,  Mambo ya dunia hugeuka,  Usowake tukiuona.      
+        Nyimbo Za Kristo 212. Mtazame Mwokozi. Mtazame Mwokozi,  Usoni Mwake mzuri,  Mambo ya dunia hugeuka,  Usowake tukiuona.      
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Mtazame Mwokozi, Mtazame Mwokozi, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Mtazame Mwokozi, Mtazame Mwokozi, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 212. MTAZAME MWOKOZI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

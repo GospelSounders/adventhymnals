@@ -1,17 +1,17 @@
 ---
 title: |
-    152. Karibu Na Wewe, Mungu Wangu - Nyimbo za kristo
+    152. Karibu Na Wewe, Mungu Wangu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 152. Karibu Na Wewe, Mungu Wangu. Karibu na wewe, Mungu wangu; Karibu zaidi, Bwana Wangu. Siku zote niwe karibu na wewe, Karibu zaidi, Mungu wangu.  
+        Nyimbo Za Kristo 152. Karibu Na Wewe, Mungu Wangu. Karibu na wewe, Mungu wangu; Karibu zaidi, Bwana Wangu. Siku zote niwe karibu na wewe, Karibu zaidi, Mungu wangu.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Karibu Na Wewe, Mungu Wangu, Karibu na wewe, Mungu wangu; Karibu zaidi, Bwana Wangu.. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Karibu Na Wewe, Mungu Wangu, Karibu na wewe, Mungu wangu; Karibu zaidi, Bwana Wangu.. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 152. KARIBU NA WEWE, MUNGU WANGU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

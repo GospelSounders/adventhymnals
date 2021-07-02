@@ -1,17 +1,17 @@
 ---
 title: |
-    048. Ninakupenda Zaidi - Nyimbo za kristo
+    048. Ninakupenda Zaidi - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 048. Ninakupenda Zaidi. Ninakupenda zaidi, Ya vyote vingine; Kwani umenipa raha, Na amani, Bwana.  Chorus Nusu haijatangazwa (tangazwa) Ya upendo wako;	 Nusu haijatangazwa (tangazwa) Damu hutakasa (takasa).  
+        Nyimbo Za Kristo 048. Ninakupenda Zaidi. Ninakupenda zaidi, Ya vyote vingine; Kwani umenipa raha, Na amani, Bwana.  Chorus Nusu haijatangazwa (tangazwa) Ya upendo wako;	 Nusu haijatangazwa (tangazwa) Damu hutakasa (takasa).  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ninakupenda Zaidi, Ninakupenda zaidi, Ya vyote vingine;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ninakupenda Zaidi, Ninakupenda zaidi, Ya vyote vingine;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 048. NINAKUPENDA ZAIDI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

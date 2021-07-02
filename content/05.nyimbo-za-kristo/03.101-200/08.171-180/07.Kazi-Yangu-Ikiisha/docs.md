@@ -1,17 +1,17 @@
 ---
 title: |
-    177. Kazi Yangu Ikiisha - Nyimbo za kristo
+    177. Kazi Yangu Ikiisha - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 177. Kazi Yangu Ikiisha. Kazi yangu ikisha,nami nikiokoka; Na kuvaa kutokuharibika, Nitamjua mwokozi nifikapo ng`amboni; Atakuwa wa kwanza kunilaki.  Chorus Nitamjua,Nitamjua,nikimwona uso kwa uso; Nitamjua,Nitamjua,kwa alama za misumari.  
+        Nyimbo Za Kristo 177. Kazi Yangu Ikiisha. Kazi yangu ikisha,nami nikiokoka; Na kuvaa kutokuharibika, Nitamjua mwokozi nifikapo ng`amboni; Atakuwa wa kwanza kunilaki.  Chorus Nitamjua,Nitamjua,nikimwona uso kwa uso; Nitamjua,Nitamjua,kwa alama za misumari.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kazi Yangu Ikiisha, Kazi yangu ikisha,nami nikiokoka;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kazi Yangu Ikiisha, Kazi yangu ikisha,nami nikiokoka;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 177. KAZI YANGU IKIISHA
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

@@ -1,17 +1,17 @@
 ---
 title: |
-    031. Niimbe Pendo Lake - Nyimbo za kristo
+    031. Niimbe Pendo Lake - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 031. Niimbe Pendo Lake. Niimbe (niimbe) pendo lake, Pendo la (pendo la) Yesu Bwana; Sababu (sababu) alitoka Kwa Baba, akafa.  Chorus Niimbe (niimbe) pendo lake; Sifa kuu (sifa kuu) nitatoa; Akafa (akafa) niwe hai, - - Niimbe pendo lake.  
+        Nyimbo Za Kristo 031. Niimbe Pendo Lake. Niimbe (niimbe) pendo lake, Pendo la (pendo la) Yesu Bwana; Sababu (sababu) alitoka Kwa Baba, akafa.  Chorus Niimbe (niimbe) pendo lake; Sifa kuu (sifa kuu) nitatoa; Akafa (akafa) niwe hai, - - Niimbe pendo lake.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Niimbe Pendo Lake, Niimbe (niimbe) pendo lake,. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Niimbe Pendo Lake, Niimbe (niimbe) pendo lake,. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 031. NIIMBE PENDO LAKE
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 1

@@ -1,17 +1,17 @@
 ---
 title: |
-    087. Siku Ya Sabato - Nyimbo za kristo
+    087. Siku Ya Sabato - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 087. Siku Ya Sabato. Siku ya Sabato, siku takatifu,  Watu wako Mungu wetu, waipenda sana.   
+        Nyimbo Za Kristo 087. Siku Ya Sabato. Siku ya Sabato, siku takatifu,  Watu wako Mungu wetu, waipenda sana.   
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Siku Ya Sabato, Siku ya Sabato, siku takatifu, . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Siku Ya Sabato, Siku ya Sabato, siku takatifu, . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 087. SIKU YA SABATO
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

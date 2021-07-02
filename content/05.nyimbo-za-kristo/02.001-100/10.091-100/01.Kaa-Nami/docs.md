@@ -1,17 +1,17 @@
 ---
 title: |
-    091. Kaa Nami - Nyimbo za kristo
+    091. Kaa Nami - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 091. Kaa Nami. Kaa nami, ni usiku tena; Usiniache gizani, Bwana; Msaada wako haukomi; Nili peke yangu kaa nami.  
+        Nyimbo Za Kristo 091. Kaa Nami. Kaa nami, ni usiku tena; Usiniache gizani, Bwana; Msaada wako haukomi; Nili peke yangu kaa nami.  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Kaa Nami, Kaa nami, ni usiku tena;. 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Kaa Nami, Kaa nami, ni usiku tena;. 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 091. KAA NAMI
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 

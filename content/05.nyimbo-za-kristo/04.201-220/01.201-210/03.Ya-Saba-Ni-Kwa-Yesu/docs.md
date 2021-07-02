@@ -1,17 +1,17 @@
 ---
 title: |
-    203. Ya Saba Ni Kwa Yesu - Nyimbo za kristo
+    203. Ya Saba Ni Kwa Yesu - Nyimbo Za Kristo
 metadata:
     description: |
-        Nyimbo za kristo 203. Ya Saba Ni Kwa Yesu. Siku sita fanya kazi, Ya saba ni kwa Yesu.  Hapo tunapopumzika, kwani ni yake Yesu.  Chorus Moja, mbili, tatu, nne, tano, sita, zote kwetu;  Lakini tutakumbuka, Ya saba ni kwa Yesu!  
+        Nyimbo Za Kristo 203. Ya Saba Ni Kwa Yesu. Siku sita fanya kazi, Ya saba ni kwa Yesu.  Hapo tunapopumzika, kwani ni yake Yesu.  Chorus Moja, mbili, tatu, nne, tano, sita, zote kwetu;  Lakini tutakumbuka, Ya saba ni kwa Yesu!  
     keywords:  |
-        Nyimbo za kristo, adventhymnals, advent hymnals, Ya Saba Ni Kwa Yesu, Siku sita fanya kazi, Ya saba ni kwa Yesu. . 
+        Nyimbo Za Kristo, adventhymnals, advent hymnals, Ya Saba Ni Kwa Yesu, Siku sita fanya kazi, Ya saba ni kwa Yesu. . 
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## 203. YA SABA NI KWA YESU
-####  Nyimbo za kristo,
+####  Nyimbo Za Kristo,
 
 ```txt
 
