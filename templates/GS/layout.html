@@ -564,7 +564,7 @@
             watch: {
                 tab(val) {
                     setTimeout(() => {
-                        let rowsPerPage = this.expanded ? 0 : 5
+                        let rowsPerPage = this.expanded ? 100 : 5
                         try {
                             this.$refs[`${this.selectedHymnal}-0`].setPagination({ rowsPerPage })
                         } catch (error) { }
@@ -649,7 +649,7 @@
                 },
                 rowsPerPage(props) {
                     // let rowsPerPage = props.selected.length > 0 ? 0 : 5
-                    let rowsPerPage = this.expanded ? 0 : 5
+                    let rowsPerPage = this.expanded ? 100 : 5
                     try {
                         this.$refs[`${this.selectedHymnal}-0`].setPagination({ rowsPerPage })
                     } catch (error) { }
