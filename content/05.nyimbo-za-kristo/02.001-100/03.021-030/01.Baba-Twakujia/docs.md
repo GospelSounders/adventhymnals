@@ -1,0 +1,68 @@
+---
+title: |
+    021. Baba Twakujia - Nyimbo za kristo
+metadata:
+    description: |
+        Nyimbo za kristo 021. Baba Twakujia. Baba twakujia, Uwe msaada; Uwe kimbilio, twakusihi. Dunia ni giza tukitengwa nawe; Fufariji hapa, Baba yetu.  Chorus Baba twakujia, tu dhaifu, usitugeue, tusikie.  
+    keywords:  |
+        Nyimbo za kristo, adventhymnals, advent hymnals, Baba Twakujia, Baba twakujia, Uwe msaada;. 
+    author: Brian Onang'o
+---
+
+#### Advent Hymnals
+## 021. BABA TWAKUJIA
+####  Nyimbo za kristo,
+
+```txt
+
+1
+Baba twakujia, Uwe msaada;
+Uwe kimbilio, twakusihi.
+Dunia ni giza tukitengwa nawe;
+Fufariji hapa, Baba yetu.
+
+Chorus
+Baba twakujia, tu dhaifu,
+usitugeue, tusikie.
+
+2
+Salama tulinde, kati ya taabu;
+Uwe raha yetu mashakani.
+Roho ya sumbuka, Baba tujalie;
+Twakuomba sana, tupe nguvu.
+
+3
+Neema utupe, tukubali kwako;
+Moyo wetu Linda, safarini;
+Tuongoe mbele, tupate kushinda
+Na kufika ng`ambo, kule kwako.
+
+
+
+
+
+
+
+
+```
+
+- |   -  |
+-------------|------------|
+Title | Baba Twakujia |
+Key |  |
+Titles | undefined |
+First Line | Baba twakujia, Uwe msaada; |
+Author | 
+Year | 
+Composer| |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects | |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
