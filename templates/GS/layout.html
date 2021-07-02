@@ -125,7 +125,7 @@
                     <td>Wende Nyasaye</td>
                     <td>WN</td>
                     <td>1985</td>
-                    <td>0</td>
+                    <td>332</td>
                     <td>Luo(Luo)</td>
                     <td><a href="/wende-nyasaye">Wende Nyasaye</a></td>
                 </tr>
@@ -375,11 +375,12 @@
                     <q-linear-progress indeterminate color="negative" v-if="loading"></q-linear-progress>
                     <div v-if="hymnSidebar">
                         <q-toolbar class="bg-primary text-white">
-                            <q-toolbar-title class="q-mt-md q-ml-md text-center">
+                            <q-toolbar-title class="q-mt-md q-ml-md text-center" :style="hymnFontSize">
                                 <span class="text-caption"
                                     style="font-size: 0.4em">{{=<% %>=}}{{selectedSong.hymnal.shortname}}<%={{ }}=%>
-                                </span><span
-                                    class="text-weight-bold q-pt-lg">{{=<% %>=}}{{selectedSong.showTitle}}<%={{ }}=%></span><br />
+                                </span>
+                                <span
+                                    class="text-weight-bold q-pt-lg" style="font-size: 0.8em">{{=<% %>=}}{{selectedSong.showTitle}}<%={{ }}=%></span><br />
                                 <span class="text-caption"
                                     style="font-size: 0.8em">{{=<% %>=}}{{selectedSong.hymnal.name}}<%={{ }}=%></span>
                             </q-toolbar-title>
@@ -393,13 +394,13 @@
 
                         <q-tab-panels v-model="songTab" animated class="bg-accent q-ma-none full-width q-pa-none">
                             <q-tab-panel name="text" class="q-ma-none q-pa-none">
-                                <q-card flat class="bg-accent text-center" style="font-size:3em; font-weight: bold;">
+                                <q-card flat class="bg-accent text-center" :style="hymnFontSize">
                                     <!-- <div class="absolute-top-left">tool</div>
                                     <q-card-section>
                                         toolbar
                                     </q-card-section> -->
                                     <q-card-section>
-                                        <q-editor v-model="selectedLyrics" min-height="5rem" :toolbar="[
+                                        <!-- <q-editor v-model="selectedLyrics" min-height="5rem" :toolbar="[
         [
           {
             label: $q.lang.editor.align,
@@ -475,9 +476,9 @@
         lucida_grande: 'Lucida Grande',
         times_new_roman: 'Times New Roman',
         verdana: 'Verdana'
-      }"></q-editor>
+      }"></q-editor> -->
                                     </q-card-section>
-                                    <q-card-section v-html="selectedLyrics">
+                                    <q-card-section v-html="selectedLyrics" >
                                     </q-card-section>
                                 </q-card>
                             </q-tab-panel>
@@ -628,6 +629,7 @@
             },
             computed: {
                 rightSideBarSize() {
+                    //sm , 
                     return this.$q.screen.lt.xs
                         ? document.getElementsByTagName("body")[0].clientWidth
                         : this.$q.screen.lt.sm
@@ -635,6 +637,15 @@
                             : this.$q.screen.lt.md
                                 ? document.getElementsByTagName("body")[0].clientWidth
                                 : document.getElementsByTagName("body")[0].clientWidth * 0.75;
+                },
+                hymnFontSize() {
+                    return this.$q.screen.lt.xs
+                        ? "font-size:0.5em; font-weight: bold;"
+                        : this.$q.screen.lt.sm
+                            ? "font-size:1.5em; font-weight: bold;"
+                            : this.$q.screen.lt.md
+                                ? "font-size:3em; font-weight: bold;"
+                                : "font-size:3em; font-weight: bold;";
                 },
                 rowsPerPage(props) {
                     // let rowsPerPage = props.selected.length > 0 ? 0 : 5
@@ -655,32 +666,29 @@
             },
             methods: {
                 setFilter(filterSong, filterBy) {
-                    console.log(filterSong, filterBy)
                     this.filterSong = filterSong
                     this.filterBy = filterBy
                 },
                 async selectSong(hymnal, hymn, reload) {
-                    let { link } = hymnal
-                    console.log(hymnal, hymn)
+                    let { link, numberofsongs } = hymnal
                     let { number, title } = hymn
                     number = parseInt(number)
                     // create the link
                     let hundreds = [];
                     let i = 0;
-                    console.log(number, title, link)
                     while (i++ < number) {
                         hundreds.push([i, i += 99])
                     }
-                    console.log(hundreds)
+                    
                     hundreds = hundreds.filter(item => item[0] <= number && number <= item[1])[0]
-                    console.log(hundreds)
+                    if(hundreds[1] > numberofsongs)hundreds[1] = numberofsongs
                     let tens = []
                     i = hundreds[0] - 1
                     while (i++ < hundreds[1]) {
                         tens.push([i, i += 9])
                     }
                     tens = tens.filter(item => item[0] <= number && number <= item[1])[0]
-                    console.log(tens)
+                    if(tens[1] > numberofsongs)tens[1] = numberofsongs
                     hundreds = hundreds.map(item => { item = item.toString(); while (item.length < 3) item = `0${item}`; return item }).join("-")
                     tens = tens.map(item => { item = item.toString(); while (item.length < 3) item = `0${item}`; return item }).join("-")
                     title = title.replace(/  /g, " ").replace(/ /g, "-").replace(/\?/g, '')
@@ -689,7 +697,6 @@
                     let ret = false;
                     try {
                         this.loading = true;
-                        console.log(url)
                         let tmp;
                         if (url === window.location.href) {
                             this.showOld = true
@@ -726,7 +733,6 @@
                         this.selectedSong.showTitle = title;
                         this.selectedSong.lyrics = lyrics
                         this.selectedLyrics = lyrics.replace(/\n/g, '<br>')
-                        console.log(this.selectedLyrics)
                     } catch (error) {
 
                         this.$q.notify({
@@ -807,11 +813,8 @@
                     }, 500)
                 },
                 filterSongFunc(rows, terms, cols, getCellValue) {
-                    console.log(cols);
                     cols = Object.keys(rows[0]).map(item => { return { name: item } })
                     if (this.filterBy) cols = cols.filter(col => col.name === this.filterBy)
-                    console.log(rows);
-                    // console.log(cols);
                     rows = rows.filter(row => {
                         let rowHasResult = false;
                         for (let col of Object.values(cols)) {
