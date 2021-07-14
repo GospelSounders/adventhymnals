@@ -1,0 +1,32 @@
+{
+"MH1843": {
+  name: "Millenial Harp", abbvr:"MH1843", year: "1843", numSongs: "", lang: "en"
+},
+"HGPP1849": {
+  name: "Millenial Harp", abbvr:"HGPP1849", year: "1843", numSongs: "", lang: "en"
+},
+"HSAB1852": {
+  name: "Millenial Harp", abbvr:"HSAB1852", year: "1843", numSongs: "", lang: "en"
+},
+"HT1869": {
+  name: "Millenial Harp", abbvr:"HT1869", year: "1843", numSongs: "", lang: "en"
+},
+"HT1886": {
+  name: "Millenial Harp", abbvr:"HT1886", year: "1843", numSongs: "", lang: "en"
+},
+"CS1908": {
+  name: "Millenial Harp", abbvr:"CS1908", year: "1843", numSongs: "", lang: "en"
+},
+"CH1941": {
+  name: "Millenial Harp", abbvr:"CH1941", year: "1843", numSongs: "", lang: "en"
+},
+"SDAH": {
+  name: "Millenial Harp", abbvr:"SDAH", year: "1843", numSongs: "", lang: "en"
+},
+"NZK": {
+  name: "Millenial Harp", abbvr:"NZK", year: "1843", numSongs: "", lang: "swa"
+},
+"WNY": {
+  name: "Wende Nyasaye", abbvr:"WN",  year: "1843", numSongs: "", lang: "luo"
+},
+}
