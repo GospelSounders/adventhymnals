@@ -1,0 +1,1686 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title> {{#meta.title}}{{meta.title}} - {{/meta.title}}{{config.site_title}}</title>
+    {{#meta.metadata.description}}
+    <meta name="description" content="{{meta.metadata.description}}" />{{/meta.metadata.description}}
+    {{#meta.metadata.refresh}}
+    <meta http-equiv="refresh" content="{{meta.metadata.refresh}}" />{{/meta.metadata.refresh}}
+    {{#meta.metadata.keywords}}
+    <meta name="keywords" content="{{meta.metadata.keywords}}" />{{/meta.metadata.keywords}}
+    {{#meta.metadata.author}}
+    <meta name="author" content="{{meta.metadata.author}}" />{{/meta.metadata.author}}
+    {{#meta.metadata.robots}}
+    <meta name="robots" content="{{meta.metadata.robots}}" />{{/meta.metadata.robots}}
+    <link rel="canonical" href="space" />
+    <meta name="og:type" content="website" />
+    <link rel="stylesheet" href="{{config.base_url}}/styles/ma-index.css">
+    <link rel="stylesheet" href="{{config.base_url}}/GS/public/styles/theme-1.css">
+    <meta name="ahrefs-site-verification" content="fac4c1e023dfe6a14807ab7d4d5296e0bc3c53ac66a54e61790465fd547d9108">
+    <link rel="icon" href="favicon.ico" />
+    <style>
+        .full-width {
+            width: 100%;
+        }
+
+        .full-height {
+            height: 100%;
+        }
+    </style>
+    <style>
+        p,
+        div,
+        body {
+            text-align: justify;
+        }
+
+        .student {
+            width: 80%;
+            margin: 4% auto;
+            position: relative;
+        }
+
+        .srvc_icon {
+            width: 29px;
+            position: absolute;
+        }
+
+        .openBookIcon {
+            top: 20%;
+            right: 0;
+        }
+
+        .a-a-logo {
+            color: #A87A4E
+        }
+    </style>
+    {{{config.analytics}}}
+</head>
+
+<body class="">
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v6.0&appId=156811091033253&autoLogAppEvents=1">
+        </script>
+
+    <!-- <div class="o-headercontainer">
+        <div class="a-shadow"></div>
+        <div class="o-header">
+            <input id="MaestroAPILanguageCode" name="ContextLanguageCode" type="hidden" value="en" />
+            <div class="o-header__container">
+                <div class="o-header__leftheader">
+                    <button class="o-header__hamburger">
+                        <i class="a-icon--medium a-icon--mobile a-icon--hamburger">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </i>
+                    </button>
+                    <div>Advent Hymnals</div>
+                </div>
+                
+            </div> -->
+
+    <div class="o-mobilenavdrawer">
+        <div class='o-subheader' data-subheader='How-to-Use'>
+            <a class='o-subheader__title' href='#'>How-to-Use<svg viewport='0 0 12 12' version='1.1'
+                    xmlns='http://www.w3.org/2000/svg'>
+                    <line x1='1' y1='11' x2='11' y2='1' stroke='black' stroke-width='2'></line>
+                    <line x1='1' y1='1' x2='11' y2='11' stroke='black' stroke-width='2'></line>
+                </svg></a>
+            <div class='o-subheader__container'>
+                <div
+                    class="m-subheader__section m-subheader__section--onewide m-subheader__section--noborder m-subheader__section--about">
+                    <div class="m-productcard__container m-productcard__container--column">
+                        <div class="m-productcard__subcontainer">
+                            <div class="">
+                                <a class="a-link" href="/Sabbath-School/How-to-Use/JIT-Printing">Just in Time
+                                    Printing</a>
+                            </div>
+                            <div class="">
+                                <a class="a-link" href="/Sabbath-School/How-to-Use/Software">Software</a>
+                            </div>
+                            <div class="">
+                                <a class="a-link" href="/Sabbath-School/How-to-Use/Software">Downloads</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class='o-subheader' data-subheader='Read'>
+            <a class='o-subheader__title' href='#'>Read<svg viewport='0 0 12 12' version='1.1'
+                    xmlns='http://www.w3.org/2000/svg'>
+                    <line x1='1' y1='11' x2='11' y2='1' stroke='black' stroke-width='2'></line>
+                    <line x1='1' y1='1' x2='11' y2='11' stroke='black' stroke-width='2'></line>
+                </svg></a>
+            <div class='o-subheader__container'>
+                <div
+                    class="m-subheader__section m-subheader__section--onewide m-subheader__section--noborder m-subheader__section--about">
+                    <div class="m-productcard__container m-productcard__container--column">
+                        <div class="m-productcard__subcontainer">
+                            <div class="">
+                                <a class="a-link" href="/Sabbath-School/Lesson-Writer-Quotes">Quotes</a>
+                            </div>
+                            <div class="">
+                                <a class="a-link" href="/Sabbath-School/Method-of-Study">How to Study</a>
+                            </div>
+                            <div class="">
+                                <a class="a-link" href="/Sabbath-School/Sabbath-School-Lesson-Topics">Topics</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- <div class="u-mobile-only ">
+          <div class="o-subheader u-mobile-only" data-subheader="search">
+            <h4 class="o-subheader__title o-subheader--search">
+              <form method="GET" action="/"><input type="text" id="siteSearchText1" placeholder="search"
+                  class="o-subheader__title--active" name="search"></form>
+              <i class="a-icon fa fa-search"></i>
+            </h4>
+          </div>
+
+          <div class='o-subheader' data-subheader='Accessories'><a class='o-subheader__title' href='#'>How to Use
+              <svg viewport='0 0 12 12' version='1.1' xmlns='http://www.w3.org/2000/svg'>
+                <line x1='1' y1='11' x2='11' y2='1' stroke='black' stroke-width='2'></line>
+                <line x1='1' y1='1' x2='11' y2='11' stroke='black' stroke-width='2'></line>
+              </svg></a>
+            <div class='o-subheader__container'>
+              <div
+                class="m-subheader__section m-subheader__section--onewide m-subheader__section--noborder m-subheader__section--about">
+                <div class="m-productcard__container m-productcard__container--column">
+                  <div class="">
+                    <a class="a-link" href="/Sabbath-School/How-to-Use/JIT-Printing">Just in Time Printing</a>
+                  </div>
+                  <div class="">
+                    <a class="a-link" href="/Sabbath-School/How-to-Use/Software">Software</a>
+                  </div>
+                  <div class="">
+                    <a class="a-link" href="/Sabbath-School/How-to-Use/Software">Downloads</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class='o-subheader' data-subheader='Read'><a class='o-subheader__title' href='#'>Read
+              <svg viewport='0 0 12 12' version='1.1' xmlns='http://www.w3.org/2000/svg'>
+                <line x1='1' y1='11' x2='11' y2='1' stroke='black' stroke-width='2'></line>
+                <line x1='1' y1='1' x2='11' y2='11' stroke='black' stroke-width='2'></line>
+              </svg></a>
+            <div class='o-subheader__container'>
+              <div class="m-subheader__section ">
+                <div class="m-productcard__container m-productcard__container--column">
+                  <div class="">
+                    <a class="a-link" href="/Sabbath-School/Lesson-Writer-Quotes">Quotes</a>
+                  </div>
+                  <div class="">
+                    <a class="a-link" href="/Sabbath-School/Method-of-Study">How to Study</a>
+                  </div>
+                  <div class="">
+                    <a class="a-link" href="/Sabbath-School/Sabbath-School-Lesson-Topics">Topics</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="u-mobile-only ">
+            <div href="#" class="m-iconWithDropdown" data-dropdown="cart" data-count-url="">
+              <div data-component="">
+                <div class="m-iconWithDropdown__dropdowncontainer"></div>
+              </div>
+            </div>
+          </div>
+          <div class="o-subheader u-mobile-only" data-subheader="shop">
+            <a href="https://shop.gospelsounders.org" aria-label="Region Select" class="o-subheader__title">
+              Shop
+              <i class="a-icon fas fa-shopping-cart"></i>
+            </a>
+          </div>
+          <div class="o-subheader u-mobile-only" data-subheader="search" id="headerLinksMobile"></div>
+        </div> -->
+    </div>
+    </div>
+    </div>
+
+    <div class="o-hero a-hero--main flex-grid o-hero--leftimage">
+
+        <!-- <div class="a-image a-image--hero flex-column-65">
+      <div class="content">
+        <h1>Advent Hymnals</h1>
+        <div id='sheet' style='max-width: 100%; width: 600px; margin: 0 auto;'></div>
+        <div style='text-align: center;'>
+          <button id='start'>start</button>
+          <button id='stop'>stop</button>
+          <button id='add-note'>add note</button>
+        </div>
+      </div>
+    </div> -->
+
+
+        <picture class="a-image a-image--hero flex-column-65">
+            <div class="content" style="position:absolute; z-index: 2000;text-align: center;width:100%;height:10%;">
+                <div style="position:absolute;height:100%;">
+                    <!-- <button id="mute">Mute</button> -->
+                    <svg id="radio" xmlns="http://www.w3.org/2000/svg" width="30%" height="100%" viewBox="0 0 800 900">
+                        <title>
+                            radio
+                        </title>
+                        <ellipse id="shadow" cx="345" cy="780" rx="342.3" ry="29.4" fill="#62352b" opacity="0.3" />
+                        <g data-name="radio 04" id="allRad" style="isolation:isolate">
+                            <path fill="#466455"
+                                d="M170.9 134.2L157.3 189.6 143.8 244.6 130.3 299.6 125.3 320.1 107.9 316.2 112 299.6 127 238.4 138.8 190.1 153.5 130.3 170.9 134.2" />
+                            <path fill="#466455"
+                                d="M190.5 45.5L190.4 46 190.4 46 170.3 127.9 157.1 124.7 177.2 42.6 177.3 42.2 190.5 45.5" />
+                            <path
+                                d="M198.1,46.3a1.2,1.2,0,0,1-1.5,1.3L190.4,46h0l-13.1-3.4-6.9-1.8a1.2,1.2,0,0,1-.7-1.8l17.8-28.8L193.3.6a1.2,1.2,0,0,1,2.2.6l.5,9.1Z"
+                                fill="#ec202c" />
+                            <path
+                                d="M122.5,209.6h-1.8l-7.7.6c-10.3.7-21.9,1.4-33,5.5-12.8,4.7-23,13.1-31.1,25.7-20.6,31.9-28.7,91.7-24.6,182.9l.2,5v1.1H35.1v-1.2c-.1-2.9-.2-5.7-.4-8.4,0-.6,0-1.3-.1-1.9-3-84.6,4.6-140,23-169.3,16.5-26.1,39.5-27.5,59.7-28.8l3.3-.2h2.5Z"
+                                fill="#5f3521" />
+                            <path
+                                d="M650.3,241.6c-8.1-12.6-18.3-21-31.1-25.7-11.1-4.1-22.7-4.9-33-5.5l-7.7-.6h-1.8l-.7,11h2.5l3.3.2c20.3,1.3,43.2,2.7,59.7,28.8,18.7,29.5,26.2,85.7,22.9,171.7l-.3,7.9v1.2h10.5v-3.1h0C679.2,334.6,671.2,273.8,650.3,241.6Z"
+                                fill="#5f3521" />
+                            <path
+                                d="M578.5,209.4v15.5c0,10.9-10.5,19.8-23.4,19.8H143.8a25.3,25.3,0,0,1-16.8-6.3,18,18,0,0,1-6.3-13.5V209.4c0-9.3,7.8-17.2,18.1-19.2a27.6,27.6,0,0,1,5.2-.5H555.2C568.1,189.6,578.5,198.5,578.5,209.4Z"
+                                fill="#b82025" />
+                            <ellipse cx="659.4" cy="442.3" rx="21.4" ry="21.5" fill="#9eb68e" />
+                            <ellipse cx="668.3" cy="506.9" rx="25" ry="25.1" fill="#62352b" />
+                            <path
+                                d="M57.7,442.3a21.4,21.4,0,0,1-28.3,20.4,21.6,21.6,0,0,1-5.1-38.2,20.7,20.7,0,0,1,10.1-3.6h1.9a21.4,21.4,0,0,1,20,13.9A21.1,21.1,0,0,1,57.7,442.3Z"
+                                fill="#9eb68e" />
+                            <path
+                                d="M52.3,507a25.1,25.1,0,0,1-25,25.1,23.5,23.5,0,0,1-6.2-.8,25.1,25.1,0,0,1,5.9-49.4h.3a25.1,25.1,0,0,1,25,25.1Z"
+                                fill="#62352b" />
+                            <path
+                                d="M656,751.2H40c-25,0-42.7-20.9-39.6-46.3L21.2,531.2l5.9-49.4,2.3-19.1,3.9-32.2,1.1-9.6.2-1.9,10.2-85.1c2.3-19,21.2-34.2,42.4-34.2H608.8c21.2,0,40.1,15.2,42.4,34.2l10.4,87,5,41.7,2.3,19.3,5.9,49.3,20.8,173.8C698.7,730.3,681,751.2,656,751.2Z"
+                                fill="#b0d3b4" />
+                            <path
+                                d="M668.5,695.7c2.8,23.5-13.6,42.9-36.7,42.9H61.7c-23.1,0-39.5-19.4-36.7-42.9L66.2,352.2c2.1-17.6,19.7-31.7,39.2-31.7H588.1c19.6,0,37.1,14.1,39.2,31.7Z"
+                                fill="#f3d1ad" opacity="0.64" style="mix-blend-mode:multiply" />
+                            <path
+                                d="M660.4,686.7c2.7,22.8-13.2,41.6-35.6,41.6H71.2c-22.4,0-38.4-18.8-35.6-41.6l40-333.4c2-17.1,19.1-30.7,38.1-30.7H582.4c19,0,36,13.7,38.1,30.7Z"
+                                fill="#fce4bf" />
+                            <g>
+                                <path fill="#e08f26" d="M109.7 410.6H206.10000000000002V444.99H109.7z" />
+                                <path fill="#fff0d9" d="M118.8 422.2H196.89999999999998V433.37H118.8z" />
+                                <path fill="#5f3521" d="M118.8 422.2H121.89999999999999V433.37H118.8z" />
+                                <path fill="#754d29" d="M122.9 422.2H125.60000000000001V433.37H122.9z" />
+                                <path fill="#8b5e3c" d="M127.1 422.2H129.4V433.37H127.1z" />
+                                <path fill="#8b5e3c" d="M131.2 422.2H133.1V433.37H131.2z" />
+                                <path fill="#a97c50" d="M135.4 422.2H137V433.37H135.4z" />
+                                <path fill="#a97c50" d="M178.9 422.2H180.5V433.37H178.9z" />
+                                <path fill="#8b5e3c" d="M182.6 422.2H184.5V433.37H182.6z" />
+                                <path fill="#8b5e3c" d="M186.4 422.2H188.70000000000002V433.37H186.4z" />
+                                <path fill="#754d29" d="M190.1 422.2H192.79999999999998V433.37H190.1z" />
+                                <path fill="#5f3521" d="M193.9 422.2H197V433.37H193.9z" />
+                            </g>
+                            <g>
+                                <path fill="#e08f26" d="M489.6 410.6H586V444.99H489.6z" />
+                                <path fill="#fff0d9" d="M498.8 422.2H576.9V433.37H498.8z" />
+                                <path fill="#5f3521" d="M573.8 422.2H576.9V433.37H573.8z" />
+                                <path fill="#754d29" d="M570 422.2H572.7V433.37H570z" />
+                                <path fill="#8b5e3c" d="M566.3 422.2H568.5999999999999V433.37H566.3z" />
+                                <path fill="#8b5e3c" d="M562.5 422.2H564.4V433.37H562.5z" />
+                                <path fill="#8b5e3c" d="M511.1 422.2H513V433.37H511.1z" />
+                                <path fill="#8b5e3c" d="M507 422.2H509.3V433.37H507z" />
+                                <path fill="#754d29" d="M502.8 422.2H505.5V433.37H502.8z" />
+                                <path fill="#5f3521" d="M498.7 422.2H501.8V433.37H498.7z" />
+                                <path fill="#ec202c" d="M553.6 422.1H557.2V433.32000000000005H553.6z" />
+                            </g>
+                            <g>
+                                <path
+                                    d="M556.5,547.7a5.5,5.5,0,0,0-5.3-4.9H144.9a5.5,5.5,0,0,0-5.3,4.9L125.4,707a.8.8,0,0,0,.8,1H569.8a.8.8,0,0,0,.8-1Z"
+                                    fill="#f26d57" />
+                                <path
+                                    d="M396.3,651.4h69.8l.8,11.7H396.8ZM148.3,559.9,147,571.5h75.2l.8-11.7Zm244.9,11.7-.5-11.7h66.8l.8,11.7Zm-157.9,0,.8-11.7H303l-.5,11.7Zm238.2,0-.8-11.7h75.2l1.3,11.7Zm-157.9,0,.5-11.7h63.7l.5,11.7Zm-.4,11.2h65.5l.5,11.7H314.6Zm160,11.7-.8-11.7h75.6l1.3,11.7ZM234.5,582.8h67.6l-.5,11.7H233.7Zm-13,0-.8,11.7h-76l1.3-11.7Zm172.2,0h67.6l.8,11.7h-68Zm-79.5,22.9h67.3l.5,11.7H313.7Zm-81.3,0h68.3l-.5,11.7H232Zm161.7,0h68.3l.8,11.7H395Zm82.2,11.7-.8-11.7h75.5l1.3,11.7ZM219.8,605.6l-.8,11.7H143l1.3-11.7Zm-1.6,22.9-.8,11.7H140.1l1.3-11.7Zm260.2,11.7-.8-11.7h76.7l1.3,11.7ZM313.3,628.5h69.1l.5,11.7h-70Zm82.2,0h69l.8,11.7H395.9Zm-164.2,0h69l-.5,11.7H230.4ZM480,663.1l-.8-11.7h77.1l1.3,11.7ZM216.5,651.4l-.8,11.7H138.1l1.3-11.7Zm13,0h69.8l-.5,11.7H228.7Zm82.8,0h70.9l.5,11.7H311.9ZM481.7,686l-.8-11.7h77.2l1.3,11.7Zm-97.4-11.7.5,11.7H311l.5-11.7Zm-85.8,0L298,686H227.1l.8-11.7Zm169.3,0,.8,11.7H397.7l-.5-11.7Zm-252.9,0L214,686H136.3l1.3-11.7Z"
+                                    fill="#653c36" />
+                            </g>
+                            <g>
+                                <ellipse cx="348" cy="431.6" rx="63.4" ry="63.7" fill="#c9bfa0" />
+                                <path
+                                    d="M423.1,446.4h-.5l-12.4-3.1-6.9-1.8-11.9-3-2.6-.6a40.1,40.1,0,0,0,.5-6.2,41.7,41.7,0,0,0-13.7-31l-.5-.5a41.3,41.3,0,0,0-27.2-10.2H347a41.6,41.6,0,0,0-40.7,41.7,39.1,39.1,0,0,0,.5,6.2l-2.2.5-12,2.9-7,1.7-12.3,3h-.4l-4.2,1c.2,1.6.5,3.2.8,4.8a80.4,80.4,0,0,0,21.8,40.4A79.3,79.3,0,0,0,347,515.9h1a79.4,79.4,0,0,0,56.7-23.6,80.3,80.3,0,0,0,21.8-40.6q.4-2.1.7-4.3Z"
+                                    fill="#fff0d9" />
+                                <path
+                                    d="M348,327.7h-1c-56.5.5-102.3,46.9-102.3,103.8S290.5,534.9,347,535.4h1c57,0,103.3-46.6,103.3-103.9S405,327.7,348,327.7Zm-1,27.4h1a75.5,75.5,0,0,1,47.5,16.8l.6.5.2.2a76.6,76.6,0,0,1,26.4,73.7c-6.8,35.2-37.7,61.8-74.7,61.8h-1a76.2,76.2,0,0,1-73.7-62.1,72.9,72.9,0,0,1-1.4-14.3C271.9,389.7,305.5,355.6,347,355.1Z"
+                                    fill="#62352b" />
+                                <ellipse cx="348" cy="431.6" rx="26.8" ry="26.9" fill="#eebf86" />
+                                <path
+                                    d="M348,395.4h-1a36.1,36.1,0,0,0,0,72.2h1a36.2,36.2,0,0,0,0-72.3Zm0,53.8h-1a17.6,17.6,0,0,1,0-35.2h1a17.7,17.7,0,0,1,0,35.4Z"
+                                    fill="#e08f26" />
+                                <path fill="#5f3521" d="M375.6 400.5L372.1 397.3 395.5 371.8 399 375 375.6 400.5" />
+                            </g>
+                        </g>
+                    </svg>
+
+                    <h1>Advent Hymnals</h1>
+                </div>
+
+
+            </div>
+            <div id='sheet'
+                style="max-width: 100%; width: 100%; height: 10%;position: absolute; bottom:5%; margin: 0 auto;text-align: center;z-index:2001">
+            </div>
+            <div class="full-width full-height">
+
+                <div class="student">
+                    <svg id="student" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 385">
+                        <!--     <circle class="circle" style="display:none;" id="BG" opacity="0.2" cx="200.011" cy="208" r="157.657"/> -->
+                        <circle class="circle" style="display:none;" id="dashed" opacity="0.15" fill="none"
+                            stroke="#FFFFFF" stroke-width="1.9028" stroke-miterlimit="10" stroke-dasharray="6.5548"
+                            cx="200.333" cy="208" r="176.666" />
+                        <g id="stud_whole" style="display:none;">
+                            <g id="stud_body">
+                                <!--  T-shirt        -->
+                                <path fill="#C8C0BA" d="M300,323v-9.401C300,268.536,255.131,232,200.241,232h-1.482
+                                              C143.869,232,99,268.536,99,313.599V323H300z" />
+                                <!--    Sweater      -->
+                                <path fill="#4D321E"
+                                    d="M251.2,240.3l-46.504,46.501c-2.868,2.869-7.521,2.869-10.391,0
+                                              L147.803,240.3C115.768,254.945,94,282.958,94,315.111V326h211v-10.889C305,282.958,283.232,254.945,251.2,240.3z" />
+                                <!--         <path opacity="0.2" d="M251.2,240.3l-46.504,46.501c-2.868,2.869-7.521,2.869-10.391,0
+                                             L147.803,240.3C115.768,254.945,94,282.958,94,315.111V326l0,0c0-31.997,21.801-60.071,53.8-74.7l46.503,46.498
+                                             c2.869,2.872,7.522,2.872,10.392,0.001l46.505-46.499C283.197,265.93,305,294.003,305,326l0,0v-10.889
+                                             C305,282.958,283.232,254.945,251.2,240.3z"/> -->
+                            </g>
+                            <g id="stud_head">
+                                <!--         left ear -->
+                                <path fill="#4b3933"
+                                    d="M135.934,194.953c-5.481,0-9.926-5.162-9.926-11.53s4.444-11.529,9.926-11.529" />
+                                <path opacity="0.1"
+                                    d="M261,190.046c0,36.915-27.145,66.838-61.5,66.838l0,0c-34.356,0-61.5-29.923-61.5-66.838v-23.247
+                                             c0-36.916,27.144-66.838,61.5-66.838l0,0c34.355,0,61.5,29.922,61.5,66.838V190.046z" />
+                                <!--         face -->
+                                <path fill="#5b3220"
+                                    d="M266,185.046c0,36.915-29.589,66.838-66.5,66.838l0,0c-36.912,0-66.5-29.923-66.5-66.838v-23.247
+                                              c0-36.916,29.588-66.838,66.5-66.838l0,0c36.911,0,66.5,29.922,66.5,66.838V185.046z" />
+                                <path fill="#5b3220" d="M200.777,94.961c-1.348,0-2.754,0.052-4.08,0.13C224.17,105.823,243,131.293,243,161.013v24.819
+                                              c0,29.719-18.879,55.189-46.352,65.921c1.326,0.079,2.77,0.131,4.117,0.131c36.91,0,66.234-29.923,66.234-66.838v-23.247
+                                              C267,124.883,237.688,94.961,200.777,94.961z" />
+                                <!--         right ear -->
+                                <path fill="#5b3220"
+                                    d="M275.367,183.423c0-5.789-4.367-10.567-8.367-11.391v-10.233c0-36.916-29.312-66.838-66.223-66.838
+                                              c-1.467,0-3.011,0.063-4.451,0.157C231.151,97.365,258,126.349,258,161.799v23.247c0,35.449-26.896,64.434-61.723,66.681
+                                              c1.441,0.093,2.913,0.157,4.38,0.157c33.56,0,60.81-24.737,65.473-56.975C271.26,194.463,275.367,189.498,275.367,183.423z" />
+                                <path fill="#99492C"
+                                    d="M219.818,211.524c0,11.122-9.018,20.14-20.143,20.14c-11.124,0-20.143-9.018-20.143-20.14" />
+                                <path fill="#FFFFFF"
+                                    d="M219.818,211.285c0,1.709-0.213,3.715-0.613,4.715h-39.158c-0.289-1-0.514-3.003-0.514-4.832" />
+
+                                <g class="eye">
+                                    <circle fill="#FFFFFF" cx="230.19" cy="178.929" r="9.551" />
+                                    <path d="M230.19,173.222c-0.481,0-0.949,0.06-1.398,0.171c0.258,0.405,0.406,0.885,0.406,1.4c0,1.447-1.172,2.619-2.619,2.619
+                                 c-0.654,0-1.253-0.241-1.714-0.638c-0.283,0.681-0.44,1.429-0.44,2.214c0,3.184,2.581,5.764,5.766,5.764s5.766-2.58,5.766-5.764
+                                 C235.956,175.803,233.375,173.222,230.19,173.222z" />
+                                </g>
+                                <g class="eye">
+                                    <circle fill="#FFFFFF" cx="170.802" cy="178.929" r="9.552" />
+                                    <path d="M170.802,173.222c-0.482,0-0.949,0.06-1.398,0.171c0.257,0.405,0.407,0.885,0.407,1.4c0,1.447-1.174,2.619-2.62,2.619
+                                 c-0.655,0-1.254-0.241-1.714-0.638c-0.283,0.681-0.44,1.429-0.44,2.214c0,3.184,2.581,5.764,5.766,5.764s5.766-2.58,5.766-5.764
+                                 C176.567,175.803,173.986,173.222,170.802,173.222z" />
+                                </g>
+                                <g>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" fill="#000000"
+                                        d="M258,136v30.774c7-0.883,12-5.43,12-10.922V126H258z" />
+                                    <path fill-rule="evenodd" clip-rule="evenodd" fill="#000000"
+                                        d="M147.109,164.33c-7.143,5.105-18.449,1.699-19.795-9.419 c-10.266-58.371,21.152-60.824,21.152-60.824s-2.678-1.742-4.252-2.767c6.418-3.438,13.241-2.234,19.043,1.522 C187.104,107.034,166.324,151.184,147.109,164.33z" />
+                                    <path fill-rule="evenodd" clip-rule="evenodd" fill="#000000"
+                                        d="M166.006,96.921l-4.389,10.162
+                                                                                        c9.484,31.142-10.533,54.303-10.533,54.303C162.5,151.977,184.316,119.742,166.006,96.921z" />
+                                    <g id="hair">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" fill="#000000"
+                                            d="M201.883,146.219c1.371,2.254,2.523,4.146,4.095,6.729 c-59.673-18.631-46.111-60.226-41.876-66.788c4.234-6.563,11.658-12.6,20.608-16.324c-0.481,1.902-0.858,3.393-1.235,4.888 c22.131-7.764,49.002-0.148,63.532,10.733c4.941,3.701,9.703,7.613,14.57,11.401c8.224,6.396,17.896,9.472,28.993,10.778 c-5.158,7.781-17.902,14.202-17.902,14.202s7.69,3.34,12.366,5.37C285.034,127.208,254.983,157.615,201.883,146.219z" />
+                                        <path fill-rule="evenodd" clip-rule="evenodd" fill="#000000"
+                                            d="M256.379,104.706c0,0,16.915,9.361,33.83,3.449
+                                                                                          c0,0-4.816,6.628-17.347,14.047C272.862,122.201,260.942,116.496,256.379,104.706z" />
+                                        <path fill-rule="evenodd" clip-rule="evenodd" fill="#000000"
+                                            d="M193.809,123.123c0,0,23.333,28.178,56.271,22.617
+                                                                                          c0,0-27.564,7.207-48.49,0.195C201.59,145.936,193.254,133.809,193.809,123.123z" />
+                                        <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" fill="#000000"
+                                            d="M170.264,132.057
+                                                                                                        c-4.944,13.301-14.129,26.021-23.009,32.167c0.385-0.181,0.765-0.378,1.132-0.599c8.695-4.995,17.765-15.334,22.678-25.838
+                                                                                                        c6.094,6.406,16.153,12.604,32.137,17.391c-1.082-1.578-1.949-2.84-2.838-4.135C186.019,145.805,176.47,139.134,170.264,132.057z" />
+                                        <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" fill="#000000"
+                                            d="M250.08,145.74c0,0-25.727,6.724-46.34,0.857
+                                                                                                        c-0.617-0.123-1.234-0.245-1.857-0.379c0.924,1.518,1.75,2.876,2.67,4.388c38.78,6.563,60.551-8.702,65.84-13.063
+                                                                                                        c-5.628,3.07-12.816,6.19-21.48,8.359C249.303,145.846,249.688,145.807,250.08,145.74z" />
+                                    </g>
+                                </g>
+                                <g id="glasses">
+                                    <path opacity="0.25" fill="#4F260B"
+                                        d="M247.237,159h-27.354c-7.833,0-13.884,5.873-13.884,13.706v1.214
+                                                               c-3.499-1.489-7.455-1.561-11-0.22v-0.994c0-7.833-5.929-13.706-13.763-13.706h-27.354c-7.833,0-13.884,5.873-13.884,13.706v15.78
+                                                               c0,7.833,6.051,14.514,13.884,14.514h27.354c7.834,0,13.763-6.681,13.763-14.514v-8.007c3.274-2.459,7.891-2.309,11,0.452v7.555
+                                                               c0,7.833,6.051,14.514,13.884,14.514h27.354c7.834,0,13.763-6.681,13.763-14.514v-15.78C261,164.873,255.071,159,247.237,159z
+                                                               M189,188.486c0,4.532-3.23,8.514-7.763,8.514h-27.354c-4.531,0-7.884-3.981-7.884-8.514v-15.78c0-4.532,3.353-7.706,7.884-7.706
+                                                               H181h0.237c4.532,0,7.763,3.174,7.763,7.706V188.486z M255,188.486c0,4.532-3.23,8.514-7.763,8.514h-27.354
+                                                               c-4.531,0-7.884-3.981-7.884-8.514v-15.78c0-4.532,3.353-7.706,7.884-7.706H247h0.237c4.532,0,7.763,3.174,7.763,7.706V188.486z" />
+                                    <path fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10"
+                                        d="M208.506,176.158
+                                                                                                      c-4.578-4.577-11.986-4.577-16.563,0" />
+                                    <path d="M247.237,162c4.532,0,7.763,3.174,7.763,7.706v15.78c0,4.532-3.23,8.514-7.763,8.514h-27.354
+                                 c-4.531,0-7.884-3.981-7.884-8.514v-15.78c0-4.532,3.353-7.706,7.884-7.706H247 M247.237,156h-27.354
+                                 c-7.833,0-13.884,5.873-13.884,13.706v15.78c0,7.833,6.051,14.514,13.884,14.514h27.354c7.834,0,13.763-6.681,13.763-14.514
+                                 v-15.78C261,161.873,255.071,156,247.237,156L247.237,156z" />
+                                    <path opacity="0.3" fill="#FFFFFF"
+                                        d="M257,168.327c0-4.599-3.729-8.327-8.329-8.327h-30.342c-4.6,0-8.329,3.728-8.329,8.327
+                                                              v19.346c0,4.599,3.729,8.327,8.329,8.327h30.342c4.6,0,8.329-3.728,8.329-8.327V168.327z" />
+
+                                    <path class="reflection" opacity=".3" fill="#FFFFFF"
+                                        d="M226.629,160l-13.033,34.105c1.407,1.09,3.168,1.895,5.086,1.895h11.383l13.703-36H226.629z" />
+
+                                    <path d="M181.237,162c4.532,0,7.763,3.174,7.763,7.706v15.78c0,4.532-3.23,8.514-7.763,8.514h-27.354
+                                 c-4.531,0-7.884-3.981-7.884-8.514v-15.78c0-4.532,3.353-7.706,7.884-7.706H181 M181.237,156h-27.354
+                                 c-7.833,0-13.884,5.873-13.884,13.706v15.78c0,7.833,6.051,14.514,13.884,14.514h27.354c7.834,0,13.763-6.681,13.763-14.514
+                                 v-15.78C195,161.873,189.071,156,181.237,156L181.237,156z" />
+                                    <path opacity="0.35" fill="#FFFFFF"
+                                        d="M191,168.327c0-4.599-3.729-8.327-8.329-8.327h-30.342c-4.6,0-8.329,3.728-8.329,8.327
+                                                               v19.346c0,4.599,3.729,8.327,8.329,8.327h30.342c4.6,0,8.329-3.728,8.329-8.327V168.327z" />
+
+                                    <path class="reflection" opacity="0.3" fill="#FFFFFF"
+                                        d="M160.629,160l-13.033,34.105c1.407,1.09,3.168,1.895,5.086,1.895h11.383l13.703-36H160.629z" />
+                                </g>
+                            </g>
+                        </g>
+                        <rect id="clip" x="11" y="344" fill="#A87A4E" width="372" height="54" />
+                        <g id="book">
+                            <path id="bk_bdy" fill="#94847A" d="" />
+                            <path id="bk_edg" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"
+                                stroke-miterlimit="10" d="" />
+                            <polygon id="btm_pgs" fill="#D3D3D3" />
+                            <polygon id="btm_r" fill="#F2F2F2" points="" />
+                            <polygon id="btm_l" fill="#f0f0f0" points="" />
+                            <polygon id="line" opacity="0" fill="#D3D3D3" points="201,326 198,326 199,299 200,299" />
+                            <path opacity="0" id="pgFld" fill="#f2f2f2"
+                                d="M199.235,299c0,0,55.694-1,102-1L354,325   c-85.08,0-153.765,1-153.765,1L199.235,299z">
+                            </path>
+                            <animate xlink:href="#pgFld" attributeName="d" begin="4s" dur="5s" repeatCount="indefinite"
+                                keyTimes="0;
+                                       .03;
+                                       .06;
+                                       .1;
+                                       .15;
+                                       1" values="
+                                     M199,299c0,0-55.695-1-102-1l-52.765,27   c85.08,0,153.765,1,153.765,1L199,299z;
+                                     M199,299c0,0-15.446-45.394-71.818-42.365L99,271   c68.5-11.504,99,54.5,99,54.5L199,299z;
+                                     M199,299c0,0-1-30-2.352-74.5l-0.371,4.5   c5.578,43.393,1.723,97,1.723,97L199,299z;
+                                     M199,299c0,0,51.08,6,58.769-47.116l15.36,12.779   C273.129,323,198,326,198,326L199,299z;
+                                     M199.235,299c0,0,55.694-1,102-1L354,325   c-85.08,0-153.765,1-153.765,1L199.235,299z;
+                                     M199.235,299c0,0,55.694-1,102-1L354,325   c-85.08,0-153.765,1-153.765,1L199.235,299z
+                                     " />
+                        </g>
+                        <g opacity="0.3">
+                            <path style="display:none;" class="stars" fill="#FFFFFF" d="M280.252,56.796c0.255-0.466,0.673-0.466,0.928,0l1.214,2.22
+                                                          c0.255,0.466,0.846,1.056,1.312,1.312l2.219,1.213c0.466,0.255,0.466,0.672,0,0.927l-2.219,1.214
+                                                          c-0.466,0.255-1.057,0.845-1.312,1.311l-1.214,2.22c-0.255,0.466-0.673,0.466-0.928,0l-1.213-2.22
+                                                          c-0.255-0.466-0.846-1.056-1.312-1.311l-2.22-1.214c-0.466-0.255-0.466-0.672,0-0.927l2.22-1.214
+                                                          c0.466-0.255,1.057-0.845,1.312-1.311L280.252,56.796z" />
+                            <path style="display:none;" class="stars" fill="#FFFFFF" d="M196.203,37.407c0.219-0.401,0.579-0.401,0.798,0l1.046,1.911
+                                                          c0.219,0.401,0.727,0.909,1.128,1.128l1.909,1.045c0.401,0.219,0.401,0.579,0,0.798l-1.909,1.044
+                                                          c-0.401,0.219-0.909,0.727-1.128,1.128L197,46.374c-0.219,0.401-0.579,0.401-0.798,0l-1.045-1.911
+                                                          c-0.219-0.401-0.727-0.909-1.128-1.128l-1.91-1.044c-0.401-0.219-0.401-0.579,0-0.798l1.91-1.045
+                                                          c0.401-0.219,0.909-0.727,1.128-1.128L196.203,37.407z" />
+                            <path style="display:none;" class="stars" fill="#FFFFFF" d="M44.003,195.166c0.329-0.602,0.868-0.602,1.197,0l1.568,2.867
+                                                          c0.329,0.602,1.091,1.364,1.693,1.693l2.864,1.567c0.602,0.329,0.602,0.868,0,1.197l-2.864,1.566
+                                                          c-0.602,0.329-1.364,1.091-1.693,1.693l-1.568,2.865c-0.329,0.603-0.868,0.603-1.197,0l-1.566-2.865
+                                                          c-0.329-0.603-1.091-1.364-1.693-1.693l-2.865-1.566c-0.602-0.329-0.602-0.868,0-1.197l2.866-1.567
+                                                          c0.602-0.329,1.363-1.091,1.692-1.693L44.003,195.166z" />
+                            <path style="display:none;" class="stars" fill="#FFFFFF"
+                                d="M91.01,119.478c0.151-0.277,0.399-0.277,0.551,0l0.722,1.32
+                                                          c0.152,0.277,0.502,0.628,0.78,0.78l1.318,0.721c0.277,0.152,0.277,0.4,0,0.552l-1.318,0.721c-0.277,0.152-0.628,0.502-0.78,0.78
+                                                          l-0.722,1.32c-0.152,0.277-0.4,0.277-0.551,0l-0.722-1.32c-0.151-0.277-0.502-0.628-0.779-0.779l-1.319-0.722
+                                                          c-0.277-0.151-0.277-0.399,0-0.551l1.319-0.722c0.277-0.152,0.628-0.502,0.779-0.78L91.01,119.478z" />
+                            <path style="display:none;" class="stars" fill="#FFFFFF" d="M344.458,162.397c0.18-0.329,0.475-0.33,0.654,0l0.857,1.567
+                                                          c0.18,0.33,0.597,0.746,0.926,0.926l1.565,0.856c0.329,0.18,0.329,0.475,0,0.655l-1.565,0.857
+                                                          c-0.329,0.18-0.746,0.596-0.926,0.926l-0.857,1.567c-0.18,0.33-0.475,0.329-0.654,0l-0.856-1.567
+                                                          c-0.18-0.329-0.597-0.746-0.926-0.926l-1.566-0.857c-0.329-0.18-0.329-0.475,0-0.654l1.566-0.857
+                                                          c0.329-0.18,0.746-0.597,0.926-0.926L344.458,162.397z" />
+                        </g>
+                    </svg>
+                </div>
+            </div>
+
+
+        </picture>
+        <div class="m-hero flex-column-35 flex-column-grey">
+            <div class="m-hero__headercontainer">
+                <h1 class="a-h a-h__h1">1000s of Seventh Day Adventist and Millerite
+                    Hymns
+                </h1>
+            </div>
+            <div class="a-paragraph">
+                <p>"We have nothing to fear for the future, except as we shall forget the way the Lord has led us, and
+                    His teaching in our past history." - EGW
+                </p>
+                <p>&nbsp;</p>
+                <p class="a-paragraph--disclaimer">Advent hymnals provides you with <strong>the most
+                        comprehensive</strong> collection of songs from all the hymnals used by Seventh-Day and
+                    Millerite
+                    adventists from before the experience of 1844 to date with all the possible tools to <strong>help
+                        you learn
+                        and sing (in tune) any of them in any voice.</strong></p>
+                <p>&nbsp;</p>
+                <p class="a-paragraph--disclaimer"><strong>*Since 1843.</strong></p>
+            </div>
+            <a class="a-btn a-btn--primary-green " href="/application"> &rarr; Explore All
+                Hymns</a>
+        </div>
+    </div>
+    <div class="o-hero flex-grid u-lazy__container">
+        <div class="flex-column-65 flex-column-grey m-breakingplaneimage__text">
+            <span class="a-optionalflag">Pioneer Hymns</span>
+            <h2 class="a-h a-h__h2">
+                Why Advent Hymnals
+            </h2>
+            <div class="a-paragraph font--bold">
+                <p class="a-paragraph a-paragraph--disclaimer">Here are a few quotes from lesson writers which are
+                    worthy of
+                    notice.</p>
+                "<strong>Seek to know what the book (Ephesians) says and means, not what the lesson writer may mean. His
+                    earnest
+                    desire is to open the book to all. Therefore study the book.</strong>" - <i>1903, Quarter 3. </i>
+                <br>"Use the notes and suggestions only as a means of studying the text itself, and do not allow the
+                mind to be
+                diverted by them from the study of the text. Otherwise they are a hindrance instead of a help... There
+                is
+                constant danger of being diverted from the study of God's thought, as expressed to us in His word, to
+                the study
+                of what some man (the lesson writer) has thought about God's thought." - <i>1896, Quarter 3.</i>
+                <br>"<strong>You do not stand in need of what somebody (the lesson writer) thinks; what you want is
+                    knowledge,</strong> and "the Lord giveth wisdom; out of His mouth cometh knowledge and
+                understanding." Prov.
+                2:6. You may question the Lord very often, for He "giveth to all liberally, and upbraideth not."" -
+                <i>1900,
+                    Quater 3.</i>
+                <p class="a-paragraph a-paragraph--disclaimer">Your mind is like an empty shelf. You may fill it with
+                    the pure
+                    truths of the gospel or, at the peril of your soul, add also the poison of the thoughts formulated
+                    in the
+                    infidel and deceptive mind of the contemporary theologian. When you make a comparison of the
+                    earliest and the
+                    latest lessons, we have no doubt that you will appreciate the former. </p>
+            </div>
+
+            <a class="a-btn a-btn--primary-green " href="/Sabbath-School/Lesson-Writer-Quotes">&rarr; Read More on
+                Advent Hymnals</a>
+        </div>
+        <div class="o-hero__videocontainer flex-column-35">
+            <picture class="m-breakingplaneimage__container">
+                <source class="u-lazy" media="(max-width: 1023px)"
+                    data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/book-shelf.jpg">
+                <source class="u-lazy" media="(min-width: 1024px)"
+                    data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/book-shelf.jpg">
+                <img class="u-lazy" data-src="{{config.base_url}}/sites/{{config.site.title}}/images/book-shelf.jpg">
+            </picture>
+            <picture class="m-breakingplaneimage__image">
+                <source class="u-lazy" media="(max-width: 1023px)" data-srcset="">
+                <source class="u-lazy" media="(min-width: 1024px)" data-srcset="">
+                <img class="u-lazy" data-src="" alt="">
+            </picture>
+        </div>
+    </div>
+    <div class="o-hero flex-grid">
+        <div class="o-hero__videocontainer flex-column-35">
+            <picture class="m-breakingplaneimage__container">
+                <source class="u-lazy" media="(max-width: 1023px)"
+                    data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/bible_1.png">
+                <source class="u-lazy" media="(min-width: 1024px)"
+                    data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/bible_1.png">
+                <img class="u-lazy" data-src="{{config.base_url}}/sites/{{config.site.title}}/images/bible_1.png">
+            </picture>
+            <picture class="m-breakingplaneimage__image">
+                <source class="u-lazy" media="(max-width: 1023px)" data-srcset="">
+                <source class="u-lazy" media="(min-width: 1024px)" data-srcset="">
+                <img class="u-lazy" data-src="" alt="">
+            </picture>
+        </div>
+        <div class="flex-column-65 flex-column-grey m-breakingplaneimage__text">
+            <span class="a-optionalflag">HYMNALS</span>
+            <h2 class="a-h a-h__h2">
+                Hymnals
+            </h2>
+            <div class="a-paragraph font--bold">
+                <p>"<strong>There is no better way to express the thoughts presented in the Scriptures than in the very
+                        words of
+                        the Scriptures,</strong> and teachers are therefore urged to require that the answers to the
+                    questions shall
+                    be given in the exact words of the text.
+                    ...<strong>Do not consider any lesson properly prepared until any question which will admit of being
+                        answered
+                        in the words of the text set apart for the lesson, can be readily answered in the exact words of
+                        the text
+                        without looking at the printed text.</strong> This can not be accomplished by a hasty reading of
+                    the lesson
+                    a short time before the Sabbath school...
+                    There is no one who can not profitably read the portion assigned fifty or a hundred times during the
+                    week.
+                    <strong>Read it, question it, meditate upon it, until your brain sees it, and you can read it
+                        intelligently in
+                        the dark.</strong>" - <i>Lesson Writers</i> </p>
+                <p class="a-paragraph a-paragraph--disclaimer">Have you ever wondered why adventists, who are supposed
+                    to be the
+                    people of the book, are today just as clueless about the scriptures as any other nominal christian?
+                    <strong>It
+                        is a true proposition that this is greatly due to the departure from the original method of
+                        study which
+                        focused more on the scripture than on the words of men (the lesson writers)</strong>. </p>
+            </div>
+
+            <a class="a-btn a-btn--primary-green " href="/Sabbath-School/Method-of-Study">&rarr; More on Method of
+                Study</a>
+        </div>
+    </div>
+    <div class="o-hero flex-grid u-lazy__container">
+        <div class="flex-column-65 flex-column-grey m-breakingplaneimage__text">
+            <span class="a-optionalflag">Tools</span>
+            <h2 class="a-h a-h__h2">
+                Tools
+            </h2>
+            <div class="a-paragraph font--bold">
+                <p class="a-paragraph a-paragraph--disclaimer">Here are a few quotes from lesson writers which are
+                    worthy of
+                    notice.</p>
+                "<strong>Seek to know what the book (Ephesians) says and means, not what the lesson writer may mean. His
+                    earnest
+                    desire is to open the book to all. Therefore study the book.</strong>" - <i>1903, Quarter 3. </i>
+                <br>"Use the notes and suggestions only as a means of studying the text itself, and do not allow the
+                mind to be
+                diverted by them from the study of the text. Otherwise they are a hindrance instead of a help... There
+                is
+                constant danger of being diverted from the study of God's thought, as expressed to us in His word, to
+                the study
+                of what some man (the lesson writer) has thought about God's thought." - <i>1896, Quarter 3.</i>
+                <br>"<strong>You do not stand in need of what somebody (the lesson writer) thinks; what you want is
+                    knowledge,</strong> and "the Lord giveth wisdom; out of His mouth cometh knowledge and
+                understanding." Prov.
+                2:6. You may question the Lord very often, for He "giveth to all liberally, and upbraideth not."" -
+                <i>1900,
+                    Quater 3.</i>
+                <p class="a-paragraph a-paragraph--disclaimer">Your mind is like an empty shelf. You may fill it with
+                    the pure
+                    truths of the gospel or, at the peril of your soul, add also the poison of the thoughts formulated
+                    in the
+                    infidel and deceptive mind of the contemporary theologian. When you make a comparison of the
+                    earliest and the
+                    latest lessons, we have no doubt that you will appreciate the former. </p>
+            </div>
+
+            <a class="a-btn a-btn--primary-green " href="/Sabbath-School/Lesson-Writer-Quotes">&rarr; Lesson Writer
+                Quotes</a>
+        </div>
+        <div class="o-hero__videocontainer flex-column-35">
+            <picture class="m-breakingplaneimage__container">
+                <source class="u-lazy" media="(max-width: 1023px)"
+                    data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/book-shelf.jpg">
+                <source class="u-lazy" media="(min-width: 1024px)"
+                    data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/book-shelf.jpg">
+                <img class="u-lazy" data-src="{{config.base_url}}/sites/{{config.site.title}}/images/book-shelf.jpg">
+            </picture>
+            <picture class="m-breakingplaneimage__image">
+                <source class="u-lazy" media="(max-width: 1023px)" data-srcset="">
+                <source class="u-lazy" media="(min-width: 1024px)" data-srcset="">
+                <img class="u-lazy" data-src="" alt="">
+            </picture>
+        </div>
+    </div>
+    <div class="o-hero flex-grid">
+        <div class="o-hero__videocontainer flex-column-35">
+            <picture class="m-breakingplaneimage__container">
+                <source class="u-lazy" media="(max-width: 1023px)"
+                    data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/church.jpg">
+                <source class="u-lazy" media="(min-width: 1024px)"
+                    data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/church.jpg">
+                <img class="u-lazy" data-src="{{config.base_url}}/sites/{{config.site.title}}/images/church.jpg">
+            </picture>
+            <picture class="m-breakingplaneimage__image">
+                <source class="u-lazy" media="(max-width: 1023px)" data-srcset="">
+                <source class="u-lazy" media="(min-width: 1024px)" data-srcset="">
+                <img class="u-lazy" data-src="" alt="">
+            </picture>
+        </div>
+        <div class="flex-column-65 flex-column-grey m-breakingplaneimage__text">
+            <span class="a-optionalflag">Downloads</span>
+            <h2 class="a-h a-h__h2">
+                Downloads
+            </h2>
+            <div class="a-paragraph font--bold">
+                <p>"...where two or three are gathered together in my name, there am I in the midst of them." -
+                    <i>Christ</i>
+                </p>
+                <p>"...the house of God, which is the church of the living God, the pillar and ground of the truth." -
+                    <i>Paul</i></p>
+                <p>"Surely the LORD is in this place; and I knew it not... How dreadful is this place! this is none
+                    other but
+                    the house of God, and this is the gate of heaven." - <i>Jacob</i></p>
+                <p>"God has a church. It is NOT THE GREAT CATHEDRAL, neither is it the national establishment, NEITHER
+                    IS IT THE
+                    VARIOUS DENOMINATIONS; it is the people who LOVE GOD and KEEP HIS COMMANDMENTS." - <i>Ellen
+                        White</i></p>
+            </div>
+            <p class="a-paragraph a-paragraph--disclaimer">Until within a few weeks few had a correct understanding of
+                the
+                church. To many the church was the grand cathedral where they went to worship week after week. But the
+                experience of being locked up at home has led all of us to accept, although unwillingly by some, the
+                grand truth
+                that God dwelleth not in grand cathedrals made with hands. For if this were the case then He would also
+                have
+                been locked up in the magnificient stuctures that have now been desolate for weeks.
+                <strong>
+                    <i>
+                        If you appreciate the truth that there ought to be a church in your home but are at a loss of
+                        what/how to
+                        study, worry not. You can use Sabbath School Lessons with great profit.
+                    </i>
+                </strong>
+
+            </p>
+            <a class="a-btn a-btn--primary-green " href="Sabbath-School/Sabbath-School-Lesson-Topics"> &rarr; Jump
+                Straight
+                In</a>
+        </div>
+    </div>
+    <div data-component="LightboxContainer"></div>
+    <div class="o-productlineupcontainer">
+        <h2 class="center a-h a-h__h2 a-h__h2--large">Other Resources</h2>
+        <div class="o-productlineupcontainer--inner">
+            <a href="https://adventhymnals.org" target="_blank" class="m-productlineupcard u-lazy__container">
+                <div class="m-productlineupcard__inner" style="background-color:transparent">
+                    <picture class="m-breakingplaneimage__image">
+                        <source class="u-lazy" media="(max-width: 1023px)" data-srcset="">
+                        <source class="u-lazy" media="(min-width: 1024px)"
+                            data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/violinist.svg">
+                        <img class="u-lazy"
+                            data-src="{{config.base_url}}/sites/{{config.site.title}}/images/violinist.svg">
+                    </picture>
+                </div>
+                <div class="m-productlineupcard__text">
+                    <span class="a-inlinetext a-inlinetext--yellow a-inlinetext--bold  a-inlinetext--large"
+                        style="z-index:1000; background-color:#C8C0BA;">Advent Hymnals</span>
+                </div>
+            </a>
+            <a href="https://bibleinstructormagazine.org/" target="_blank"
+                class="m-productlineupcard u-lazy__container">
+                <div class="m-productlineupcard__inner"
+                    style="background-image: url({{config.base_url}}/sites/{{config.site.title}}/images/bible_1.png)">
+                    <picture class="m-breakingplaneimage__image">
+                        <source class="u-lazy" media="(max-width: 1023px)" data-srcset="">
+                        <source class="u-lazy" media="(min-width: 1024px)"
+                            data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/The Bible.png">
+                        <img class="u-lazy"
+                            data-src="{{config.base_url}}/sites/{{config.site.title}}/images/The Bible.png">
+                    </picture>
+                </div>
+                <div class="m-productlineupcard__text">
+                    <span class="a-inlinetext a-inlinetext--blue  a-inlinetext--bold   a-inlinetext--large">Bible
+                        Instructor
+                        Magazine</span>
+                </div>
+            </a>
+            <a href="https://christiantemperance.org/" target="_blank" class="m-productlineupcard u-lazy__container">
+                <div class="m-productlineupcard__inner"
+                    style="background-image: url({{config.base_url}}/sites/{{config.site.title}}/images/christian-temperance.jpg)">
+                    <picture class="m-breakingplaneimage__image" style="border-radius: 50%;">
+                        <source class="u-lazy" media="(max-width: 1023px)" data-srcset="">
+                        <source class="u-lazy" media="(min-width: 1024px)"
+                            data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/christian-temperance.jpg"
+                            style="border-radius: 50%;">
+                        <img class="u-lazy"
+                            data-src="{{config.base_url}}/sites/{{config.site.title}}/images/christian-temperance.jpg"
+                            style="border-radius: 50%;">
+                    </picture>
+                </div>
+                <div class="m-productlineupcard__text">
+                    <span class="a-inlinetext a-inlinetext--green a-inlinetext--bold  a-inlinetext--large"> Christian
+                        Temperance</span>
+                </div>
+            </a>
+            <a href="https://gs-publications.org/" target="_blank" class="m-productlineupcard u-lazy__container">
+                <div class="m-productlineupcard__inner"
+                    style="background-image: url({{config.base_url}}/sites/{{config.site.title}}/images/books.jpg)">
+                    <picture class="m-breakingplaneimage__image">
+                        <source class="u-lazy" media="(max-width: 1023px)" data-srcset="">
+                        <source class="u-lazy" media="(min-width: 1024px)"
+                            data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/books.jpg">
+                        <img class="u-lazy" data-src="{{config.base_url}}/sites/{{config.site.title}}/images/books.jpg"
+                            style="border-radius: 50%;">
+                    </picture>
+                </div>
+                <div class="m-productlineupcard__text">
+                    <span class="a-inlinetext a-inlinetext--purple  a-inlinetext--bold   a-inlinetext--large">Gospel
+                        Sounders
+                        Publications</span>
+                </div>
+            </a>
+            <a href="https://gospelsoundersministry.org/" target="_blank" class="m-productlineupcard u-lazy__container">
+                <div class="m-productlineupcard__inner"
+                    style="background-image: url({{config.base_url}}/sites/{{config.site.title}}/images/GOSPEL SOUNDERS-01.png)">
+                    <picture class="m-breakingplaneimage__image">
+                        <source class="u-lazy" media="(max-width: 1023px)" data-srcset="">
+                        <source class="u-lazy" media="(min-width: 1024px)"
+                            data-srcset="{{config.base_url}}/sites/{{config.site.title}}/images/GOSPEL SOUNDERS-01.png">
+                        <img class="u-lazy"
+                            data-src="{{config.base_url}}/sites/{{config.site.title}}/images/GOSPEL SOUNDERS-01.png">
+                    </picture>
+                </div>
+                <div class="m-productlineupcard__text">
+                    <span class="a-inlinetext a-inlinetext--green a-inlinetext--bold  a-inlinetext--large">Gospel
+                        Sounders
+                        Ministry</span>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="o-quizcomponent"
+        style="background-image:url(/-/media/images/features/quiz-component/website_quiz_background_desktop_900x200.jpg">
+        <h3 class="a-h a-h__h3 a-h--white">How should you begin?</h3>
+        <p>
+            "The word of the LORD was unto them <strong>precept upon precept, precept upon precept; line upon line, line
+                upon
+                line; here a little, and there a little."</strong>
+            The best way to begin is to go to the list of topics and pick a topic or a book that you might have an
+            interest in
+            studying. We recommend that you begin with the earliest lessons.
+        </p>
+        <div class="o-quizcomponent__buttoncontainer">
+            <a class="a-btn a-btn--primary-green" href="1888-1890/1888/quarter1/lesson1">Get started with Genesis</a>
+        </div>
+    </div>
+    <div class="o-grid flex-grid flex-column-grey o-valueadd">
+        <div class="flex-grid--narrow flex--direction-column">
+            <div class="center">
+                <h3 class="a-h a-h__h3">Support</h3>
+                We have spent several mornings, evenings and weekends working on Sabbath School Lessons as a part time
+                job and
+                we have never felt compelled to ask for any compensation until now. (It is the way that all open-source
+                projects
+                work. <i>What is open-source?</i> If you don't know never mind.) If you may have received any benefit
+                from this
+                work and would like to show your appreciation, you can support us by:<strong>
+            </div>
+
+            <div class="flex--direction-row spaced-between flex--centered">
+                <div class="full-width">
+
+                    <div class="o-valueadd__iconcontainer">
+                        <a href="https://shop.gospelsounders.org" style="text-decoration: none;">
+                            <div class="m-icon__section">
+                                <i class="a-icon fa fa-shopping-basket" style="color:#A87A4E;"></i>
+                                <span class="a-inlinetext--green">Buying a printed Book</span>
+                            </div>
+                        </a>
+                        <a href="http://localhost:3011/Sabbath-School/How-to-Use/Donation"
+                            style="text-decoration: none;">
+                            <div class="m-icon__section">
+                                <i class="a-icon fa fa-donate" style="color:#434484;"></i>
+                                <span class="a-inlinetext--purple">Giving a Donation</span>
+                            </div>
+                        </a>
+                        <a class="fb-share-c" target="_blank"
+                            href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsabbathschool.gospelsounders.org%2FSabbath-School&amp;src=sdkpreparse"
+                            style="text-decoration: none;">
+                            <div class="m-icon__section">
+                                <i class="a-icon fa fa-share" style="color:#1aa2dc;"></i>
+                                <span class="a-inlinetext--blue">Sharing with Friends</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="o-social flex-grid u-lazy__container">
+        <div class="a-h__h2--large center"><a href="/Sabbath-School/Lesson-Writer-Quotes"
+                style="text-decoration:none; color: #96613a;">
+                <h2>Sabbath School Lesson <span style="color: #000000;">Quotes</span></h2>
+            </a> </div>
+        <br />
+
+    </section>
+    <div class="fxm-footer">
+        <div class="o-footer">
+            <div class="page-footer">
+                <nav class="o-footer__nav">
+                    <div class="o-footer__navgrid flex-grid--narrow">
+                        <p class="a-paragraph a-inlinetext--purple" style="text-align: center;">{{#config.copyright}}
+                        <p style="text-align: center;">copyright &copy; {{{config.copyright.startYear}}} - 2021 - <a
+                                href="{{{config.copyright.url}}}">{{{config.copyright.name}}}</a></a></p>
+                        {{/config.copyright}}
+                        </p>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vexflow/3.0.9/vexflow-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js">
+    </script>
+    <script src="{{config.base_url}}/scripts/ma-index.js"></script>
+    <script src="{{config.base_url}}/scripts/ma-app.bundle.js"></script>
+    <script src="{{config.base_url}}/scripts/ma-server.bundle.js"></script>
+
+    <script src="{{config.base_url}}/scripts/gsap.min.js"></script>
+    <script src="{{config.base_url}}/scripts/snap.svg/0.5.1/snap.svg-min.js"></script>
+    <script src="{{config.base_url}}/scripts/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mo-js/0.288.2/mo.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.fb-share-c').attr('href',
+                `https://www.facebook.com/sharer/sharer.php?u=${encodeURI(window.location.href)}`)
+            let auth = $('#authC').html()
+            try {
+                auth = JSON.parse(auth);
+                if (auth.accessToken) {
+                    localStorage.setItem("token", auth.accessToken)
+                    if (!localStorage.getItem("returnafterlogin"))
+                        localStorage.setItem("returnafterlogin", '/');
+                }
+            } catch (err) {
+                console.error(err)
+            }
+            if (localStorage.getItem("token")) {
+                $("#headerLinks").prepend(
+                    '<a href="/logout" aria-label="Account" class="logoutgtn"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="sign-out-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-sign-out-alt fa-w-16 fa-fw fa-lg"><path fill="#393f45" d="M272 112v51.6h-96c-26.5 0-48 21.5-48 48v88.6c0 26.5 21.5 48 48 48h96v51.6c0 42.6 51.7 64.2 81.9 33.9l144-143.9c18.7-18.7 18.7-49.1 0-67.9l-144-144C323.8 48 272 69.3 272 112zm192 144L320 400v-99.7H176v-88.6h144V112l144 144zM96 64h84c6.6 0 12 5.4 12 12v24c0 6.6-5.4 12-12 12H96c-26.5 0-48 21.5-48 48v192c0 26.5 21.5 48 48 48h84c6.6 0 12 5.4 12 12v24c0 6.6-5.4 12-12 12H96c-53 0-96-43-96-96V160c0-53 43-96 96-96z" class=""></path></svg></a>'
+                )
+                $("#headerLinksMobile").prepend(
+                    '<a href="/logout" class="o-subheader__title logoutgtn"> Sign out <svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="sign-out-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-sign-out-alt fa-w-16 fa-fw fa-lg"><path fill="#393f45" d="M272 112v51.6h-96c-26.5 0-48 21.5-48 48v88.6c0 26.5 21.5 48 48 48h96v51.6c0 42.6 51.7 64.2 81.9 33.9l144-143.9c18.7-18.7 18.7-49.1 0-67.9l-144-144C323.8 48 272 69.3 272 112zm192 144L320 400v-99.7H176v-88.6h144V112l144 144zM96 64h84c6.6 0 12 5.4 12 12v24c0 6.6-5.4 12-12 12H96c-26.5 0-48 21.5-48 48v192c0 26.5 21.5 48 48 48h84c6.6 0 12 5.4 12 12v24c0 6.6-5.4 12-12 12H96c-53 0-96-43-96-96V160c0-53 43-96 96-96z" class=""></path></svg> </a>'
+                )
+
+                $(document).on("click", "a.logoutgtn", function (e) {
+                    e.preventDefault()
+                    let returnTo = window.location.href
+                    if (!returnTo) returnTo = '/'
+                    localStorage.setItem("returnafterlogin", window.location.href);
+                    localStorage.removeItem("token");
+                    window.location = `${$(this).attr('href')}?redirectUrl=${window.location.href}`;
+                });
+                let returnTo = localStorage.getItem("returnafterlogin")
+                if (returnTo) {
+                    localStorage.removeItem("returnafterlogin");
+                    window.location = returnTo
+                }
+            }
+            if (!localStorage.getItem("token")) {
+                $("#headerLinks").prepend(
+                    '<a href="/login" aria-label="Account" class="loginbtn"><svg aria-labelledby="svg-inline--fa-title-VdCgGa0eki0S" data-prefix="far" data-icon="sign-in-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-sign-in-alt fa-w-16 fa-fw fa-lg"><title id="svg-inline--fa-title-VdCgGa0eki0S" class="">Sign In</title><path fill="#393f45" d="M144 112v51.6H48c-26.5 0-48 21.5-48 48v88.6c0 26.5 21.5 48 48 48h96v51.6c0 42.6 51.7 64.2 81.9 33.9l144-143.9c18.7-18.7 18.7-49.1 0-67.9l-144-144C195.8 48 144 69.3 144 112zm192 144L192 400v-99.7H48v-88.6h144V112l144 144zm80 192h-84c-6.6 0-12-5.4-12-12v-24c0-6.6 5.4-12 12-12h84c26.5 0 48-21.5 48-48V160c0-26.5-21.5-48-48-48h-84c-6.6 0-12-5.4-12-12V76c0-6.6 5.4-12 12-12h84c53 0 96 43 96 96v192c0 53-43 96-96 96z" class=""></path></svg></a>'
+                )
+                $("#headerLinksMobile").prepend(
+                    '<a href="/login" class="o-subheader__title loginbtn"> Sign in <svg aria-labelledby="svg-inline--fa-title-VdCgGa0eki0S" data-prefix="far" data-icon="sign-in-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-sign-in-alt fa-w-16 fa-fw fa-lg"><title id="svg-inline--fa-title-VdCgGa0eki0S" class="">Sign In</title><path fill="#393f45" d="M144 112v51.6H48c-26.5 0-48 21.5-48 48v88.6c0 26.5 21.5 48 48 48h96v51.6c0 42.6 51.7 64.2 81.9 33.9l144-143.9c18.7-18.7 18.7-49.1 0-67.9l-144-144C195.8 48 144 69.3 144 112zm192 144L192 400v-99.7H48v-88.6h144V112l144 144zm80 192h-84c-6.6 0-12-5.4-12-12v-24c0-6.6 5.4-12 12-12h84c26.5 0 48-21.5 48-48V160c0-26.5-21.5-48-48-48h-84c-6.6 0-12-5.4-12-12V76c0-6.6 5.4-12 12-12h84c53 0 96 43 96 96v192c0 53-43 96-96 96z" class=""></path></svg> </a>'
+                )
+                $(document).on("click", "a.loginbtn", function (e) {
+                    e.preventDefault()
+                    localStorage.setItem("returnafterlogin", window.location.href);
+                    window.location = $(this).attr('href');
+
+                });
+            }
+        })
+
+    </script>
+    <script>
+        $(document).ready(function () {
+            var Note = function (options) {
+                console.log(window);
+                this.StaveNote = new Vex.Flow.StaveNote(options);
+                this.removed = false;
+                /**
+                 * moves the note right from its ORIGINAL position by x pixels
+                 * (sets the trasform: translate(x) value to x)
+                 */
+                this.setOffsetX = x => {
+                    if (this.removed) {
+                        return this;
+                    }
+                    $.each(this.getElem(true), (index, node) => {
+                        var x_y = this.getTransformXY(node);
+                        x_y.x = x;
+                        node.setAttribute("transform", `translate(${x_y.x},${x_y.y})`);
+                    });
+
+                    return this;
+                };
+                /**
+                 * removes the SVG elements
+                 */
+                this.remove = () => {
+                    if (this.removed) {
+                        return this;
+                    }
+                    var note = this.getElem(true);
+                    var nodeEl = note[0];
+
+                    var x_y = this.getTransformXY(nodeEl);
+
+                    var frames = [
+                        {
+                            opacity: 1.0,
+                            transform: "translate3D(" + x_y.x + "px," + x_y.y + "px,0)"
+                        },
+                        { opacity: 0, transform: "translate3D(" + x_y.x + "px,30px,0)" }
+                    ];
+
+                    var timing = {
+                        duration: 500,
+                        iterations: 1
+                    };
+
+                    var animation = nodeEl.animate(frames, timing);
+                    animation.onfinish = function (e) {
+                        // remove line that go though the stave
+                        bar.remove();
+                        note.remove();
+                    };
+
+                    var bar = this.getBar();
+
+                    this.removed = true;
+                    return this;
+                };
+
+                /**
+                 * moves the note right from its CURRENT position by x pixels
+                 * (adjusts the trasform: translate(x) value by x)
+                 */
+                this.moveXPixels = x => {
+                    if (this.removed) {
+                        return this;
+                    }
+
+                    $.each(this.getElem(true), (index, node) => {
+                        var x_y = this.getTransformXY(node);
+                        x_y.x += x;
+                        node.setAttribute("transform", `translate(${x_y.x},${x_y.y})`);
+                    });
+
+                    return this;
+                };
+
+                /**
+                 * returns the <svg>
+                 */
+                this.getSvg = () => {
+                    return $(this.StaveNote.attrs.el).closest("svg");
+                };
+                /**
+                 * Gets the StaveNote.attrs.el as a jQuery object
+                 * @param {boolean} include_bar - whether to include the <rect> bar with it
+                 */
+                this.getElem = include_bar => {
+
+                    var return_jquery = $(this.StaveNote.attrs.el);
+
+                    if (include_bar) {
+                        var bar = this.getBar();
+                        if (bar.length) {
+                            return_jquery = return_jquery.add(bar);
+                        }
+                    }
+
+                    return return_jquery;
+                };
+                /**
+                 * returns the <rect> before the StaveNote.attrs.el
+                 * if it exists
+                 */
+                this.getBar = () => {
+                    return $(this.StaveNote.attrs.el).prev("rect");
+                };
+
+                /**
+                 * gets the {x, y} of transform=translate(x,y)
+                 * @param {HTMLElement} html_element
+                 */
+                this.getTransformXY = (html_element) => {
+
+                    var xforms = html_element.getAttribute("transform");
+                    if (xforms === null) {
+                        return { x: 0, y: 0 };
+                    }
+                    var parts = /translate\(\s*([^\s,)]+)[ ,]([^\s,)]+)/.exec(xforms);
+                    return {
+                        x: parseInt(parts[1]),
+                        y: parseInt(parts[2])
+                    };
+                };
+
+                /**
+                 * Checks if the StaveNote.attrs.el is x or less pixels from the
+                 * edge of the SVG - this requires that the viewbox be the same as the
+                 * actually width of the svg
+                 * @param {integer} x - number of pixels to test against
+                 */
+                this.isXOrLessFromLeft = x => {
+                    if (isNaN(x)) {
+                        x = 0;
+                    }
+                    let node = this.getElem();
+                    let svg = this.getSvg();
+                    let pixels_from_left = node.offset().left - svg.offset().left;
+                    if (pixels_from_left < x) {
+                        return true;
+                    }
+                    return false;
+                };
+            };
+
+            var Sheet = function (selector) {
+                this.context = null;
+                this.stave = null;
+                this.width = 600;
+                this.height = 200;
+                this.drawn_notes = [];
+                this.remove_point = 100;
+                this.selector = selector;
+                this.speed = 75;
+
+                this.createSheet = () => {
+                    var sheet_elem = $("#" + this.selector);
+
+                    var renderer = new Vex.Flow.Renderer(
+                        sheet_elem[0],
+                        Vex.Flow.Renderer.Backends.SVG
+                    );
+
+                    // Configure the rendering context.
+                    renderer.resize(this.width, this.height);
+                    this.context = renderer.getContext();
+                    this.context.setFont("Arial", 10, "").setBackgroundFillStyle("#000");
+
+                    // Create a stave of width this.width at position 0, 0 on the canvas.
+                    this.stave = new Vex.Flow.Stave(0, 0, this.width, { fill_style: 'black' });
+
+                    // Add a clef and time signature.
+                    this.stave.addClef("treble").addTimeSignature("4/4");
+
+                    // Connect it to the rendering context and draw!
+                    this.stave.setContext(this.context).draw();
+
+                    sheet_elem.find("svg")[0].setAttribute("width", "100%");
+                    sheet_elem
+                        .find("svg")[0]
+                        .setAttribute("viewBox", "0 0 " + this.width + " " + this.height);
+                };
+
+                this.addNotes = num_notes => {
+                    if (isNaN(num_notes)) {
+                        num_notes = 4;
+                    }
+                    var notes = [];
+                    while (num_notes > notes.length) {
+                        notes.push(this.getRandomNote());
+                    }
+
+                    var voice = new Vex.Flow.Voice({ num_beats: num_notes, beat_value: 4 });
+                    voice.addTickables(notes.map(note => note.StaveNote));
+
+                    var formatter = new Vex.Flow.Formatter()
+                        .joinVoices([voice])
+                        .format([voice], this.width);
+                    voice.draw(this.context, this.stave);
+
+                    for (var i = 0, l = notes.length; i < l; i++) {
+                        this.drawn_notes.push(notes[i]);
+                    }
+                    return notes;
+                };
+                this.clearNotes = () => {
+                    for (let note of this.drawn_notes) {
+                        if (note.removed) {
+                            continue;
+                        }
+                        note.remove();
+                    }
+                };
+                this.stopFlow = () => {
+                    this.speed = 0;
+                };
+                this.flowLeft = speed => {
+                    this.speed = speed;
+                };
+
+                this.last_step_time = null;
+                this.step = timestamp => {
+                    var time_diff = timestamp - this.last_step_time;
+
+                    this.last_step_time = timestamp;
+
+                    for (let note of this.drawn_notes) {
+                        if (note.removed) {
+                            continue;
+                        }
+                        var x = time_diff * this.speed / 750;
+
+                        note.moveXPixels(-x);
+
+                        if (note.isXOrLessFromLeft(this.remove_point)) {
+                            note.remove();
+                        }
+                    }
+
+                    window.requestAnimationFrame(this.step.bind(this));
+                };
+
+                /**
+                 * Returns a random quarter note in the x/4 range
+                 */
+                this.getRandomNote = () => {
+                    var randKeys = [
+                        "c/4",
+                        // 'c#/4',
+                        "d/4",
+                        // 'd#/4',
+                        "e/4",
+                        "f/4",
+                        // 'f#/4',
+                        "g/4",
+                        // 'g#/4',
+                        "a/4",
+                        // 'a#/4',
+                        "b/4"
+                    ];
+                    var _durations = ["q"];
+                    var _clefs = ["treble"];
+
+                    var key = randKeys[_.random(0, randKeys.length - 1)];
+                    var duration = _durations[_.random(0, _durations.length - 1)];
+                    var clef = _clefs[_.random(0, _clefs.length - 1)];
+
+                    return new Note({
+                        keys: [key],
+                        clef: clef,
+                        duration: duration
+                    });
+                };
+
+                window.requestAnimationFrame(this.step.bind(this));
+            };
+
+            var sheet = new Sheet("sheet");
+            console.log(sheet);
+            sheet.createSheet();
+
+            var startFlowExample = function () {
+                //sheet.clearNotes();
+                //sheet.addNotes(4);
+                sheet.flowLeft(parseFloat(75));
+            };
+
+            var addNote = function () {
+                console.log("add note");
+                var notes = sheet.addNotes(1);
+
+                for (var i in notes) {
+                    notes[i].setOffsetX(400);
+                }
+            };
+
+            // buttons
+            var stopBtn = document.getElementById("stop");
+            stopBtn.addEventListener("click", e => {
+                sheet.stopFlow();
+            });
+            var startBtn = document.getElementById("start");
+            startBtn.addEventListener("click", startFlowExample);
+
+            var addNoteButton = document.getElementById("add-note");
+            addNoteButton.addEventListener("click", addNote);
+
+            // start it
+            startFlowExample();
+            addNote();
+
+        })
+
+    </script>
+
+    <script>
+        //GSAP variables
+        $(document).ready(function () {
+
+            var master = new TimelineMax({
+                delay: 1.5
+            }),
+                student = $("#student"),
+                studentWhole = $('#stud_whole'),
+                head = $('#stud_head'),
+                eyes = $('.eye'),
+                reflection = $('.reflection'),
+                hair = $('#hair'),
+                body = $('#stud_body'),
+                pgFld = $("#pgFld"),
+                stars = $(".stars"),
+                circle = $(".circle"),
+                dashed = $("#dashed"),
+                servicesIcons = $(".srvc_icon"),
+                pageFold = $("#pgFld");
+
+            //book snap variables
+            var s = Snap("#student");
+
+            var
+                bottomPages = s.select("#btm_pgs"),
+                bottomEdge = s.select("#bk_edg"),
+                bottomBody = s.select("#bk_bdy"),
+                bottomRight = s.select("#btm_r"),
+                bottomLeft = s.select("#btm_l"),
+                line = s.select("#line");
+            bottomPages.attr({
+                points: "199.827,333.441 200.188,334 198.801,334 198.14,333.344 190.077,333.696 190,333 209,333 208.487,333.463"
+            });
+            bottomEdge.attr({
+                d: "M184.5,332l0.5,9.5c0,0,5.635,7,14.661,7s14.839-7,14.839-7V332"
+            });
+            bottomBody.attr({
+                d: "M205.94,333H200h-7.524l-8.602,0.26l0.639,4.74 c0,0,0.044,0.473,0.138,0.637c0.779,1.371,4.964,7.938,15.35,7.938c10.182,0,14.449-6.029,15.356-7.561 c0.13-0.219,0.191-0.299,0.191-0.299l0.664-5.716H205.94z"
+            });
+            bottomRight.attr({
+                points: "199,326 199.016,326 199.7,326 199,326"
+            });
+            bottomLeft.attr({
+                points: "199,326 199.016,326 198.359,325.984 199,326"
+            });
+
+            function bookIn() {
+                bottomPages.animate({
+                    points: "199,174 200,305 200,304 199,174 190,174 190,333 209,333 209,174"
+                }, 350, mina.easeInOut, function () {
+                    setTimeout(function () {
+                        bottomPages.animate({
+                            points: "313.061,304.975 200.188,305 198.801,305 85.44,304.975 30.5,333 190,333 209,333 370,333"
+                        }, 1000, mina.bounce);
+                    }, 350)
+                });
+
+                bottomEdge.animate({
+                    d: "M184.5,169l0.5,172.5c0,0,5.635,7,14.661,7s14.839-7,14.839-7V169"
+                }, 350, mina.easeInOut, function () {
+                    setTimeout(function () {
+                        bottomEdge.animate({
+                            d: "M13,341.5h172.224c0,0,5.973,7,15,7s14.776-7,14.776-7h172"
+                        }, 1000, mina.bounce);
+                    }, 350)
+                });
+
+                bottomBody.animate({
+                    d: "M205.94,174L200,307l-7.524-133l-8.602,0.26L184.512,338 	c0,0,0.044,0.473,0.138,0.637c0.779,1.371,4.964,7.938,15.35,7.938c10.182,0,14.449-6.029,15.356-7.561 c0.13-0.219,0.191-0.299,0.191-0.299L216.212,174H205.94z"
+                }, 350, mina.easeInOut, function () {
+                    setTimeout(function () {
+                        bottomBody.animate({
+                            d: "M328.178,308.28L200,307.238L72.591,308.28 l-60.046,30.913l171.995-0.196c0,0,0.016,0.49,0.11,0.654c0.779,1.371,4.964,6.932,15.35,6.932 c10.182,0,14.449-6.033,15.356-7.564c0.13-0.219,0.191-0.063,0.191-0.063L387.241,339L328.178,308.28z"
+                        }, 1000, mina.bounce);
+                    }, 350)
+                });
+
+                bottomRight.animate({
+                    points: "199,299 199.016,174 199.7,174 199,326"
+                }, 350, mina.easeInOut, function () {
+                    setTimeout(function () {
+                        bottomRight.animate({
+                            points: "199,299 300.647,299 355.376,326 199,326"
+                        }, 1000, mina.bounce);
+                    }, 350)
+                });
+
+                bottomLeft.animate({
+                    points: "199,299 199.016,174 198.359,173.984 199,326"
+                }, 350, mina.easeInOut, function () {
+                    setTimeout(function () {
+                        line.attr({
+                            opacity: 1
+                        });
+                        bottomLeft.animate({
+                            points: "199,299 96,299 44,326 199,326"
+                        }, 1000, mina.bounce);
+
+                    }, 350)
+
+                });
+            }
+
+            master.set([studentWhole, stars, circle], {
+                css: {
+                    display: 'block'
+                }
+            })
+                .add(circleScale())
+                .add('circleEnd')
+                .add(bodyRotateIn(), 'circleEnd -= 1.25')
+                .add(repeatAnim(), 'circleEnd -= 1')
+                .call(bookIn())
+
+
+            //circles scale in
+            function circleScale() {
+                var tl = new TimelineMax();
+                tl.staggerFrom(circle, .7, {
+                    transformOrigin: "50% 100%",
+                    scale: 0,
+                    ease: Back.easeOut
+                }, 0.2, 'cirlceIn')
+                    .staggerFrom(stars, 1, {
+                        transformOrigin: "50% 50%",
+                        scale: 0,
+                        opacity: 0,
+                        ease: Elastic.easeOut
+                    }, 0.1, 'cirlceIn+=.5')
+                return tl;
+            }
+
+            //body rotate in animation
+            function bodyRotateIn() {
+                var tl = new TimelineMax();
+                tl.from(studentWhole, .5, {
+                    rotation: 90,
+                    transformOrigin: "106 260",
+                    scale: 0,
+                    fillOpacity: .5
+                }, 'bodyRotation')
+                    .from(head, .5, {
+                        rotation: 45,
+                        transformOrigin: "85 180",
+                        ease: Back.easeOut
+                    }, "bodyRotation+=.35")
+                    .from(hair, 2, {
+                        rotation: 15,
+                        transformOrigin: "10 50%",
+                        ease: Elastic.easeOut
+                    }, "bodyRotation+=.37");
+                tl.set(pageFold, {
+                    opacity: 1
+                });
+                tl.timeScale(1.5);
+                return tl;
+            }
+
+            // reapeated animations
+            function repeatAnim() {
+                var tl = new TimelineMax({
+                    repeat: -1
+                });
+                tl.to(eyes, .1, {
+                    rotationX: 90,
+                    transformOrigin: "50% 50%"
+                }, 'repeatStart')
+                    .to(eyes, .1, {
+                        rotationX: 0
+                    })
+                    .to(eyes, 3, {
+                        rotationX: 0
+                    })
+                    .to(eyes, .1, {
+                        rotationX: 90,
+                        transformOrigin: "50% 50%"
+                    })
+                    .to(eyes, .1, {
+                        rotationX: 0
+                    })
+                    .to(eyes, .1, {
+                        rotationX: 90,
+                        transformOrigin: "50% 50%"
+                    })
+                    .to(eyes, .1, {
+                        rotationX: 0
+                    })
+                    .to(eyes, 4, {
+                        rotationX: 0
+                    })
+                    .to(eyes, .1, {
+                        rotationX: 90,
+                        transformOrigin: "50% 50%"
+                    })
+                    .to(eyes, .1, {
+                        rotationX: 0
+                    })
+                    .to(eyes, 3, {
+                        rotationX: 0
+                    })
+                    .to(reflection, 1.5, {
+                        x: 12,
+                        opacity: .15
+                    }, 1, 'repeatStart')
+                    .to(reflection, 4, {
+                        x: 12,
+                        opacity: .35
+                    }, 2.5)
+                    .to(reflection, 1, {
+                        x: 0,
+                        opacity: .1
+                    }, 4)
+                    .to(reflection, 4, {
+                        x: 0,
+                        opacity: .15
+                    })
+                    .to(dashed, 15, {
+                        rotation: 180,
+                        transformOrigin: "50% 50%",
+                        ease: Linear.easeNone
+                    }, 'repeatStart')
+
+
+                return tl;
+            }
+
+
+
+
+
+
+
+
+            const color1 = '#81daef',
+                color2 = '#6dbc99',
+                color3 = '#f4a86e';
+
+            //custom shape note1
+            class TwoNote extends mojs.CustomShape {
+                getShape() { return '<path d="M21.511,9.995c-0.6-0.585-1.221-1.19-1.668-2.356c-0.085-0.222-0.319-0.351-0.549-0.308 c-0.234,0.043-0.403,0.247-0.403,0.484v10.18c-0.561-0.318-1.291-0.417-2.065-0.264c-1.603,0.318-2.858,1.582-2.858,2.878 c0,0.564,0.242,1.074,0.68,1.434c0.431,0.354,1.013,0.539,1.658,0.539c0.23,0,0.468-0.024,0.71-0.072 c1.603-0.318,2.858-1.582,2.858-2.878c0-0.001,0-0.003,0-0.004h0V9.684c0.314,0.399,0.641,0.717,0.948,1.017 c0.846,0.824,1.513,1.475,1.513,3.514h0.985C23.322,11.76,22.401,10.863,21.511,9.995z M16.827,21.546 c-0.623,0.123-1.202,0.025-1.553-0.263c-0.213-0.174-0.321-0.401-0.321-0.673c0-0.815,0.946-1.69,2.065-1.913 c0.177-0.035,0.35-0.052,0.516-0.052c0.417,0,0.786,0.109,1.037,0.315c0.213,0.174,0.321,0.401,0.321,0.673 C18.892,20.448,17.946,21.324,16.827,21.546z"/><path d="M15.446,13.234c0-0.001,0-0.003,0-0.004h0V1.909c0-0.158-0.076-0.307-0.204-0.399c-0.129-0.093-0.294-0.117-0.444-0.068 L5.937,4.395C5.736,4.462,5.601,4.65,5.601,4.862v9.688c-0.561-0.318-1.291-0.417-2.065-0.264c-1.603,0.318-2.858,1.582-2.858,2.878 c0,0.564,0.242,1.074,0.68,1.434c0.431,0.354,1.013,0.539,1.658,0.539c0.23,0,0.468-0.024,0.71-0.072 c1.603-0.318,2.858-1.582,2.858-2.878c0-0.001,0-0.003,0-0.004h0V8.171l7.876-2.625v6.051c-0.561-0.318-1.291-0.417-2.065-0.264 c-1.603,0.318-2.858,1.582-2.858,2.878c0,0.564,0.242,1.074,0.68,1.434c0.431,0.354,1.013,0.539,1.658,0.539 c0.23,0,0.468-0.024,0.71-0.072C14.191,15.795,15.446,14.53,15.446,13.234z M3.536,18.1c-0.623,0.123-1.202,0.025-1.553-0.263 c-0.213-0.174-0.321-0.401-0.321-0.673c0-0.815,0.946-1.69,2.065-1.913c0.177-0.035,0.35-0.052,0.516-0.052 c0.417,0,0.786,0.109,1.037,0.315c0.213,0.174,0.321,0.401,0.321,0.673C5.601,17.002,4.655,17.878,3.536,18.1z M12.397,15.147 c-0.623,0.123-1.202,0.025-1.553-0.263c-0.213-0.174-0.321-0.401-0.321-0.673c0-0.815,0.946-1.69,2.065-1.913 c0.177-0.035,0.35-0.052,0.516-0.052c0.417,0,0.786,0.109,1.037,0.315c0.213,0.174,0.321,0.401,0.321,0.673 C14.461,14.049,13.516,14.925,12.397,15.147z M14.461,4.507L6.585,7.133V5.217l7.876-2.625V4.507z"/>'; }
+            }
+            mojs.addShape('twoNote', TwoNote);
+
+            //custom shape note1
+            class OneNote extends mojs.CustomShape {
+                getShape() { return '<path d="M18.709,2.871L11.878,1.82c-0.36-0.056-0.722,0.048-0.998,0.285c-0.275,0.236-0.433,0.58-0.433,0.943V15.7 c-0.66-0.593-1.529-0.957-2.484-0.957c-2.055,0-3.726,1.671-3.726,3.726s1.671,3.726,3.726,3.726s3.726-1.671,3.726-3.726V7.394 l6.642,1.022c0.36,0.055,0.723-0.049,0.998-0.285c0.275-0.237,0.433-0.58,0.433-0.943v-3.09C19.762,3.481,19.319,2.965,18.709,2.871 z M7.964,20.953c-1.37,0-2.484-1.114-2.484-2.484s1.114-2.484,2.484-2.484s2.484,1.114,2.484,2.484S9.333,20.953,7.964,20.953z M18.52,7.189L11.69,6.138v-3.09l6.831,1.051L18.52,7.189z"/>'; }
+                getLength() { return 200; } // optional
+            }
+            mojs.addShape('oneNote', OneNote);
+
+            // now it is avaliable to use on mo.js Shape constructor
+            const note_opts_two = {
+                shape: 'twoNote',
+                scale: { 5: 20 },
+                y: { 20: -10 },
+                duration: 3000,
+                easing: 'sin.out'
+            };
+
+            // now it is avaliable to use on mo.js Shape constructor
+            const note_opts_one = {
+                shape: 'oneNote',
+                scale: { 7: 20 },
+                y: { 20: -10 },
+                duration: 2000,
+                easing: 'sin.out'
+            };
+
+            const note1 = new mojs.ShapeSwirl({
+                ...note_opts_two,
+                fill: { 'cyan': color2 },
+                swirlSize: 15,
+                swirlFrequency: 20
+            }).then({
+                opacity: 0,
+                duration: 200,
+                easing: 'sin.in'
+            });
+
+            const note2 = new mojs.ShapeSwirl({
+                ...note_opts_two,
+                x: { 0: 100 },
+                fill: { 'cyan': color3 },
+                y: { 20: -30 },
+                swirlSize: 15,
+                swirlFrequency: 10,
+                delay: 100
+            }).then({
+                opacity: 0,
+                duration: 200,
+                easing: 'sin.in'
+            });
+
+            const note3 = new mojs.ShapeSwirl({
+                ...note_opts_one,
+                fill: color1,
+                y: { 20: -70 },
+                swirlSize: 20,
+                swirlFrequency: 15,
+                delay: 200
+            }).then({
+                opacity: 0,
+                duration: 200,
+                easing: 'sin.in'
+            });
+
+            const note4 = new mojs.ShapeSwirl({
+                ...note_opts_one,
+                x: { 10: -100 },
+                fill: { 'cyan': '#9398f9' },
+                y: { 10: -40 },
+                swirlSize: 15,
+                swirlFrequency: 12,
+                delay: 300
+            }).then({
+                opacity: 0,
+                duration: 200,
+                easing: 'sin.in'
+            });
+
+            const timeline = new mojs.Timeline({
+                repeat: 999
+            });
+
+            timeline
+                .add(note1, note2, note3, note4)
+                .play();
+
+            //new MojsPlayer({ add: timeline });
+
+            var radio = document.querySelector('#radio'),
+                shadow = document.querySelector('#shadow');
+
+            var rockingEasing = mojs.easing.path('M0,351S16.7,59.7,64.7,60.3c0,0,25-11,26.3,139.7,1.3,144.3,31.3,129.3,31.3,129.3S159,339,159,200c0-147,37-139.9,37-139.9S226.4,45.7,223.7,200c-2.7,151.2,24.7,128,24.7,128s36.9,10.5,38.7-128c2-153,39.7-140.4,39.7-140.4s36.3-9.9,41,186.1c0,0,.7,110.3,32.3,105.3');
+            var jumpEasing = mojs.easing.path('M0,400,77.7,43,117,239,143,77s16,264,42.7,251.3,11.7-379,37.7-315S235,303,257,235.7,281,61.7,285.7,97,305,262.3,311,209.3s25.3-119,34-46.3,55,237,55,237');
+
+            new mojs.Tween({
+                repeat: 999,
+                duration: 650,
+                onUpdate: function (progress) {
+                    var rockingProgress = rockingEasing(progress),
+                        jumpProgress = jumpEasing(progress);
+                    radio.style.transform = `translateX(${rockingProgress}px) translateY(${0.25 * jumpProgress}px)  rotate(${rockingProgress}deg)`;
+                }
+            }).play();
+
+            new mojs.Tween({
+                repeat: 999,
+                duration: 650,
+                onUpdate: function (progress) {
+                    var rockingProgress = rockingEasing(progress);
+                    shadow.style.transform = `translateX(${-0.5 * rockingProgress}px) rotate(${-0.5 * rockingProgress}deg)`;
+                }
+            }).play();
+
+            var sound = new Howl({
+                src: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/jumprun.mp3',
+                autoplay: true,
+                loop: true,
+                volume: 0.5
+            });
+
+            const mute = document.getElementById('mute'),
+                text = mute.firstChild;
+            let isPlaying = true;
+
+            mute.addEventListener('click', function () {
+                isPlaying = !isPlaying;
+                if (isPlaying === false) {
+                    sound.pause();
+                    text.data = "Play";
+                } else {
+                    sound.play();
+                    text.data = "Mute";
+                }
+            }, false);
+        })
+
+    </script>
+</body>
+
+</html>

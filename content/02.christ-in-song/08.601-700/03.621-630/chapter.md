@@ -14,13 +14,13 @@ metadata:
 # Index of Titles
 # | Title                        
 -- |-------------
-621|[Men of God, Arise!](/christ-in-song/CIS/601-700/621-630/Men-of-God,-Arise!)
-622|[Why Stand With Rusty Blade?](/christ-in-song/CIS/601-700/621-630/Why-Stand-With-Rusty-Blade)
-623|[Our Endeavor](/christ-in-song/CIS/601-700/621-630/Our-Endeavor)
-624|[They Call Us](/christ-in-song/CIS/601-700/621-630/They-Call-Us)
-625|[I Could Not Do Without](/christ-in-song/CIS/601-700/621-630/I-Could-Not-Do-Without)
-626|[My Safety](/christ-in-song/CIS/601-700/621-630/My-Safety)
-627|[Soldiers of the Cross](/christ-in-song/CIS/601-700/621-630/Soldiers-of-the-Cross)
-628|[Stand Up for Jesus](/christ-in-song/CIS/601-700/621-630/Stand-Up-for-Jesus)
-629|[Harvest Home](/christ-in-song/CIS/601-700/621-630/Harvest-Home)
-630|[The Fields Are White](/christ-in-song/CIS/601-700/621-630/The-Fields-Are-White)
+621|[Men of God, Arise!](/christ-in-song/601-700/621-630/Men-of-God,-Arise!)
+622|[Why Stand With Rusty Blade?](/christ-in-song/601-700/621-630/Why-Stand-With-Rusty-Blade)
+623|[Our Endeavor](/christ-in-song/601-700/621-630/Our-Endeavor)
+624|[They Call Us](/christ-in-song/601-700/621-630/They-Call-Us)
+625|[I Could Not Do Without](/christ-in-song/601-700/621-630/I-Could-Not-Do-Without)
+626|[My Safety](/christ-in-song/601-700/621-630/My-Safety)
+627|[Soldiers of the Cross](/christ-in-song/601-700/621-630/Soldiers-of-the-Cross)
+628|[Stand Up for Jesus](/christ-in-song/601-700/621-630/Stand-Up-for-Jesus)
+629|[Harvest Home](/christ-in-song/601-700/621-630/Harvest-Home)
+630|[The Fields Are White](/christ-in-song/601-700/621-630/The-Fields-Are-White)

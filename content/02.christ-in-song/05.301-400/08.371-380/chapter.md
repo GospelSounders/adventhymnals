@@ -14,13 +14,13 @@ metadata:
 # Index of Titles
 # | Title                        
 -- |-------------
-371|[God, in the Gospel](/christ-in-song/CIS/301-400/371-380/God,-in-the-Gospel)
-372|[Salvation!](/christ-in-song/CIS/301-400/371-380/Salvation!)
-373|[The Spreading Gospel](/christ-in-song/CIS/301-400/371-380/The-Spreading-Gospel)
-374|[The Day Awakes](/christ-in-song/CIS/301-400/371-380/The-Day-Awakes)
-375|[Our Song of Praise](/christ-in-song/CIS/301-400/371-380/Our-Song-of-Praise)
-376|[Power to Obey](/christ-in-song/CIS/301-400/371-380/Power-to-Obey)
-377|[Praise Ye the Father](/christ-in-song/CIS/301-400/371-380/Praise-Ye-the-Father)
-378|[Praise the Lord_1](/christ-in-song/CIS/301-400/371-380/Praise-the-Lord_1)
-379|[Salvation Free](/christ-in-song/CIS/301-400/371-380/Salvation-Free)
-380|[Again the Day Returns](/christ-in-song/CIS/301-400/371-380/Again-the-Day-Returns)
+371|[God, in the Gospel](/christ-in-song/301-400/371-380/God,-in-the-Gospel)
+372|[Salvation!](/christ-in-song/301-400/371-380/Salvation!)
+373|[The Spreading Gospel](/christ-in-song/301-400/371-380/The-Spreading-Gospel)
+374|[The Day Awakes](/christ-in-song/301-400/371-380/The-Day-Awakes)
+375|[Our Song of Praise](/christ-in-song/301-400/371-380/Our-Song-of-Praise)
+376|[Power to Obey](/christ-in-song/301-400/371-380/Power-to-Obey)
+377|[Praise Ye the Father](/christ-in-song/301-400/371-380/Praise-Ye-the-Father)
+378|[Praise the Lord_1](/christ-in-song/301-400/371-380/Praise-the-Lord_1)
+379|[Salvation Free](/christ-in-song/301-400/371-380/Salvation-Free)
+380|[Again the Day Returns](/christ-in-song/301-400/371-380/Again-the-Day-Returns)

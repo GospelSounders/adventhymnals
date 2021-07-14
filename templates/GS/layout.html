@@ -109,7 +109,7 @@
                     <td>Millenial Harp</td>
                     <td>MH1843</td>
                     <td>1843</td>
-                    <td>0</td>
+                    <td>267</td>
                     <td>English(en)</td>
                     <td><a href="/millenial-harp">Millenial Harp</a></td>
                 </tr>
@@ -670,6 +670,7 @@
                     this.filterBy = filterBy
                 },
                 async selectSong(hymnal, hymn, reload) {
+                    // console.log({hymnal, hymn, reload})
                     let { link, numberofsongs } = hymnal
                     let { number, title } = hymn
                     number = parseInt(number)
@@ -688,10 +689,11 @@
                         tens.push([i, i += 9])
                     }
                     tens = tens.filter(item => item[0] <= number && number <= item[1])[0]
+                    // console.log(numberofsongs)
                     if(tens[1] > numberofsongs)tens[1] = numberofsongs
                     hundreds = hundreds.map(item => { item = item.toString(); while (item.length < 3) item = `0${item}`; return item }).join("-")
                     tens = tens.map(item => { item = item.toString(); while (item.length < 3) item = `0${item}`; return item }).join("-")
-                    title = title.replace(/  /g, " ").replace(/ /g, "-").replace(/\?/g, '')
+                    title = title.replace(/  /g, " ").replace(/ /g, "-").replace(/\?/g, '').replace(/\./g, '')
                     let url = `${this.root}/${link}/${hundreds}/${tens}/${title}`
                     if (reload) return window.location.assign(url)
                     let ret = false;
@@ -766,7 +768,7 @@
                     let link = urlParts[1]
                     let title = urlParts[4]
                     let hymnal = this.allHymnals.filter(item => item.link === link)[0]
-                    let song = hymnal.indices.filter(item => { let ret = false; try { ret = item.title.replace(/  /g, " ").replace(/ /g, "-").replace(/\?/g, "") === title } catch (error) { }; return ret })[0]
+                    let song = hymnal.indices.filter(item => { let ret = false; try { ret = item.title.replace(/  /g, " ").replace(/ /g, "-").replace(/\?/g, '').replace(/\./g, '') === title } catch (error) { }; return ret })[0]
                     this.selectSong(hymnal, song)
                 },
                 openHymnalHard(hymnal) {

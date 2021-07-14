@@ -14,13 +14,13 @@ metadata:
 # Index of Titles
 # | Title                        
 -- |-------------
-611|[What a Fellowship, What a Joy Divine](/church-hymnal/CH/601-700/611-620/What-a-Fellowship,-What-a-Joy-Divine)
-612|[There is Sunlight on the Hilltop](/church-hymnal/CH/601-700/611-620/There-is-Sunlight-on-the-Hilltop)
-613|[O Jesus, My Redeemer](/church-hymnal/CH/601-700/611-620/O-Jesus,-My-Redeemer)
-614|[My Father Is Rich in Houses and Lands](/church-hymnal/CH/601-700/611-620/My-Father-Is-Rich-in-Houses-and-Lands)
-615|[Safe in the Arms of Jesus](/church-hymnal/CH/601-700/611-620/Safe-in-the-Arms-of-Jesus)
-616|[The Home Where Changes Never Come](/church-hymnal/CH/601-700/611-620/The-Home-Where-Changes-Never-Come)
-617|[Lord, I Care Not for Riches](/church-hymnal/CH/601-700/611-620/Lord,-I-Care-Not-for-Riches)
-618|[Sitting at the Feet of Jesus](/church-hymnal/CH/601-700/611-620/Sitting-at-the-Feet-of-Jesus)
-619|[Watchman, Blow the Gospel Trumpet](/church-hymnal/CH/601-700/611-620/Watchman,-Blow-the-Gospel-Trumpet)
-620|[O Where Are the Reapers?](/church-hymnal/CH/601-700/611-620/O-Where-Are-the-Reapers)
+611|[What a Fellowship, What a Joy Divine](/church-hymnal/601-700/611-620/What-a-Fellowship,-What-a-Joy-Divine)
+612|[There is Sunlight on the Hilltop](/church-hymnal/601-700/611-620/There-is-Sunlight-on-the-Hilltop)
+613|[O Jesus, My Redeemer](/church-hymnal/601-700/611-620/O-Jesus,-My-Redeemer)
+614|[My Father Is Rich in Houses and Lands](/church-hymnal/601-700/611-620/My-Father-Is-Rich-in-Houses-and-Lands)
+615|[Safe in the Arms of Jesus](/church-hymnal/601-700/611-620/Safe-in-the-Arms-of-Jesus)
+616|[The Home Where Changes Never Come](/church-hymnal/601-700/611-620/The-Home-Where-Changes-Never-Come)
+617|[Lord, I Care Not for Riches](/church-hymnal/601-700/611-620/Lord,-I-Care-Not-for-Riches)
+618|[Sitting at the Feet of Jesus](/church-hymnal/601-700/611-620/Sitting-at-the-Feet-of-Jesus)
+619|[Watchman, Blow the Gospel Trumpet](/church-hymnal/601-700/611-620/Watchman,-Blow-the-Gospel-Trumpet)
+620|[O Where Are the Reapers?](/church-hymnal/601-700/611-620/O-Where-Are-the-Reapers)

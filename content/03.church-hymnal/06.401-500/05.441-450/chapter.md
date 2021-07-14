@@ -14,13 +14,13 @@ metadata:
 # Index of Titles
 # | Title                        
 -- |-------------
-441|[Go, Labor On](/church-hymnal/CH/401-500/441-450/Go,-Labor-On)
-442|[How Beauteous Are Their Feet](/church-hymnal/CH/401-500/441-450/How-Beauteous-Are-Their-Feet)
-443|[Workman of God](/church-hymnal/CH/401-500/441-450/Workman-of-God)
-444|[Ho! Reapers of Life's Harvest](/church-hymnal/CH/401-500/441-450/Ho!-Reapers-of-Life's-Harvest)
-445|[From Greenland's Icy Mountains](/church-hymnal/CH/401-500/441-450/From-Greenland's-Icy-Mountains)
-446|[Work, for the Night Is Coming](/church-hymnal/CH/401-500/441-450/Work,-for-the-Night-Is-Coming)
-447|[Hark! the Voice of Jesus Calling](/church-hymnal/CH/401-500/441-450/Hark!-the-Voice-of-Jesus-Calling)
-448|[Far and Near the Fields Are Teaming](/church-hymnal/CH/401-500/441-450/Far-and-Near-the-Fields-Are-Teaming)
-449|[O Zion, Haste](/church-hymnal/CH/401-500/441-450/O-Zion,-Haste)
-450|[Fling Out the Banner!](/church-hymnal/CH/401-500/441-450/Fling-Out-the-Banner!)
+441|[Go, Labor On](/church-hymnal/401-500/441-450/Go,-Labor-On)
+442|[How Beauteous Are Their Feet](/church-hymnal/401-500/441-450/How-Beauteous-Are-Their-Feet)
+443|[Workman of God](/church-hymnal/401-500/441-450/Workman-of-God)
+444|[Ho! Reapers of Life's Harvest](/church-hymnal/401-500/441-450/Ho!-Reapers-of-Life's-Harvest)
+445|[From Greenland's Icy Mountains](/church-hymnal/401-500/441-450/From-Greenland's-Icy-Mountains)
+446|[Work, for the Night Is Coming](/church-hymnal/401-500/441-450/Work,-for-the-Night-Is-Coming)
+447|[Hark! the Voice of Jesus Calling](/church-hymnal/401-500/441-450/Hark!-the-Voice-of-Jesus-Calling)
+448|[Far and Near the Fields Are Teaming](/church-hymnal/401-500/441-450/Far-and-Near-the-Fields-Are-Teaming)
+449|[O Zion, Haste](/church-hymnal/401-500/441-450/O-Zion,-Haste)
+450|[Fling Out the Banner!](/church-hymnal/401-500/441-450/Fling-Out-the-Banner!)

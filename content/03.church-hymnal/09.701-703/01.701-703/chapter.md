@@ -14,6 +14,6 @@ metadata:
 # Index of Titles
 # | Title                        
 -- |-------------
-701|[Holy Spirit, Faithful Guide_1](/church-hymnal/CH/701-703/701-703/Holy-Spirit,-Faithful-Guide_1)
-702|[Dismiss Us, Lord, With Blessing](/church-hymnal/CH/701-703/701-703/Dismiss-Us,-Lord,-With-Blessing)
-703|[The Lord Is in His Holy Temple_1_2](/church-hymnal/CH/701-703/701-703/The-Lord-Is-in-His-Holy-Temple_1_2)
+701|[Holy Spirit, Faithful Guide_1](/church-hymnal/701-703/701-703/Holy-Spirit,-Faithful-Guide_1)
+702|[Dismiss Us, Lord, With Blessing](/church-hymnal/701-703/701-703/Dismiss-Us,-Lord,-With-Blessing)
+703|[The Lord Is in His Holy Temple_1_2](/church-hymnal/701-703/701-703/The-Lord-Is-in-His-Holy-Temple_1_2)
