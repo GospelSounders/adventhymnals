@@ -24,4 +24,4 @@ Every effort has been made to trace the ownership of copyrighted hymns, and to g
 
 We recognize with gratitude the excellent service rendered by the editors and the music committee in selecting hymns, arranging and planning the hymnal, and reading the proofs; and gratefully acknowledge the contribution of new hymns and tunes by the authors. We express our appreciation to those who have given permission for the inclusion of hymns in this collection, and tender our thanks to all who have labored earnestly to bring out this hymnal. We trust that it will be cordially received, and widely used by our churches, and that it will prove a great blessing to the church at large.
 
-<cite>GENERAL CONFERENCE COMMITTEE</cite>
+GENERAL CONFERENCE COMMITTEE
