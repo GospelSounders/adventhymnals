@@ -7,125 +7,62 @@ metadata:
 ---
 
 #### Advent Hymnals
+#### Christ in Song
 
-![Alt Text]({{{cself}}}/charles-wesley-hymn-690x385.jpg)
+## PREFACE.
+Song is the first-born of Love and Joy. The Christian has more love and joy than the sinner, and hence has more need of song than any other class of human beings.
 
-# Advent Hymnals
+What songs ought Christians to use? — Evidently those which inspire the highest appreciation of God's love. But all not having the same natural or cultivated capacity for appreciation, we can not adopt any inflexible rule relative to the class of music to be used in the church service, the Sabbath-school, the missionary gathering, or the camp-meeting, where persons of all grades of religious experience and musical education meet together. To give satisfaction to all we must have several collections of music, one for each general condition, separating the people according to their preferences, or else have a book large enough to embrace the choicest songs of each grade, ever tending upward toward the best, — the most spiritual, — not leaving the selecting to either the simplicity-loving Christian or the musical theologian.
 
+The conscientious primary teacher knows what is helpful (not merely pleasing) to the little people; the choir leader knows what suits those with whom he is most closely in sympathy; the pastor knows what selections are most heartily sung by the congregation. If any one of these persons prepares a book to suit himself, it will be a class collection, restricted in use.
 
-_What songs have cheared the adventist band since their great disappointment in 1844?_  These are all contained in this project. Advent hymnals is a master collection of all the hymns sung by adventists as contained in such hymnals as Christ in Song, Church hymnal and Seventh Day adventist hymnal, millenial harp, etc. These are a rich source of church history as well as of music.
+The Scriptures contain one grade of inspiration, but many forms of expression of the one great truth, — " God is love." This is stated both plainly and elaborately, for both the simple and the wise, — those who can appreciate only the writings of John, and those who love to search out the "hard to be understood" sayings of Paul. The seventh chapter of Hebrews is not "stuck up" because the simple minded may not at first sight discern its meaning; neither is John 3:16 "cheap" because some lover of metaphor prefers language which represents the Saviour as the "Rose of Sharon" and the "Lily of the Valley." The "Hallelujah Chorus" and the less difficult modern anthem are not "worldly" because a lover of simple song may think so; neither is "Jesus loves me, this I know," or "Come, thou Fount," "prosy" because certain persons prefer intricate harmony.
 
-The sum of these songs minister to the downcast soul, to the weary soul, and tells us all the duty that we owe to God and to our fellow men. Listen to this one from `Millenial Harp`:
+==To condemn a song because the bass or some other part is written on one degree of the staff through several measures instead of moving or jumping as best it can to a new position for every syllable, is usually to overlook the tenfold more important *spirit of the gospel* which it may contain in spite of its disregard for the traditional laws of musical composition.== And yet a chant is considered "classical," notwithstanding many syllables are often sung successively on one degree of the staff, and usually in a racy, jumbled manner, since it is very difficult for a congregation to sing a chant well. And because it is difficult, shall we laud this style of composition and deprecate the singing of the same thought when represented in rhythmical, metrical form, as in our gospel hymns, with harmony no less monotonous?
 
-```
-There will be a mighty wailing, there will be a mighty wailing,
-There will be a mighty wailing, at the old church yards,
-While the band of music, while the band of music,
-While the band of music shall be sounding through the air.
+The whole and half notes of the chant are hard to sing because the words are irregular. Improving on this, the metrical psalm and hymn came into use; and improving on the whole note for a measure to which several words are to be sung, the fourth, eighth, and sixteenth mathematical divisions of the whole note came to be used as a certain means of *keeping the voices together*. Shall this glorious result in the singing of our modern gospel hymns — this excelsior of unity for which singers of chants and choruses drill night after night and day after day — be called a child of "cheapness"? It is eminently so in that the other is born of expense. With the simple form we have room for a thought of worship. With the difficult form we are likely to think only of singing correctly, even as an elaborate invocation diverts the mind from prayer.
 
-O Sinner you will tremble, O Sinner you will tremble
-O Sinner you will tremble, at the old church yards,
-While the band of music, while the band of music,
-While the band of music shall be sounding through the air.
+Neither extreme is best, but of the two, monotonous simplicity is preferable in the worship of God. With regret we cite the proverbial truth that the more of musical effort the less of worship in the song service, which is evidence that at least some things common to musicians and singers are detrimental to spirituality. *True education ever inspires true devotion.*
 
-You will flee to rocks and mountains, you will flee to rocks and mountains,
-You will flee to rocks and mountains, from the old church yards,
-While the band of music, while the band of music,
-While the band of music shall be sounding through the air.
-```
+It can not be wrong to carefully train singers and instrumentalists in order that we may praise God "with the Spirit and with the understanding also;" for at the dedication of the temple Solomon had singers who were not only trained, but paid (at least their expenses) while devoting their time to preparation. Doubtless in the motive — the desire to display self rather than praise God — lies the secret of the lack of spirituality in the song service. Let us not forget that ==Song is the sister of Prayer, and both are *cheerful* handmaids of Worship.==
 
-While they sang in early adventism `when we all get to heaven` and other chearing songs alongs the same lines, it was not lost to them the need of warning the sinners both in Zion and in Babylon of their pathetic fate if they continued stiffing their necks in sin. Why has this Spirit been lost from the church so that nobody wants to hear the straight testimony anymore? Could it be that this is due to the fact that such staight-testimony songs have been lost sight of?
+The numerous standard hymns and tunes in this collection emphasize the compiler's opinion that they are superior for general religious use. In the Sabbath-school, no less than in the church service, spiritual edification, rather than musical entertainment, should be the object sought by singing; hence the songs in this book are not classified as "primary," "intermediate," etc., lest instructors continue to err by confining their pupils to such songs. We earnestly urge leaders to freely use the old hymns and tunes, even among the children, singing them in a gladsome, reverential spirit, instead of drawling them out in the tedious, sanctimonious manner which is in part responsible for their present general disuse by young people.
 
-Here is another one from Christ in Song. Notice the third stanza.
+Whether old or new hymns are preferred, select those that contain the most of Christian instruction and cheerful devotional spirit, avoiding all trivial, sensuous music. Such we have endeavored to exclude from this collection, realizing that preferences are formed largely in childhood and youth, and that if the previous generation of children had been taught only the best — the most spiritual — hymns and melodies, we should not now be troubled with so great diversity of adult tastes relative to what is best.
 
-```
-1 Some one will enter the pearly gate
-By and by, by and by,
-Taste of the glories that there await,
-Shall you? shall I? Shall you? shall I?
-Some one will travel the streets of gold,
-Beautiful visions will there behold,
-Feast on the pleasures so long foretold:
-Shall you? shall I? Shall you? shall I?
+If it be said that children do not like spiritual hymns and tunes, we reply that taste is largely the result of habit in taking either physical or mental food. Children should be given the *best*, the most *nutritious*, not the most sensational and exciting. When they are old enough to choose for themselves, they will then know how to choose.
 
-2 Some one will gladly his cross lay down
-By and by, by and by,
-Faithful, approved, shall receive a crown, 
-Shall you? shall I? Shall you? shall I?
-Some one the glorious King will see,
-Ever from sorrow of earth be free,
-Happy with Him thro' eternity: 
-Shall you? shall I? Shall you? shall I?
-
-3 Some one will knock when the door is shut
-By and by, by and by,
-Hear a voice saying, "I know you not,"
-Shall you? shall I? Shall you? shall I?
-Some one will call and shall not be heard,
-Vainly will strive when the door is barred,
-Some one will fail of the saint's reward:
-Shall you? shall I? Shall you? shall I?
-
-4 Some one will sing the triumphant song
-By and by, by and by,
-Join in the praise with the blood-bought throng,
-Shall you? shall I? shall you? shall I?
-Some one will greet on the golden shore
-Loved ones of earth pain and parting o'er,
-Safe in the glory for evermore:
-Shall you? shall I? Shall you? shall I?
-```
-
-## What is contained in Advent Hymnals?
-
-This is an ambitious project, already spanning more than a year. At the end of it, it should be able to achieve the following:
-
-1. Text for all the songs in all hymnals used by Adventist from Millenial Harp of 1843 all the way to the present one.
-2. Tunes for all of these hymns.
-3. Links to renditions of these songs if they exist, or to those sang by singing software if human renditions of the same are not available.
-4. Identify and make visible all points where there is an error in any of the songs, such as in Millenial Harp where it says of the second advent `Gabriel sounds his mighty trumpet`. This is part of singing with understanding.
-5. Identify all changes that have been introduced in the modern hymnals and the reasons behind those changes.
-6. Avail all this data in an easy to use mobile phone application.
-7. Avail also a desktop application for personal use or for projecting in public worship. 
+To hasten the immortal era of spiritual parents, spiritual teachers, spiritual children, spiritual songs, this collection is humbly dedicated to the Spirit's use, with the hope that ==every congregation will insist on singing and having music that they can sing.== "Let everything that hath breath praise the Lord."
 
 
-## Then What?
+## Preface To Sonlight Edition
 
-You may not have the priviledge of singing these songs in your church. Maybe you belong to one of those churches where most people know but a few songs and they never ever want to learn any new one, so that it is the same rounds meeting after meeting. But remember that in your family worship you can sing these. We will continue doing all that we can so as to make learning the songs here so easy that a child uneducated in music can learn them on his own. 
+The value of this collection is in its list of over 500 of the best writers and their nearly 2,000 hymns and songs of tested merit. No expense has
+been spared to make “Christ in Song” superior to all other books, even as His name is above all other names.
 
-As you continue singing, you will learn such deep Bible truths that can never be effaced.
+Good singers should judge not alone for themselves, but for the multitudes less capable of rendering the difficult harmonies in some of the “Special Selections” indexed on pages XVIII through XX. Easier grades predominate in the book, and thus all classes are supplied with pleasing and enduring songs, and devotional and stirring hymns.
 
+The average Sunday School song book contains about 200 numbers. The average Church Hymnal contains about 500 numbers. “Christ in Song” contains 950 numbers, being a Church Hymnal and a Sabbath School Hymnal with 250 songs added especially for the Young People’s Society.
 
-## How to Use
+It combines THREE BOOKS IN ONE. This is of special benefit to the youth because of the higher grades of church and special music thus placed before them with the hope of leading away from the musical cheapness more or less common to modern S. S. collections....
 
-You can scroll through the available hymnals using the menu where you will also be able to access some studies in music.
+Authors and publishers are so prone to speak highly of their own works, that no apology is necessary for presenting here the following commendatory words from some of the best gospel music judges, showing that “Christ in Song” is a non-sectarian collection of TESTED SONGS OF ENDURING MERIT.
 
-### Structure
+The late J. E. Rankin, author of “God Be With You Till We Meet Again,” summarized the facts thus: “It is a very superior book. I am sure it will be useful and popular. There is an enormous amount of valuable matter in it, and yet the pages are clear and easily read.”
 
-The following structure has been adopted for the hymns to enable as much information as possible to be given for any particular hymn:-
+W. G. Pischer, composer of “I Love to Tell the Story,” wrote: “I very seldom give my opinion; but your work covers so much, it would be good as the regular church hymnal; and it has such a variety, too. I am very much pleased with it.”
 
-Each hymn page has two sections:
+W. L. Thompson, composer of “Softly and Tenderly Jesus Is Calling,” “Come Where the Lilies Bloom,” etc., says: “You ought to receive thanks from the public for this addition to Christian song. It is a great collection.”
 
-1. The top section having the text/lyrics of the hymn in question.
+The late James McGranahan, perhaps the greatest of modern gospel composers, wrote personally to the compiler of “Christ in Song”: “I like the
+swing of your music and the ring of your words.”
 
-2. A bottom section having additional information about the hymn, including:
+Fanny Crosby, the most eminent modern hymn writer, says: “I am sure your book will be a success. It contains a great many beautiful things.”
 
-Item |   Description |
--------------|------------|
-Title | The title of the hymn |
-Titles | Other titles, or other phrases by which the hymn is popularly known |
-First Line | The first line of the hymn, or a considerably short portion of its first line |
-Key | The key in which the music was written. The key is not cast in stone; it can be transposed to any key for comfortable singing.
-Author| The author of the song |
-Year| When the song was written. A comma separates two dates (the year written and year translated) for songs that were translated from other languages. |
-Composer| The composer of the music |
-Hymnal| Original Hymnal where hymn was picked from (mostly for translated songs) |
-Tune| The name of the tune |
-Metrical pattern | The metrical pattern. Used to create an index of songs which can be sung using the same tune. |
-# Stanzas | The number of stanzas in the song. This is used for comparing the song across different hymnals |
-Chorus | If the hymn has a chorus |
-Chorus Type | This is either of (1) Refrain or (2) Chorus, where a refrain has a leading voice while a chorus has not. |
-Subjects | The specific subject the song addresses, eg second advent, Christian Standards, etc. |
-Texts | Comma separate list of scripture passages to which the song is relevant. |
-Print Texts | The texts of the passages to which the song is relevant |
-Scripture Song | If the song is a scripture song |
+The foregoing words referred to the original, first edition of “Christ in Song,” which contains 416 pages and 700 numbers; but the commendations are still more true of the present enlarged and revised book of...nearly 1,000 numbers.
+
+The exhaustive character of “Christ in Song” is indicated by the fact that it contains over 30 of Fanny Crosby’s best hymns, 27 of Dr. Doane’s best songs, 19 by Robert Lowry, 20 by W. J. Kirk-patrick, 12 by John R. Sweney, 13 by Ira D. and I. Allan Sankey, 11 by Geo. C. Stebbins, 8 by Geo. F. Root, 8 by P. P. Bliss, 7 by James McGranahan, 14 by John B. Dykes, 8 by H. P. Main, 30 by W. B. Bradbury, 40 by Lowell Mason, etc. These are the cream of their writings, and only the best by others have been chosen....
+
+The directness and completeness of the Indexes will also be found unusually helpful, page III being a quick guide into the...Topical Index, and these guiding into the 950 hymns. Without page III, much time would be spent searching through the...pages of Topical or Subject Index.
+
+(Adapted from the original article from “Christ in Song,” 1908.)
