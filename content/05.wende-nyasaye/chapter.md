@@ -7,6 +7,7 @@ metadata:
 ---
 
 #### Advent Hymnals
+#### Wende Nyasaye
 
 ## PREFACE
 
