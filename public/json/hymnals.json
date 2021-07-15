@@ -1,32 +1,100 @@
 {
-"MH1843": {
-  name: "Millenial Harp", abbvr:"MH1843", year: "1843", numSongs: "", lang: "en"
-},
-"HGPP1849": {
-  name: "Millenial Harp", abbvr:"HGPP1849", year: "1843", numSongs: "", lang: "en"
-},
-"HSAB1852": {
-  name: "Millenial Harp", abbvr:"HSAB1852", year: "1843", numSongs: "", lang: "en"
-},
-"HT1869": {
-  name: "Millenial Harp", abbvr:"HT1869", year: "1843", numSongs: "", lang: "en"
-},
-"HT1886": {
-  name: "Millenial Harp", abbvr:"HT1886", year: "1843", numSongs: "", lang: "en"
-},
-"CS1908": {
-  name: "Millenial Harp", abbvr:"CS1908", year: "1843", numSongs: "", lang: "en"
-},
-"CH1941": {
-  name: "Millenial Harp", abbvr:"CH1941", year: "1843", numSongs: "", lang: "en"
-},
-"SDAH": {
-  name: "Millenial Harp", abbvr:"SDAH", year: "1843", numSongs: "", lang: "en"
-},
-"NZK": {
-  name: "Millenial Harp", abbvr:"NZK", year: "1843", numSongs: "", lang: "swa"
-},
-"WNY": {
-  name: "Wende Nyasaye", abbvr:"WN",  year: "1843", numSongs: "", lang: "luo"
-},
+  "MH1843": {
+    "name": "Millenial Harp. Designed for Meetings on the Second Coming of Christ",
+    "abbvr": "MH1843",
+    "year": "1843",
+    "numSongs": "267",
+    "lang": "en",
+    "compiler": "Joshua V. Hymes",
+    "siteName": "Millenial Harp",
+    "link":"millenial-harp",
+    "gtLink": "GospelSounders/adventhymnals/master/content/06.millenial-harp"
+  },
+  "HGPP1849": {
+    "name": "Hymns for God’s Peculiar People, That Keep the Commandments of God, and the faith of Jesus",
+    "abbvr": "HGPP1849",
+    "year": "1849",
+    "numSongs": "53",
+    "lang": "en",
+    "compiler": "James White",
+    "siteName": "Hymns for God’s Peculiar People",
+    "link":"Hymns-for-God's-Peculiar-People",
+    "gtLink": "GospelSounders/adventhymnals/master/content/07.Hymns-for-God's-Peculiar-People"
+  },
+  "HSAB1852": {
+    "name": "Hymns for Second Advent Believers who Observe the Sabbath of the Lord",
+    "abbvr": "HSAB1852",
+    "year": "1852",
+    "numSongs": "177*",
+    "lang": "en",
+    "compiler": "James White",
+    "siteName": "Hymns for Second Advent Believers"
+  },
+  "HT1869": {
+    "name": "Hymns and Tunes",
+    "abbvr": "HT1869",
+    "year": "1869",
+    "numSongs": "",
+    "lang": "en",
+    "compiler": ""
+  },
+  "HT1886": {
+    "name": "The Seventh-day Adventist Hymn and Tune Book (Hymns and Tunes)",
+    "siteName": "Hymns and Tunes 1886",
+    "abbvr": "HT1886",
+    "year": "1886",
+    "numSongs": "",
+    "lang": "en",
+    "compiler": ""
+  },
+  "CS1908": {
+    "name": "Christ in Song",
+    "abbvr": "CS1908",
+    "year": "1908",
+    "numSongs": "949",
+    "lang": "en",
+    "compiler": "Belden, F. E. (Franklin Edson)",
+    "link":"",
+    "gtLink": "GospelSounders/adventhymnals/master/content/02.christ-in-song"
+  },
+  "CH1941": {
+    "name": "Church Hymnal",
+    "abbvr": "CH1941",
+    "year": "1941",
+    "numSongs": "703",
+    "lang": "en",
+    "compiler": "The General Conference Committee",
+    "link":"",
+    "gtLink": "GospelSounders/adventhymnals/master/content/03.church-hymnal"
+  },
+  "SDAH": {
+    "name": "Seventh-day Adventist Hymnal",
+    "abbvr": "SDAH",
+    "year": "1985",
+    "numSongs": "695",
+    "lang": "en",
+    "compiler": "The Hymnal Committee",
+    "link":"",
+    "gtLink": "GospelSounders/adventhymnals/master/content/04.seventh-day-adventist-hymnal"
+  },
+  "NZK": {
+    "name": "Nyimbo za Kriso",
+    "abbvr": "NZK",
+    "year": "1944",
+    "numSongs": "220",
+    "lang": "swa",
+    "compiler": "Anon*",
+    "link":"",
+    "gtLink": "GospelSounders/adventhymnals/master/content/05.nyimbo-za-kristo"
+  },
+  "WN": {
+    "name": "Wende Nyasaye",
+    "abbvr": "WN",
+    "year": "1936",
+    "numSongs": "332",
+    "lang": "luo",
+    "compiler": "The Seventh-day Adventist Mission, South Kavirondo, Kenya Colony",
+    "link":"",
+    "gtLink": "GospelSounders/adventhymnals/master/content/05.wende-nyasaye"
+  }
 }

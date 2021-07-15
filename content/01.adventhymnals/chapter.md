@@ -7,9 +7,9 @@ metadata:
 # theme:
 #     local: GS
 # layout: landing
-theme:
-    local: GS
-layout: none
+# theme:
+#     local: GS
+# layout: none
 ---
 
 #### Advent Hymnals
