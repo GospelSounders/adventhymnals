@@ -80,9 +80,9 @@ John W. Read
 
 Robert E. Cowdrick
 
-Allen W. Foster
-
 J. Robert Spangler
+
+Allen W. Foster
 
 Ottilie F. Stafford
 
