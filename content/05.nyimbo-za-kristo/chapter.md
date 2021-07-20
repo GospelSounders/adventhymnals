@@ -1,4 +1,4 @@
---
+---
 title: Nyimbo za Kristo - Advent Hymnals
 metadata:
     description: Advent Hymnals is a master collection of all the hymns sung by adventists as contained in such hymnals as Nyimbo za Kristo, Church hymnal and Seventh Day adventist hymnal, millenial harp. These are a rich source of church history as well as of music.
