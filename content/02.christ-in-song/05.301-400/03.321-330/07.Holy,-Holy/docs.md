@@ -18,7 +18,7 @@ metadata:
 Holy, holy, holy!  Lord God Almighty!
 Early in the morning our song shall rise to thee;
 Holy, holy, holy, merciful and mighty!
-God over all, who rules eternity.
+==God over all, who rules eternity.==
 
 2.
 Holy, holy, holy!  angels adore thee,

@@ -18,6 +18,7 @@ metadata:
 Nyasachwa man malo,Wuon teko duto,
 Onge teko moro mak tekone adier,
 Onge ng'ato moro miporo go Nyasaye
+==En Ruodh ruodhi, be Nyasach nyiseche==
 
 2.
 Hera mar Nyasachwa,hera adieri,

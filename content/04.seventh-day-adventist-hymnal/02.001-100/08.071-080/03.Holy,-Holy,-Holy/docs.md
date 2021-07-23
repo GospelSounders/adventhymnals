@@ -20,7 +20,7 @@ metadata:
 Holy, holy, holy! Lord God Almighty!
 Early in the morning our song shall rise to Thee;
 Holy, holy, holy, merciful and mighty!
-God in three Persons, blessed Trinity!
+~~God in three Persons, blessed Trinity!~~
 
 2.
 Holy, holy, holy! Angels adore Thee,
@@ -38,7 +38,7 @@ Perfect in power, in love, and purity.
 Holy, holy, holy! Lord God Almighty!
 All Thy works shall praise Thy name, in earth, and sky, and sea;
 Holy, holy, holy; merciful and mighty!
-God in three Persons, blessed Trinity!
+~~God in three Persons, blessed Trinity!~~
 
 
 

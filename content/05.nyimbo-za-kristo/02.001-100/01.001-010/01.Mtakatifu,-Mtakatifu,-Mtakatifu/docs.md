@@ -18,7 +18,7 @@ metadata:
 U Mtakatifu! Mungu mwenyezi!
 Alfajiri sifa zako tutaimba;
 U Mtakatifu , Bwana wa huruma,
-Mungu wa vyote hata milele.
+==Mungu wa vyote hata milele.==
 
 2
 U Mtakatifu! Na malaika
