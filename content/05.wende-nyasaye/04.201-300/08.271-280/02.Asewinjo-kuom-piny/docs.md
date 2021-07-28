@@ -33,7 +33,7 @@ Wanapak Ruoth Yesu e piny Ruoth mochwere,
 Piny ma ok wanathoe kendo.
 
 3
-Ka tichwa orumo kwaseyudo `simbo,
+Ka tichwa orumo kwaseyudo'imbo,
 Masiche ok nobedie kendo;
 Yuak gi tem norum chuth, wanawer gi jogo,
 Mosekwongonwa dhiyo kuno.

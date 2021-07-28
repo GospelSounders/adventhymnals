@@ -27,18 +27,18 @@ Wanarom gi jomwahero, pogruok onge kendo.
 
 3
 E piny ma keth ok nyal donjo, Ok wanayud temruok;
-To wanabed gi mor maber, Ma ok nyal kethre ngang`;
-To wanabed gi mor maber, Ma ok nyal kethre ngang`.
+To wanabed gi mor maber, Ma ok nyal kethre ngan'
+To wanabed gi mor maber, Ma ok nyal kethre ngan'
 
 4
-Pi wang` onge ka maberno, Tho ok nodonj kanyo;
+Pi wan'onge ka maberno, Tho ok nodonj kanyo;
 Duto modak kanyo, nochal Gi jomalaika;
 Duto modak kanyo, nochal Gi jomalaika.
 
 5
 Ndalo mondo runwa piyo; Jawarwa Yesu, bi!
-Wagombo neni kak` ibet, Wadag kodi kucha;
-Wagombo neni kak` ibet, Wadag kodi kucha.
+Wagombo neni ka'ibet, Wadag kodi kucha;
+Wagombo neni ka'ibet, Wadag kodi kucha.
 
 
 

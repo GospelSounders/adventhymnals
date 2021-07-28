@@ -3,9 +3,9 @@ title: |
     287. Wabiro Iri Yesu - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 287. Wabiro Iri Yesu. Wabiro iri, Yesu, Kwakelo nyithindwa, Ni mond` igwedhgi koro, Ka podi gitindo.  
+        Wende Nyasaye (Nyagendia) 287. Wabiro Iri Yesu. Wabiro iri, Yesu, Kwakelo nyithindwa, Ni mon'igwedhgi koro, Ka podi gitindo.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Wabiro Iri Yesu, Wabiro iri, Yesu, Kwakelo nyithindwa, Ni mond` igwedhgi koro, Ka podi gitindo.. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Wabiro Iri Yesu, Wabiro iri, Yesu, Kwakelo nyithindwa, Ni mon'igwedhgi koro, Ka podi gitindo.. 
     author: Brian Onang'o
 ---
 
@@ -16,11 +16,11 @@ metadata:
 ```txt
 1
 Wabiro iri, Yesu, Kwakelo nyithindwa,
-Ni mond` igwedhgi koro, Ka podi gitindo.
+Ni mon'igwedhgi koro, Ka podi gitindo.
 
 2
-Dwakwayi ang`o, Ruodhwa, Moneg` igwedhgi go?
-Wasayi mond` iritgi Kuom temruok ma nie piny.
+Dwakwayi an', Ruodhwa, Mone'igwedhgi go?
+Wasayi mon'iritgi Kuom temruok ma nie piny.
 
 3
 Ok dak wakwayi mwandu, mamayo chuny ji kuwe;
@@ -35,7 +35,7 @@ Teko mar lwenje pinyni, wasayi, migi, Ruoth;
 Mondo gikedi pile, Satan kik ologi.
 
 6
-Ritgi ka pod gidongo, teggi e wang`yori;
+Ritgi ka pod gidongo, teggi e wan'ori;
 Eka wanamor kodgi E pinyruoth mosiko.
 
 
@@ -47,7 +47,7 @@ Eka wanamor kodgi E pinyruoth mosiko.
 Title | Wabiro Iri Yesu |
 Key |  |
 Titles | undefined |
-First Line | Wabiro iri, Yesu, Kwakelo nyithindwa, Ni mond` igwedhgi koro, Ka podi gitindo. |
+First Line | Wabiro iri, Yesu, Kwakelo nyithindwa, Ni mon'igwedhgi koro, Ka podi gitindo. |
 Author | 
 Year | 
 Composer| |

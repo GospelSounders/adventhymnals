@@ -3,7 +3,7 @@ title: |
     179. Chunyi Dich Nikech Parruok - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 179. Chunyi Dich Nikech Parruok. Chunyi dich nikech parruok, Dak imi Yesu kinde?  Weche piny otweyoi, Dak imi Yesu kinde? Ne ochungo e dhoot Odwong`o mond` iyawne;  Winje koro kosayo- Dak imi Yesu kinde.  
+        Wende Nyasaye (Nyagendia) 179. Chunyi Dich Nikech Parruok. Chunyi dich nikech parruok, Dak imi Yesu kinde?  Weche piny otweyoi, Dak imi Yesu kinde? Ne ochungo e dhoot Odwon' mon'iyawne;  Winje koro kosayo- Dak imi Yesu kinde.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Chunyi Dich Nikech Parruok, Chunyi dich nikech parruok, Dak imi Yesu kinde?  Weche piny otweyoi, Dak imi Yesu kinde?. 
     author: Brian Onang'o
@@ -17,7 +17,7 @@ metadata:
 1
 Chunyi dich nikech parruok, Dak imi Yesu kinde? 
 Weche piny otweyoi, Dak imi Yesu kinde?
-Ne ochungo e dhoot Odwong`o mond` iyawne; 
+Ne ochungo e dhoot Odwon' mon'iyawne; 
 Winje koro kosayo- Dak imi Yesu kinde.
 
 2
@@ -34,9 +34,9 @@ To ok en mor mosiko; Dak wami Yesu kinde?
 
 4
 Ka dwabed pot yath kende; To ok wanyag olembe. 
-Luetewa nobed nono, Ndalo maduong` mar keyo; 
-Onge gi mwakel chieng`no, Tichwa nobedi kayiem, 
-Mi ok wanayud mor ngang`, Kwaromo gi Ruoth Yesu.
+Luetewa nobed nono, Ndalo maduon'mar keyo; 
+Onge gi mwakel chien'o, Tichwa nobedi kayiem, 
+Mi ok wanayud mor ngan' Kwaromo gi Ruoth Yesu.
 
 
 

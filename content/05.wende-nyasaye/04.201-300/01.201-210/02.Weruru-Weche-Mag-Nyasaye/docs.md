@@ -29,7 +29,7 @@ Ji moketho winjuruwa, weche mamit maber,
 Yesu miyogi nono, ji mondo yiegi kende.
 
 3
-To kik wamung` ni ji me piny, weche mamit mag ngima;
+To kik wamun'ni ji me piny, weche mamit mag ngima;
 To gin weche makonyogi, weche mamit maber.
 Yesu Ruoth ma Jawarji, nopwodh chunygi gi wachne.
 

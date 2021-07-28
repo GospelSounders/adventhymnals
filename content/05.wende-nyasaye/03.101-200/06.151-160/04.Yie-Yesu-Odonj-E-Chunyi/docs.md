@@ -3,9 +3,9 @@ title: |
     154. Yie Yesu Odonj E Chunyi - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 154. Yie Yesu Odonj E Chunyi. Ka iol gi ting`o chandruok richo; Ruak Yesu Jawar e chunyi; Ka idwaro chako ngima manyien, Yie Yesu odonj e chunyi.  	Chorus: 	Ko-ro we paruok chutho, ko-ro we kwede kendo,  	Koro yawne dhod chunyi, yie Yesu odonj e chunyi.  
+        Wende Nyasaye (Nyagendia) 154. Yie Yesu Odonj E Chunyi. Ka iol gi tin' chandruok richo; Ruak Yesu Jawar e chunyi; Ka idwaro chako ngima manyien, Yie Yesu odonj e chunyi.  	Chorus: 	Ko-ro we paruok chutho, ko-ro we kwede kendo,  	Koro yawne dhod chunyi, yie Yesu odonj e chunyi.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Yie Yesu Odonj E Chunyi, Ka iol gi ting`o chandruok richo; Ruak Yesu Jawar e chunyi; Ka idwaro chako ngima manyien, Yie Yesu odonj e chunyi.. Ko-ro we paruok chutho, ko-ro we kwede kendo, 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Yie Yesu Odonj E Chunyi, Ka iol gi tin' chandruok richo; Ruak Yesu Jawar e chunyi; Ka idwaro chako ngima manyien, Yie Yesu odonj e chunyi.. Ko-ro we paruok chutho, ko-ro we kwede kendo, 
     author: Brian Onang'o
 ---
 
@@ -15,7 +15,7 @@ metadata:
 
 ```txt
 1
-Ka iol gi ting`o chandruok richo; Ruak Yesu Jawar e chunyi;
+Ka iol gi tin' chandruok richo; Ruak Yesu Jawar e chunyi;
 Ka idwaro chako ngima manyien, Yie Yesu odonj e chunyi.
 
 	Chorus:
@@ -53,7 +53,7 @@ koro ayawo chunya, kendo Yesu donje chunya.
 Title | Yie Yesu Odonj E Chunyi |
 Key |  |
 Titles | Ko-ro we paruok chutho, ko-ro we kwede kendo,  |
-First Line | Ka iol gi ting`o chandruok richo; Ruak Yesu Jawar e chunyi; Ka idwaro chako ngima manyien, Yie Yesu odonj e chunyi. |
+First Line | Ka iol gi tin' chandruok richo; Ruak Yesu Jawar e chunyi; Ka idwaro chako ngima manyien, Yie Yesu odonj e chunyi. |
 Author | 
 Year | 
 Composer| |

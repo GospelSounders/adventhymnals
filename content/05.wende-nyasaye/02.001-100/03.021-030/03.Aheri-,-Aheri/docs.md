@@ -3,7 +3,7 @@ title: |
     023. Aheri , Aheri - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 023. Aheri , Aheri. Aheri, aheri, aheri Ruodha; Aheri, Jawarna, bende Nyasacha; Aheri, aheri, kendo ing`eyo; To kaka aheri, timbena nohul.  
+        Wende Nyasaye (Nyagendia) 023. Aheri , Aheri. Aheri, aheri, aheri Ruodha; Aheri, Jawarna, bende Nyasacha; Aheri, aheri, kendo in'yo; To kaka aheri, timbena nohul.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Aheri , Aheri, Aheri, aheri, aheri Ruodha; Aheri, Jawarna, bende Nyasacha;. 
     author: Brian Onang'o
@@ -17,23 +17,23 @@ metadata:
 1
 Aheri, aheri, aheri Ruodha;
 Aheri, Jawarna, bende Nyasacha;
-Aheri, aheri, kendo ing`eyo;
+Aheri, aheri, kendo in'yo;
 To kaka aheri, timbena nohul.
 
 2
 Amor ka aparo mwandu moikna;
 To morna ok norum kasomo wachni;
 To agombo chopo e polo malo,
-Mond` abed gi Yesu gi malaika.
+Mon'abed gi Yesu gi malaika.
 
 3
 Ruoth Yesu, Jawarwa, In e ngimana;
 In morna, warruokna, In kar yueyona;
 Napak nyingi kendo nawer herani;
-Ng`wononi nonyisre kuom kit ngimana.
+N'ononi nonyisre kuom kit ngimana.
 
 4
-Onge ng`a machalo kod Yesu Jawar;
+Onge n' machalo kod Yesu Jawar;
 En Ruodha mohera, napake maber;
 Napake, nadende kod wende mag chuny;
 En kende magene, morna gi wenda.

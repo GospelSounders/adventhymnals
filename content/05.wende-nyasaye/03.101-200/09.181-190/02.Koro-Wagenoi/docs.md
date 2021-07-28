@@ -20,14 +20,14 @@ Winjwa kwalamoi, Gol kethruokwa oko,
 Konywa bedo maber pile pile.
 
 2
-Ruoth, nyiswa ng`wononi, Jiw chunywa, itegwa, Mednwa geno;
+Ruoth, nyiswa n'ononi, Jiw chunywa, itegwa, Mednwa geno;
 Kaka nisethonwa, Miwa heri chutho
 Gi hera mosiko, Mak lokore.
 
 3
 Ka wadak e piny ka, ka chunywa okuyo, Yesu konywa
 Ruodhwa, dag e chunywa, Bedi Jahochwa ka
-Chieng` moro iterwa Polo malo.
+Chien'moro iterwa Polo malo.
 
 
 

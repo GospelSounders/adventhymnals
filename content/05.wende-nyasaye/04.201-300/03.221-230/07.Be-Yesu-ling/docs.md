@@ -3,9 +3,9 @@ title: |
     227. Be Yesu ling - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 227. Be Yesu ling. Be Yesu ling` ka chunya otur, Kuom dwaro mor kata wer; Saa ma ting` tura parruok be ola, ka wuoth bedo maolo chuny?  Chorus: Ee, orita mano adier; Kuyona mulo chunye; Ka aol godiechieng`, Kaluor gotieno, adier Jawar rita (adier).  
+        Wende Nyasaye (Nyagendia) 227. Be Yesu ling. Be Yesu lin'ka chunya otur, Kuom dwaro mor kata wer; Saa ma tin'tura parruok be ola, ka wuoth bedo maolo chuny?  Chorus: Ee, orita mano adier; Kuyona mulo chunye; Ka aol godiechien' Kaluor gotieno, adier Jawar rita (adier).  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Be Yesu ling, Be Yesu ling` ka chunya otur, Kuom dwaro mor kata wer; Saa ma ting` tura parruok be ola, ka wuoth bedo maolo chuny?. Ee, orita mano adier; Kuyona mulo chunye;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Be Yesu ling, Be Yesu lin'ka chunya otur, Kuom dwaro mor kata wer; Saa ma tin'tura parruok be ola, ka wuoth bedo maolo chuny?. Ee, orita mano adier; Kuyona mulo chunye;
     author: Brian Onang'o
 ---
 
@@ -15,24 +15,24 @@ metadata:
 
 ```txt
 1
-Be Yesu ling` ka chunya otur, Kuom dwaro mor kata wer;
-Saa ma ting` tura parruok be ola, ka wuoth bedo maolo chuny?
+Be Yesu lin'ka chunya otur, Kuom dwaro mor kata wer;
+Saa ma tin'tura parruok be ola, ka wuoth bedo maolo chuny?
 
 Chorus:
 Ee, orita mano adier; Kuyona mulo chunye;
-Ka aol godiechieng`, Kaluor gotieno, adier Jawar rita (adier).
+Ka aol godiechien' Kaluor gotieno, adier Jawar rita (adier).
 
 2
-Be Yesu ling` ka chunya opong` kod buok be luoro mathoth;
-Kodiechieng` rumo kotieno chopo, bende obedo machiegni?
+Be Yesu lin'ka chunya opon'kod buok be luoro mathoth;
+Kodiechien'rumo kotieno chopo, bende obedo machiegni?
 
 3
-Be Yesu ling` saa ma tem matek asekedogo motama;
-Ka chunya kuyo hoch be ongena, kata pi wang`a chwer malit?
+Be Yesu lin'saa ma tem matek asekedogo motama;
+Ka chunya kuyo hoch be ongena, kata pi wan' chwer malit?
 
 4
-Be Yesu ling` ka tho pogoa gosiepna mahero chuth;
-Ka chunya kuyo kachiegni gi tho, be oling` ma ok onena?
+Be Yesu lin'ka tho pogoa gosiepna mahero chuth;
+Ka chunya kuyo kachiegni gi tho, be olin'ma ok onena?
 
 
 
@@ -44,7 +44,7 @@ Ka chunya kuyo kachiegni gi tho, be oling` ma ok onena?
 Title | Be Yesu ling |
 Key |  |
 Titles | Ee, orita mano adier; Kuyona mulo chunye; |
-First Line | Be Yesu ling` ka chunya otur, Kuom dwaro mor kata wer; Saa ma ting` tura parruok be ola, ka wuoth bedo maolo chuny? |
+First Line | Be Yesu lin'ka chunya otur, Kuom dwaro mor kata wer; Saa ma tin'tura parruok be ola, ka wuoth bedo maolo chuny? |
 Author | 
 Year | 
 Composer| |

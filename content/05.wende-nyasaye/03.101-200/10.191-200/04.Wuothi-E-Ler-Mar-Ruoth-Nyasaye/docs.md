@@ -3,9 +3,9 @@ title: |
     194. Wuothi E Ler Mar Ruoth Nyasaye - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 194. Wuothi E Ler Mar Ruoth Nyasaye. Wuothi e ler mar Ruoth Nyasaye, mamenyo wang`yori; Muche maler, moa malo, nyalo riembo mudho.  Chorus: Wuo...thi e ler...(wuothi e ler, wuoth e ler maber mar Nyasaye). Wuo...thi e ler...Wuo..thi e ler, wuothi e lerno mar Nyasaye.  
+        Wende Nyasaye (Nyagendia) 194. Wuothi E Ler Mar Ruoth Nyasaye. Wuothi e ler mar Ruoth Nyasaye, mamenyo wan'ori; Muche maler, moa malo, nyalo riembo mudho.  Chorus: Wuo...thi e ler...(wuothi e ler, wuoth e ler maber mar Nyasaye). Wuo...thi e ler...Wuo..thi e ler, wuothi e lerno mar Nyasaye.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Wuothi E Ler Mar Ruoth Nyasaye, Wuothi e ler mar Ruoth Nyasaye, mamenyo wang`yori; Muche maler, moa malo, nyalo riembo mudho.. Wuo...thi e ler...(wuothi e ler, wuoth e ler maber mar Nyasaye).
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Wuothi E Ler Mar Ruoth Nyasaye, Wuothi e ler mar Ruoth Nyasaye, mamenyo wan'ori; Muche maler, moa malo, nyalo riembo mudho.. Wuo...thi e ler...(wuothi e ler, wuoth e ler maber mar Nyasaye).
     author: Brian Onang'o
 ---
 
@@ -15,7 +15,7 @@ metadata:
 
 ```txt
 1
-Wuothi e ler mar Ruoth Nyasaye, mamenyo wang`yori;
+Wuothi e ler mar Ruoth Nyasaye, mamenyo wan'ori;
 Muche maler, moa malo, nyalo riembo mudho.
 
 Chorus:
@@ -27,12 +27,12 @@ Wuothi e ler mar puonj Ruodhwa, moa kuom Wach Nyasaye;
 Ler matelo ni nyithindo, moyie Weche Nyasaye.
 
 3
-Wuothi kata mudho olil modino wang`yori;
-Mudho noringi e nyim ler, mar Ruoth ma nyaka chieng`.
+Wuothi kata mudho olil modino wan'ori;
+Mudho noringi e nyim ler, mar Ruoth ma nyaka chien'
 
 4
-Wuothi e ler eka ning`e kaka Ruoth oheri;
-Wanabed gi winjruok maduong`, moloyo mar piny ka.
+Wuothi e ler eka nin' kaka Ruoth oheri;
+Wanabed gi winjruok maduon' moloyo mar piny ka.
 
 
 
@@ -45,7 +45,7 @@ Wanabed gi winjruok maduong`, moloyo mar piny ka.
 Title | Wuothi E Ler Mar Ruoth Nyasaye |
 Key |  |
 Titles | Wuo...thi e ler...(wuothi e ler, wuoth e ler maber mar Nyasaye). |
-First Line | Wuothi e ler mar Ruoth Nyasaye, mamenyo wang`yori; Muche maler, moa malo, nyalo riembo mudho. |
+First Line | Wuothi e ler mar Ruoth Nyasaye, mamenyo wan'ori; Muche maler, moa malo, nyalo riembo mudho. |
 Author | 
 Year | 
 Composer| |

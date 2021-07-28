@@ -3,9 +3,9 @@ title: |
     100. Ok Ageno Gimoro Ngang' - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 100. Ok Ageno Gimoro Ngang'. Ok ageno gimoro ngang`, To remb Yesu kod dimbruokne; Ok dak agen ng`ato moro, Ayiengora kuom nying Yesu.  Chorus: Kuom Lwanda Yesu achungo, En kende manyalo geno, En kende manyalo geno.  
+        Wende Nyasaye (Nyagendia) 100. Ok Ageno Gimoro Ngang'. Ok ageno gimoro ngan' To remb Yesu kod dimbruokne; Ok dak agen n'to moro, Ayiengora kuom nying Yesu.  Chorus: Kuom Lwanda Yesu achungo, En kende manyalo geno, En kende manyalo geno.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ok Ageno Gimoro Ngang', Ok ageno gimoro ngang`, To remb Yesu kod dimbruokne;. Kuom Lwanda Yesu achungo,
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ok Ageno Gimoro Ngang', Ok ageno gimoro ngan' To remb Yesu kod dimbruokne;. Kuom Lwanda Yesu achungo,
     author: Brian Onang'o
 ---
 
@@ -15,9 +15,9 @@ metadata:
 
 ```txt
 1
-Ok ageno gimoro ngang`,
+Ok ageno gimoro ngan'
 To remb Yesu kod dimbruokne;
-Ok dak agen ng`ato moro,
+Ok dak agen n'to moro,
 Ayiengora kuom nying Yesu.
 
 Chorus:
@@ -26,8 +26,8 @@ En kende manyalo geno,
 En kende manyalo geno.
 
 2
-Kata mudho umo wang`a,
-Apadora kuom ng`wonone;
+Kata mudho umo wan',
+Apadora kuom n'onone;
 En ok onyalo lokore,
 En loch mak nyal pudhore.
 
@@ -39,9 +39,9 @@ Ruoth Jawarna e moroma.
 
 4
 En ka nobi kigoyo bu,
-Mond` oyuda ka an ng`ate;
+Mon'oyuda ka an n'te;
 Koruaka gi dimbruok mare
-Nabed maler e nyim kom duong`.
+Nabed maler e nyim kom duon'
 
 
 
@@ -53,7 +53,7 @@ Nabed maler e nyim kom duong`.
 Title | Ok Ageno Gimoro Ngang' |
 Key |  |
 Titles | Kuom Lwanda Yesu achungo, |
-First Line | Ok ageno gimoro ngang`, To remb Yesu kod dimbruokne; |
+First Line | Ok ageno gimoro ngan' To remb Yesu kod dimbruokne; |
 Author | 
 Year | 
 Composer| |

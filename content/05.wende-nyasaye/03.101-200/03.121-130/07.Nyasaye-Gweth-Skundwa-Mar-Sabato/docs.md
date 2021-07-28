@@ -27,7 +27,7 @@ Ndalo duto te.
 
 2
 Chwo, to gi mon, gi nyithindo be;
-Chokore mond` giwinj Wachni;
+Chokore mon'giwinj Wachni;
 Muchi Maler obed Japuonjwa
 Kwasomo Wachni.
 

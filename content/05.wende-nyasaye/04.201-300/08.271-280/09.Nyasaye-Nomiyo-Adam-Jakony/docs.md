@@ -3,9 +3,9 @@ title: |
     279. Nyasaye Nomiyo Adam Jakony - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 279. Nyasaye Nomiyo Adam Jakony. Nyasaye nomiyo Adam Jakony e puoth Eden; To pod oyie ni dhano Mond` okonyre kama.  
+        Wende Nyasaye (Nyagendia) 279. Nyasaye Nomiyo Adam Jakony. Nyasaye nomiyo Adam Jakony e puoth Eden; To pod oyie ni dhano Mon'okonyre kama.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nyasaye Nomiyo Adam Jakony, Nyasaye nomiyo Adam Jakony e puoth Eden; To pod oyie ni dhano Mond` okonyre kama.. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nyasaye Nomiyo Adam Jakony, Nyasaye nomiyo Adam Jakony e puoth Eden; To pod oyie ni dhano Mon'okonyre kama.. 
     author: Brian Onang'o
 ---
 
@@ -16,11 +16,11 @@ metadata:
 ```txt
 1
 Nyasaye nomiyo Adam Jakony e puoth Eden;
-To pod oyie ni dhano Mond` okonyre kama.
+To pod oyie ni dhano Mon'okonyre kama.
 
 2
-Nikech wachni maduong` to dichwo nowe jonyuol;
-Ni mond` odag gi chiege; Ginibedi kachiel.
+Nikech wachni maduon'to dichwo nowe jonyuol;
+Ni mon'odag gi chiege; Ginibedi kachiel.
 
 3
 Yesu nohero joge Nyaka nochiwore;
@@ -53,7 +53,7 @@ Morne gi kuwe madieri obed kodu pile.
 Title | Nyasaye Nomiyo Adam Jakony |
 Key |  |
 Titles | undefined |
-First Line | Nyasaye nomiyo Adam Jakony e puoth Eden; To pod oyie ni dhano Mond` okonyre kama. |
+First Line | Nyasaye nomiyo Adam Jakony e puoth Eden; To pod oyie ni dhano Mon'okonyre kama. |
 Author | 
 Year | 
 Composer| |

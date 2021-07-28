@@ -3,7 +3,7 @@ title: |
     280. Wamor Kwaromo Kod Osiepe - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 280. Wamor Kwaromo Kod Osiepe. Wamor kwaromo kod osiepe; E piny ma mwalo ni; To chunywa kuyo ka waparo; Wabiro pogore.  Chorus: Ok wanapogre e polo, Ok wanapogre ngang`; E piny maberno wanamor, Ok wanapogre ngang`.  
+        Wende Nyasaye (Nyagendia) 280. Wamor Kwaromo Kod Osiepe. Wamor kwaromo kod osiepe; E piny ma mwalo ni; To chunywa kuyo ka waparo; Wabiro pogore.  Chorus: Ok wanapogre e polo, Ok wanapogre ngan' E piny maberno wanamor, Ok wanapogre ngan'  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Wamor Kwaromo Kod Osiepe, Wamor kwaromo kod osiepe; E piny ma mwalo ni;. Ok wanapogre e polo,
     author: Brian Onang'o
@@ -23,9 +23,9 @@ Wabiro pogore.
 
 Chorus:
 Ok wanapogre e polo,
-Ok wanapogre ngang`;
+Ok wanapogre ngan'
 E piny maberno wanamor,
-Ok wanapogre ngang`.
+Ok wanapogre ngan'
 
 2
 E pinyni tho opogowa kod;

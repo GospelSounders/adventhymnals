@@ -32,15 +32,15 @@ Kik uluor, chiedhuru,Yesu ni kodu.
 
 3
 Oganda jo Nyasaye mosetelonwa,
-Wan waluwo bang` gi e wang`yo achiel;
+Wan waluwo ban'gi e wan'o achiel;
 Ok wapogre kodgi; wan gi yie achiel;
 Kuom dini gi genruok, wan achiel kodgi.
 
 4
 Weruru, JoKristo, beduru mamor;
-Wendeu medo duong` ni Kristo Jawar.
-Pak, gi duong`, gi teko, ni Yesu ma Ruoth,
-Un gi malaika pake nyaka chieng`.
+Wendeu medo duon'ni Kristo Jawar.
+Pak, gi duon' gi teko, ni Yesu ma Ruoth,
+Un gi malaika pake nyaka chien'
 
 
 ```

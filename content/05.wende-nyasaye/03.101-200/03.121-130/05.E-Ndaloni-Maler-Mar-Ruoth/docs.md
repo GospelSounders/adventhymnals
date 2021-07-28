@@ -20,7 +20,7 @@ Kwaweyo paro gik mag piny,Kwaparo wach Nyasaye.
 
 2
 En kinde maber mar lemo, Owenwa richowa;
-Wating`o dwondwa kwawacho, "Wuonwa manie polo."
+Watin' dwondwa kwawacho, "Wuonwa manie polo."
 
 3
 Wamor kwawinjo weche kuwe moanwa ka Nyasaye,
@@ -28,7 +28,7 @@ Wamedo padore kuome, Kwachiko yor polo.
 
 4
 Ka golo richo e chunywa, Otamowa nyalo,
-Nyasaye ong`eyo dwarowa, En to okonyowa.
+Nyasaye on'yo dwarowa, En to okonyowa.
 
 
 

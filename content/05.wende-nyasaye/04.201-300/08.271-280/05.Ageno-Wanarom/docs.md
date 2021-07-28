@@ -3,9 +3,9 @@ title: |
     275. Ageno Wanarom - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 275. Ageno Wanarom. Ageno wanarom e polo, E tiend yadh ngima maber; Ageno wanapak jawarwa; kuom ng`wuono mar warowa.  
+        Wende Nyasaye (Nyagendia) 275. Ageno Wanarom. Ageno wanarom e polo, E tiend yadh ngima maber; Ageno wanapak jawarwa; kuom n'uono mar warowa.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ageno Wanarom, Ageno wanarom e polo, E tiend yadh ngima maber; Ageno wanapak jawarwa; kuom ng`wuono mar warowa.. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ageno Wanarom, Ageno wanarom e polo, E tiend yadh ngima maber; Ageno wanapak jawarwa; kuom n'uono mar warowa.. 
     author: Brian Onang'o
 ---
 
@@ -25,10 +25,10 @@ Kwasidho osimb locho e polo.
 
 2
 Ageno wanarom e polo, E tiend yadh ngima maber;
-Ageno wanapak jawarwa; kuom ng`wuono mar warowa.
+Ageno wanapak jawarwa; kuom n'uono mar warowa.
 
 3
-Ageno wanarom e polo, kwaluoro kom duong` Nyasaye;
+Ageno wanarom e polo, kwaluoro kom duon'Nyasaye;
 Ageno bedo gi jomowar, kwapako hera Jawar.
 
 4
@@ -44,7 +44,7 @@ Ageno wanamosre gi mor, E wath marieny mochwere.
 Title | Ageno Wanarom |
 Key |  |
 Titles | undefined |
-First Line | Ageno wanarom e polo, E tiend yadh ngima maber; Ageno wanapak jawarwa; kuom ng`wuono mar warowa. |
+First Line | Ageno wanarom e polo, E tiend yadh ngima maber; Ageno wanapak jawarwa; kuom n'uono mar warowa. |
 Author | 
 Year | 
 Composer| |

@@ -3,9 +3,9 @@ title: |
     191. Ruoth En E Jakwadha - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 191. Ruoth En E Jakwadha. Ruoth En E Jakwadha, orita maber; Lum mang`ich omiya, oruaka e kunde; Oteloni chunya kar pige mokuwe; Oduoga kabayo, ohoyo chuny mang`ich.  
+        Wende Nyasaye (Nyagendia) 191. Ruoth En E Jakwadha. Ruoth En E Jakwadha, orita maber; Lum man'ch omiya, oruaka e kunde; Oteloni chunya kar pige mokuwe; Oduoga kabayo, ohoyo chuny man'ch.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ruoth En E Jakwadha, Ruoth En E Jakwadha, orita maber; Lum mang`ich omiya, oruaka e kunde;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ruoth En E Jakwadha, Ruoth En E Jakwadha, orita maber; Lum man'ch omiya, oruaka e kunde;. 
     author: Brian Onang'o
 ---
 
@@ -16,27 +16,27 @@ metadata:
 ```txt
 1
 Ruoth En E Jakwadha, orita maber;
-Lum mang`ich omiya, oruaka e kunde;
+Lum man'ch omiya, oruaka e kunde;
 Oteloni chunya kar pige mokuwe;
-Oduoga kabayo, ohoyo chuny mang`ich.
+Oduoga kabayo, ohoyo chuny man'ch.
 
 2
 Kayudo masira kata tho malich,
 Nikech In mirita,Ok naluor gimoro;
-Igeng`a gi ludhi kod odungani;
+Igen' gi ludhi kod odungani;
 Gima rach ok nyala ka Jakony ni buta.
 
 3
 Ipedhona mesa ndalo mar chandruok;
-Imiya gweth mang`eny ma onge kar giko;
-Iolona mo mang`we ng`ar e wiya;
-Ng`wononi mogundho omako dhoga chuth.
+Imiya gweth man'ny ma onge kar giko;
+Iolona mo man'e n'r e wiya;
+N'ononi mogundho omako dhoga chuth.
 
 4
-Ng`wononi gi berni, Nyasacha maber;
-Mondo luwre koda nyak` achop iri ku;
+N'ononi gi berni, Nyasacha maber;
+Mondo luwre koda nya'achop iri ku;
 Nalu yorno ma jo machon noluwo,
-Nyak` adonji kanyo, pinyruodhi mar hera.
+Nya'adonji kanyo, pinyruodhi mar hera.
 
 
 
@@ -48,7 +48,7 @@ Nyak` adonji kanyo, pinyruodhi mar hera.
 Title | Ruoth En E Jakwadha |
 Key |  |
 Titles | undefined |
-First Line | Ruoth En E Jakwadha, orita maber; Lum mang`ich omiya, oruaka e kunde; |
+First Line | Ruoth En E Jakwadha, orita maber; Lum man'ch omiya, oruaka e kunde; |
 Author | 
 Year | 
 Composer| |

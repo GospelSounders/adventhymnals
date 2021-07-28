@@ -3,9 +3,9 @@ title: |
     172. Nitie Ngima Kwang'iyo Msalaba - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 172. Nitie Ngima Kwang'iyo Msalaba. Nitie ngima kwang`iyo msalaba;  Yesu wacho, "Ng`iyauru."  Mwandu mar piny en gi mokadho,   Mwandu mosiko ni kuom Ruoth Yesu.  Chorus: Kwang`iyo, nitie ngima, Ka wang`iyo msalaba.  Wanayud warruok chutho, Kwang`iyo yor Kalwari.  
+        Wende Nyasaye (Nyagendia) 172. Nitie Ngima Kwang'iyo Msalaba. Nitie ngima kwan'yo msalaba;  Yesu wacho, "N'yauru."  Mwandu mar piny en gi mokadho,   Mwandu mosiko ni kuom Ruoth Yesu.  Chorus: Kwan'yo, nitie ngima, Ka wan'yo msalaba.  Wanayud warruok chutho, Kwan'yo yor Kalwari.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nitie Ngima Kwang'iyo Msalaba, Nitie ngima kwang`iyo msalaba;  Yesu wacho, "Ng`iyauru." . Kwang`iyo, nitie ngima, Ka wang`iyo msalaba. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nitie Ngima Kwang'iyo Msalaba, Nitie ngima kwan'yo msalaba;  Yesu wacho, "N'yauru." . Kwan'yo, nitie ngima, Ka wan'yo msalaba. 
     author: Brian Onang'o
 ---
 
@@ -15,23 +15,23 @@ metadata:
 
 ```txt
 1
-Nitie ngima kwang`iyo msalaba; 
-Yesu wacho, "Ng`iyauru." 
+Nitie ngima kwan'yo msalaba; 
+Yesu wacho, "N'yauru." 
 Mwandu mar piny en gi mokadho,  
 Mwandu mosiko ni kuom Ruoth Yesu.
 
 Chorus:
-Kwang`iyo, nitie ngima, Ka wang`iyo msalaba. 
-Wanayud warruok chutho, Kwang`iyo yor Kalwari.
+Kwan'yo, nitie ngima, Ka wan'yo msalaba. 
+Wanayud warruok chutho, Kwan'yo yor Kalwari.
 
 2
-Ka nakwongo ng`iyo wang` Jawarna, 
-Nong`iyoa gi wang` mang`won; 
+Ka nakwongo n'yo wan'Jawarna, 
+Non'yoa gi wan'man'on; 
 Kendo ka temruok dwaro loya,  
-Nayud teko kang`iyo msalaba.
+Nayud teko kan'yo msalaba.
 
 3
-Nang`i msalaba ndalona duto, 
+Nan' msalaba ndalona duto, 
 Kageno singruok mar Nyasaye; 
 Satani ok onyalo loyo  
 Jogo mageno teko mar polo.
@@ -45,8 +45,8 @@ Jogo mageno teko mar polo.
 -------------|------------|
 Title | Nitie Ngima Kwang'iyo Msalaba |
 Key |  |
-Titles | Kwang`iyo, nitie ngima, Ka wang`iyo msalaba.  |
-First Line | Nitie ngima kwang`iyo msalaba;  Yesu wacho, "Ng`iyauru."  |
+Titles | Kwan'yo, nitie ngima, Ka wan'yo msalaba.  |
+First Line | Nitie ngima kwan'yo msalaba;  Yesu wacho, "N'yauru."  |
 Author | 
 Year | 
 Composer| |

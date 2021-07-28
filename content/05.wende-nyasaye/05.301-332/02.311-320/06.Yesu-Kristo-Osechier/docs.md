@@ -21,20 +21,20 @@ Wer mar mor kod wend locho, Alleluya!
 Polo wer be piny duoko, Alleluya!
 
 2
-Ruoth Maduong` ngima koro, Alleluya!
+Ruoth Maduon'ngima koro, Alleluya!
 Ere lit ma tho kelo? Alleluya!
-Ne otho mond` owarwa, Alleluya!
+Ne otho mon'owarwa, Alleluya!
 Ere loch ma liel nigo? Alleluya!
 
 3
 Hera okelo warruok, Alleluya!
 Oseloyo lweny mager, Alleluya!
-Tho to ok nyal geng`e ngang`, Alleluya!
+Tho to ok nyal gen' ngan' Alleluya!
 Kristo oseyaw kar dak, Alleluyah!
 
 4
 Wanalu ndach Ruoth Yesu, Alleluya!
-Kawadhi bang` Jatendwa, Alleluya!
+Kawadhi ban'Jatendwa, Alleluya!
 Kwasedoko kaka En, Alleluya!
 Msalaba, liel, polo, Alleluya!
 

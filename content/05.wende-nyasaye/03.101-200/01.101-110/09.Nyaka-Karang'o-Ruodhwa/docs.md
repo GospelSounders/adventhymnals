@@ -3,9 +3,9 @@ title: |
     109. Nyaka Karang'o Ruodhwa - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 109. Nyaka Karang'o Ruodhwa. Nyaka karang`o Ruodhwa, ma pod waritoi? Chunywa odoko mapek Kuom rito bironi Chieng`no nobi karang`o Ma piny noyawrenwa, Mi lerni norieny kuomwa ,-- Lerni ma nyaka chieng`?  
+        Wende Nyasaye (Nyagendia) 109. Nyaka Karang'o Ruodhwa. Nyaka karan' Ruodhwa, ma pod waritoi? Chunywa odoko mapek Kuom rito bironi Chien'o nobi karan' Ma piny noyawrenwa, Mi lerni norieny kuomwa ,-- Lerni ma nyaka chien'  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nyaka Karang'o Ruodhwa, Nyaka karang`o Ruodhwa, ma pod waritoi? Chunywa odoko mapek Kuom rito bironi. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nyaka Karang'o Ruodhwa, Nyaka karan' Ruodhwa, ma pod waritoi? Chunywa odoko mapek Kuom rito bironi. 
     author: Brian Onang'o
 ---
 
@@ -15,13 +15,13 @@ metadata:
 
 ```txt
 1
-Nyaka karang`o Ruodhwa, ma pod waritoi?
+Nyaka karan' Ruodhwa, ma pod waritoi?
 Chunywa odoko mapek Kuom rito bironi
-Chieng`no nobi karang`o Ma piny noyawrenwa,
-Mi lerni norieny kuomwa ,-- Lerni ma nyaka chieng`?
+Chien'o nobi karan' Ma piny noyawrenwa,
+Mi lerni norieny kuomwa ,-- Lerni ma nyaka chien'
 
 2
-Jawar, nibi karang`o, Ni mond` iom jogi?
+Jawar, nibi karan', Ni mon'iom jogi?
 To wach makuyo chunywa -- Ji nok maritoi
 Jotichni josamuoyo, Ji hero weche piny;
 Nitie ji manok  kende Maritoi gi mor.
@@ -30,7 +30,7 @@ Nitie ji manok  kende Maritoi gi mor.
 Chiew chuny jogi, Nyasachwa, Kendo isiemgi chuth;
 Wachni odhi gi teko -- "Jawarwa chiegni"
 Walos techewa duto, Kwaikre ni Ruodhwa;
-Walos chunywa makare Mar neni wang` gi wang`.
+Walos chunywa makare Mar neni wan'gi wan'
 
 
 
@@ -42,7 +42,7 @@ Walos chunywa makare Mar neni wang` gi wang`.
 Title | Nyaka Karang'o Ruodhwa |
 Key |  |
 Titles | undefined |
-First Line | Nyaka karang`o Ruodhwa, ma pod waritoi? Chunywa odoko mapek Kuom rito bironi |
+First Line | Nyaka karan' Ruodhwa, ma pod waritoi? Chunywa odoko mapek Kuom rito bironi |
 Author | 
 Year | 
 Composer| |

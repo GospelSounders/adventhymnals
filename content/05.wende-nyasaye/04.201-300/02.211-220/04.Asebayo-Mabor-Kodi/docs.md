@@ -23,20 +23,20 @@ Koro adwogo Ruoth ee adwogo, Ruoth adwogo dala;
 Koro adwogo, Ruoth ee adwogo, Ruoth adwogo dala.
 
 2
-Aol gi piny kod richo mogundho kor` adwogo dala;
-Ayie Jawar norwaka e kunde kor` aduogo dala.
+Aol gi piny kod richo mogundho ko'adwogo dala;
+Ayie Jawar norwaka e kunde ko'aduogo dala.
 
 3
-Ang`eyo Jawar nomiya yweyo kor` adwogo dala;
-Adwaro keto chunya e lwete kor` aduogo dala.
+An'yo Jawar nomiya yweyo ko'adwogo dala;
+Adwaro keto chunya e lwete ko'aduogo dala.
 
 4
-Ayie tiyoni ka ng`ama jachan kor` adwogo dala;
-Adwaro nwang`o ng`wono mar Jawar kor` adwogo dala.
+Ayie tiyoni ka n'ma jachan ko'adwogo dala;
+Adwaro nwan' n'ono mar Jawar ko'adwogo dala.
 
 5
-Pakuru Ruoth, aneno Jawarna kor` adwogo dala;
-Orito rwako jomolal ka an kor` adwogo dala.
+Pakuru Ruoth, aneno Jawarna ko'adwogo dala;
+Orito rwako jomolal ka an ko'adwogo dala.
 
 
 

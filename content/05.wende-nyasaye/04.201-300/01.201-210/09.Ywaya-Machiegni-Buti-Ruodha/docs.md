@@ -29,7 +29,7 @@ Nabed mamor kabedo buti, kachandruok orumo.
 
 3
 Ywaya gi roho mari, ywaya, Nyaka achal kodi;
-Luoka, pwodha, kimiya bedo Maler kak` idwaro.
+Luoka, pwodha, kimiya bedo Maler ka'idwaro.
 
 
 

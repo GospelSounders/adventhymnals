@@ -3,9 +3,9 @@ title: |
     107. In Migeno Chamo Mwandu Me Polo - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 107. In Migeno Chamo Mwandu Me Polo. In migeno chamo mwandu me polo, Nang`o inindo kichiegni chopo? Chiew chunyi koro, twe gi lwenji duto; Tim kinda, to ndalo kadho piyo.  
+        Wende Nyasaye (Nyagendia) 107. In Migeno Chamo Mwandu Me Polo. In migeno chamo mwandu me polo, Nan' inindo kichiegni chopo? Chiew chunyi koro, twe gi lwenji duto; Tim kinda, to ndalo kadho piyo.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, In Migeno Chamo Mwandu Me Polo, In migeno chamo mwandu me polo, Nang`o inindo kichiegni chopo? Chiew chunyi koro, twe gi lwenji duto; Tim kinda, to ndalo kadho piyo.. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, In Migeno Chamo Mwandu Me Polo, In migeno chamo mwandu me polo, Nan' inindo kichiegni chopo? Chiew chunyi koro, twe gi lwenji duto; Tim kinda, to ndalo kadho piyo.. 
     author: Brian Onang'o
 ---
 
@@ -15,19 +15,19 @@ metadata:
 
 ```txt
 1
-In migeno chamo mwandu me polo, Nang`o inindo kichiegni chopo?
+In migeno chamo mwandu me polo, Nan' inindo kichiegni chopo?
 Chiew chunyi koro, twe gi lwenji duto; Tim kinda, to ndalo kadho piyo.
 
 2
-In migeno chamo mwandu me polo, Nang`o igalri kichiegni donjo?
+In migeno chamo mwandu me polo, Nan' igalri kichiegni donjo?
 Chungi iikri, Jawarwa obiro; Iromne kolor e boche polo.
 
 3
-Timbe mag pinyni kik mond` olomb chunyi; Duto mag piny kadho kendo rumo;
+Timbe mag pinyni kik mon'olomb chunyi; Duto mag piny kadho kendo rumo;
 Chod oko gigo mosetweyo chunyi, Kigeno chopo kawo gikeni.
 
 4
-Wang`i kik riwni, to mond` ing`i malo, Kikiyo biro mar Ruodhwa maduong`;
+Wan' kik riwni, to mon'in' malo, Kikiyo biro mar Ruodhwa maduon'
 Ndalono chiegni, lerne dwaro neno; Waikre mar romo kod Ruoth gi mor.
 
 
@@ -40,7 +40,7 @@ Ndalono chiegni, lerne dwaro neno; Waikre mar romo kod Ruoth gi mor.
 Title | In Migeno Chamo Mwandu Me Polo |
 Key |  |
 Titles | undefined |
-First Line | In migeno chamo mwandu me polo, Nang`o inindo kichiegni chopo? Chiew chunyi koro, twe gi lwenji duto; Tim kinda, to ndalo kadho piyo. |
+First Line | In migeno chamo mwandu me polo, Nan' inindo kichiegni chopo? Chiew chunyi koro, twe gi lwenji duto; Tim kinda, to ndalo kadho piyo. |
 Author | 
 Year | 
 Composer| |

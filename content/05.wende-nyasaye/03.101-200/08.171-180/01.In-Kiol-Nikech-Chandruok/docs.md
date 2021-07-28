@@ -3,7 +3,7 @@ title: |
     171. In Kiol Nikech Chandruok - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 171. In Kiol Nikech Chandruok. In Kiol nikech chandruol e chunyi, Dhi inyis Yesu parruokni duto; Onge osiep moro kaka Yesu, Dhi inyis Yesu kende.  Chorus: Dhi inyis Yesu chandruokni duto, En e Osiep migeno; Kata richo osepong`o chunyi, Dhi inyis Yesu Kende.  
+        Wende Nyasaye (Nyagendia) 171. In Kiol Nikech Chandruok. In Kiol nikech chandruol e chunyi, Dhi inyis Yesu parruokni duto; Onge osiep moro kaka Yesu, Dhi inyis Yesu kende.  Chorus: Dhi inyis Yesu chandruokni duto, En e Osiep migeno; Kata richo osepon' chunyi, Dhi inyis Yesu Kende.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, In Kiol Nikech Chandruok, In Kiol nikech chandruol e chunyi, Dhi inyis Yesu parruokni duto;. Dhi inyis Yesu chandruokni duto,
     author: Brian Onang'o
@@ -22,13 +22,13 @@ Dhi inyis Yesu kende.
 
 Chorus:
 Dhi inyis Yesu chandruokni duto,
-En e Osiep migeno; Kata richo osepong`o chunyi,
+En e Osiep migeno; Kata richo osepon' chunyi,
 Dhi inyis Yesu Kende.
 
 2
 Kata mirima ohingo chunyi,
 Dhi inyis Yesu parruokni duto;
-Ting` mapek kodwaro loyo chunyi,
+Tin'mapek kodwaro loyo chunyi,
 Dhi inyis Yesu Kende.
 
 3

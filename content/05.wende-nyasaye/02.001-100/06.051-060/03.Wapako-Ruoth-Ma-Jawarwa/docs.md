@@ -20,11 +20,11 @@ To koseriwowa kama Walam gi chuny achiel.
 
 2
 Ochikowa wagene ka, wabed achiel kuome;
-Oneg` wawuoth kanyakla ka wachiko yor polo.
+One'wawuoth kanyakla ka wachiko yor polo.
 
 3
 Ochiwo michne nijogo mageno nyinge chuth;
-Wanyiso ng`wonone kama, kwaherore maber.
+Wanyiso n'onone kama, kwaherore maber.
 
 4
 Kwawinjore maber e piny, Kwamor kuom Yesu Ruoth,

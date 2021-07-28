@@ -3,9 +3,9 @@ title: |
     322. Yesu , Yesu , Yesu - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 322. Yesu , Yesu , Yesu. Yesu, Yesu, Yesu, Nying mamitna ngang`; En moroma chutho, Pile En momiya mor.   
+        Wende Nyasaye (Nyagendia) 322. Yesu , Yesu , Yesu. Yesu, Yesu, Yesu, Nying mamitna ngan' En moroma chutho, Pile En momiya mor.   
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Yesu , Yesu , Yesu, Yesu, Yesu, Yesu, Nying mamitna ngang`;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Yesu , Yesu , Yesu, Yesu, Yesu, Yesu, Nying mamitna ngan'. 
     author: Brian Onang'o
 ---
 
@@ -15,7 +15,7 @@ metadata:
 
 ```txt
 Yesu, Yesu, Yesu,
-Nying mamitna ngang`;
+Nying mamitna ngan'
 En moroma chutho,
 Pile En momiya mor.
 
@@ -28,7 +28,7 @@ Pile En momiya mor.
 Title | Yesu , Yesu , Yesu |
 Key |  |
 Titles | undefined |
-First Line | Yesu, Yesu, Yesu, Nying mamitna ngang`; |
+First Line | Yesu, Yesu, Yesu, Nying mamitna ngan' |
 Author | 
 Year | 
 Composer| |

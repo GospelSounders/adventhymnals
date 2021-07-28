@@ -3,9 +3,9 @@ title: |
     260. Ka Tichna Oserumo - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 260. Ka Tichna Oserumo. Ka tichna oserumo kendo ayudo warruok, Kaseruakora gi kido ma ok tow, Anang`e Jawarna kaseidho loka kocha, En e ng`a ma nadwar neno mokwongo.  Chorus: Anang`eye, anang`eye, Ka nanera gi Ruoth wang` gi wang`; Anang`eye, anang`eye, Kaneno luetene ka mogur.  
+        Wende Nyasaye (Nyagendia) 260. Ka Tichna Oserumo. Ka tichna oserumo kendo ayudo warruok, Kaseruakora gi kido ma ok tow, Anan' Jawarna kaseidho loka kocha, En e n' ma nadwar neno mokwongo.  Chorus: Anan'ye, anan'ye, Ka nanera gi Ruoth wan'gi wan' Anan'ye, anan'ye, Kaneno luetene ka mogur.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ka Tichna Oserumo, Ka tichna oserumo kendo ayudo warruok, Kaseruakora gi kido ma ok tow,. Anang`eye, anang`eye,
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ka Tichna Oserumo, Ka tichna oserumo kendo ayudo warruok, Kaseruakora gi kido ma ok tow,. Anan'ye, anan'ye,
     author: Brian Onang'o
 ---
 
@@ -17,19 +17,19 @@ metadata:
 1
 Ka tichna oserumo kendo ayudo warruok,
 Kaseruakora gi kido ma ok tow,
-Anang`e Jawarna kaseidho loka kocha,
-En e ng`a ma nadwar neno mokwongo.
+Anan' Jawarna kaseidho loka kocha,
+En e n' ma nadwar neno mokwongo.
 
 Chorus:
-Anang`eye, anang`eye,
-Ka nanera gi Ruoth wang` gi wang`;
-Anang`eye, anang`eye,
+Anan'ye, anan'ye,
+Ka nanera gi Ruoth wan'gi wan'
+Anan'ye, anan'ye,
 Kaneno luetene ka mogur.
 
 2
 Anayud mor e chunya ka aneno kwonde bet,
 Ma Ruodhwa oiko ni joge maler;
-Anapak Ruoth Jawarna kuom ng`wonone gi hera,
+Anapak Ruoth Jawarna kuom n'onone gi hera,
 Moyie mondo ayud kar bet e polo.
 
 3
@@ -40,9 +40,9 @@ Mokwongo adwaro neno Jawarna.
 
 4
 Anadonji e dhorangach mar dala Nyasachwa,
-Kuyo kata pi wang` onge kanyo ngang`.
+Kuyo kata pi wan'onge kanyo ngan'
 Anawer wend locho kaachiel gi jo mowar duto,
-To agombo chutho neno wang` Jawar.
+To agombo chutho neno wan'Jawar.
 
 
 
@@ -53,7 +53,7 @@ To agombo chutho neno wang` Jawar.
 -------------|------------|
 Title | Ka Tichna Oserumo |
 Key |  |
-Titles | Anang`eye, anang`eye, |
+Titles | Anan'ye, anan'ye, |
 First Line | Ka tichna oserumo kendo ayudo warruok, Kaseruakora gi kido ma ok tow, |
 Author | 
 Year | 

@@ -36,9 +36,9 @@ Hapa nobed kodi e chandruok malit."
 
 4
 "Ka Satan otemi gi temruok mager,
-Ng`wonona oromi; namiyi loyo;
+N'onona oromi; namiyi loyo;
 Kuom temruok magerno machalo gi mach,
-Adwaro pwodhi mond` ibed maler chuth."
+Adwaro pwodhi mon'ibed maler chuth."
 
 
 ```

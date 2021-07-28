@@ -24,12 +24,12 @@ Ka pok anindo apari Kaka ihera pile ka;
 Tich Satani aseyo chuth, In Nyasaye kende madalami.
 
 3
-Rita gotieno, godiechieng`, Ok dabed mangima mak In;
+Rita gotieno, godiechien' Ok dabed mangima mak In;
 Bedi koda ka piny olil, To daluor tho da onge In.
 
 4
 Kaa e nindo, Igwedha; Dhi koda ka ma adhiye;
-Pile kamano nyak` ibi Omo jogi moseyiei.
+Pile kamano nya'ibi Omo jogi moseyiei.
 
 
 

@@ -15,7 +15,7 @@ metadata:
 
 ```txt
 E loka nam mopogo kind Piny chandruokni kod gik mak ne,
-Nitie pinyno ma ok norum Ka ma pi,wang` noywe duto.
+Nitie pinyno ma ok norum Ka ma pi,wan'noywe duto.
 
 Chorus:
 E loka nam e nam mogingore,
@@ -29,7 +29,7 @@ Kama chandruok ok nobedie Tiende mool noyud yweyo.
 
 3
 Onge paro gik mokadho Chunya mool noyud teko;
-Pi wang`wa ok nochwer kendo Wenge mool none Jawar.
+Pi wan'a ok nochwer kendo Wenge mool none Jawar.
 
 4
 E loka nam kar kuwe gi mor Yesu luongo nyithinde te;

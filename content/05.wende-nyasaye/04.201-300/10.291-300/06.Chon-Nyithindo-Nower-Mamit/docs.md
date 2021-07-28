@@ -28,7 +28,7 @@ Yesu pod ohero winjo wer, Koro kwapake, Yesu Ruodh Polo;
 "Hosana, Hosana, Hosana e polo malo."
 
 3
-Wabiro wero wer mamit chutho, gi jo mowar, eka wanamor ngang`;
+Wabiro wero wer mamit chutho, gi jo mowar, eka wanamor ngan'
 "Hosana, Hosana, Hosana e polo malo."
 
 

@@ -3,7 +3,7 @@ title: |
     208. Bedi Mangima Kuoma - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 208. Bedi Mangima Kuoma. Bedi mangima kuoma, Ruoth Yesu Jawarna; Ka wach ochando chunya, inyisa wach maber; Bedi mangima kuoma, chika e wang`yori; An mond` abed ka taya manyiso ler mari.  
+        Wende Nyasaye (Nyagendia) 208. Bedi Mangima Kuoma. Bedi mangima kuoma, Ruoth Yesu Jawarna; Ka wach ochando chunya, inyisa wach maber; Bedi mangima kuoma, chika e wan'ori; An mon'abed ka taya manyiso ler mari.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Bedi Mangima Kuoma, Bedi mangima kuoma, Ruoth Yesu Jawarna; Ka wach ochando chunya, inyisa wach maber;. 
     author: Brian Onang'o
@@ -17,8 +17,8 @@ metadata:
 1
 Bedi mangima kuoma, Ruoth Yesu Jawarna;
 Ka wach ochando chunya, inyisa wach maber;
-Bedi mangima kuoma, chika e wang`yori;
-An mond` abed ka taya manyiso ler mari.
+Bedi mangima kuoma, chika e wan'ori;
+An mon'abed ka taya manyiso ler mari.
 
 2
 Asechiwoni chunya, gi ngimana duto,
@@ -27,16 +27,16 @@ Ringra obed kar dakni, hekalu  maler;
 Timna gi wuodha duto, obed gi michiko.
 
 3
-Fuondega duto magi, In mond` iti kodgi;
+Fuondega duto magi, In mon'iti kodgi;
 Abed gir tichni chutho; kik atim dwarona;
 Ruoth Yesu taya pile, kinyisa herani;
 Weche piny ok nyal chanda ka In idak koda.
 
 4
-Kuwe mari opong` chunya, abed mos kageni;
-Arito mond` inyisa gi monego atim;
+Kuwe mari opon'chunya, abed mos kageni;
+Arito mon'inyisa gi monego atim;
 Bedi mangima kuoma, Ibed Ruoth e chunya;
-To chieng` mibiro, Ruodha, naneni wang` gi wang`.
+To chien'mibiro, Ruodha, naneni wan'gi wan'
 
 
 

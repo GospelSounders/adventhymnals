@@ -3,7 +3,7 @@ title: |
     190. Ruoth, Ok Akwayoi Tinde - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 190. Ruoth, Ok Akwayoi Tinde. Ruoth, ok akwayoi tinde weche mag kiny; Rita kuom richo duto te tinendeni; Dhoga kik opus wach moro Ma ok long`o; In mond` ibed Jarit dhoga tinendeni.  
+        Wende Nyasaye (Nyagendia) 190. Ruoth, Ok Akwayoi Tinde. Ruoth, ok akwayoi tinde weche mag kiny; Rita kuom richo duto te tinendeni; Dhoga kik opus wach moro Ma ok lon'; In mon'ibed Jarit dhoga tinendeni.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ruoth, Ok Akwayoi Tinde, Ruoth, ok akwayoi tinde weche mag kiny; Rita kuom richo duto te tinendeni;. 
     author: Brian Onang'o
@@ -17,12 +17,12 @@ metadata:
 1
 Ruoth, ok akwayoi tinde weche mag kiny;
 Rita kuom richo duto te tinendeni;
-Dhoga kik opus wach moro Ma ok long`o;
-In mond` ibed Jarit dhoga tinendeni.
+Dhoga kik opus wach moro Ma ok lon';
+In mon'ibed Jarit dhoga tinendeni.
 
 2
 Adwaro tiyoni matek kachiel galam;
-Konya abed mang`won e wach, gi tim bende;
+Konya abed man'on e wach, gi tim bende;
 Miya teko mar winjoi, atim chikno;
 Konya kik atim dwarona tinendeni.
 

@@ -3,9 +3,9 @@ title: |
     082. Ka Manade Ma Ruoth Luongae - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 082. Ka Manade Ma Ruoth Luongae. Kata nitie weche mag konyruok monego awach tinde Kata nitie ng`ato moketho, Monego anyise yo; Ruodha, In kibedo Jatenda, Ka yo bet malich nade, Nawach wechego ma ichikoa, Dwonda nolu weche magi.  
+        Wende Nyasaye (Nyagendia) 082. Ka Manade Ma Ruoth Luongae. Kata nitie weche mag konyruok monego awach tinde Kata nitie n'to moketho, Monego anyise yo; Ruodha, In kibedo Jatenda, Ka yo bet malich nade, Nawach wechego ma ichikoa, Dwonda nolu weche magi.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ka Manade Ma Ruoth Luongae, Kata nitie weche mag konyruok monego awach tinde Kata nitie ng`ato moketho, Monego anyise yo;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ka Manade Ma Ruoth Luongae, Kata nitie weche mag konyruok monego awach tinde Kata nitie n'to moketho, Monego anyise yo;. 
     author: Brian Onang'o
 ---
 
@@ -15,27 +15,27 @@ metadata:
 
 ```txt
 Ka manade ma Ruoth luongae,
-Kata loka nam malich, Kata ni mond` aidh loka got,
+Kata loka nam malich, Kata ni mon'aidh loka got,
 Ayie dhiyo tiyone. Kata koluonga gi dwonde mos
-Ni mond` achik yo makiya; Nawachi,
+Ni mon'achik yo makiya; Nawachi,
 "Ruodha, in Kibet koda, Ayie dhiyo ka manade."
 
 Chorus:
 Ayie dhiyo ka manade, Ruodha,
 Kadho got kata loka nam;
-Nawach gi midwaro mond` awachi;
+Nawach gi midwaro mon'awachi;
 Ruoth, natim duto michiko.
 
 2
 Kata nitie weche mag konyruok monego awach tinde
-Kata nitie ng`ato moketho, Monego anyise yo;
+Kata nitie n'to moketho, Monego anyise yo;
 Ruodha, In kibedo Jatenda, Ka yo bet malich nade,
 Nawach wechego ma ichikoa, Dwonda nolu weche magi.
 
 3
-Kata ka ok anyal tich maduong` Kaka jomoko timo,
-Ang`eyo nitie tich moro, Ruoth, Ma anyalo tiyoni.
-Kamano aketora kuomi, Ang`eyo kihera ngang`;
+Kata ka ok anyal tich maduon'Kaka jomoko timo,
+An'yo nitie tich moro, Ruoth, Ma anyalo tiyoni.
+Kamano aketora kuomi, An'yo kihera ngan'
 Natim tich duto minyisa.
 
 ```
@@ -45,7 +45,7 @@ Natim tich duto minyisa.
 Title | Ka Manade Ma Ruoth Luongae |
 Key |  |
 Titles | undefined |
-First Line | Kata nitie weche mag konyruok monego awach tinde Kata nitie ng`ato moketho, Monego anyise yo; |
+First Line | Kata nitie weche mag konyruok monego awach tinde Kata nitie n'to moketho, Monego anyise yo; |
 Author | 
 Year | 
 Composer| |

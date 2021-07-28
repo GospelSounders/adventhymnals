@@ -90,7 +90,7 @@ metadata:
 274|[E Loka Nam](/wende-nyasaye/201-300/271-280/E-Loka-Nam)
 275|[Ageno Wanarom](/wende-nyasaye/201-300/271-280/Ageno-Wanarom)
 276|[Ka Wadhi E Polo](/wende-nyasaye/201-300/271-280/Ka-Wadhi-E-Polo)
-277|[Ase chop` e piny mar mwandu](/wende-nyasaye/201-300/271-280/Ase-chop`-e-piny-mar-mwandu)
+277|[Ase cho'e piny mar mwandu](/wende-nyasaye/201-300/271-280/Ase-cho'e-piny-mar-mwandu)
 278|[Nitie ber Kwonde Duto](/wende-nyasaye/201-300/271-280/Nitie-ber-Kwonde-Duto)
 279|[Nyasaye Nomiyo Adam Jakony](/wende-nyasaye/201-300/271-280/Nyasaye-Nomiyo-Adam-Jakony)
 280|[Wamor Kwaromo Kod Osiepe](/wende-nyasaye/201-300/271-280/Wamor-Kwaromo-Kod-Osiepe)

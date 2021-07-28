@@ -3,9 +3,9 @@ title: |
     204. Awinjo Dwondi Maler - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 204. Awinjo Dwondi Maler. Awinjo dwondi maber Moluonga iri, Ruoth; Mond` iluok chunya gi rembi, Ma nochwer Kalwari.  Chorus: An abiro, Ruoth, Abiro tinde; Mond` iluoka gi rembi, Ma nochwer Kalwari.  
+        Wende Nyasaye (Nyagendia) 204. Awinjo Dwondi Maler. Awinjo dwondi maber Moluonga iri, Ruoth; Mon'iluok chunya gi rembi, Ma nochwer Kalwari.  Chorus: An abiro, Ruoth, Abiro tinde; Mon'iluoka gi rembi, Ma nochwer Kalwari.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Awinjo Dwondi Maler, Awinjo dwondi maber Moluonga iri, Ruoth; Mond` iluok chunya gi rembi, Ma nochwer Kalwari.. An abiro, Ruoth, Abiro tinde;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Awinjo Dwondi Maler, Awinjo dwondi maber Moluonga iri, Ruoth; Mon'iluok chunya gi rembi, Ma nochwer Kalwari.. An abiro, Ruoth, Abiro tinde;
     author: Brian Onang'o
 ---
 
@@ -16,15 +16,15 @@ metadata:
 ```txt
 1
 Awinjo dwondi maber Moluonga iri, Ruoth;
-Mond` iluok chunya gi rembi, Ma nochwer Kalwari.
+Mon'iluok chunya gi rembi, Ma nochwer Kalwari.
 
 Chorus:
 An abiro, Ruoth, Abiro tinde;
-Mond` iluoka gi rembi, Ma nochwer Kalwari.
+Mon'iluoka gi rembi, Ma nochwer Kalwari.
 
 2
 An arach moloyo ji, Aonge gi teko;
-Adwaro mond` iluoka chuth, Mond` abedi mapoth.
+Adwaro mon'iluoka chuth, Mon'abedi mapoth.
 
 3
 Yesu, In kibet koda, Koro natim maber;
@@ -35,12 +35,12 @@ Ka pod an ie piny ka, Adwaro puonjo ji;
 Kuom remb Yesu manochwernigi, E yath mar Kalwari.
 
 5
-Yesu In kiwir` e piny, Mondo iom jogi;
+Yesu In kiwi'e piny, Mondo iom jogi;
 Wanadhi kodi e polo, E dalani maler.
 
 6
 Wan wabiro, ruoth, Wabiro tinde;
-Bedi kodwa nyaka chieng` Kibiro omomwa.
+Bedi kodwa nyaka chien'Kibiro omomwa.
 
 
 
@@ -52,7 +52,7 @@ Bedi kodwa nyaka chieng` Kibiro omomwa.
 Title | Awinjo Dwondi Maler |
 Key |  |
 Titles | An abiro, Ruoth, Abiro tinde; |
-First Line | Awinjo dwondi maber Moluonga iri, Ruoth; Mond` iluok chunya gi rembi, Ma nochwer Kalwari. |
+First Line | Awinjo dwondi maber Moluonga iri, Ruoth; Mon'iluok chunya gi rembi, Ma nochwer Kalwari. |
 Author | 
 Year | 
 Composer| |

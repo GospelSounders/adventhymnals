@@ -24,7 +24,7 @@ Jawarna to ni Yesu; Anapake kawer;
 Osiepna moro onge, moheroa ka En.
 
 2
-Yesu ni ng`a mageno, ndalo duto Entie;
+Yesu ni n' mageno, ndalo duto Entie;
 Ka piny otimo mudho, Lerne omenyoa.
 
 3

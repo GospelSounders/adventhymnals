@@ -14,10 +14,10 @@ metadata:
 ####  Wende Nyasaye (Nyagendia),
 
 ```txt
-Kik ibadhri ni tich, tijno moneg` itim;
+Kik ibadhri ni tich, tijno mone'itim;
 Ikri mondo iti ka ma onyisoi;
 Ruodhwa oluongoi, oluongoi pile;
-Yie mond` iwinj dwonde, itine gi chunyi.
+Yie mon'iwinj dwonde, itine gi chunyi.
 
 Chorus:
 Bi koro (tinde), kik idagi biro;
@@ -34,8 +34,8 @@ In, yaw chunyi koro, mondo iti ni  Ruoth.
 3
 Kik ibadhri ni tich, kik ideki koro;
 Kichayo herane, di po koweyi chuth;
-Ka pod nitie ng`wono manyisi yor polo.
-Yesu pod osayi, Bi mond` oweni keth.
+Ka pod nitie n'ono manyisi yor polo.
+Yesu pod osayi, Bi mon'oweni keth.
 
 ```
 

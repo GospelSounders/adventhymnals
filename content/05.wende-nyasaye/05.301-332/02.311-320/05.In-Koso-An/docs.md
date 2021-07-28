@@ -3,9 +3,9 @@ title: |
     315. In Koso An - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 315. In Koso An. Ng`ato nodonj e ranga lulu e chieng`no, E chieng`no mond` one duong`no maritowa. In koso an? In koso an? Ng`at ma nolu yo mar dhahabu, Nenruok malich mobedo kanyo, Donjo e morno mwasewinjo; In koso an? In Koso an?  
+        Wende Nyasaye (Nyagendia) 315. In Koso An. N'to nodonj e ranga lulu e chien'o, E chien'o mon'one duon'o maritowa. In koso an? In koso an? N't ma nolu yo mar dhahabu, Nenruok malich mobedo kanyo, Donjo e morno mwasewinjo; In koso an? In Koso an?  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, In Koso An, Ng`ato nodonj e ranga lulu e chieng`no, E chieng`no mond` one duong`no maritowa.. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, In Koso An, N'to nodonj e ranga lulu e chien'o, E chien'o mon'one duon'o maritowa.. 
     author: Brian Onang'o
 ---
 
@@ -15,30 +15,30 @@ metadata:
 
 ```txt
 1
-Ng`ato nodonj e ranga lulu e chieng`no,
-E chieng`no mond` one duong`no maritowa.
+N'to nodonj e ranga lulu e chien'o,
+E chien'o mon'one duon'o maritowa.
 In koso an? In koso an?
-Ng`at ma nolu yo mar dhahabu,
+N't ma nolu yo mar dhahabu,
 Nenruok malich mobedo kanyo,
 Donjo e morno mwasewinjo;
 In koso an? In Koso an?
 
 2
-Ng`at ma nomor ka oselocho, e chieng`no,
-E chieng`no, noyud osimbo kod pak kuom Ruoth;
+N't ma nomor ka oselocho, e chien'o,
+E chien'o, noyud osimbo kod pak kuom Ruoth;
 In koso an? In koso an?
-Ng`at manone Ruodhwa man gi duong`,
+N't manone Ruodhwa man gi duon'
 Ka oseloyo kuyo mar piny,
-Enobed mamor manyaka chieng`;
+Enobed mamor manyaka chien'
 In Koso an? In koso an?
 
 3
-Ng`at manower wendno mar locho, e chieng`no,
-E chieng`no, noriwre e wend jomosewar;
+N't manower wendno mar locho, e chien'o,
+E chien'o, noriwre e wend jomosewar;
 In koso an? In koso an?
-Ng`at manochung` e dho nam rang`i,
+N't manochun'e dho nam ran',
 Nomosre kod osiepe mowar,
-Nobed e duong`no manyaka chieng`;
+Nobed e duon'o manyaka chien'
 In koso an? In koso an?
 
 
@@ -51,7 +51,7 @@ In koso an? In koso an?
 Title | In Koso An |
 Key |  |
 Titles | undefined |
-First Line | Ng`ato nodonj e ranga lulu e chieng`no, E chieng`no mond` one duong`no maritowa. |
+First Line | N'to nodonj e ranga lulu e chien'o, E chien'o mon'one duon'o maritowa. |
 Author | 
 Year | 
 Composer| |

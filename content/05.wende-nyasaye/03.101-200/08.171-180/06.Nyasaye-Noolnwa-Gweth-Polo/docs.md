@@ -23,11 +23,11 @@ Gweth moa e polo, E ma wadwaro chutho;
 Ruodhwa, ikechwa, wasayi; Ole kuomwa tinende.
 
 2
-Nyasaye noolnwa gweth polo, Mond` ochiew chunywa koro;
-Kaka koth biro maduong`ngang`, Aore duto kopong`.
+Nyasaye noolnwa gweth polo, Mon'ochiew chunywa koro;
+Kaka koth biro maduon'gan' Aore duto kopon'
 
 3
-Nyasaye noolnwa gweth polo, Enonyiswa ng`wonone;
+Nyasaye noolnwa gweth polo, Enonyiswa n'onone;
 Olnwa ni mondo wachungi, Mondo wadongni, Ruodhwa.
 
 4

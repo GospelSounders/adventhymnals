@@ -3,7 +3,7 @@ title: |
     192. Tim Kinda Mar Lemo - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 192. Tim Kinda Mar Lemo. Tim kinda mar lemo, kiwuoyo kod Ruoth; Pidh chunyi gi wachne, kibedo kuome; Lalri gi jokristo, kony jogo manyap; To wiyi kik wil ngang` mar dwaro gwethne.  
+        Wende Nyasaye (Nyagendia) 192. Tim Kinda Mar Lemo. Tim kinda mar lemo, kiwuoyo kod Ruoth; Pidh chunyi gi wachne, kibedo kuome; Lalri gi jokristo, kony jogo manyap; To wiyi kik wil ngan'mar dwaro gwethne.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Tim Kinda Mar Lemo, Tim kinda mar lemo, kiwuoyo kod Ruoth; Pidh chunyi gi wachne, kibedo kuome;. 
     author: Brian Onang'o
@@ -18,19 +18,19 @@ metadata:
 Tim kinda mar lemo, kiwuoyo kod Ruoth;
 Pidh chunyi gi wachne, kibedo kuome;
 Lalri gi jokristo, kony jogo manyap;
-To wiyi kik wil ngang` mar dwaro gwethne.
+To wiyi kik wil ngan'mar dwaro gwethne.
 
 2
 Tim kinda mar lemo, piny kadho piyo;
 Ket kinde mar bedo apanda kod Ruoth;
-Ting` wang`i kuom Yesu, ilu e ndache,
+Tin'wan' kuom Yesu, ilu e ndache,
 Mi timni nonyis ji kichalo kode.
 
 3
 Tim kinda mar lemo, Ruoth oteloni;
-Kik iring e nyime, to kik idong` chien;
+Kik iring e nyime, to kik idon'chien;
 E mor kata chandruok, lu Yesu pile;
-Chom wang`i kuom Yesu, kigeno wachne.
+Chom wan' kuom Yesu, kigeno wachne.
 
 4
 Tim kinda mar lemo, chunyi okuwe mos;

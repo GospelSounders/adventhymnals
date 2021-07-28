@@ -19,7 +19,7 @@ E piny Ruodhe no mogwedhi Enolos nwae kar dak.
 
 Chorus:
 Ka wadhi..................... yo e polo,
-Enobedi chieng` mar mor manade;
+Enobedi chien'mar mor manade;
 Ka wanane Yesu Wanawer wende mag locho.
 
 2
@@ -28,7 +28,7 @@ To ka ndalo mad wuoth norum, Tipo kod kuyo norum.
 
 3
 Wabeduru jomadieri Kwatiyo kendo gene;
-To bang` kinde matin kende Ngimani mar dhier norum.
+To ban'kinde matin kende Ngimani mar dhier norum.
 
 4
 To michno moseikonwa Wanamor kwaneno Ruoth;

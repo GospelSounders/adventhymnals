@@ -3,7 +3,7 @@ title: |
     155. Be Iseyudo Jawar Maber - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 155. Be Iseyudo Jawar Maber. Be Iseyudo Jawar maber, moloyo duto me piny,  Mochiwo ngima mar wari, motho chuth ni richoni.  Chorus: Be iseyudo jawar maber, Dikwed hera ma kama?  Adier onge hera maduong`, chiwo ngimani ni Ruoth.  (Ni Ruoth).  
+        Wende Nyasaye (Nyagendia) 155. Be Iseyudo Jawar Maber. Be Iseyudo Jawar maber, moloyo duto me piny,  Mochiwo ngima mar wari, motho chuth ni richoni.  Chorus: Be iseyudo jawar maber, Dikwed hera ma kama?  Adier onge hera maduon' chiwo ngimani ni Ruoth.  (Ni Ruoth).  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Be Iseyudo Jawar Maber, Be Iseyudo Jawar maber, moloyo duto me piny,  Mochiwo ngima mar wari, motho chuth ni richoni.. Be iseyudo jawar maber, Dikwed hera ma kama? 
     author: Brian Onang'o
@@ -20,7 +20,7 @@ Mochiwo ngima mar wari, motho chuth ni richoni.
 
 Chorus:
 Be iseyudo jawar maber, Dikwed hera ma kama? 
-Adier onge hera maduong`, chiwo ngimani ni Ruoth. 
+Adier onge hera maduon' chiwo ngimani ni Ruoth. 
 (Ni Ruoth).
 
 2
@@ -28,8 +28,8 @@ Be iseyudo Jawar maber mokadho e liel ne in,
 Mochodo tuech mar thoni, tekone nyalo resi.
 
 3
-Be iseyudo Jawar maber, be ing`eyo muolo gi kuwe,
-Mopong`o chuny ji magene, ma heragi tut kuome.
+Be iseyudo Jawar maber, be in'yo muolo gi kuwe,
+Mopon' chuny ji magene, ma heragi tut kuome.
 
 4
 Be iseyudo Jawar maber, dware ma onge deko, 

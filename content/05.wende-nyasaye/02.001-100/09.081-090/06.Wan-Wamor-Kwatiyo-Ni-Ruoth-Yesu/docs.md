@@ -28,9 +28,9 @@ Wanatim kinda kuom tich Ruodhwa.
 
 2
 Wanamor mar nyiso ji wach kuome,
-Kak` ohero ji duto e piny;
-Kristo, mobedo e duong` mar Wuoro,
-Ochiwo gwethne kuom ng`wonone.
+Ka'ohero ji duto e piny;
+Kristo, mobedo e duon'mar Wuoro,
+Ochiwo gwethne kuom n'onone.
 
 3
 Wabedo mamuol kwaluwo Ruodhwa,

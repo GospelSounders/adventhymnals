@@ -19,24 +19,24 @@ To kak abet yesu kawa, Inyisa yo maber chutho;
 Abironi, iwachona, Ruodhwa Yesu, abironi.
 
 2
-To kak` abet Yesu yiea, Adwaro mond iluok chunya;
+To ka'abet Yesu yiea, Adwaro mond iluok chunya;
 To in iwe kethruok maga Ruodhwa Yesu, abironi.
 
 3
-To kak` abet Yesu kawa, Imiyo chunya mor pile;
+To ka'abet Yesu kawa, Imiyo chunya mor pile;
 Ndalo duto chunya bayo, Ruodhwa Yesu, abironi.
 
 4
-To kak` abet ni an muofu, an ng`a modhier morem teko;
-In kende In Jakinda ngang`, Ruodhwa Yesu, abironi.
+To ka'abet ni an muofu, an n' modhier morem teko;
+In kende In Jakinda ngan' Ruodhwa Yesu, abironi.
 
 5
-To kak` abet Yesu kawa, Iruaka, luoka, guda ka;
+To ka'abet Yesu kawa, Iruaka, luoka, guda ka;
 Nikech ageno singruokni, Ruodhwa Yesu, abironi.
 
 6
-To kak` abet,herani, Ruoth, Oseyawna wang`yo maler;
-Mondo abed ng`ati chutho, Ruodhwa Yesu, abironi.
+To ka'abet,herani, Ruoth, Oseyawna wan'o maler;
+Mondo abed n'ti chutho, Ruodhwa Yesu, abironi.
 
 
 

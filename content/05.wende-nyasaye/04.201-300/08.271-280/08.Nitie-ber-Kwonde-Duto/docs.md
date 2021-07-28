@@ -33,18 +33,18 @@ Piny obet maber kodgi;
 Mor nitie e ngimagi, Ka nitie hera.
 
 3
-Polo yudo mor maduong` Ka kuwe nie dala;
-Piny duto opong` gi mor, Ka nitie hera;
+Polo yudo mor maduon'Ka kuwe nie dala;
+Piny duto opon'gi mor, Ka nitie hera;
 Wer mamit ma ji wero,
 Ler marieny moa malo,
 Nyasachwa mor e polo, Ka wan kod hera.
 
 4
-Kabedo ng`ati chutho, Nanyis herani;
+Kabedo n'ti chutho, Nanyis herani;
 Ka angima kuomi, Ruoth, Eka mor nitie;
 Anayue kuom kethruok te,
 Mak apar masich richo;
-Kuom ng`wononi nigwedha, Ka nitie hera.
+Kuom n'ononi nigwedha, Ka nitie hera.
 
 
 

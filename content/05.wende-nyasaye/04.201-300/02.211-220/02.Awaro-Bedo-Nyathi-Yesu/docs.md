@@ -24,7 +24,7 @@ Mari chutho asingo; Mari chuth (Ruodhwa),
 Mari chuth (Ruodhwa), Mari chutho koroni.
 
 2
-Pith gi duong` mar piny odok nono, Mak Intie, mak Intie;
+Pith gi duon'mar piny odok nono, Mak Intie, mak Intie;
 Anawe giduto ni Nyingi, Mwanduna ni ma.
 
 3

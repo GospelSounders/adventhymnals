@@ -24,12 +24,12 @@ Telna, Telna, Jawar telna kik alal (kik alal),
 Telna ndalo dutote (duto te), Jawar telna yo duto (yo duto).
 
 2
-In e kar bwok mar chunya (kuwe mar chunya), Ka yamo maduong` kudho (Yamo kudho);
+In e kar bwok mar chunya (kuwe mar chunya), Ka yamo maduon'kudho (Yamo kudho);
 An gi kuwe ka in buta (ka in buta), An gi geno kuomi Ruoth (geno kuomi).
 
 3
 Jawar telna pile ka (telna pile), Ka yamo osekadho (yamo kadho);
-Telna nyaka piny manyien (Ruodha telna), Kama piwang`wa noywe (Wang`wa noywe).
+Telna nyaka piny manyien (Ruodha telna), Kama piwan'a noywe (Wan'a noywe).
 
 
 

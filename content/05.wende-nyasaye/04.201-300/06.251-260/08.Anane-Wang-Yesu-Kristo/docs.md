@@ -3,9 +3,9 @@ title: |
     258. Anane Wang Yesu Kristo - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 258. Anane Wang Yesu Kristo. Anane wang` Yesu Kristo, Kobir` eboche polo; Nabedi mamor moloyo Ka Yesu owir` e piny.  Chorus: Anane wang` Yesu Kristo, Yesu Ruoth ma Jawarwa; Ka ageno Yesu pile, To chieng` moro nowara.  
+        Wende Nyasaye (Nyagendia) 258. Anane Wang Yesu Kristo. Anane wan'Yesu Kristo, Kobi'eboche polo; Nabedi mamor moloyo Ka Yesu owi'e piny.  Chorus: Anane wan'Yesu Kristo, Yesu Ruoth ma Jawarwa; Ka ageno Yesu pile, To chien'moro nowara.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Anane Wang Yesu Kristo, Anane wang` Yesu Kristo, Kobir` eboche polo; Nabedi mamor moloyo Ka Yesu owir` e piny.. Anane wang` Yesu Kristo, Yesu Ruoth ma Jawarwa;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Anane Wang Yesu Kristo, Anane wan'Yesu Kristo, Kobi'eboche polo; Nabedi mamor moloyo Ka Yesu owi'e piny.. Anane wan'Yesu Kristo, Yesu Ruoth ma Jawarwa;
     author: Brian Onang'o
 ---
 
@@ -15,24 +15,24 @@ metadata:
 
 ```txt
 1
-Anane wang` Yesu Kristo, Kobir` eboche polo;
-Nabedi mamor moloyo Ka Yesu owir` e piny.
+Anane wan'Yesu Kristo, Kobi'eboche polo;
+Nabedi mamor moloyo Ka Yesu owi'e piny.
 
 Chorus:
-Anane wang` Yesu Kristo, Yesu Ruoth ma Jawarwa;
-Ka ageno Yesu pile, To chieng` moro nowara.
+Anane wan'Yesu Kristo, Yesu Ruoth ma Jawarwa;
+Ka ageno Yesu pile, To chien'moro nowara.
 
 2
 An to pok aneno Yesu, To ayiee gi chunya;
-Chieng`kofwenyore e polo, Ananene kak` obet.
+Chien'ofwenyore e polo, Ananene ka'obet.
 
 3
 Pinyni orachna moloyo, nikech tho gi tuo nitie;
 Anamor kaneno Yesu, Ok nane chandruok kendo.
 
 4
-Yesu Kristo en Jang`wono, Nosetho ni ji duto;
-Mondo ng`a moseyie kuome Kik olal ma nyaka chieng`.
+Yesu Kristo en Jan'ono, Nosetho ni ji duto;
+Mondo n' moseyie kuome Kik olal ma nyaka chien'
 
 
 
@@ -43,8 +43,8 @@ Mondo ng`a moseyie kuome Kik olal ma nyaka chieng`.
 -------------|------------|
 Title | Anane Wang Yesu Kristo |
 Key |  |
-Titles | Anane wang` Yesu Kristo, Yesu Ruoth ma Jawarwa; |
-First Line | Anane wang` Yesu Kristo, Kobir` eboche polo; Nabedi mamor moloyo Ka Yesu owir` e piny. |
+Titles | Anane wan'Yesu Kristo, Yesu Ruoth ma Jawarwa; |
+First Line | Anane wan'Yesu Kristo, Kobi'eboche polo; Nabedi mamor moloyo Ka Yesu owi'e piny. |
 Author | 
 Year | 
 Composer| |

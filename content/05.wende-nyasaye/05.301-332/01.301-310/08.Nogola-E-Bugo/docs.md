@@ -26,21 +26,21 @@ Oketo wer e chunya koro, Wend pak mamit, Alleluya!
 
 2
 Noketa ewi Lwanda bute chutho,
-Nosira motegno mond` asik kanyo;
+Nosira motegno mon'asik kanyo;
 Ok naluor podho kasiko e lwete,
-Nagen kuom ng`uonone nyaka ayud locho.
+Nagen kuom n'onone nyaka ayud locho.
 
 3
 Nomiya wer mamit ne en wer mar pak,
-Odiechieng` gotieno anawer wendno;
+Odiechien'gotieno anawer wendno;
 Chunya nigi ilo amor an thuolo,
 Anapak Jawarna ma oseresa.
 
 4
-Anawer ng`uonone miwuoro kuoma,
+Anawer n'onone miwuoro kuoma,
 Anapake nyaka jii none berne;
 Anawer wend warruok kuonde duto te,
-Nyaka ji mang`eny noyie kuom Nyasaye.
+Nyaka ji man'ny noyie kuom Nyasaye.
 
 
 

@@ -3,9 +3,9 @@ title: |
     138. Richona Diluok Gang'o - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 138. Richona Diluok Gang'o. Richona diluok gang`o? Mana gi remb Yesu kende. En ang`o ma dipwodha? Mana gi remb Yesu kende.  	Chorus: 	To kuom richo magwa onge wang`yo moro 	Mwayudogo pwodhruok, 	Mak mana gi remb Ruoth Yesu.  
+        Wende Nyasaye (Nyagendia) 138. Richona Diluok Gang'o. Richona diluok gan'? Mana gi remb Yesu kende. En an' ma dipwodha? Mana gi remb Yesu kende.  	Chorus: 	To kuom richo magwa onge wan'o moro 	Mwayudogo pwodhruok, 	Mak mana gi remb Ruoth Yesu.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Richona Diluok Gang'o, Richona diluok gang`o? Mana gi remb Yesu kende. En ang`o ma dipwodha? Mana gi remb Yesu kende.. To kuom richo magwa onge wang`yo moro
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Richona Diluok Gang'o, Richona diluok gan'? Mana gi remb Yesu kende. En an' ma dipwodha? Mana gi remb Yesu kende.. To kuom richo magwa onge wan'o moro
     author: Brian Onang'o
 ---
 
@@ -15,11 +15,11 @@ metadata:
 
 ```txt
 1
-Richona diluok gang`o? Mana gi remb Yesu kende.
-En ang`o ma dipwodha? Mana gi remb Yesu kende.
+Richona diluok gan'? Mana gi remb Yesu kende.
+En an' ma dipwodha? Mana gi remb Yesu kende.
 
 	Chorus:
-	To kuom richo magwa onge wang`yo moro
+	To kuom richo magwa onge wan'o moro
 	Mwayudogo pwodhruok,
 	Mak mana gi remb Ruoth Yesu.
 
@@ -47,8 +47,8 @@ Achiwo pakna duto, ni remono mar Ruoth Yesu.
 -------------|------------|
 Title | Richona Diluok Gang'o |
 Key |  |
-Titles | To kuom richo magwa onge wang`yo moro |
-First Line | Richona diluok gang`o? Mana gi remb Yesu kende. En ang`o ma dipwodha? Mana gi remb Yesu kende. |
+Titles | To kuom richo magwa onge wan'o moro |
+First Line | Richona diluok gan'? Mana gi remb Yesu kende. En an' ma dipwodha? Mana gi remb Yesu kende. |
 Author | 
 Year | 
 Composer| |

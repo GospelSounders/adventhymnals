@@ -26,7 +26,7 @@ Jo maricho chon kucha, Ne gisin kode marach;
 Rembe to nowarowa; Alleluya! En Jakonya.
 
 4
-Yesu In nitho kama! Nyaka chieng` naluwi ka;
+Yesu In nitho kama! Nyaka chien'naluwi ka;
 Chunya mor, nawer kama, Alleluya! En Jakonya.
 
 

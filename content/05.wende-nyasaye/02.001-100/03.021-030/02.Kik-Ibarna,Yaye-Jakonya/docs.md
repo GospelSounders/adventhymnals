@@ -3,9 +3,9 @@ title: |
     022. Kik Ibarna,Yaye Jakonya - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 022. Kik Ibarna,Yaye Jakonya. Kik ibarna, yaye Jakonya, Winji yuak mara;  In Kiluongo jo mamagi, Mond` iluonga be.  Chorus: Yesu, Yesu, Winji yuak mara;  In Kiluongo jo mamagi, mond` iluonga be.  
+        Wende Nyasaye (Nyagendia) 022. Kik Ibarna,Yaye Jakonya. Kik ibarna, yaye Jakonya, Winji yuak mara;  In Kiluongo jo mamagi, Mon'iluonga be.  Chorus: Yesu, Yesu, Winji yuak mara;  In Kiluongo jo mamagi, mon'iluonga be.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Kik Ibarna,Yaye Jakonya, Kik ibarna, yaye Jakonya, Winji yuak mara;  In Kiluongo jo mamagi, Mond` iluonga be.. Yesu, Yesu, Winji yuak mara; 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Kik Ibarna,Yaye Jakonya, Kik ibarna, yaye Jakonya, Winji yuak mara;  In Kiluongo jo mamagi, Mon'iluonga be.. Yesu, Yesu, Winji yuak mara; 
     author: Brian Onang'o
 ---
 
@@ -17,14 +17,14 @@ metadata:
 
 1
 Kik ibarna, yaye Jakonya, Winji yuak mara; 
-In Kiluongo jo mamagi, Mond` iluonga be.
+In Kiluongo jo mamagi, Mon'iluonga be.
 
 Chorus:
 Yesu, Yesu, Winji yuak mara; 
-In Kiluongo jo mamagi, mond` iluonga be.
+In Kiluongo jo mamagi, mon'iluonga be.
 
 2
-An kaparo ng`wono mari chunya yudo kuwe; 
+An kaparo n'ono mari chunya yudo kuwe; 
 Ka agoni chonga piny ka, Jawarna, Konya.
 
 3
@@ -32,8 +32,8 @@ An ageno nyingi kende, Adwaro neni;
 Changi chunya moseketho, Wara gi rembi.
 
 4
-Miwaso ohewa kodi, To agombi nga`ng; 
-Ere ng`a maromo kodi E piny gi polo?
+Miwaso ohewa kodi, To agombi ng'g; 
+Ere n' maromo kodi E piny gi polo?
 
 
 ```
@@ -43,7 +43,7 @@ Ere ng`a maromo kodi E piny gi polo?
 Title | Kik Ibarna,Yaye Jakonya |
 Key |  |
 Titles | Yesu, Yesu, Winji yuak mara;  |
-First Line | Kik ibarna, yaye Jakonya, Winji yuak mara;  In Kiluongo jo mamagi, Mond` iluonga be. |
+First Line | Kik ibarna, yaye Jakonya, Winji yuak mara;  In Kiluongo jo mamagi, Mon'iluonga be. |
 Author | 
 Year | 
 Composer| |

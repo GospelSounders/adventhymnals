@@ -31,8 +31,8 @@ Duto amiyo Ruoth Yesu, Losa, abed nyathini;
 Miya Roho mari, Ruodha, Orita ndalo duto.
 
 4
-Duto amiyo Ruoth Yesu; An ayudo mor maduong`, 
-Kaparo kaka nowara, nadend nyinge nyaka chieng`.
+Duto amiyo Ruoth Yesu; An ayudo mor maduon' 
+Kaparo kaka nowara, nadend nyinge nyaka chien'
 
 
 

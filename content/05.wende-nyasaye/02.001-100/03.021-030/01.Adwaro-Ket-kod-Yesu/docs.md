@@ -3,9 +3,9 @@ title: |
     021. Adwaro Ket kod Yesu - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 021. Adwaro Ket kod Yesu. Adwaro Ket kod Yesu; Ruodha mond` odag koda,  Pong` chunya gi herane, Abed mang`won kaka En.  Adwaro ket kod Yesu kawuotho e pinyni ka;  Oket Muche e chunya, Ruodha mond` odag koda.  
+        Wende Nyasaye (Nyagendia) 021. Adwaro Ket kod Yesu. Adwaro Ket kod Yesu; Ruodha mon'odag koda,  Pon'chunya gi herane, Abed man'on kaka En.  Adwaro ket kod Yesu kawuotho e pinyni ka;  Oket Muche e chunya, Ruodha mon'odag koda.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Adwaro Ket kod Yesu, Adwaro Ket kod Yesu; Ruodha mond` odag koda,  Pong` chunya gi herane, Abed mang`won kaka En. . 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Adwaro Ket kod Yesu, Adwaro Ket kod Yesu; Ruodha mon'odag koda,  Pon'chunya gi herane, Abed man'on kaka En. . 
     author: Brian Onang'o
 ---
 
@@ -16,21 +16,21 @@ metadata:
 ```txt
 
 1
-Adwaro Ket kod Yesu; Ruodha mond` odag koda, 
-Pong` chunya gi herane, Abed mang`won kaka En. 
+Adwaro Ket kod Yesu; Ruodha mon'odag koda, 
+Pon'chunya gi herane, Abed man'on kaka En. 
 Adwaro ket kod Yesu kawuotho e pinyni ka; 
-Oket Muche e chunya, Ruodha mond` odag koda.
+Oket Muche e chunya, Ruodha mon'odag koda.
 
 2
-Kowinjo yuak mar winyo, kendo ritogi mang`won, 
-Ang`eyo nowinj yuakna, Ong`eyo chandruokna te; 
+Kowinjo yuak mar winyo, kendo ritogi man'on, 
+An'yo nowinj yuakna, On'yo chandruokna te; 
 Enochikna ngimana, Enowena kethona; 
 Chunya nobedi maler ka Ruodha odak koda.
 
 3
 Aket kode kuom lemo, Amed chal kode pile; 
-Kuwe mare opong` chunya kasiko bute pile; 
-Norita kuom ng`wonone, Herane nolo chunya; 
+Kuwe mare opon'chunya kasiko bute pile; 
+Norita kuom n'onone, Herane nolo chunya; 
 Nabet gi geno chutho ka Ruodha odak koda.
 
 
@@ -41,7 +41,7 @@ Nabet gi geno chutho ka Ruodha odak koda.
 Title | Adwaro Ket kod Yesu |
 Key |  |
 Titles | undefined |
-First Line | Adwaro Ket kod Yesu; Ruodha mond` odag koda,  Pong` chunya gi herane, Abed mang`won kaka En.  |
+First Line | Adwaro Ket kod Yesu; Ruodha mon'odag koda,  Pon'chunya gi herane, Abed man'on kaka En.  |
 Author | 
 Year | 
 Composer| |

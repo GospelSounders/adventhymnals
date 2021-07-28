@@ -3,9 +3,9 @@ title: |
     307. Bedo Gi Yesu E Dala Mano Maduong - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 307. Bedo Gi Yesu E Dala Mano Maduong. Bedo gi Yesu e dala, mano mor maduong`, Mano mor maduong`, mano mor maduong`; Bedo gi Yesu e dala, mano mor maduong`, Mano mor maduong`.  
+        Wende Nyasaye (Nyagendia) 307. Bedo Gi Yesu E Dala Mano Maduong. Bedo gi Yesu e dala, mano mor maduon' Mano mor maduon' mano mor maduon' Bedo gi Yesu e dala, mano mor maduon' Mano mor maduon'  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Bedo Gi Yesu E Dala Mano Maduong, Bedo gi Yesu e dala, mano mor maduong`, Mano mor maduong`, mano mor maduong`;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Bedo Gi Yesu E Dala Mano Maduong, Bedo gi Yesu e dala, mano mor maduon' Mano mor maduon' mano mor maduon'. 
     author: Brian Onang'o
 ---
 
@@ -15,10 +15,10 @@ metadata:
 
 ```txt
 1
-Bedo gi Yesu e dala, mano mor maduong`,
-Mano mor maduong`, mano mor maduong`;
-Bedo gi Yesu e dala, mano mor maduong`,
-Mano mor maduong`.
+Bedo gi Yesu e dala, mano mor maduon'
+Mano mor maduon' mano mor maduon'
+Bedo gi Yesu e dala, mano mor maduon'
+Mano mor maduon'
 
 2
 Ka Yesu ni e chuny wuoro, ot bedo mokuwe,
@@ -48,7 +48,7 @@ Ot bedo mokuwe.
 Title | Bedo Gi Yesu E Dala Mano Maduong |
 Key |  |
 Titles | undefined |
-First Line | Bedo gi Yesu e dala, mano mor maduong`, Mano mor maduong`, mano mor maduong`; |
+First Line | Bedo gi Yesu e dala, mano mor maduon' Mano mor maduon' mano mor maduon' |
 Author | 
 Year | 
 Composer| |

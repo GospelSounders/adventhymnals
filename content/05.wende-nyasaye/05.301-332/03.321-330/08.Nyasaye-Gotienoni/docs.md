@@ -3,9 +3,9 @@ title: |
     328. Nyasaye Gotienoni - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 328. Nyasaye Gotienoni. Nyasaye gotienoni, Mondo irtiwa ngang`; Mondo kik gimoro chamwa, Nyaka iyawnwa piny. Amin!   
+        Wende Nyasaye (Nyagendia) 328. Nyasaye Gotienoni. Nyasaye gotienoni, Mondo irtiwa ngan' Mondo kik gimoro chamwa, Nyaka iyawnwa piny. Amin!   
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nyasaye Gotienoni, Nyasaye gotienoni, Mondo irtiwa ngang`;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nyasaye Gotienoni, Nyasaye gotienoni, Mondo irtiwa ngan'. 
     author: Brian Onang'o
 ---
 
@@ -15,7 +15,7 @@ metadata:
 
 ```txt
 Nyasaye gotienoni,
-Mondo irtiwa ngang`;
+Mondo irtiwa ngan'
 Mondo kik gimoro chamwa,
 Nyaka iyawnwa piny.
 Amin!
@@ -29,7 +29,7 @@ Amin!
 Title | Nyasaye Gotienoni |
 Key |  |
 Titles | undefined |
-First Line | Nyasaye gotienoni, Mondo irtiwa ngang`; |
+First Line | Nyasaye gotienoni, Mondo irtiwa ngan' |
 Author | 
 Year | 
 Composer| |

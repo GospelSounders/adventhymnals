@@ -31,8 +31,8 @@ Ka wasika dwaro hinya, Ka Satan dwaro loya,
 Ruoth nolok gima dihinya, Obedna mor mochwere.
 
 4
-Ka ating`o msalapa, Ka aneno chandruok e piny,
-Yesu e ma rito chunya, ok noweya mond` alal.
+Ka atin' msalapa, Ka aneno chandruok e piny,
+Yesu e ma rito chunya, ok noweya mon'alal.
 
 
 

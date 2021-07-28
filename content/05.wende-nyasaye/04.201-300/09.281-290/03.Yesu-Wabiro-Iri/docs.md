@@ -32,7 +32,7 @@ To kit Yesu Kristo wamako tinde.
 
 4
 Dwond Muya Maler, wuoyo e chunywa;
-Onego wawinje ni mond` ogwedhwa.
+Onego wawinje ni mon'ogwedhwa.
 
 5
 Waheri, wageni, Nyarombo motho;

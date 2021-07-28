@@ -3,7 +3,7 @@ title: |
     085. Tiuri, Tiuru - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 085. Tiuri, Tiuru. Tiuru, tiuru, wan jotich mag Nyasaye; Waluuru yorno ma Ruoth ochikowa. Weche duto ma luetewa oseyudo, Watimgi gi teko duto te ma wan go.  Chorus: Gi kinda! (Gi kinda! Gi kinda!) Gi kinda! Kwalemo (kendo) kwarito (pile), Nyaka chieng`no ma Ruoth biro.  
+        Wende Nyasaye (Nyagendia) 085. Tiuri, Tiuru. Tiuru, tiuru, wan jotich mag Nyasaye; Waluuru yorno ma Ruoth ochikowa. Weche duto ma luetewa oseyudo, Watimgi gi teko duto te ma wan go.  Chorus: Gi kinda! (Gi kinda! Gi kinda!) Gi kinda! Kwalemo (kendo) kwarito (pile), Nyaka chien'o ma Ruoth biro.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Tiuri, Tiuru, Tiuru, tiuru, wan jotich mag Nyasaye; Waluuru yorno ma Ruoth ochikowa.. Gi kinda! (Gi kinda! Gi kinda!)
     author: Brian Onang'o
@@ -23,13 +23,13 @@ Watimgi gi teko duto te ma wan go.
 Chorus:
 Gi kinda! (Gi kinda! Gi kinda!)
 Gi kinda! Kwalemo (kendo) kwarito (pile),
-Nyaka chieng`no ma Ruoth biro.
+Nyaka chien'o ma Ruoth biro.
 
 2
 Tiuru, tiuru, kuchiwo chiemb ngima,
 Gi pi ngima ni jo ma riyo oloyo;
-Msalaba gi bendechwa mond` orieny ni ji,
-Kwayalonigi ng`wono mar Ruoth Nyasachwa.
+Msalaba gi bendechwa mon'orieny ni ji,
+Kwayalonigi n'ono mar Ruoth Nyasachwa.
 
 3
 Tiuru, tiuri, wan duto watiyo,
@@ -39,9 +39,9 @@ Kwagoyo erokamano ni gweth mare.
 
 4
 Tiuru, tiuri, kuom teko mar Ruodhwa;
-Eka chieng` giko wanayud osimb ngima.
-Jo maler ginirieny kaka chieng` godiechieng`,
-Waweruru kwapako ng`wono mar Ruodhwa.
+Eka chien'giko wanayud osimb ngima.
+Jo maler ginirieny kaka chien'godiechien'
+Waweruru kwapako n'ono mar Ruodhwa.
 
 
 ```

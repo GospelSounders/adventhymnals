@@ -3,9 +3,9 @@ title: |
     198. Yesu Ni Jakwadha - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 198. Yesu Ni Jakwadha. Yesu ni Jakwadhwa, to wan rombege; En kowuotho kodwa wanaluor ang`o? Mondo walu bang`e ka motelonwa; Oritowa pile, to oherwa.  
+        Wende Nyasaye (Nyagendia) 198. Yesu Ni Jakwadha. Yesu ni Jakwadhwa, to wan rombege; En kowuotho kodwa wanaluor an'? Mondo walu ban' ka motelonwa; Oritowa pile, to oherwa.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Yesu Ni Jakwadha, Yesu ni Jakwadhwa, to wan rombege; En kowuotho kodwa wanaluor ang`o?. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Yesu Ni Jakwadha, Yesu ni Jakwadhwa, to wan rombege; En kowuotho kodwa wanaluor an'?. 
     author: Brian Onang'o
 ---
 
@@ -16,27 +16,27 @@ metadata:
 ```txt
 1
 Yesu ni Jakwadhwa, to wan rombege;
-En kowuotho kodwa wanaluor ang`o?
-Mondo walu bang`e ka motelonwa;
+En kowuotho kodwa wanaluor an'?
+Mondo walu ban' ka motelonwa;
 Oritowa pile, to oherwa.
 
 2
-Yesu ni Jakwadha, wang`eyo dwonde;
+Yesu ni Jakwadha, wan'yo dwonde;
 En kowuoyo kodwa koro chunywa mor;
 Kata ka waketho, nowe kethruokwa;
 En kende Jakonywa, to wan nyithinde.
 
 3
 Yesu ni Jakwadhwa, rembe nochwernwa;
-Mond` oluokwa chutho e kethruok duto;
+Mon'oluokwa chutho e kethruok duto;
 Oketo ranyisi kuom nyithinde te;
 Mago joge duto man gi Much Nyasaye.
 
 4
-Yesu ni Jakwadha, bende Jageng`wa;
+Yesu ni Jakwadha, bende Jagen'a;
 E temruokwa duto wanalo Satan;
-Ka wagene pile nyaka chieng` watho,
-Chieng` ka Yesu  duogo eka wanachier.
+Ka wagene pile nyaka chien'watho,
+Chien'ka Yesu  duogo eka wanachier.
 
 
 
@@ -48,7 +48,7 @@ Chieng` ka Yesu  duogo eka wanachier.
 Title | Yesu Ni Jakwadha |
 Key |  |
 Titles | undefined |
-First Line | Yesu ni Jakwadhwa, to wan rombege; En kowuotho kodwa wanaluor ang`o? |
+First Line | Yesu ni Jakwadhwa, to wan rombege; En kowuotho kodwa wanaluor an'? |
 Author | 
 Year | 
 Composer| |

@@ -23,20 +23,20 @@ Ka wapako nyinge ka, Nobedi mana kodwa.
 2
 Kaka Ruodhwa yandi chon, ka nosetieko tichne,
 Nobiro e Sabato, Wabiro bende koro;
-Wan waparo ng`wonone, kak` omiyowa ngima;
-Wan waparo ng`wonone, kak` omiyowa ngima.
+Wan waparo n'onone, ka'omiyowa ngima;
+Wan waparo n'onone, ka'omiyowa ngima.
 
 3
 Kata koro wadiro, Kaka En nochikowa,
-Chieng`no wanadir kuno, Kama wanane Ruodhwa;
+Chien'o wanadir kuno, Kama wanane Ruodhwa;
 Eka wanabed gi kuwe, Bende kethruok wanawe;
 Eka wanabed gi kuwe, Bende kethruok wanawe.
 
 4
 Injili mari mondo Omak chuny jo maricho;
 Omed teko ni jonyawo, Okony jo machandore;
-Kamano wanayud gwethni Ndalo duto nyak` ibi;
-Kamano wanayud gwethni Ndalo duto nyak` ibi.
+Kamano wanayud gwethni Ndalo duto nya'ibi;
+Kamano wanayud gwethni Ndalo duto nya'ibi.
 
 
 

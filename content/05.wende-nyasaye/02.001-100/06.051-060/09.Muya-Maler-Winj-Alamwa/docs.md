@@ -3,9 +3,9 @@ title: |
     059. Muya Maler Winj Alamwa - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 059. Muya Maler Winj Alamwa. Bi kaka ler! Mond` ifwenynwa Kethwa, Kitwa maricho; Mond` itelnwa e yor ngima, En yor jo mabeyo.  
+        Wende Nyasaye (Nyagendia) 059. Muya Maler Winj Alamwa. Bi kaka ler! Mon'ifwenynwa Kethwa, Kitwa maricho; Mon'itelnwa e yor ngima, En yor jo mabeyo.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Muya Maler Winj Alamwa, Bi kaka ler! Mond` ifwenynwa Kethwa, Kitwa maricho;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Muya Maler Winj Alamwa, Bi kaka ler! Mon'ifwenynwa Kethwa, Kitwa maricho;. 
     author: Brian Onang'o
 ---
 
@@ -20,9 +20,9 @@ Gi tekoni duto ilor,
 Muya Maler, ibi.
 
 2
-Bi kaka ler! Mond` ifwenynwa Kethwa,
+Bi kaka ler! Mon'ifwenynwa Kethwa,
 Kitwa maricho;
-Mond` itelnwa e yor ngima,
+Mon'itelnwa e yor ngima,
 En yor jo mabeyo.
 
 3
@@ -34,7 +34,7 @@ Misango mangima.
 4
 Bi kaka koth, mi igwedhwa,
 Ka pod wan nyimi kae;
-Dak ipong`wa gi tekoni,
+Dak ipon'a gi tekoni,
 Kiloyo chunywa chuth.
 
 5
@@ -53,7 +53,7 @@ Olandre piny duto.
 Title | Muya Maler Winj Alamwa |
 Key |  |
 Titles | undefined |
-First Line | Bi kaka ler! Mond` ifwenynwa Kethwa, Kitwa maricho; |
+First Line | Bi kaka ler! Mon'ifwenynwa Kethwa, Kitwa maricho; |
 Author | 
 Year | 
 Composer| |

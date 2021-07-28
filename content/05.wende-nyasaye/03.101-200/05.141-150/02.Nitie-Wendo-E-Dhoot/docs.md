@@ -22,15 +22,15 @@ Ruakeuru, Ruoth Maler, Yesu Kristo Wuod Nyasaye, dak yawne.
 2
 Koro yawne, Ruodh chunyi; Dak yawne, to kideko nokadhi,
 Dak yawne; Ruake nikech En Osiep, kendo enorit chunyi,
-Enoriti nyaka chieng`, Dak yawne.
+Enoriti nyaka chien' Dak yawne.
 
 3
 Winji dwonde kosayo; Dak yawne; En ma mondo iyiere,
-Dak yawne; Ochungo e dhoot oko, Orito mond` iyawne,
+Dak yawne; Ochungo e dhoot oko, Orito mon'iyawne,
 Enomedni mor gi kuwe; Dak yawne.
 
 4
-Ruakuru wendo polo, dak yawne; Enotimni mor maduong`,
+Ruakuru wendo polo, dak yawne; Enotimni mor maduon'
 Dak yawne; Enowenu richou, kendo twech maru nogony,
 Enoteru ka maler, dak yawne.
 

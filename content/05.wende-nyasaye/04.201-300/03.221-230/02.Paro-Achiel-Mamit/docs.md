@@ -3,9 +3,9 @@ title: |
     222. Paro Achiel Mamit - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 222. Paro Achiel Mamit. Paro achiel mamit, Osiko e chunya; Ndalo sudo machiegini, Ma nadonj e polo.  Chorus: Achiegini donjo thurwa; Koro achiegni donjo, Ndalo odong` matin.  
+        Wende Nyasaye (Nyagendia) 222. Paro Achiel Mamit. Paro achiel mamit, Osiko e chunya; Ndalo sudo machiegini, Ma nadonj e polo.  Chorus: Achiegini donjo thurwa; Koro achiegni donjo, Ndalo odon'matin.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Paro Achiel Mamit, Paro achiel mamit, Osiko e chunya; Ndalo sudo machiegini, Ma nadonj e polo.. Achiegini donjo thurwa; Koro achiegni donjo, Ndalo odong` matin.
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Paro Achiel Mamit, Paro achiel mamit, Osiko e chunya; Ndalo sudo machiegini, Ma nadonj e polo.. Achiegini donjo thurwa; Koro achiegni donjo, Ndalo odon'matin.
     author: Brian Onang'o
 ---
 
@@ -19,11 +19,11 @@ Paro achiel mamit, Osiko e chunya;
 Ndalo sudo machiegini, Ma nadonj e polo.
 
 Chorus:
-Achiegini donjo thurwa; Koro achiegni donjo, Ndalo odong` matin.
+Achiegini donjo thurwa; Koro achiegni donjo, Ndalo odon'matin.
 
 2
-E dala mar Wuora, Nitie udi mang`eny;
-Kom-duong` Nyasaye ni kanyono, En kar bet Yesu Ruoth.
+E dala mar Wuora, Nitie udi man'ny;
+Kom-duon'Nyasaye ni kanyono, En kar bet Yesu Ruoth.
 
 3
 Ka tichna orumo, Masira gi kuyo;
@@ -38,7 +38,7 @@ Nadonj e dala mar Wuora, Nosidhna osimbo.
 -------------|------------|
 Title | Paro Achiel Mamit |
 Key |  |
-Titles | Achiegini donjo thurwa; Koro achiegni donjo, Ndalo odong` matin. |
+Titles | Achiegini donjo thurwa; Koro achiegni donjo, Ndalo odon'matin. |
 First Line | Paro achiel mamit, Osiko e chunya; Ndalo sudo machiegini, Ma nadonj e polo. |
 Author | 
 Year | 

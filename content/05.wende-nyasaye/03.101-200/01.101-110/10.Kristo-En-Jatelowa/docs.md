@@ -3,7 +3,7 @@ title: |
     110. Kristo En Jatelowa - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 110. Kristo En Jatelowa. Kristo En jatelowa e lwenjewa,  Ok waluoro dhiyo ka mochikowa; Kata ok wang`eyo gi man e nyimwa,        Wanaluwe yo duto.  	Chorus: 	Wadhiuru Ruoth ochikowa;  	Wadhiuru kedo gi Satan; 	Wadhiuru nyaka piny manyien,  	Wanalo chutho kuom kristo Ruoth.  
+        Wende Nyasaye (Nyagendia) 110. Kristo En Jatelowa. Kristo En jatelowa e lwenjewa,  Ok waluoro dhiyo ka mochikowa; Kata ok wan'yo gi man e nyimwa,        Wanaluwe yo duto.  	Chorus: 	Wadhiuru Ruoth ochikowa;  	Wadhiuru kedo gi Satan; 	Wadhiuru nyaka piny manyien,  	Wanalo chutho kuom kristo Ruoth.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Kristo En Jatelowa, Kristo En jatelowa e lwenjewa,  Ok waluoro dhiyo ka mochikowa;. Wadhiuru Ruoth ochikowa; 
     author: Brian Onang'o
@@ -17,7 +17,7 @@ metadata:
 1
 Kristo En jatelowa e lwenjewa, 
 Ok waluoro dhiyo ka mochikowa;
-Kata ok wang`eyo gi man e nyimwa, 
+Kata ok wan'yo gi man e nyimwa, 
       Wanaluwe yo duto.
 
 	Chorus:
@@ -27,13 +27,13 @@ Kata ok wang`eyo gi man e nyimwa,
 	Wanalo chutho kuom kristo Ruoth.
 
 2
-Mond` wayal injilikuonde duto te;
+Mon'wayal injilikuonde duto te;
 Eka wanakethi teko mar Satan;
 Kristo ma jatendwa oseloyo piny,
       Wanaluwe yo duto.
 
 3
-Kata lweny otek, wang`eyo wanalo; 
+Kata lweny otek, wan'yo wanalo; 
 Eka wanamor kaachiel gi jomaler;
 Ka wariwo duondwa e wer mar locho, 
      Kwaluwe nyaka giko.

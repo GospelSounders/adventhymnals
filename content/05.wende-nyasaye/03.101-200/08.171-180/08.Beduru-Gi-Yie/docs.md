@@ -31,7 +31,7 @@ Moneno ngas moa polo, Jomalaika ne gintie.
 
 4
 Beduru giyie kaka Yosef, kaka nobedo gi Nyasaye; 
-Noloyo tem ma nothung`e, E od Ruoth Farao.
+Noloyo tem ma nothun', E od Ruoth Farao.
 
 5
 Beduru giiyie kaka Elija, kaka nobedo gi Nyasaye; 
@@ -39,11 +39,11 @@ Notere e polo kongima, e gari moliel mach.
 
 6
 Beduru gi yie kaka Daniel, ma nene obole e bur sibuoche;
-Gokinyi noyude kongima, Dario ne owuoro ngang`.
+Gokinyi noyude kongima, Dario ne owuoro ngan'
 
 7
 Beduru gi yie kaka Esta, kaka nokonyo Joyahudi; 
-Nokonyo chunye mang`eny, Nikech wach mar Nysaye.
+Nokonyo chunye man'ny, Nikech wach mar Nysaye.
 
 8
 Beduru gi chuny mabeyo, kaka chuny Jonabi; 

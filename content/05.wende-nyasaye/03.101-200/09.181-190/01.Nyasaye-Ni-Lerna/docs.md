@@ -3,9 +3,9 @@ title: |
     181. Nyasaye Ni Lerna - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 181. Nyasaye Ni Lerna. Nyasaye ni lerna, koro ok aluor! E mudho , e chieng`, to En koda pile; Owara e kethruok, ohoyo chunya; Amor gi Yesu moherowa kama.  Chorus: Nyasaye ni lerna, morna gi wenda; Otelona pile e piny ka marach; Nyasaye ni lerna, morna gi wenda; Otelona pile e piny ka marach.  
+        Wende Nyasaye (Nyagendia) 181. Nyasaye Ni Lerna. Nyasaye ni lerna, koro ok aluor! E mudho , e chien' to En koda pile; Owara e kethruok, ohoyo chunya; Amor gi Yesu moherowa kama.  Chorus: Nyasaye ni lerna, morna gi wenda; Otelona pile e piny ka marach; Nyasaye ni lerna, morna gi wenda; Otelona pile e piny ka marach.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nyasaye Ni Lerna, Nyasaye ni lerna, koro ok aluor! E mudho , e chieng`, to En koda pile;. Nyasaye ni lerna, morna gi wenda;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nyasaye Ni Lerna, Nyasaye ni lerna, koro ok aluor! E mudho , e chien' to En koda pile;. Nyasaye ni lerna, morna gi wenda;
     author: Brian Onang'o
 ---
 
@@ -16,7 +16,7 @@ metadata:
 ```txt
 1
 Nyasaye ni lerna, koro ok aluor!
-E mudho , e chieng`, to En koda pile;
+E mudho , e chien' to En koda pile;
 Owara e kethruok, ohoyo chunya;
 Amor gi Yesu moherowa kama.
 
@@ -34,8 +34,8 @@ Ka Yesu obedo koda.
 
 3
 Nyasaye ni lerna, kendo tekona;
-Ang`eyo e tekono anyalo lo;
-Oumo yomna gi duong` mare;
+An'yo e tekono anyalo lo;
+Oumo yomna gi duon'mare;
 Kawuotho gi Yesu koro ok aluor.
 
 4
@@ -54,7 +54,7 @@ Gi Malaika anapake pile.
 Title | Nyasaye Ni Lerna |
 Key |  |
 Titles | Nyasaye ni lerna, morna gi wenda; |
-First Line | Nyasaye ni lerna, koro ok aluor! E mudho , e chieng`, to En koda pile; |
+First Line | Nyasaye ni lerna, koro ok aluor! E mudho , e chien' to En koda pile; |
 Author | 
 Year | 
 Composer| |

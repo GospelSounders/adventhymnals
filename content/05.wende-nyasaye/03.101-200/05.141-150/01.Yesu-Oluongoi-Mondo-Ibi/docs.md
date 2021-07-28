@@ -24,7 +24,7 @@ Yesu oluongi (Kawuono ibi), Oluongi kawuono ibi.
 
 2
 Yesu oluongo jo mool giyuwe, Oluongou kawuononi;
-Kelne ting` duto machandi pile, En ok noriembi kodgi.
+Kelne tin'duto machandi pile, En ok noriembi kodgi.
 
 3
 Yesu oriti, bi ire tinde, Oritoi kawuononi;

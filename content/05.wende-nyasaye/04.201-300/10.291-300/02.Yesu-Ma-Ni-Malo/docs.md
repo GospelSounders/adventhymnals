@@ -19,7 +19,7 @@ Yesu ma ni malo winj alamwa ka,
 Ka wakulore nyimi, Ka wapakoi.
 
 2
-Kata In Ruodh polo, Ng`a maler chutho,
+Kata In Ruodh polo, N' maler chutho,
 To imor kiwinjo Wende nyithindi.
 
 3
@@ -27,11 +27,11 @@ Podi wan nyithindo, Waonge teko;
 Yesu, wuothi kodwa, Kwaluwo yori.
 
 4
-Igeng`wa e temruok, Iritwa pile;
+Igen'a e temruok, Iritwa pile;
 Ket hera e chunywa, Golnwa kethrukwa.
 
 5
-Chieng` Yesu koluongowa Wanayie gi mor;
+Chien'Yesu koluongowa Wanayie gi mor;
 "Ee, Ruodhwa wabiro, Wanadhi kodi."
 
 

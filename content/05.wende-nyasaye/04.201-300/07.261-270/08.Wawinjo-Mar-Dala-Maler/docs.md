@@ -3,7 +3,7 @@ title: |
     268. Wawinjo Mar Dala Maler - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 268. Wawinjo Mar Dala Maler. Wa winjo mar dala Nyasaye, E piny maber kendo manyien; Wawuoro kaka enobed, To wagombo bedo kanyo! Nitie wang`yo mar dhahabu, Kod udi madongo kucha; Kar bet ma Yesu oloso Ni jogo duto magene.  
+        Wende Nyasaye (Nyagendia) 268. Wawinjo Mar Dala Maler. Wa winjo mar dala Nyasaye, E piny maber kendo manyien; Wawuoro kaka enobed, To wagombo bedo kanyo! Nitie wan'o mar dhahabu, Kod udi madongo kucha; Kar bet ma Yesu oloso Ni jogo duto magene.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Wawinjo Mar Dala Maler, Wa winjo mar dala Nyasaye, E piny maber kendo manyien; Wawuoro kaka enobed, To wagombo bedo kanyo!. 
     author: Brian Onang'o
@@ -17,7 +17,7 @@ metadata:
 1
 Wa winjo mar dala Nyasaye, E piny maber kendo manyien;
 Wawuoro kaka enobed, To wagombo bedo kanyo!
-Nitie wang`yo mar dhahabu, Kod udi madongo kucha;
+Nitie wan'o mar dhahabu, Kod udi madongo kucha;
 Kar bet ma Yesu oloso Ni jogo duto magene.
 
 2
@@ -33,10 +33,10 @@ Moikore ka miaha, Kolosore chuth ni Ruodhe;
 Wanamodhi pi mar ngima, Ma Ruoth ose loso kanyo.
 
 4
-Mago ma wang` pok oneno, yit bende to pok owinjo,
+Mago ma wan'pok oneno, yit bende to pok owinjo,
 Ma chuny dhano pok oparo, Nyasaye oloso ni joge.
-Watimuru kinda koro, nyaka chieng` ma Yesu nobi;
-Wadonji e pinyno maber, Wadag kod Yesu nyaka chieng`.
+Watimuru kinda koro, nyaka chien'ma Yesu nobi;
+Wadonji e pinyno maber, Wadag kod Yesu nyaka chien'
 
 
 

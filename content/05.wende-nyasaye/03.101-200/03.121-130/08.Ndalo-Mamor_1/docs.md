@@ -29,7 +29,7 @@ Chunywa opako tekone.
 3
 Pakuru Yesu ma notho,
 Kogolo Kethruok mag jopiny
-Pakuru Wuod  Nyasaye mang`won,
+Pakuru Wuod  Nyasaye man'on,
 Rembe  Nochwer ni kethruokwa.
 
 4

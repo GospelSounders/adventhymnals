@@ -3,7 +3,7 @@ title: |
     091. Nitie Luong Mobiro E Wi Apaka - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 091. Nitie Luong Mobiro E Wi Apaka. Nitie luong mabiro ewi apaka, Kow ler kow ler Nitie chuny mi konyo gi chuny miwaro Kow ler kow ler.  Chorus: Kow ler --- Injili mogwedhi Mondo orieny --- kuonde duto, Kow ler --- mondo lerni orieny Omeny piny --- manyaka chieng`.  
+        Wende Nyasaye (Nyagendia) 091. Nitie Luong Mobiro E Wi Apaka. Nitie luong mabiro ewi apaka, Kow ler kow ler Nitie chuny mi konyo gi chuny miwaro Kow ler kow ler.  Chorus: Kow ler --- Injili mogwedhi Mondo orieny --- kuonde duto, Kow ler --- mondo lerni orieny Omeny piny --- manyaka chien'  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nitie Luong Mobiro E Wi Apaka, Nitie luong mabiro ewi apaka, Kow ler kow ler. Kow ler --- Injili mogwedhi Mondo orieny --- kuonde duto,
     author: Brian Onang'o
@@ -22,7 +22,7 @@ Kow ler kow ler.
 
 Chorus:
 Kow ler --- Injili mogwedhi Mondo orieny --- kuonde duto,
-Kow ler --- mondo lerni orieny Omeny piny --- manyaka chieng`.
+Kow ler --- mondo lerni orieny Omeny piny --- manyaka chien'
 
 2
 Wasewinjo luong mar jo Makedoni
@@ -33,7 +33,7 @@ Kow ler Kow ler.
 3
 Walem ni gweth oumwa kwonde duto
 Kow ler kow ler
-Mondo much Kristo `landre kuonde duto,
+Mondo much Kristo'andre kuonde duto,
 Kow ler kow ler.
 
 4

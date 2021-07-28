@@ -3,9 +3,9 @@ title: |
     232. In Wang Yorwa - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 232. In Wang Yorwa. In wang`yorwa; wabironi Kwaringo keth gi tho; Kendo ng`a modwaro wuoro Nyak` odware kuomi.  
+        Wende Nyasaye (Nyagendia) 232. In Wang Yorwa. In wan'orwa; wabironi Kwaringo keth gi tho; Kendo n' modwaro wuoro Nya'odware kuomi.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, In Wang Yorwa, In wang`yorwa; wabironi Kwaringo keth gi tho; Kendo ng`a modwaro wuoro Nyak` odware kuomi.. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, In Wang Yorwa, In wan'orwa; wabironi Kwaringo keth gi tho; Kendo n' modwaro wuoro Nya'odware kuomi.. 
     author: Brian Onang'o
 ---
 
@@ -15,8 +15,8 @@ metadata:
 
 ```txt
 1
-In wang`yorwa; wabironi Kwaringo keth gi tho;
-Kendo ng`a modwaro wuoro Nyak` odware kuomi.
+In wan'orwa; wabironi Kwaringo keth gi tho;
+Kendo n' modwaro wuoro Nya'odware kuomi.
 
 2
 In Adiera; Wachni kende Nyalo miwa rieko;
@@ -27,7 +27,7 @@ In ngimawa; liel ma notur Ohulo tekoni;
 Tho kata liel ok anonyal Jogo magenoi.
 
 4
-In yo, Adiera, gi Ngima; Puonjwa wang`e yorno;
+In yo, Adiera, gi Ngima; Puonjwa wan' yorno;
 Konywa warit adierano, Miwa ngimani, Ruoth.
 
 
@@ -40,7 +40,7 @@ Konywa warit adierano, Miwa ngimani, Ruoth.
 Title | In Wang Yorwa |
 Key |  |
 Titles | undefined |
-First Line | In wang`yorwa; wabironi Kwaringo keth gi tho; Kendo ng`a modwaro wuoro Nyak` odware kuomi. |
+First Line | In wan'orwa; wabironi Kwaringo keth gi tho; Kendo n' modwaro wuoro Nya'odware kuomi. |
 Author | 
 Year | 
 Composer| |

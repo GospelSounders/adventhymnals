@@ -3,7 +3,7 @@ title: |
     327. Piny Duto Dwaro Yesu - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 327. Piny Duto Dwaro Yesu. Piny duto dwaro Yesu, gidwaro nene, Piny duto dwaro Yesu, gidwaro nene; Nomi ji mor maduong` ngang, Nogol richo gi kuyo; Piny duto dwaro Yesu, gidwaro nene.    
+        Wende Nyasaye (Nyagendia) 327. Piny Duto Dwaro Yesu. Piny duto dwaro Yesu, gidwaro nene, Piny duto dwaro Yesu, gidwaro nene; Nomi ji mor maduon'ngang, Nogol richo gi kuyo; Piny duto dwaro Yesu, gidwaro nene.    
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Piny Duto Dwaro Yesu, Piny duto dwaro Yesu, gidwaro nene, Piny duto dwaro Yesu, gidwaro nene;. 
     author: Brian Onang'o
@@ -16,7 +16,7 @@ metadata:
 ```txt
 Piny duto dwaro Yesu, gidwaro nene,
 Piny duto dwaro Yesu, gidwaro nene;
-Nomi ji mor maduong` ngang,
+Nomi ji mor maduon'ngang,
 Nogol richo gi kuyo;
 Piny duto dwaro Yesu, gidwaro nene.
 

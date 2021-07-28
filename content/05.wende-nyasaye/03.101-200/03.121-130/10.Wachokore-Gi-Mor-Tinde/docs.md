@@ -23,12 +23,12 @@ Ot kama jogi lamoi Onego bed maler
 Chuny ji mosayi odi ni Ilosogi maber.
 
 3
-Muya Maler, Jakony mang`won, Dak ie kanisa ni;
+Muya Maler, Jakony man'on, Dak ie kanisa ni;
 Teche liel saa duto Te Komenyo e piny.
 
 4
-Nyasaye man malo, miwa mor Nyaka chunywa oyieng`,
-A waneni Wang` gi wang`, Kwamor ma nyaka chieng`.
+Nyasaye man malo, miwa mor Nyaka chunywa oyien'
+A waneni Wan'gi wan' Kwamor ma nyaka chien'
 
 
 

@@ -3,9 +3,9 @@ title: |
     257. Ka Boche Polo Oyawo E Wi Gode - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 257. Ka Boche Polo Oyawo E Wi Gode. Ka watimo marach ka wakia ni wan dhano matho, Ka waweyo chik mag ng`wono kwatemo bedo maber, Ng`wonone mar kuwe noumwa, Richowa mag ndalogi, Ka tich matek oserumo, Ka rondo oserumo.  
+        Wende Nyasaye (Nyagendia) 257. Ka Boche Polo Oyawo E Wi Gode. Ka watimo marach ka wakia ni wan dhano matho, Ka waweyo chik mag n'ono kwatemo bedo maber, N'onone mar kuwe noumwa, Richowa mag ndalogi, Ka tich matek oserumo, Ka rondo oserumo.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ka Boche Polo Oyawo E Wi Gode, Ka watimo marach ka wakia ni wan dhano matho, Ka waweyo chik mag ng`wono kwatemo bedo maber,. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ka Boche Polo Oyawo E Wi Gode, Ka watimo marach ka wakia ni wan dhano matho, Ka waweyo chik mag n'ono kwatemo bedo maber,. 
     author: Brian Onang'o
 ---
 
@@ -15,13 +15,13 @@ metadata:
 
 ```txt
 Ka boche polo oyawo e wi gode mabeyo,
-Kendo ka chieng` marieny maber osemenyo wi gode.
+Kendo ka chien'marieny maber osemenyo wi gode.
 Wanyalo somo herane, e lihudu me polo,
-Eka wanang`ere maber, ka rondo oserumo.
+Eka wanan're maber, ka rondo oserumo.
 
 Chorus:
-Wanang`e..........re malong`o,
-(Wanang`e.....re malong`o);
+Wanan'..........re malon',
+(Wanan'.....re malon');
 Ok wana...........pogre kendo,
 (Ok wana..........pogre kendo);
 E saa ma..........piny yaworenwa,
@@ -35,14 +35,14 @@ Ka rondo .........oserumo,
 
 2
 Ka watimo marach ka wakia ni wan dhano matho,
-Ka waweyo chik mag ng`wono kwatemo bedo maber,
-Ng`wonone mar kuwe noumwa, Richowa mag ndalogi,
+Ka waweyo chik mag n'ono kwatemo bedo maber,
+N'onone mar kuwe noumwa, Richowa mag ndalogi,
 Ka tich matek oserumo, Ka rondo oserumo.
 
 3
-Ka rondo oseyawore wanang`e osiepewa,
-Kaka wuonwa bende ong`eyo nyithinde duto te;
-Ka ndalo maduong`no biro, koa malo yor ugwe,
+Ka rondo oseyawore wanan' osiepewa,
+Kaka wuonwa bende on'yo nyithinde duto te;
+Ka ndalo maduon'o biro, koa malo yor ugwe,
 E chunywa duto warito, Nyaka rondo rum chutho.
 
 
@@ -54,7 +54,7 @@ E chunywa duto warito, Nyaka rondo rum chutho.
 Title | Ka Boche Polo Oyawo E Wi Gode |
 Key |  |
 Titles | undefined |
-First Line | Ka watimo marach ka wakia ni wan dhano matho, Ka waweyo chik mag ng`wono kwatemo bedo maber, |
+First Line | Ka watimo marach ka wakia ni wan dhano matho, Ka waweyo chik mag n'ono kwatemo bedo maber, |
 Author | 
 Year | 
 Composer| |

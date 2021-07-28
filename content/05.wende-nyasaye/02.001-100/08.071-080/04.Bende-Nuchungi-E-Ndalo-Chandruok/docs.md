@@ -15,13 +15,13 @@ metadata:
 
 ```txt
 Bende nichungi e ndalo chandruok
-E ndalo maduong` ka chandruok biro
+E ndalo maduon'ka chandruok biro
 Ka yembe kudho ka apaka lich
 Bende nichungi e ndalono?
 
 Chorus:
 Wan gi lwanda morito chunywa
-Mochung` matek ka yembe kudho,
+Mochun'matek ka yembe kudho,
 Motwe e loch ma ok nyal yiengni
 Motegno chutho e  hera Jawar.
 
@@ -39,15 +39,15 @@ Onge apaka ma diyuayi.
 
 4
 Ok onyal pudhre kata e kar tho
-Ka pige mang`ich bwogo ringrewa
-Kat` apaka ng`eny pod nochung` matek
+Ka pige man'ch bwogo ringrewa
+Ka'apaka n'ny pod nochun'matek
 Ka wageno kuom Ruoth Jawarwa.
 
 5
 Ka wanane ler ka piny yawore
 Rangeye mag lulu ka rieny maler
-Wanachung` matek kwang`iyo polo
-Ka chandruok kadho ma nyaka chieng`.
+Wanachun'matek kwan'yo polo
+Ka chandruok kadho ma nyaka chien'
 
 
 ```

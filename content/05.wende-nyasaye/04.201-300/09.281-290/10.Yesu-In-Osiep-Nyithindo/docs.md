@@ -19,16 +19,16 @@ Yesu, In Osiep nyithindo, Bedi Osiepna;
 Mak lueta, ibedi koda Kawuotho.
 
 2
-Puonja mond` atim makare, To ayom chutho;
-Ne In nyathi, e momiyo Ing`eyo.
+Puonja mon'atim makare, To ayom chutho;
+Ne In nyathi, e momiyo In'yo.
 
 3
-Taya pile, Yesu Kristo, To ing`eyo yo;
+Taya pile, Yesu Kristo, To in'yo yo;
 An akia, an afuwo; Naruenyo.
 
 4
 Bedi koda, kik iweya, In e Osiepna;
-Anadwari pile pile Nyaka chieng`.
+Anadwari pile pile Nyaka chien'
 
 
 

@@ -3,9 +3,9 @@ title: |
     105. Awuotho Kachiko Polo - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 105. Awuotho Kachiko Polo. Awuotho kachiko polo, pile amedo chorora; Akwayo Ruoth ndalo duto, "Ruoth telna e yo mar polo".  Chorus: Ting`a malo kendo chunga, kuom Yie, e dala me polo; Kama malo moloyo  piny; Ruoth, taya e yo mar polo.  
+        Wende Nyasaye (Nyagendia) 105. Awuotho Kachiko Polo. Awuotho kachiko polo, pile amedo chorora; Akwayo Ruoth ndalo duto, "Ruoth telna e yo mar polo".  Chorus: Tin' malo kendo chunga, kuom Yie, e dala me polo; Kama malo moloyo  piny; Ruoth, taya e yo mar polo.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Awuotho Kachiko Polo, Awuotho kachiko polo, pile amedo chorora; Akwayo Ruoth ndalo duto, "Ruoth telna e yo mar polo".. Ting`a malo kendo chunga, kuom Yie, e dala me polo;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Awuotho Kachiko Polo, Awuotho kachiko polo, pile amedo chorora; Akwayo Ruoth ndalo duto, "Ruoth telna e yo mar polo".. Tin' malo kendo chunga, kuom Yie, e dala me polo;
     author: Brian Onang'o
 ---
 
@@ -19,7 +19,7 @@ Awuotho kachiko polo, pile amedo chorora;
 Akwayo Ruoth ndalo duto, "Ruoth telna e yo mar polo".
 
 Chorus:
-Ting`a malo kendo chunga, kuom Yie, e dala me polo;
+Tin' malo kendo chunga, kuom Yie, e dala me polo;
 Kama malo moloyo  piny; Ruoth, taya e yo mar polo.
 
 2
@@ -42,7 +42,7 @@ Analem nyaka achopie, "Ruoth telna e yo mar polo."
 -------------|------------|
 Title | Awuotho Kachiko Polo |
 Key |  |
-Titles | Ting`a malo kendo chunga, kuom Yie, e dala me polo; |
+Titles | Tin' malo kendo chunga, kuom Yie, e dala me polo; |
 First Line | Awuotho kachiko polo, pile amedo chorora; Akwayo Ruoth ndalo duto, "Ruoth telna e yo mar polo". |
 Author | 
 Year | 

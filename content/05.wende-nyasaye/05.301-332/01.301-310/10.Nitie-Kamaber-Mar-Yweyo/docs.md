@@ -24,7 +24,7 @@ Iwinjwa wan mwariti, machiegni gi Nyasaye.
 
 2
 Nitie kanyo maber mar hoch, machiegni gi Nyasaye;
-Kama warom` e gi Jawar, machiegni gi Nyasaye.
+Kama waro'e gi Jawar, machiegni gi Nyasaye.
 
 3
 Kanyo ji duto ni thuolo, machiegni gi Nyasaye,

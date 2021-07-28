@@ -28,7 +28,7 @@ Kendo iniwuor gi ma Ruoth notimo.
 
 2
 Koso in Jakristo man gi chuny mapek,
-Ting`o msalabani bedo matek?
+Tin' msalabani bedo matek?
 Par Yesu Jawarni, Chuny mapek noa,
 Iniyud mor koro, kaa e piny ka.
 
@@ -39,7 +39,7 @@ Par Yesu Jawarni, Ruoth polo malo.
 Gen moloyo Kristo gi pok masiko.
 
 4
-Kendo e lwenje mond` ibed ng`at mager,
+Kendo e lwenje mon'ibed n't mager,
 Wach mar miriambo lo gi wach maber;
 Yesu ma Jawarni gi malaika,
 Ginimor moloyo e polo kucha.

@@ -3,9 +3,9 @@ title: |
     056. Ruoth Awinjo Wach Mar Gwethni - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 056. Ruoth Awinjo Wach Mar Gwethni. Kik ikadha, yaye Nyasacha, Richo oseloyoa; Kik iweya, yaye Jakonya, To inyisa ng`wononi.  
+        Wende Nyasaye (Nyagendia) 056. Ruoth Awinjo Wach Mar Gwethni. Kik ikadha, yaye Nyasacha, Richo oseloyoa; Kik iweya, yaye Jakonya, To inyisa n'ononi.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ruoth Awinjo Wach Mar Gwethni, Kik ikadha, yaye Nyasacha, Richo oseloyoa; Kik iweya, yaye Jakonya, To inyisa ng`wononi.. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ruoth Awinjo Wach Mar Gwethni, Kik ikadha, yaye Nyasacha, Richo oseloyoa; Kik iweya, yaye Jakonya, To inyisa n'ononi.. 
     author: Brian Onang'o
 ---
 
@@ -15,7 +15,7 @@ metadata:
 
 ```txt
 Ruoth, awinjo wach mar gwethni Ma iolo ni jogi;
-Gweth mang`won mahoyo chuny ji; An bende dak ayudi?
+Gweth man'on mahoyo chuny ji; An bende dak ayudi?
 
 Chorus:
 An bende, an bende;
@@ -23,10 +23,10 @@ Ol gwethni e chunya, Ruoth.
 
 2
 Kik ikadha, yaye Nyasacha, Richo oseloyoa;
-Kik iweya, yaye Jakonya, To inyisa ng`wononi.
+Kik iweya, yaye Jakonya, To inyisa n'ononi.
 
 3
-Kik ikadha, In Wuon ng`wono, Chik tienda e wang`yori;
+Kik ikadha, In Wuon n'ono, Chik tienda e wan'ori;
 An agombo luwi pile, Taya pile e piny ka.
 
 4
@@ -42,7 +42,7 @@ Muchi mondo dak e chunya, Kendo puonja wecheni.
 Title | Ruoth Awinjo Wach Mar Gwethni |
 Key |  |
 Titles | undefined |
-First Line | Kik ikadha, yaye Nyasacha, Richo oseloyoa; Kik iweya, yaye Jakonya, To inyisa ng`wononi. |
+First Line | Kik ikadha, yaye Nyasacha, Richo oseloyoa; Kik iweya, yaye Jakonya, To inyisa n'ononi. |
 Author | 
 Year | 
 Composer| |

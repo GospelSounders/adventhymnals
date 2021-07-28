@@ -3,9 +3,9 @@ title: |
     185. Adwari Saa Duto - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 185. Adwari Saa Duto. Adwari saa duto, Yesu mang`won; Adwaro tekoni, to an ayom.  Chorus: Adwari yaye adwari, Saa duto adwari; Yesu, igwedha koro, abironi.  
+        Wende Nyasaye (Nyagendia) 185. Adwari Saa Duto. Adwari saa duto, Yesu man'on; Adwaro tekoni, to an ayom.  Chorus: Adwari yaye adwari, Saa duto adwari; Yesu, igwedha koro, abironi.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Adwari Saa Duto, Adwari saa duto, Yesu mang`won; Adwaro tekoni, to an ayom.. Adwari yaye adwari, Saa duto adwari;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Adwari Saa Duto, Adwari saa duto, Yesu man'on; Adwaro tekoni, to an ayom.. Adwari yaye adwari, Saa duto adwari;
     author: Brian Onang'o
 ---
 
@@ -15,7 +15,7 @@ metadata:
 
 ```txt
 1
-Adwari saa duto, Yesu mang`won;
+Adwari saa duto, Yesu man'on;
 Adwaro tekoni, to an ayom.
 
 Chorus:
@@ -28,15 +28,15 @@ Satan ok oloya, ka an abuti.
 
 3
 Adwari saa duto, e mor gi tuo;
-To an kaonge in, anyal ang`o?
+To an kaonge in, anyal an'?
 
 4
 Adwari saa duto, puonja wachni;
-Tim kak` idwaro In, an nyathini.
+Tim ka'idwaro In, an nyathini.
 
 5
 Adwari saa duto, Yesu Ruodha;
-An ng`ati chutho, an, ndalo duto.
+An n'ti chutho, an, ndalo duto.
 
 
 
@@ -47,7 +47,7 @@ An ng`ati chutho, an, ndalo duto.
 Title | Adwari Saa Duto |
 Key |  |
 Titles | Adwari yaye adwari, Saa duto adwari; |
-First Line | Adwari saa duto, Yesu mang`won; Adwaro tekoni, to an ayom. |
+First Line | Adwari saa duto, Yesu man'on; Adwaro tekoni, to an ayom. |
 Author | 
 Year | 
 Composer| |

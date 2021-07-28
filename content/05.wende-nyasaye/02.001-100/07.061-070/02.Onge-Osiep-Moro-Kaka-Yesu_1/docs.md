@@ -3,9 +3,9 @@ title: |
     063. Onge Osiep Moro Kaka Yesu_1 - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 063. Onge Osiep Moro Kaka Yesu_1. Abolo kuyona duto Kak` iwito law moti. Iseruaka gi mor mari, Opong`o dhoga gi pak; Ageno piny Ruoth mar polo, Ma herani losona; En e gi maparo pile, Chunya mor kuomi, Ruodha.  
+        Wende Nyasaye (Nyagendia) 063. Onge Osiep Moro Kaka Yesu_1. Abolo kuyona duto Ka'iwito law moti. Iseruaka gi mor mari, Opon' dhoga gi pak; Ageno piny Ruoth mar polo, Ma herani losona; En e gi maparo pile, Chunya mor kuomi, Ruodha.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Onge Osiep Moro Kaka Yesu_1, Abolo kuyona duto Kak` iwito law moti. Iseruaka gi mor mari, Opong`o dhoga gi pak;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Onge Osiep Moro Kaka Yesu_1, Abolo kuyona duto Ka'iwito law moti. Iseruaka gi mor mari, Opon' dhoga gi pak;. 
     author: Brian Onang'o
 ---
 
@@ -14,9 +14,9 @@ metadata:
 ####  Wende Nyasaye (Nyagendia),
 
 ```txt
-Ler wang` chieng` orieny e gode, Orieny bende e wi nam;
+Ler wan'chien'orieny e gode, Orieny bende e wi nam;
 Lerne neno kwonde Lege Ka ma jamni kwayoe.
-To ler moloyo ler wang` chieng`
+To ler moloyo ler wan'chieng`
 Nitie koro e chunya, Nikech in Kanyo, Jawarna;
 Ler nitie ka ma Intie.
 
@@ -27,15 +27,15 @@ Ka Yesu odak e chunya,
 Oriembo kuyo duto.
 
 2
-Abolo kuyona duto Kak` iwito law moti.
-Iseruaka gi mor mari, Opong`o dhoga gi pak;
+Abolo kuyona duto Ka'iwito law moti.
+Iseruaka gi mor mari, Opon' dhoga gi pak;
 Ageno piny Ruoth mar polo, Ma herani losona;
 En e gi maparo pile, Chunya mor kuomi, Ruodha.
 
 3
-In Jawarna, iseng`iewoa, Ngimana duto mari;
-Mond` anyis pakni gi duong`ni Kuom kit wuodha e piny ka.
-To ageno piny Ruodh polo, Ma herani nong`iewona.
+In Jawarna, isen'ewoa, Ngimana duto mari;
+Mon'anyis pakni gi duon'i Kuom kit wuodha e piny ka.
+To ageno piny Ruodh polo, Ma herani non'ewona.
 En e gi maparo pile Chunya mor kuomi, Ruodha.
 
 
@@ -48,7 +48,7 @@ En e gi maparo pile Chunya mor kuomi, Ruodha.
 Title | Onge Osiep Moro Kaka Yesu_1 |
 Key |  |
 Titles | undefined |
-First Line | Abolo kuyona duto Kak` iwito law moti. Iseruaka gi mor mari, Opong`o dhoga gi pak; |
+First Line | Abolo kuyona duto Ka'iwito law moti. Iseruaka gi mor mari, Opon' dhoga gi pak; |
 Author | 
 Year | 
 Composer| |

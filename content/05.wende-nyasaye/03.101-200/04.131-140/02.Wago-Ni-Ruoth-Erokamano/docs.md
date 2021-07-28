@@ -3,9 +3,9 @@ title: |
     132. Wago Ni Ruoth Erokamano - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 132. Wago Ni Ruoth Erokamano. Wago ni Ruoth Nyasachwa erokamano ngang`; To oseritowa ma nyaka nend` okinyi. Yesu ritwa gotienoni, kaka iseritowa chon.  
+        Wende Nyasaye (Nyagendia) 132. Wago Ni Ruoth Erokamano. Wago ni Ruoth Nyasachwa erokamano ngan' To oseritowa ma nyaka nen'okinyi. Yesu ritwa gotienoni, kaka iseritowa chon.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Wago Ni Ruoth Erokamano, Wago ni Ruoth Nyasachwa erokamano ngang`; To oseritowa ma nyaka nend` okinyi.. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Wago Ni Ruoth Erokamano, Wago ni Ruoth Nyasachwa erokamano ngan' To oseritowa ma nyaka nen'okinyi.. 
     author: Brian Onang'o
 ---
 
@@ -15,14 +15,14 @@ metadata:
 
 ```txt
 1
-Wago ni Ruoth Nyasachwa erokamano ngang`;
-To oseritowa ma nyaka nend` okinyi.
+Wago ni Ruoth Nyasachwa erokamano ngan'
+To oseritowa ma nyaka nen'okinyi.
 Yesu ritwa gotienoni, kaka iseritowa chon.
 
 2
 To tichwa mar tinende koro oserumo;
 Kendo waduogo paki, kendo wakwayoi,
-Iritwa duto ka mang`won ka wanindo gotienoni.
+Iritwa duto ka man'on ka wanindo gotienoni.
 
 3
 Nyasaye, bedi Jakwadhwa, kaka nisingo chon
@@ -40,7 +40,7 @@ Yesu, winjwa koro: warwa e gik maricho gi.
 Title | Wago Ni Ruoth Erokamano |
 Key |  |
 Titles | undefined |
-First Line | Wago ni Ruoth Nyasachwa erokamano ngang`; To oseritowa ma nyaka nend` okinyi. |
+First Line | Wago ni Ruoth Nyasachwa erokamano ngan' To oseritowa ma nyaka nen'okinyi. |
 Author | 
 Year | 
 Composer| |

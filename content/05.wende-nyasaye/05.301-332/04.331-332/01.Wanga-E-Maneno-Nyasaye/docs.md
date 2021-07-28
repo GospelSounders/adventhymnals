@@ -3,9 +3,9 @@ title: |
     331. Wanga E Maneno Nyasaye - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 331. Wanga E Maneno Nyasaye. Wang`a e maneno Nyasaye, Ita e mawinjo Wachne; Tienda e mawuotho e yorene, Dhoga e mapako duong`ne; Lueta e matiyo tichne, Chunya e maherego pile.   
+        Wende Nyasaye (Nyagendia) 331. Wanga E Maneno Nyasaye. Wan' e maneno Nyasaye, Ita e mawinjo Wachne; Tienda e mawuotho e yorene, Dhoga e mapako duon'e; Lueta e matiyo tichne, Chunya e maherego pile.   
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Wanga E Maneno Nyasaye, Wang`a e maneno Nyasaye, Ita e mawinjo Wachne;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Wanga E Maneno Nyasaye, Wan' e maneno Nyasaye, Ita e mawinjo Wachne;. 
     author: Brian Onang'o
 ---
 
@@ -14,10 +14,10 @@ metadata:
 ####  Wende Nyasaye (Nyagendia),
 
 ```txt
-Wang`a e maneno Nyasaye,
+Wan' e maneno Nyasaye,
 Ita e mawinjo Wachne;
 Tienda e mawuotho e yorene,
-Dhoga e mapako duong`ne;
+Dhoga e mapako duon'e;
 Lueta e matiyo tichne,
 Chunya e maherego pile.
 
@@ -30,7 +30,7 @@ Chunya e maherego pile.
 Title | Wanga E Maneno Nyasaye |
 Key |  |
 Titles | undefined |
-First Line | Wang`a e maneno Nyasaye, Ita e mawinjo Wachne; |
+First Line | Wan' e maneno Nyasaye, Ita e mawinjo Wachne; |
 Author | 
 Year | 
 Composer| |

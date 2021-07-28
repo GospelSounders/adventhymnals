@@ -3,7 +3,7 @@ title: |
     101. Chunguru Matek Kuom Ruoth - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 101. Chunguru Matek Kuom Ruoth. Chunguru matek kuom Ruoth Nyasachwa, Kuneno chandruok, ka temruok biro; En e tekowa, bende ngimawa Ka richo dwaro lowa.  Chorus: Wachunguru matek, wachunguru matek, Kuom Kristo ma Lwandawa; Ka wadhil e lwenjwa,wanabed gi mor, Kod jogo molworo kom duong`.  
+        Wende Nyasaye (Nyagendia) 101. Chunguru Matek Kuom Ruoth. Chunguru matek kuom Ruoth Nyasachwa, Kuneno chandruok, ka temruok biro; En e tekowa, bende ngimawa Ka richo dwaro lowa.  Chorus: Wachunguru matek, wachunguru matek, Kuom Kristo ma Lwandawa; Ka wadhil e lwenjwa,wanabed gi mor, Kod jogo molworo kom duon'  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Chunguru Matek Kuom Ruoth, Chunguru matek kuom Ruoth Nyasachwa, Kuneno chandruok, ka temruok biro;. Wachunguru matek, wachunguru matek,
     author: Brian Onang'o
@@ -24,7 +24,7 @@ Chorus:
 Wachunguru matek, wachunguru matek,
 Kuom Kristo ma Lwandawa;
 Ka wadhil e lwenjwa,wanabed gi mor,
-Kod jogo molworo kom duong`.
+Kod jogo molworo kom duon'
 
 2
 Chungi kuom adier kiwuotho e piny,
@@ -33,7 +33,7 @@ Kwageno Ruodhwa, wanalo chutho
 Richo duto manie piny.
 
 3
-Chung` matek, gene, nomiyi loyo;
+Chun'matek, gene, nomiyi loyo;
 Enoriti pile e piny marach;
 Kristo Ruoth kende mamiyi yueyo
 Ka chandruok mar piny rumo.

@@ -3,7 +3,7 @@ title: |
     299. Nende Aluoko Lueta - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 299. Nende Aluoko Lueta. Nende aluoko lueta, Mondo gibed maler; Kendo giti ni Yesu saa duto tinende.  Chorus: Onego aritra Kwonde madhiye, Mond` ati ni Yesu tich maber kende.  
+        Wende Nyasaye (Nyagendia) 299. Nende Aluoko Lueta. Nende aluoko lueta, Mondo gibed maler; Kendo giti ni Yesu saa duto tinende.  Chorus: Onego aritra Kwonde madhiye, Mon'ati ni Yesu tich maber kende.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nende Aluoko Lueta, Nende aluoko lueta, Mondo gibed maler; Kendo giti ni Yesu saa duto tinende.. Onego aritra Kwonde madhiye,
     author: Brian Onang'o
@@ -20,14 +20,14 @@ Kendo giti ni Yesu saa duto tinende.
 
 Chorus:
 Onego aritra Kwonde madhiye,
-Mond` ati ni Yesu tich maber kende.
+Mon'ati ni Yesu tich maber kende.
 
 2
-Ita ni mond` owinje E kinde duto te;
+Ita ni mon'owinje E kinde duto te;
 Abed gi chuny mar timo tich ma nyathi nyalo.
 
 3
-Wang`a mond` orit lueta kuom duto matimo;
+Wan' mon'orit lueta kuom duto matimo;
 Ni kik atim wach moro ma Yesu ok morgo.
 
 

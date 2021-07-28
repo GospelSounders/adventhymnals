@@ -3,7 +3,7 @@ title: |
     159. Chungo E Adiera Kaka Daniel - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 159. Chungo E Adiera Kaka Daniel. Chungo e adiera e winjo chik Nyasaye; Waluor jo manok moyie jogo gin lang Daniel.  Chorus: Chungi kaka Daniel, kata in kendi; Dwar ichungi motegno mond` iland wachno.  
+        Wende Nyasaye (Nyagendia) 159. Chungo E Adiera Kaka Daniel. Chungo e adiera e winjo chik Nyasaye; Waluor jo manok moyie jogo gin lang Daniel.  Chorus: Chungi kaka Daniel, kata in kendi; Dwar ichungi motegno mon'iland wachno.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Chungo E Adiera Kaka Daniel, Chungo e adiera e winjo chik Nyasaye; Waluor jo manok moyie jogo gin lang Daniel.. Chungi kaka Daniel, kata in kendi;
     author: Brian Onang'o
@@ -20,10 +20,10 @@ Waluor jo manok moyie jogo gin lang Daniel.
 
 Chorus:
 Chungi kaka Daniel, kata in kendi;
-Dwar ichungi motegno mond` iland wachno.
+Dwar ichungi motegno mon'iland wachno.
 
 2
-Ji ma rateke gilal nikech ok gi chung`;
+Ji ma rateke gilal nikech ok gi chun'
 Ma dobedo jo Nyasaye da gin gi lang Daniel.
 
 3
@@ -31,7 +31,7 @@ Ji mathoth ma rabede ma wuotho e piny;
 Gore piny matek malich komonj gi lang Daniel.
 
 4
-Ting` wach mar ritruok malo nyaka ilochi;
+Tin'wach mar ritruok malo nyaka ilochi;
 Tam Satan gogandane riwri gi lang Daniel.
 
 

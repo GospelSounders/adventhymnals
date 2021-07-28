@@ -3,7 +3,7 @@ title: |
     225. Telna O yaye Ruoth Jehova - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 225. Telna O yaye Ruoth Jehova. Telna O yaye Ruoth Jehova, Kuom wuodha e piny marach; An anyap to in gi teko Juka gi lueti matek Kuon mar polo Kuon mar polo, Pidha nyaka yieng` chutho (yieng` chutho).  
+        Wende Nyasaye (Nyagendia) 225. Telna O yaye Ruoth Jehova. Telna O yaye Ruoth Jehova, Kuom wuodha e piny marach; An anyap to in gi teko Juka gi lueti matek Kuon mar polo Kuon mar polo, Pidha nyaka yien'chutho (yien'chutho).  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Telna O yaye Ruoth Jehova, Telna O yaye Ruoth Jehova, Kuom wuodha e piny marach; An anyap to in gi teko Juka gi lueti matek. 
     author: Brian Onang'o
@@ -18,12 +18,12 @@ metadata:
 1
 Telna O yaye Ruoth Jehova, Kuom wuodha e piny marach;
 An anyap to in gi teko Juka gi lueti matek
-Kuon mar polo Kuon mar polo, Pidha nyaka yieng` chutho (yieng` chutho).
+Kuon mar polo Kuon mar polo, Pidha nyaka yien'chutho (yien'chutho).
 
 2
 Yaw koro soko mar lerni Kama pi ngima wuokie;
 Ket bor Polo maber mogwedhi Telna e wuodha duto;
-Ruoth molocho Ruoth molocho, Bed teko g`okumba (gokumba).
+Ruoth molocho Ruoth molocho, Bed teko 'kumba (gokumba).
 
 3
 Ka wuotho e geng aoch Jordan Mi mondo luocha olal;

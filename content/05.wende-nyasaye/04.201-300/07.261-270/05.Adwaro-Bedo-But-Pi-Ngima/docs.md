@@ -23,7 +23,7 @@ Adwaro bedo but pi ngima, pi mochwer e yadh Kalwari;
 Yesu En soko mar pigno, Anabed bute pile.
 
 2
-Kwaol ka wawuotho e wang`yo, owinjore wayue,
+Kwaol ka wawuotho e wan'o, owinjore wayue,
 Ka ma nitie pigno mar ngima, Manyalo miwa mor.
 
 3

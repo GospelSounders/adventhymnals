@@ -3,9 +3,9 @@ title: |
     157. Winji Jawar Ni E Dhoot - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 157. Winji Jawar Ni E Dhoot. Winji Jawar ni e dhoot irwake, irwake, irwake; Oseduong`o gi kinda irwake, irwake, irwake.  Chorus: Jawar ema ochungo e dhoot, Oseng`iyo kendo orito; Yaw chuny mar richo malach, Ruak Jawar maber iye, irwake, irwake.  
+        Wende Nyasaye (Nyagendia) 157. Winji Jawar Ni E Dhoot. Winji Jawar ni e dhoot irwake, irwake, irwake; Oseduon' gi kinda irwake, irwake, irwake.  Chorus: Jawar ema ochungo e dhoot, Osen'yo kendo orito; Yaw chuny mar richo malach, Ruak Jawar maber iye, irwake, irwake.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Winji Jawar Ni E Dhoot, Winji Jawar ni e dhoot irwake, irwake, irwake; Oseduong`o gi kinda irwake, irwake, irwake.. Jawar ema ochungo e dhoot,
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Winji Jawar Ni E Dhoot, Winji Jawar ni e dhoot irwake, irwake, irwake; Oseduon' gi kinda irwake, irwake, irwake.. Jawar ema ochungo e dhoot,
     author: Brian Onang'o
 ---
 
@@ -16,11 +16,11 @@ metadata:
 ```txt
 1
 Winji Jawar ni e dhoot irwake, irwake, irwake;
-Oseduong`o gi kinda irwake, irwake, irwake.
+Oseduon' gi kinda irwake, irwake, irwake.
 
 Chorus:
 Jawar ema ochungo e dhoot,
-Oseng`iyo kendo orito;
+Osen'yo kendo orito;
 Yaw chuny mar richo malach,
 Ruak Jawar maber iye,
 irwake, irwake.
@@ -30,7 +30,7 @@ En osiepni madieri, irwake, irwake, irwake;
 En onyalo siroi irwake, irwake, irwake.
 
 3
-Kik oduong` kayiem nono, irwake, irwake, irwake;
+Kik oduon'kayiem nono, irwake, irwake, irwake;
 Dipo ka ok oduogo irwake, irwake, irwake.
 
 4
@@ -46,7 +46,7 @@ Ruake e chuny gi mor irwake, irwake, irwake.
 Title | Winji Jawar Ni E Dhoot |
 Key |  |
 Titles | Jawar ema ochungo e dhoot, |
-First Line | Winji Jawar ni e dhoot irwake, irwake, irwake; Oseduong`o gi kinda irwake, irwake, irwake. |
+First Line | Winji Jawar ni e dhoot irwake, irwake, irwake; Oseduon' gi kinda irwake, irwake, irwake. |
 Author | 
 Year | 
 Composer| |

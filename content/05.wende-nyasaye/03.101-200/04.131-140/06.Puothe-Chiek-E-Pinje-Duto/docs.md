@@ -3,9 +3,9 @@ title: |
     136. Puothe Chiek E Pinje Duto - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 136. Puothe Chiek E Pinje Duto. Puothe chiek e pinje duto, Nitie cham mathoth maber; E pewe gi holni duto Cham orito jokeyo.  Chorus: Ruodhwa, wan wayuakni koro, Ni mond` ior jokeyo; Ni mondo gichok cham duto, Nyaka keyo rum chutho.  
+        Wende Nyasaye (Nyagendia) 136. Puothe Chiek E Pinje Duto. Puothe chiek e pinje duto, Nitie cham mathoth maber; E pewe gi holni duto Cham orito jokeyo.  Chorus: Ruodhwa, wan wayuakni koro, Ni mon'ior jokeyo; Ni mondo gichok cham duto, Nyaka keyo rum chutho.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Puothe Chiek E Pinje Duto, Puothe chiek e pinje duto, Nitie cham mathoth maber; E pewe gi holni duto Cham orito jokeyo.. Ruodhwa, wan wayuakni koro, Ni mond` ior jokeyo;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Puothe Chiek E Pinje Duto, Puothe chiek e pinje duto, Nitie cham mathoth maber; E pewe gi holni duto Cham orito jokeyo.. Ruodhwa, wan wayuakni koro, Ni mon'ior jokeyo;
     author: Brian Onang'o
 ---
 
@@ -19,16 +19,16 @@ Puothe chiek e pinje duto, Nitie cham mathoth maber;
 E pewe gi holni duto Cham orito jokeyo.
 
 Chorus:
-Ruodhwa, wan wayuakni koro, Ni mond` ior jokeyo;
+Ruodhwa, wan wayuakni koro, Ni mon'ior jokeyo;
 Ni mondo gichok cham duto, Nyaka keyo rum chutho.
 
 2
-Orgi ka chieng` wuok gokinyi, Orgi kata godiechieng`,
-Kata saa ma wang` chieng` podho, pod onego gitim tich.
+Orgi ka chien'wuok gokinyi, Orgi kata godiechien'
+Kata saa ma wan'chien'podho, pod onego gitim tich.
 
 3
 Un jokeyo ma Ruoth oro, Chokuru cham mosechiek;
-To ka tich me piny ka rumo Unubed gi mor maduong`.
+To ka tich me piny ka rumo Unubed gi mor maduon'
 
 
 
@@ -38,7 +38,7 @@ To ka tich me piny ka rumo Unubed gi mor maduong`.
 -------------|------------|
 Title | Puothe Chiek E Pinje Duto |
 Key |  |
-Titles | Ruodhwa, wan wayuakni koro, Ni mond` ior jokeyo; |
+Titles | Ruodhwa, wan wayuakni koro, Ni mon'ior jokeyo; |
 First Line | Puothe chiek e pinje duto, Nitie cham mathoth maber; E pewe gi holni duto Cham orito jokeyo. |
 Author | 
 Year | 

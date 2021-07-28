@@ -25,20 +25,20 @@ Wakiyo dala mabiro.
 Pinyni ok thurwa mwageno;
 Wakiyo dala ma ok nen;
 Zayun e nyinge dala Ruoth;
-Orieny gi ler ma nyaka chieng`,
-Orieny gi ler ma nyaka chieng`.
+Orieny gi ler ma nyaka chien'
+Orieny gi ler ma nyaka chien'
 
 3
 Dala maber mar mor gi kuwe;
 Kar hawi chandruok onge chuth;
 Da an gi buomb winyo koro,
-Daringi mond` ayue kanyo,
-Daringi mond` ayue kanyo.
+Daringi mon'ayue kanyo,
+Daringi mon'ayue kanyo.
 
 4
-Chunya, kuwe mos! Ruoth ong`eyo,
+Chunya, kuwe mos! Ruoth on'yo,
 Ndalo ma iniyud yueyo;
-E piny ka mond` atim chikne,
+E piny ka mon'atim chikne,
 Ka pod arito ndalono,
 Ka pod arito ndalono.
 

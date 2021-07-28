@@ -3,9 +3,9 @@ title: |
     267. Ka Tichna Rumo - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 267. Ka Tichna Rumo. Ka tichna rumo, masiche kogik, Bende kachopo e polo malo; Bedo but Yesu Jahera maduong` Nobedi morna mamit mosiko.  Chorus: Paki `Kristo, Kristo kende, En Jawarwa, En Wuod Nyasaye; Hera modhiero wawuoro chutho, Wapake koro, wapake tinde.  
+        Wende Nyasaye (Nyagendia) 267. Ka Tichna Rumo. Ka tichna rumo, masiche kogik, Bende kachopo e polo malo; Bedo but Yesu Jahera maduon'Nobedi morna mamit mosiko.  Chorus: Paki'risto, Kristo kende, En Jawarwa, En Wuod Nyasaye; Hera modhiero wawuoro chutho, Wapake koro, wapake tinde.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ka Tichna Rumo, Ka tichna rumo, masiche kogik, Bende kachopo e polo malo; Bedo but Yesu Jahera maduong` Nobedi morna mamit mosiko.. Paki `Kristo, Kristo kende, En Jawarwa, En Wuod Nyasaye;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ka Tichna Rumo, Ka tichna rumo, masiche kogik, Bende kachopo e polo malo; Bedo but Yesu Jahera maduon'Nobedi morna mamit mosiko.. Paki'risto, Kristo kende, En Jawarwa, En Wuod Nyasaye;
     author: Brian Onang'o
 ---
 
@@ -16,14 +16,14 @@ metadata:
 ```txt
 1
 Ka tichna rumo, masiche kogik, Bende kachopo e polo malo;
-Bedo but Yesu Jahera maduong` Nobedi morna mamit mosiko.
+Bedo but Yesu Jahera maduon'Nobedi morna mamit mosiko.
 
 Chorus:
-Paki `Kristo, Kristo kende, En Jawarwa, En Wuod Nyasaye;
+Paki'risto, Kristo kende, En Jawarwa, En Wuod Nyasaye;
 Hera modhiero wawuoro chutho, Wapake koro, wapake tinde.
 
 2
-Chieng` chopo polo gi joge duto, Nikech mirembe mawenwa richo;
+Chien'chopo polo gi joge duto, Nikech mirembe mawenwa richo;
 Kulri nyim Yesu, gi kom mar Nyasaye, Nobedi morna mamit mochwere.
 
 3
@@ -40,8 +40,8 @@ Kata kamano da Kristo paka, Chunya nobedi mamor moloyo.
 -------------|------------|
 Title | Ka Tichna Rumo |
 Key |  |
-Titles | Paki `Kristo, Kristo kende, En Jawarwa, En Wuod Nyasaye; |
-First Line | Ka tichna rumo, masiche kogik, Bende kachopo e polo malo; Bedo but Yesu Jahera maduong` Nobedi morna mamit mosiko. |
+Titles | Paki'risto, Kristo kende, En Jawarwa, En Wuod Nyasaye; |
+First Line | Ka tichna rumo, masiche kogik, Bende kachopo e polo malo; Bedo but Yesu Jahera maduon'Nobedi morna mamit mosiko. |
 Author | 
 Year | 
 Composer| |

@@ -3,9 +3,9 @@ title: |
     078. Aparo Tinende Kuom Pinyno - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 078. Aparo Tinende Kuom Pinyno. Kuom teko mar Jawar mond` ati kend` alem, Mond` atim rito ka jalok ji; Ni mondo awinj dwond Ruodha kowachona, "Bi, idonj e morna koro."  
+        Wende Nyasaye (Nyagendia) 078. Aparo Tinende Kuom Pinyno. Kuom teko mar Jawar mon'ati ken'alem, Mon'atim rito ka jalok ji; Ni mondo awinj dwond Ruodha kowachona, "Bi, idonj e morna koro."  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Aparo Tinende Kuom Pinyno, Kuom teko mar Jawar mond` ati kend` alem, Mond` atim rito ka jalok ji;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Aparo Tinende Kuom Pinyno, Kuom teko mar Jawar mon'ati ken'alem, Mon'atim rito ka jalok ji;. 
     author: Brian Onang'o
 ---
 
@@ -15,7 +15,7 @@ metadata:
 
 ```txt
 Aparo tinende kuom pinyno miwuoro,
-Ma anachopie ka chieng` podho;
+Ma anachopie ka chien'podho;
 Kachungo but Jawar, kosidhna osimbo,
 Norieny gi sulwe maler koso?
 
@@ -26,16 +26,16 @@ Kachiew gi hawi mar bedo e yueyoni,
 Sulwe norieny e osimbona?
 
 2
-Kuom teko mar Jawar mond` ati kend` alem,
-Mond` atim rito ka jalok ji;
+Kuom teko mar Jawar mon'ati ken'alem,
+Mon'atim rito ka jalok ji;
 Ni mondo awinj dwond Ruodha kowachona,
 "Bi, idonj e morna koro."
 
 3
-Nobed mor manade ka aneno wang`e,
+Nobed mor manade ka aneno wan',
 Ngimana anaket e luete;
-Sulwe nobedna duong` e dala dhahabu,
-Ka ma nayudie gweth nyaka chieng`.
+Sulwe nobedna duon'e dala dhahabu,
+Ka ma nayudie gweth nyaka chien'
 
 ```
 
@@ -44,7 +44,7 @@ Ka ma nayudie gweth nyaka chieng`.
 Title | Aparo Tinende Kuom Pinyno |
 Key |  |
 Titles | undefined |
-First Line | Kuom teko mar Jawar mond` ati kend` alem, Mond` atim rito ka jalok ji; |
+First Line | Kuom teko mar Jawar mon'ati ken'alem, Mon'atim rito ka jalok ji; |
 Author | 
 Year | 
 Composer| |

@@ -23,7 +23,7 @@ Yesu Kristo odwaro walame Mondo wabed matek;
 Miwa winj dwondi kawuono Kwatemo luwo ka.
 
 3
-Yesu Kristo odwaro walame nyaka chieng` giko piny;
+Yesu Kristo odwaro walame nyaka chien'giko piny;
 Eka kobiro omowa Noterwa e polo.
 
 4

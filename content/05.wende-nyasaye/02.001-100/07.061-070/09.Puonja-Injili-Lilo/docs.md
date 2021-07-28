@@ -15,8 +15,8 @@ metadata:
 
 ```txt
 Puonja Injili lilo, Kuom wach polo mak ne,
-Kuom Yesu bende duong`ne, Gi herane adier;
-Puonja malong`o chutho Mondo ang`e maber,
+Kuom Yesu bende duon'e, Gi herane adier;
+Puonja malon' chutho Mondo an' maber,
 Nikech arach e nyime, Nabayo chon marach.
 
 Chorus:

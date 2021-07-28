@@ -3,9 +3,9 @@ title: |
     170. Nitie Ng'ama Noyie Tho Mondo Owara - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 170. Nitie Ng'ama Noyie Tho Mondo Owara. Nitie ng`ama noyie tho mondo owara,  Mondo an marach ayud ngima.  Kendo yor kalwari noluwo kodhi tho,  Mondo owe richona duto.  	Chorus: 	Richona osegur, richona osegur,  	Noyie ting`o richona malich;  	Yesu nodhi e tho gi chandruok malich ngang`, 	Koyie ting`o richoga duto.  
+        Wende Nyasaye (Nyagendia) 170. Nitie Ng'ama Noyie Tho Mondo Owara. Nitie n'ma noyie tho mondo owara,  Mondo an marach ayud ngima.  Kendo yor kalwari noluwo kodhi tho,  Mondo owe richona duto.  	Chorus: 	Richona osegur, richona osegur,  	Noyie tin' richona malich;  	Yesu nodhi e tho gi chandruok malich ngan' 	Koyie tin' richoga duto.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nitie Ng'ama Noyie Tho Mondo Owara, Nitie ng`ama noyie tho mondo owara,  Mondo an marach ayud ngima. . Richona osegur, richona osegur, 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nitie Ng'ama Noyie Tho Mondo Owara, Nitie n'ma noyie tho mondo owara,  Mondo an marach ayud ngima. . Richona osegur, richona osegur, 
     author: Brian Onang'o
 ---
 
@@ -15,19 +15,19 @@ metadata:
 
 ```txt
 1
-Nitie ng`ama noyie tho mondo owara, 
+Nitie n'ma noyie tho mondo owara, 
 Mondo an marach ayud ngima. 
 Kendo yor kalwari noluwo kodhi tho, 
 Mondo owe richona duto.
 
 	Chorus:
 	Richona osegur, richona osegur, 
-	Noyie ting`o richona malich; 
-	Yesu nodhi e tho gi chandruok malich ngang`,
-	Koyie ting`o richoga duto.
+	Noyie tin' richona malich; 
+	Yesu nodhi e tho gi chandruok malich ngan'
+	Koyie tin' richoga duto.
 
 2
-En mang`won kendo ber, okecha pile ka 
+En man'on kendo ber, okecha pile ka 
 Oluoko chunya be mochido.
 Aonge bura moro, an thuolo chutho 
 Nikech kethna duto nosegur.
@@ -47,7 +47,7 @@ Nikech kethna duto nosegol.
 Title | Nitie Ng'ama Noyie Tho Mondo Owara |
 Key |  |
 Titles | Richona osegur, richona osegur,  |
-First Line | Nitie ng`ama noyie tho mondo owara,  Mondo an marach ayud ngima.  |
+First Line | Nitie n'ma noyie tho mondo owara,  Mondo an marach ayud ngima.  |
 Author | 
 Year | 
 Composer| |

@@ -3,9 +3,9 @@ title: |
     144. Nawinjo Yesu Kowacho - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 144. Nawinjo Yesu Kowacho. Nawinjo Yesu kowacho, "Bii Ira mond` iyue; In ng`a mojony, bi mond` iyue, Iyud yueyo kuoma." Nabirone kaka nabet, Najony, naol chutho; Yesu nomiyoa yueyo, Omiyo chunya mor.  
+        Wende Nyasaye (Nyagendia) 144. Nawinjo Yesu Kowacho. Nawinjo Yesu kowacho, "Bii Ira mon'iyue; In n' mojony, bi mon'iyue, Iyud yueyo kuoma." Nabirone kaka nabet, Najony, naol chutho; Yesu nomiyoa yueyo, Omiyo chunya mor.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nawinjo Yesu Kowacho, Nawinjo Yesu kowacho, "Bii Ira mond` iyue; In ng`a mojony, bi mond` iyue, Iyud yueyo kuoma.". 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nawinjo Yesu Kowacho, Nawinjo Yesu kowacho, "Bii Ira mon'iyue; In n' mojony, bi mon'iyue, Iyud yueyo kuoma.". 
     author: Brian Onang'o
 ---
 
@@ -15,8 +15,8 @@ metadata:
 
 ```txt
 1
-Nawinjo Yesu kowacho, "Bii Ira mond` iyue;
-In ng`a mojony, bi mond` iyue, Iyud yueyo kuoma."
+Nawinjo Yesu kowacho, "Bii Ira mon'iyue;
+In n' mojony, bi mon'iyue, Iyud yueyo kuoma."
 Nabirone kaka nabet, Najony, naol chutho;
 Yesu nomiyoa yueyo, Omiyo chunya mor.
 
@@ -28,8 +28,8 @@ Riyo norumo, to koro angima kuom Ruodha.
 
 3
 Nawinjo Yesu kowacho, "Abedo ler mar piny;
-Ng`iya koro, mudho orum, nibed gi ler pile."
-Nang`iyo Yesu, mayudo, ler kaka mar wang` chieng`;
+N'ya koro, mudho orum, nibed gi ler pile."
+Nan'yo Yesu, mayudo, ler kaka mar wan'chien'
 Nawuothi koro e lerno nyaka wuodha norum.
 
 
@@ -42,7 +42,7 @@ Nawuothi koro e lerno nyaka wuodha norum.
 Title | Nawinjo Yesu Kowacho |
 Key |  |
 Titles | undefined |
-First Line | Nawinjo Yesu kowacho, "Bii Ira mond` iyue; In ng`a mojony, bi mond` iyue, Iyud yueyo kuoma." |
+First Line | Nawinjo Yesu kowacho, "Bii Ira mon'iyue; In n' mojony, bi mon'iyue, Iyud yueyo kuoma." |
 Author | 
 Year | 
 Composer| |

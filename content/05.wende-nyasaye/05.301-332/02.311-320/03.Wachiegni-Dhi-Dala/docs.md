@@ -3,7 +3,7 @@ title: |
     313. Wachiegni Dhi Dala - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 313. Wachiegni Dhi Dala. Waweruru wer mamiyowa mor e yo, Machiegni wanadhi dalawa; Mudho norum chuth chieng`no ma Ruodhwa nobi, Machiegni wanadhi dalawa.  Chorus: Wachiegni donjo (wachiegni donjo, wachiegni donjo) Wachiegni donjo, ka chandruok orumo chuth; Wanarom chieng`no ka yembe duto okuwe, Machiegni wanadhi dalawa.  
+        Wende Nyasaye (Nyagendia) 313. Wachiegni Dhi Dala. Waweruru wer mamiyowa mor e yo, Machiegni wanadhi dalawa; Mudho norum chuth chien'o ma Ruodhwa nobi, Machiegni wanadhi dalawa.  Chorus: Wachiegni donjo (wachiegni donjo, wachiegni donjo) Wachiegni donjo, ka chandruok orumo chuth; Wanarom chien'o ka yembe duto okuwe, Machiegni wanadhi dalawa.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Wachiegni Dhi Dala, Waweruru wer mamiyowa mor e yo, Machiegni wanadhi dalawa;. Wachiegni donjo (wachiegni donjo, wachiegni donjo)
     author: Brian Onang'o
@@ -17,19 +17,19 @@ metadata:
 1
 Waweruru wer mamiyowa mor e yo,
 Machiegni wanadhi dalawa;
-Mudho norum chuth chieng`no ma Ruodhwa nobi,
+Mudho norum chuth chien'o ma Ruodhwa nobi,
 Machiegni wanadhi dalawa.
 
 Chorus:
 Wachiegni donjo (wachiegni donjo, wachiegni donjo)
 Wachiegni donjo, ka chandruok orumo chuth;
-Wanarom chieng`no ka yembe duto okuwe,
+Wanarom chien'o ka yembe duto okuwe,
 Machiegni wanadhi dalawa.
 
 2
 Watimuru tich gi getokowa duto te,
 Machiegni wanadhi dalawa;
-To ng`uono Nyasaye nomiwa teko pile,
+To n'ono Nyasaye nomiwa teko pile,
 Machiegni wanadhi dalawa.
 
 3
@@ -41,7 +41,7 @@ Machiegni wanadhi dalawa.
 4
 Wanaywe kanyo ok wanabed gi parruok,
 Machiegni wanadhi dalawa;
-Dalano ma rieny pi wang` ok nochwerie ngang`,
+Dalano ma rieny pi wan'ok nochwerie ngan'
 Machiegni wanadhi dalawa.
 
 

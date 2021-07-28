@@ -35,7 +35,7 @@ Yesu okonyo askeche.
 3
 Wuothuru matek kik uol eyo;
 Yaluru pile wach Nyasaye.
-Un kuti maber, Chieng` kobiro
+Un kuti maber, Chien'kobiro
 Unubed  kode e ngimane.
 
 

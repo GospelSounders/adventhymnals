@@ -24,11 +24,11 @@ Wanadendi, In Ruodh polo malo.
 
 3
 Jogi maler, gwedhgi! Bed kodwa kwalemo;
-Ruoth, miwa mor kuom yueyoni, Kwarito chieng` maler.
+Ruoth, miwa mor kuom yueyoni, Kwarito chien'maler.
 
 4
 Kidich piny korumo, Kwadar a thurwa ka;
-Miwa dir kodi nyaka chieng` E dalani maler.
+Miwa dir kodi nyaka chien'E dalani maler.
 
 
 

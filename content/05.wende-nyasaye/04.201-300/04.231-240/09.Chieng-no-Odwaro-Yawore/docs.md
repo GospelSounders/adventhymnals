@@ -3,9 +3,9 @@ title: |
     239. Chieng no Odwaro Yawore - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 239. Chieng no Odwaro Yawore. Chieng`no maduong` to nobinwa piyo, mar biro Yesu; Nobi ni mondo oter nyithinde e utgi malo.  Chorus: Ti waneno chieng`no odwaro yawore, Koriembo mudho me piny; Ti waneno chieng`no odwaro  yawore, Konyruok chiegni.  
+        Wende Nyasaye (Nyagendia) 239. Chieng no Odwaro Yawore. Chien'o maduon'to nobinwa piyo, mar biro Yesu; Nobi ni mondo oter nyithinde e utgi malo.  Chorus: Ti waneno chien'o odwaro yawore, Koriembo mudho me piny; Ti waneno chien'o odwaro  yawore, Konyruok chiegni.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Chieng no Odwaro Yawore, Chieng`no maduong` to nobinwa piyo, mar biro Yesu; Nobi ni mondo oter nyithinde e utgi malo.. Ti waneno chieng`no odwaro yawore,
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Chieng no Odwaro Yawore, Chien'o maduon'to nobinwa piyo, mar biro Yesu; Nobi ni mondo oter nyithinde e utgi malo.. Ti waneno chien'o odwaro yawore,
     author: Brian Onang'o
 ---
 
@@ -15,13 +15,13 @@ metadata:
 
 ```txt
 1
-Chieng`no maduong` to nobinwa piyo, mar biro Yesu;
+Chien'o maduon'to nobinwa piyo, mar biro Yesu;
 Nobi ni mondo oter nyithinde e utgi malo.
 
 Chorus:
-Ti waneno chieng`no odwaro yawore,
+Ti waneno chien'o odwaro yawore,
 Koriembo mudho me piny;
-Ti waneno chieng`no odwaro  yawore,
+Ti waneno chien'o odwaro  yawore,
 Konyruok chiegni.
 
 2
@@ -45,8 +45,8 @@ Ok wanayuagi e pinyruodh polo, wanamor kende.
 -------------|------------|
 Title | Chieng no Odwaro Yawore |
 Key |  |
-Titles | Ti waneno chieng`no odwaro yawore, |
-First Line | Chieng`no maduong` to nobinwa piyo, mar biro Yesu; Nobi ni mondo oter nyithinde e utgi malo. |
+Titles | Ti waneno chien'o odwaro yawore, |
+First Line | Chien'o maduon'to nobinwa piyo, mar biro Yesu; Nobi ni mondo oter nyithinde e utgi malo. |
 Author | 
 Year | 
 Composer| |

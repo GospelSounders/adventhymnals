@@ -3,7 +3,7 @@ title: |
     139. Ringra Namiyo In - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 139. Ringra Namiyo In. Ringra namiyoi, remba nochwer ni in; Nawaroi adier e teko mar Satan; Yandi remba nochwer ni in, ang`o mimiyo an? Yandi remba nochwer ni in, ang`o mimiyo an?  
+        Wende Nyasaye (Nyagendia) 139. Ringra Namiyo In. Ringra namiyoi, remba nochwer ni in; Nawaroi adier e teko mar Satan; Yandi remba nochwer ni in, an' mimiyo an? Yandi remba nochwer ni in, an' mimiyo an?  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ringra Namiyo In, Ringra namiyoi, remba nochwer ni in; Nawaroi adier e teko mar Satan;. 
     author: Brian Onang'o
@@ -17,20 +17,20 @@ metadata:
 1
 Ringra namiyoi, remba nochwer ni in;
 Nawaroi adier e teko mar Satan;
-Yandi remba nochwer ni in, ang`o mimiyo an?
-Yandi remba nochwer ni in, ang`o mimiyo an?
+Yandi remba nochwer ni in, an' mimiyo an?
+Yandi remba nochwer ni in, an' mimiyo an?
 
 2
-Naweyo od Wuora, gi duong` ma nie polo;
+Naweyo od Wuora, gi duon'ma nie polo;
 Nachandora e piny, mondo anyisi yo;
-Yandi achandora ni in, ang`o mitiyona?
-Yandi achandora ni in, ang`o mitiyona?
+Yandi achandora ni in, an' mitiyona?
+Yandi achandora ni in, an' mitiyona?
 
 3
 Bura noloyoi, to an nayudo chwat;
 Natho e Kalwari, mondo akony jopiny;
-Yandi atho mond` awari; ang`o mitimona?
-Yandi atho mond` awari; ang`o mitimona?
+Yandi atho mon'awari; an' mitimona?
+Yandi atho mon'awari; an' mitimona?
 
 
 

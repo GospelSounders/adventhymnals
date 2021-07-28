@@ -23,15 +23,15 @@ Obiro, obiro, Birone koro ochiegini;
 Ee, obiro; ee, obiro; obiro machiegini.
 
 2
-Waneno tim mang`eny e piny Mapuonjowa wach birone;
-Chieng`no obiro mana ru Ma wanadhi polo.
+Waneno tim man'ny e piny Mapuonjowa wach birone;
+Chien'o obiro mana ru Ma wanadhi polo.
 
 3
-Ndalo mang`eny to lweny nitie; To pinje ok noyudi kuwe;
-Nyaka Jawarwa wir` e piny, Mond` oterwa polo.
+Ndalo man'ny to lweny nitie; To pinje ok noyudi kuwe;
+Nyaka Jawarwa wi'e piny, Mon'oterwa polo.
 
 4
-Eka e piny maber, manyien, Wanabedi ma nyaka chieng`;
+Eka e piny maber, manyien, Wanabedi ma nyaka chien'
 Ok wanachak waketh kendo, To wanamor pile.
 
 

@@ -26,26 +26,26 @@ Ka Yesu ni koda ok anyalo luor.
 
 2
 Ka Yesu ni koda ok naluor chandruok; 
-Kata tem mang`eny olworo wang`yora;
+Kata tem man'ny olworo wan'ora;
 En owuon noteme mondo okonya;
 Ka Yesu ni koda anyalo loyo.
 
 3
-Ka Yesu ni koda ok an kenda ngang`;
-Kat` osiepe weya to En Osiepna;
+Ka Yesu ni koda ok an kenda ngan'
+Ka'osiepe weya to En Osiepna;
 To kata otera e yore malich,
 Ka Yesu ni koda to nabed mamor.
 
 4
 Ka Yesu ni koda anawinj luongne;
-Kat` ochika mond` adhi e pinje mwa,
-Mond` apuonj jopiny warruok man kuom rembe;
+Ka'ochika mon'adhi e pinje mwa,
+Mon'apuonj jopiny warruok man kuom rembe;
 Ku mochiko anadhi ka wan kode.
 
 5
 Ka Yesu ni koda anyalo nindo;
 Mak aluor mudho mar tho molwora ka;
-Kang`eyo ni anachiew e giko piny,
+Kan'yo ni anachiew e giko piny,
 Ka manade kod Yesu ni ka maber.
 
 

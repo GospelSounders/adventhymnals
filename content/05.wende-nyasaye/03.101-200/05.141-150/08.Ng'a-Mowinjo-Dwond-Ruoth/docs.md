@@ -3,9 +3,9 @@ title: |
     148. Ng'a Mowinjo Dwond Ruoth - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 148. Ng'a Mowinjo Dwond Ruoth. Ng`a mowinjo dwond Ruoth, oneg` oyie;  Oland wachne mondo ji duto winje;  Wachne mond` odhiyo e pinje duto;  Ng`a mowinjo dwonde, bi.  Chorus: Ka ng`ato winjo, ka ng`ato winjo,  Ni mond` okow wachne nyaka giko piny;  Wuonwa ma Jahera e maluongowa;  Ng`a moyie mondo obi.  
+        Wende Nyasaye (Nyagendia) 148. Ng'a Mowinjo Dwond Ruoth. N' mowinjo dwond Ruoth, one'oyie;  Oland wachne mondo ji duto winje;  Wachne mon'odhiyo e pinje duto;  N' mowinjo dwonde, bi.  Chorus: Ka n'to winjo, ka n'to winjo,  Ni mon'okow wachne nyaka giko piny;  Wuonwa ma Jahera e maluongowa;  N' moyie mondo obi.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ng'a Mowinjo Dwond Ruoth, Ng`a mowinjo dwond Ruoth, oneg` oyie;  Oland wachne mondo ji duto winje; . Ka ng`ato winjo, ka ng`ato winjo, 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ng'a Mowinjo Dwond Ruoth, N' mowinjo dwond Ruoth, one'oyie;  Oland wachne mondo ji duto winje; . Ka n'to winjo, ka n'to winjo, 
     author: Brian Onang'o
 ---
 
@@ -15,28 +15,28 @@ metadata:
 
 ```txt
 1
-Ng`a mowinjo dwond Ruoth, oneg` oyie; 
+N' mowinjo dwond Ruoth, one'oyie; 
 Oland wachne mondo ji duto winje; 
-Wachne mond` odhiyo e pinje duto; 
-Ng`a mowinjo dwonde, bi.
+Wachne mon'odhiyo e pinje duto; 
+N' mowinjo dwonde, bi.
 
 Chorus:
-Ka ng`ato winjo, ka ng`ato winjo, 
-Ni mond` okow wachne nyaka giko piny; 
+Ka n'to winjo, ka n'to winjo, 
+Ni mon'okow wachne nyaka giko piny; 
 Wuonwa ma Jahera e maluongowa; 
-Ng`a moyie mondo obi.
+N' moyie mondo obi.
 
 2
-"Ng`a mobiro ira," Yesu wacho, 
+"N' mobiro ira," Yesu wacho, 
 "Kik odeki to mondo obi piyo. 
 An e Yo, Adiera, kendo an Ngima; 
-Ng`a mowinjo dwonda, bi."
+N' mowinjo dwonda, bi."
 
 3
-Ng`a madwaro chutho, osesingone, 
-Ng`a mobiro piyo ok nodog nono; 
-Ng`a madwaro chutho, noyudi ngima; 
-Ng`a moyie mondo, obi.
+N' madwaro chutho, osesingone, 
+N' mobiro piyo ok nodog nono; 
+N' madwaro chutho, noyudi ngima; 
+N' moyie mondo, obi.
 
 
 
@@ -47,8 +47,8 @@ Ng`a moyie mondo, obi.
 -------------|------------|
 Title | Ng'a Mowinjo Dwond Ruoth |
 Key |  |
-Titles | Ka ng`ato winjo, ka ng`ato winjo,  |
-First Line | Ng`a mowinjo dwond Ruoth, oneg` oyie;  Oland wachne mondo ji duto winje;  |
+Titles | Ka n'to winjo, ka n'to winjo,  |
+First Line | N' mowinjo dwond Ruoth, one'oyie;  Oland wachne mondo ji duto winje;  |
 Author | 
 Year | 
 Composer| |

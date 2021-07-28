@@ -3,9 +3,9 @@ title: |
     252. Ndalo Maduong Biro - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 252. Ndalo Maduong Biro. Ndalo maduong` biro ochiegni koro, ndalono mar biro Ruoth Yesu, Kama Ruoth nopog joge dhiyo korachich, Dongi iikri ni ndalo nogo?  Chorus: Dong iikri Dong iikri, Dong iikri ni ndalo bura, Dong iikri dong iikri ni ndalo nogo.  
+        Wende Nyasaye (Nyagendia) 252. Ndalo Maduong Biro. Ndalo maduon'biro ochiegni koro, ndalono mar biro Ruoth Yesu, Kama Ruoth nopog joge dhiyo korachich, Dongi iikri ni ndalo nogo?  Chorus: Dong iikri Dong iikri, Dong iikri ni ndalo bura, Dong iikri dong iikri ni ndalo nogo.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ndalo Maduong Biro, Ndalo maduong` biro ochiegni koro, ndalono mar biro Ruoth Yesu, Kama Ruoth nopog joge dhiyo korachich, Dongi iikri ni ndalo nogo?. Dong iikri Dong iikri, Dong iikri ni ndalo bura,
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ndalo Maduong Biro, Ndalo maduon'biro ochiegni koro, ndalono mar biro Ruoth Yesu, Kama Ruoth nopog joge dhiyo korachich, Dongi iikri ni ndalo nogo?. Dong iikri Dong iikri, Dong iikri ni ndalo bura,
     author: Brian Onang'o
 ---
 
@@ -15,7 +15,7 @@ metadata:
 
 ```txt
 1
-Ndalo maduong` biro ochiegni koro, ndalono mar biro Ruoth Yesu,
+Ndalo maduon'biro ochiegni koro, ndalono mar biro Ruoth Yesu,
 Kama Ruoth nopog joge dhiyo korachich, Dongi iikri ni ndalo nogo?
 
 Chorus:
@@ -28,7 +28,7 @@ To lerne nobi ni jogo mohero Jawargi, dong iikri ni ndalo nogo?
 
 3
 Ndalo malich biro ochiegni koro , ndalono mar biro Ruoth Yesu,
-Ka nowach ni joricho "Auru ok ang`eu", dong iikri ni ndalo nogo?
+Ka nowach ni joricho "Auru ok an'u", dong iikri ni ndalo nogo?
 
 
 
@@ -40,7 +40,7 @@ Ka nowach ni joricho "Auru ok ang`eu", dong iikri ni ndalo nogo?
 Title | Ndalo Maduong Biro |
 Key |  |
 Titles | Dong iikri Dong iikri, Dong iikri ni ndalo bura, |
-First Line | Ndalo maduong` biro ochiegni koro, ndalono mar biro Ruoth Yesu, Kama Ruoth nopog joge dhiyo korachich, Dongi iikri ni ndalo nogo? |
+First Line | Ndalo maduon'biro ochiegni koro, ndalono mar biro Ruoth Yesu, Kama Ruoth nopog joge dhiyo korachich, Dongi iikri ni ndalo nogo? |
 Author | 
 Year | 
 Composer| |

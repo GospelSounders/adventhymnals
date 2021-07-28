@@ -3,9 +3,9 @@ title: |
     188. An Ayie Ruoth Yesu Kende - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 188. An Ayie Ruoth Yesu Kende. An ayie Ruoth Yesu kende, Asewinjo wach mare; Onge gi manyalo loyo Ng`ato mogeno Yesu.  Chorus: Yesu Yesu, Yesu kaka agene! Aseteme mang`eye; Yesu, Yesu, medna teko, Mond` ageni moloyo.  
+        Wende Nyasaye (Nyagendia) 188. An Ayie Ruoth Yesu Kende. An ayie Ruoth Yesu kende, Asewinjo wach mare; Onge gi manyalo loyo N'to mogeno Yesu.  Chorus: Yesu Yesu, Yesu kaka agene! Aseteme man'ye; Yesu, Yesu, medna teko, Mon'ageni moloyo.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, An Ayie Ruoth Yesu Kende, An ayie Ruoth Yesu kende, Asewinjo wach mare; Onge gi manyalo loyo Ng`ato mogeno Yesu.. Yesu Yesu, Yesu kaka agene!
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, An Ayie Ruoth Yesu Kende, An ayie Ruoth Yesu kende, Asewinjo wach mare; Onge gi manyalo loyo N'to mogeno Yesu.. Yesu Yesu, Yesu kaka agene!
     author: Brian Onang'o
 ---
 
@@ -16,13 +16,13 @@ metadata:
 ```txt
 1
 An ayie Ruoth Yesu kende, Asewinjo wach mare;
-Onge gi manyalo loyo Ng`ato mogeno Yesu.
+Onge gi manyalo loyo N'to mogeno Yesu.
 
 Chorus:
 Yesu Yesu, Yesu kaka agene!
-Aseteme mang`eye;
+Aseteme man'ye;
 Yesu, Yesu, medna teko,
-Mond` ageni moloyo.
+Mon'ageni moloyo.
 
 2
 Kethna duto awe kuome, En oluoka gi rembe;
@@ -34,7 +34,7 @@ Kata yora timo mudho, Yesu ni lerna pile.
 
 4
 Chunya asemiyo Yesu, Ringra bende amiye;
-Yesu, Jahera, Osiepna, Nobed koda nyaka chieng`.
+Yesu, Jahera, Osiepna, Nobed koda nyaka chien'
 
 
 
@@ -46,7 +46,7 @@ Yesu, Jahera, Osiepna, Nobed koda nyaka chieng`.
 Title | An Ayie Ruoth Yesu Kende |
 Key |  |
 Titles | Yesu Yesu, Yesu kaka agene! |
-First Line | An ayie Ruoth Yesu kende, Asewinjo wach mare; Onge gi manyalo loyo Ng`ato mogeno Yesu. |
+First Line | An ayie Ruoth Yesu kende, Asewinjo wach mare; Onge gi manyalo loyo N'to mogeno Yesu. |
 Author | 
 Year | 
 Composer| |

@@ -3,9 +3,9 @@ title: |
     288. Hera Mamiyowa Mor - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 288. Hera Mamiyowa Mor. Hera mamiyowa mor, Hera maloso chuny, Omiyowa bedo mang`won; Gi ji duto pile.  Chorus: En hera; wan nyithindo mage, En hera; wabedo kaka En; Wabedo gi chuny mar hera; Kaka Nyasaye Wuonwa; Ruoth Yesu osechikowa, Waherore kama.  
+        Wende Nyasaye (Nyagendia) 288. Hera Mamiyowa Mor. Hera mamiyowa mor, Hera maloso chuny, Omiyowa bedo man'on; Gi ji duto pile.  Chorus: En hera; wan nyithindo mage, En hera; wabedo kaka En; Wabedo gi chuny mar hera; Kaka Nyasaye Wuonwa; Ruoth Yesu osechikowa, Waherore kama.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Hera Mamiyowa Mor, Hera mamiyowa mor, Hera maloso chuny, Omiyowa bedo mang`won; Gi ji duto pile.. En hera;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Hera Mamiyowa Mor, Hera mamiyowa mor, Hera maloso chuny, Omiyowa bedo man'on; Gi ji duto pile.. En hera;
     author: Brian Onang'o
 ---
 
@@ -16,7 +16,7 @@ metadata:
 ```txt
 1
 Hera mamiyowa mor, Hera maloso chuny,
-Omiyowa bedo mang`won; Gi ji duto pile.
+Omiyowa bedo man'on; Gi ji duto pile.
 
 Chorus:
 En hera;
@@ -32,8 +32,8 @@ E piny ka nitie kuyo, Chandruok, gi keth, gi tho;
 Chuny mar hera nyalo hoyo, Jo madwaro konyruok.
 
 3
-Chieng` koduogo e pinyni, Mond oterwa polo;
-Wanawer kuno nyaka chieng`, Hera mar Ruoth Yesu.
+Chien'koduogo e pinyni, Mond oterwa polo;
+Wanawer kuno nyaka chien' Hera mar Ruoth Yesu.
 
 
 
@@ -46,7 +46,7 @@ Wanawer kuno nyaka chieng`, Hera mar Ruoth Yesu.
 Title | Hera Mamiyowa Mor |
 Key |  |
 Titles | En hera; |
-First Line | Hera mamiyowa mor, Hera maloso chuny, Omiyowa bedo mang`won; Gi ji duto pile. |
+First Line | Hera mamiyowa mor, Hera maloso chuny, Omiyowa bedo man'on; Gi ji duto pile. |
 Author | 
 Year | 
 Composer| |

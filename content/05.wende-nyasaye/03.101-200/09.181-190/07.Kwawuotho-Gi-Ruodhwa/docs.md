@@ -27,12 +27,12 @@ Mondo wayud mor kuome onego wawinje.
 Ka wachandore ka, ka waneno malit,
 Wach Nyasaye nyalo boyo chunywa;
 Ok wanyal chwanyore, ok wanyal chandore,
-To Ruoth Yesu ong`eyo duto.
+To Ruoth Yesu on'yo duto.
 
 3
 Koro ok wanaluor ka wabedo kode,
 Ka Ruoth Yesu owuotho kodwa;
-Wanang`e herane ka wachiworene,
+Wanan' herane ka wachiworene,
 Eka wanamor kuome pile.
 
 4
@@ -42,7 +42,7 @@ Kik wapar rem moro, Yesu oritowa,
 Wan to mondo wagene kende.
 
 5
-Chieng` ka Yesu biro, eka wananene,
+Chien'ka Yesu biro, eka wananene,
 Bende wanamor gi Jawarwa;
 Kuyo ok wanane, kata chandruok moro,
 Wanadag kode e dalane.

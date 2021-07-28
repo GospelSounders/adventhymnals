@@ -29,7 +29,7 @@ To wadwaro mondo Nyasaye Omednwa gweth mare tinde.
 
 3
 Keturu chunyu kuom Yesu, To en nomiu kuwe mare;
-Nitie wang`yo moro bende, To en modwaro witowa.
+Nitie wan'o moro bende, To en modwaro witowa.
 
 
 

@@ -3,9 +3,9 @@ title: |
     090. Winjuru Sigandwa Miwuoro - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 090. Winjuru Sigandwa Miwuoro. Winjuru sigandwa miwuoro, Ne wadak kuom jomo lal To Yesu nolor gi duong` mare, Warowa e twech malich.  Chorus: Ng`a mowarowa e mudho? (Mak mana Yesu ma nogur) Notim`ang`o? (Notho ni in!) To en kanye? (E polo `sayo ni ji) (En malo e polo kosayo ni ji!).  
+        Wende Nyasaye (Nyagendia) 090. Winjuru Sigandwa Miwuoro. Winjuru sigandwa miwuoro, Ne wadak kuom jomo lal To Yesu nolor gi duon'mare, Warowa e twech malich.  Chorus: N' mowarowa e mudho? (Mak mana Yesu ma nogur) Noti'n'? (Notho ni in!) To en kanye? (E polo'ayo ni ji) (En malo e polo kosayo ni ji!).  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Winjuru Sigandwa Miwuoro, Winjuru sigandwa miwuoro, Ne wadak kuom jomo lal. Ng`a mowarowa e mudho?
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Winjuru Sigandwa Miwuoro, Winjuru sigandwa miwuoro, Ne wadak kuom jomo lal. N' mowarowa e mudho?
     author: Brian Onang'o
 ---
 
@@ -17,16 +17,16 @@ metadata:
 1
 Winjuru sigandwa miwuoro,
 Ne wadak kuom jomo lal
-To Yesu nolor gi duong` mare,
+To Yesu nolor gi duon'mare,
 Warowa e twech malich.
 
 Chorus:
-Ng`a mowarowa e mudho?
+N' mowarowa e mudho?
 (Mak mana Yesu ma nogur)
-Notim`ang`o?
+Noti'n'?
 (Notho ni in!)
 To en kanye?
-(E polo `sayo ni ji)
+(E polo'ayo ni ji)
 (En malo e polo kosayo ni ji!).
 
 2
@@ -36,8 +36,8 @@ Ne gigure ka gikwede chuth
 To en achiel gi Wuongi.
 
 3
-Yie mond` ichiwri ni Jawarni!
-Yie ichiwri ne sani In bende nine ng`wono mare,
+Yie mon'ichiwri ni Jawarni!
+Yie ichiwri ne sani In bende nine n'ono mare,
 Onyalo wari sani.
 
 ```
@@ -46,7 +46,7 @@ Onyalo wari sani.
 -------------|------------|
 Title | Winjuru Sigandwa Miwuoro |
 Key |  |
-Titles | Ng`a mowarowa e mudho? |
+Titles | N' mowarowa e mudho? |
 First Line | Winjuru sigandwa miwuoro, Ne wadak kuom jomo lal |
 Author | 
 Year | 

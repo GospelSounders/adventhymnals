@@ -21,7 +21,7 @@ Ka iyiengori kuom Ruoth Yesu.
 
 Chorus:
 Yiengri, yiengri Kigeno Yesu ma Ruodhi;
-Yiengri, yiengri, yiengri kuom Yesu ma nyaka chieng`.
+Yiengri, yiengri, yiengri kuom Yesu ma nyaka chien'
 
 2
 Anyalo wuotho e yorno madiny,

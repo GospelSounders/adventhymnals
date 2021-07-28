@@ -21,7 +21,7 @@ Ka onge moro madhi konyoa,
 Jakony jochan Iwuon, bedi koda.
 
 2
-Chieng` ndalona to koro rumona;
+Chien'ndalona to koro rumona;
 Gik managombo tinde kadhona;
 Duto maneno lokore to tho,
 In mak ilokori, bedi koda.
@@ -30,19 +30,19 @@ In mak ilokori, bedi koda.
 Pile achando, to adwaroi,
 In kendi inyalo teko mar Jachien;
 In kendi itera, In midemboa,
-E mudho be e chieng`, bedi koda.
+E mudho be e chien' bedi koda.
 
 4
 Onge maluoro, In kibed koda,
-Eka masira dak oloya ngang`;
-Tho to ok rach; to liel onyal ang`o?
-An bend` aloyogi, ka In koda.
+Eka masira dak oloya ngan'
+Tho to ok rach; to liel onyal an'?
+An ben'aloyogi, ka In koda.
 
 5
-Chieng` tho inyisa kaka In nitho;
-Ka piny ochido polo ek` orieny;
-Chieng` cha noru, to mudho duto orum,
-Kangima, kat` atho, bedi koda.
+Chien'tho inyisa kaka In nitho;
+Ka piny ochido polo e'orieny;
+Chien'cha noru, to mudho duto orum,
+Kangima, ka'atho, bedi koda.
 
 
 ```

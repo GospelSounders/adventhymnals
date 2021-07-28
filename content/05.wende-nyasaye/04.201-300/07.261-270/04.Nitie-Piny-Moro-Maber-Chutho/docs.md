@@ -3,7 +3,7 @@ title: |
     264. Nitie Piny Moro Maber Chutho - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 264. Nitie Piny Moro Maber Chutho. Nitie piny moro maber chutho; Koroni pod wanene gi chien; Nyasachwa oritowa kanyo, Olosonwa kar dak e polo.  Wanamor nyaka chieng`, Wanamor kwatundo e polo; Wanamor nyaka chieng`, Wanamor kwatundo e polo.  
+        Wende Nyasaye (Nyagendia) 264. Nitie Piny Moro Maber Chutho. Nitie piny moro maber chutho; Koroni pod wanene gi chien; Nyasachwa oritowa kanyo, Olosonwa kar dak e polo.  Wanamor nyaka chien' Wanamor kwatundo e polo; Wanamor nyaka chien' Wanamor kwatundo e polo.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nitie Piny Moro Maber Chutho, Nitie piny moro maber chutho; Koroni pod wanene gi chien; Nyasachwa oritowa kanyo, Olosonwa kar dak e polo.. 
     author: Brian Onang'o
@@ -18,15 +18,15 @@ metadata:
 Nitie piny moro maber chutho; Koroni pod wanene gi chien;
 Nyasachwa oritowa kanyo, Olosonwa kar dak e polo.
 
-Wanamor nyaka chieng`, Wanamor kwatundo e polo;
-Wanamor nyaka chieng`, Wanamor kwatundo e polo.
+Wanamor nyaka chien' Wanamor kwatundo e polo;
+Wanamor nyaka chien' Wanamor kwatundo e polo.
 
 2
-Wanawer e polo nyaka chieng`, Wer mamit mar jogo molocho;
-Kendo chunywa ok none kuyo, Kata chandruok moro nyaka chieng`.
+Wanawer e polo nyaka chien' Wer mamit mar jogo molocho;
+Kendo chunywa ok none kuyo, Kata chandruok moro nyaka chien'
 
 3
-Ruoth Nyasachwa ong`won gilala Wagoyone erokamano,
+Ruoth Nyasachwa on'on gilala Wagoyone erokamano,
 Nikech wuode ma nochiwonwa, To gi gwethne mosemiyowa.
 
 

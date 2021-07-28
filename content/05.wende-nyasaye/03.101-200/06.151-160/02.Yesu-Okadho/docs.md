@@ -21,8 +21,8 @@ Wengeu noyepi mondo unen; Biuru!
 Yesu nomiu neno.
 
 2
-Yesu okadho, Yesu okadho, Biuru, rang`onde, ni Jathieth ji;
-Rembe nochwernu, ni mond` owaru, 
+Yesu okadho, Yesu okadho, Biuru, ran'nde, ni Jathieth ji;
+Rembe nochwernu, ni mon'owaru, 
 To enowinju kuluonge koro;
 Yesu okadho, odwaro konyu.
 

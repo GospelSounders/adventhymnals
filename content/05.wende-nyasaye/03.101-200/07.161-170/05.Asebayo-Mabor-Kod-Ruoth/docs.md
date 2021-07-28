@@ -24,7 +24,7 @@ Yie mondo iruaka chuth,
 Ruoth, abironi.
 
 2
-Asebayo ndalo mang`eny, Koro aduogo; 
+Asebayo ndalo man'ny, Koro aduogo; 
 Chunya olokreni, Ruodha, koro aduogo.
 
 3

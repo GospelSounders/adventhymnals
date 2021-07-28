@@ -30,7 +30,7 @@ Mondo akelgi, duto giyudi Ngima mochwere mosingonwa.
 
 3
 Mano e tich ma adwaro timo, tinde awinjo koluongae;
-Mondo ating` rombe mosepodho, akelgi ir Jakwadha Maber.
+Mondo atin'rombe mosepodho, akelgi ir Jakwadha Maber.
 
 
 

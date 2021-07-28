@@ -3,9 +3,9 @@ title: |
     266. E Pinyno Maber Manyien - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 266. E Pinyno Maber Manyien. E pinyno maber manyien, Nitie dala maler; Nosiki ma nyaka chieng`, Kendo mudho onge.  Chorus: Nyasaye noyuwe pi wang`wa, Onge tho kata kuyo; Ok gikwan kata ndalo (ndalo), Nikech mudho onge.  
+        Wende Nyasaye (Nyagendia) 266. E Pinyno Maber Manyien. E pinyno maber manyien, Nitie dala maler; Nosiki ma nyaka chien' Kendo mudho onge.  Chorus: Nyasaye noyuwe pi wan'a, Onge tho kata kuyo; Ok gikwan kata ndalo (ndalo), Nikech mudho onge.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, E Pinyno Maber Manyien, E pinyno maber manyien, Nitie dala maler; Nosiki ma nyaka chieng`, Kendo mudho onge.. Nyasaye noyuwe pi wang`wa, Onge tho kata kuyo;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, E Pinyno Maber Manyien, E pinyno maber manyien, Nitie dala maler; Nosiki ma nyaka chien' Kendo mudho onge.. Nyasaye noyuwe pi wan'a, Onge tho kata kuyo;
     author: Brian Onang'o
 ---
 
@@ -16,10 +16,10 @@ metadata:
 ```txt
 1
 E pinyno maber manyien, Nitie dala maler;
-Nosiki ma nyaka chieng`, Kendo mudho onge.
+Nosiki ma nyaka chien' Kendo mudho onge.
 
 Chorus:
-Nyasaye noyuwe pi wang`wa, Onge tho kata kuyo;
+Nyasaye noyuwe pi wan'a, Onge tho kata kuyo;
 Ok gikwan kata ndalo (ndalo), Nikech mudho onge.
 
 2
@@ -31,7 +31,7 @@ Dhorangeyene ok lor, E dalano maler;
 Aoch ngima mol kanyo, Kendo mudho onge.
 
 4
-Kanyo ok gidwar wang` chieng`, E dalano maler;
+Kanyo ok gidwar wan'chien' E dalano maler;
 To Nyarombo En lerne, Kendo mudho onge.
 
 
@@ -42,8 +42,8 @@ To Nyarombo En lerne, Kendo mudho onge.
 -------------|------------|
 Title | E Pinyno Maber Manyien |
 Key |  |
-Titles | Nyasaye noyuwe pi wang`wa, Onge tho kata kuyo; |
-First Line | E pinyno maber manyien, Nitie dala maler; Nosiki ma nyaka chieng`, Kendo mudho onge. |
+Titles | Nyasaye noyuwe pi wan'a, Onge tho kata kuyo; |
+First Line | E pinyno maber manyien, Nitie dala maler; Nosiki ma nyaka chien' Kendo mudho onge. |
 Author | 
 Year | 
 Composer| |

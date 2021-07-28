@@ -39,10 +39,10 @@ Moherowa kama, Moherowa kama;
 Apako hera mar Jawar, Moherowa kama.
 
 5
-Ruoth, kat` an ng`a marach kama,Kuom ng`wononi maduong` 
-Isewara, ilosona, Kar bet ma nyaka chieng`.
-Kar bet ma nyaka chieng`, Kar bet ma nyaka chieng` 
-Isewara, ilosona, Kar bet ma nyaka chieng`.
+Ruoth, ka'an n' marach kama,Kuom n'ononi maduon'
+Isewara, ilosona, Kar bet ma nyaka chien'
+Kar bet ma nyaka chien' Kar bet ma nyaka chien'
+Isewara, ilosona, Kar bet ma nyaka chien'
 
 6
 To kisechiera a e liel, Miresa a e piny 

@@ -3,9 +3,9 @@ title: |
     320. Ok An Kenda Ngang - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 320. Ok An Kenda Ngang. Ok an kenda ngang`, Ok an kenda ngang`; Osingo ni ok noweya, Ok noweya kenda ngang`.    
+        Wende Nyasaye (Nyagendia) 320. Ok An Kenda Ngang. Ok an kenda ngan' Ok an kenda ngan' Osingo ni ok noweya, Ok noweya kenda ngan'    
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ok An Kenda Ngang, Ok an kenda ngang`, Ok an kenda ngang`;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ok An Kenda Ngang, Ok an kenda ngan' Ok an kenda ngan'. 
     author: Brian Onang'o
 ---
 
@@ -14,10 +14,10 @@ metadata:
 ####  Wende Nyasaye (Nyagendia),
 
 ```txt
-Ok an kenda ngang`,
-Ok an kenda ngang`;
+Ok an kenda ngan'
+Ok an kenda ngan'
 Osingo ni ok noweya,
-Ok noweya kenda ngang`.
+Ok noweya kenda ngan'
 
 
 
@@ -29,7 +29,7 @@ Ok noweya kenda ngang`.
 Title | Ok An Kenda Ngang |
 Key |  |
 Titles | undefined |
-First Line | Ok an kenda ngang`, Ok an kenda ngang`; |
+First Line | Ok an kenda ngan' Ok an kenda ngan' |
 Author | 
 Year | 
 Composer| |

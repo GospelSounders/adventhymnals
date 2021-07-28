@@ -3,7 +3,7 @@ title: |
     108. Un Jorit Mar Dala Zayun - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 108. Un Jorit Mar Dala Zayun. Un jorit mar dala Zayun, Nyiswa wach mar otieno Ratego oneno koso? Piny dwaro runwa koso? Ka ung`iyo, dong uneno ler kawuok? Ka ung`iyo, dong uneno ler kawuok?  
+        Wende Nyasaye (Nyagendia) 108. Un Jorit Mar Dala Zayun. Un jorit mar dala Zayun, Nyiswa wach mar otieno Ratego oneno koso? Piny dwaro runwa koso? Ka un'yo, dong uneno ler kawuok? Ka un'yo, dong uneno ler kawuok?  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Un Jorit Mar Dala Zayun, Un jorit mar dala Zayun, Nyiswa wach mar otieno Ratego oneno koso? Piny dwaro runwa koso?. 
     author: Brian Onang'o
@@ -17,12 +17,12 @@ metadata:
 1
 Un jorit mar dala Zayun, Nyiswa wach mar otieno
 Ratego oneno koso? Piny dwaro runwa koso?
-Ka ung`iyo, dong uneno ler kawuok?
-Ka ung`iyo, dong uneno ler kawuok?
+Ka un'yo, dong uneno ler kawuok?
+Ka un'yo, dong uneno ler kawuok?
 
 2
 Weche piny donge nyisowa, Wuodhwa ka ogik rumo
-Wachiegni gi polo koso? Wang`wa donge omake?
+Wachiegni gi polo koso? Wan'a donge omake?
 Wanyal geno, ka pinyruoth polo chiegni?
 Wanyal geno, ka pinyruoth polo chiegni?
 
@@ -33,7 +33,7 @@ Wamoruru, warruokwa koro chiegni
 Wamoruru, warruokwa koro chiegni.
 
 4
-Waseyudo jatend wang`yo, Wang`eyo pinyno chiegni
+Waseyudo jatend wan'o, Wan'yo pinyno chiegni
 Wadhiuru nyime piyo, Wagik donjo ka mokuwe
 Waweruru, ka wajiwogo chunywa
 Waweruru, ka wajiwogo chunywa.

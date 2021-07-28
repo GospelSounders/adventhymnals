@@ -36,7 +36,7 @@ Moko ketore kuom timbe piny,
 3
 Wageduru kuom Lwanda matek
 En mise ma ok nomukre;
-En gi migeno ma nyaka chieng`, 
+En gi migeno ma nyaka chien' 
 Genruok mar warruok marwa.
 
 

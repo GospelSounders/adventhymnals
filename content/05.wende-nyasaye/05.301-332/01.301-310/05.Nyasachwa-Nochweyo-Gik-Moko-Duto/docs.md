@@ -23,16 +23,16 @@ Yien, gi lum, gi chiembwa, rech man nie nam,
 Winy duto mafuyo, En nochweyogi.
 
 3
-Chieng` machiwo lerne odiechieng` pile;
+Chien'machiwo lerne odiechien'pile;
 Sulwe to gi dwe be marieny gotieno.
 
 4
-Dhano `loyo duto manochweyo chon;
+Dhano'oyo duto manochweyo chon;
 En onyalo hingo wach Nyasaye adier.
 
 5
 Paruru, nyithindo, weche mag Nyasaye;
-Chieng` unyalo donjo kama entieno.
+Chien'unyalo donjo kama entieno.
 
 
 

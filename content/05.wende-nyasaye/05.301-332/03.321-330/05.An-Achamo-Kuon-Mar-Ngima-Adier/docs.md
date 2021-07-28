@@ -3,7 +3,7 @@ title: |
     325. An Achamo Kuon Mar Ngima Adier - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 325. An Achamo Kuon Mar Ngima Adier. An achamo kuon mar ngima adier, To amodho pi mar Yesu owuon; To ng`a momodho pi kama, Riyo to ok noloye ngang`; Riyo ok noloye ngang`? Ooyo, ok noloye ngang`; Ng`a momadho pi kama riyo ok noloye ngang`; Yesu Owuon owachonwa ka riyo ok noloye ngang`.    
+        Wende Nyasaye (Nyagendia) 325. An Achamo Kuon Mar Ngima Adier. An achamo kuon mar ngima adier, To amodho pi mar Yesu owuon; To n' momodho pi kama, Riyo to ok noloye ngan' Riyo ok noloye ngan' Ooyo, ok noloye ngan' N' momadho pi kama riyo ok noloye ngan' Yesu Owuon owachonwa ka riyo ok noloye ngan'    
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, An Achamo Kuon Mar Ngima Adier, An achamo kuon mar ngima adier, To amodho pi mar Yesu owuon;. 
     author: Brian Onang'o
@@ -16,11 +16,11 @@ metadata:
 ```txt
 An achamo kuon mar ngima adier,
 To amodho pi mar Yesu owuon;
-To ng`a momodho pi kama, Riyo to ok noloye ngang`;
-Riyo ok noloye ngang`?
-Ooyo, ok noloye ngang`;
-Ng`a momadho pi kama riyo ok noloye ngang`;
-Yesu Owuon owachonwa ka riyo ok noloye ngang`.
+To n' momodho pi kama, Riyo to ok noloye ngan'
+Riyo ok noloye ngan'
+Ooyo, ok noloye ngan'
+N' momadho pi kama riyo ok noloye ngan'
+Yesu Owuon owachonwa ka riyo ok noloye ngan'
 
 
 

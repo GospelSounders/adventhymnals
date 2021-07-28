@@ -3,9 +3,9 @@ title: |
     117. Nitie Lweny Mager Ahinya - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 117. Nitie Lweny Mager Ahinya. Nitie lweny mager ahinya, kind adiera gi mudho, Ka lweny obedo malich ngang`, kwakedo gi jasigu, Ruoth dwaro joma jochir, Donge doyiengre kuomi.  Chorus: Donge doyiengre kuomi? Onego imiye duong` Wach gi chir, Muya maler Mondo oyiengre kuomi.  
+        Wende Nyasaye (Nyagendia) 117. Nitie Lweny Mager Ahinya. Nitie lweny mager ahinya, kind adiera gi mudho, Ka lweny obedo malich ngan' kwakedo gi jasigu, Ruoth dwaro joma jochir, Donge doyiengre kuomi.  Chorus: Donge doyiengre kuomi? Onego imiye duon'Wach gi chir, Muya maler Mondo oyiengre kuomi.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nitie Lweny Mager Ahinya, Nitie lweny mager ahinya, kind adiera gi mudho, Ka lweny obedo malich ngang`, kwakedo gi jasigu,. Donge doyiengre kuomi?
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Nitie Lweny Mager Ahinya, Nitie lweny mager ahinya, kind adiera gi mudho, Ka lweny obedo malich ngan' kwakedo gi jasigu,. Donge doyiengre kuomi?
     author: Brian Onang'o
 ---
 
@@ -16,7 +16,7 @@ metadata:
 ```txt
 1
 Nitie lweny mager ahinya, kind adiera gi mudho,
-Ka lweny obedo malich ngang`, kwakedo gi jasigu,
+Ka lweny obedo malich ngan' kwakedo gi jasigu,
 Ruoth dwaro joma jochir,
 Donge doyiengre kuomi.
 
@@ -48,7 +48,7 @@ Donge doyiengre kuomi.
 Title | Nitie Lweny Mager Ahinya |
 Key |  |
 Titles | Donge doyiengre kuomi? |
-First Line | Nitie lweny mager ahinya, kind adiera gi mudho, Ka lweny obedo malich ngang`, kwakedo gi jasigu, |
+First Line | Nitie lweny mager ahinya, kind adiera gi mudho, Ka lweny obedo malich ngan' kwakedo gi jasigu, |
 Author | 
 Year | 
 Composer| |

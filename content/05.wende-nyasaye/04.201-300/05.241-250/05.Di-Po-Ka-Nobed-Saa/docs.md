@@ -3,9 +3,9 @@ title: |
     245. Di Po Ka Nobed Saa - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 245. Di Po Ka Nobed Saa. Di po ka nobed saa ma wang` chieng` opilre, Kama ler oketho mudho mar otieno, Ma Yesu nobi koa polo gi duong`ne Ni mond` okaw joge e piny.  Chorus: Nyaka karang`o RuothYesu, eka wanakogi; Alleluya! Yesu biro! Alleluya, Amin! Alleluya, Amin!  
+        Wende Nyasaye (Nyagendia) 245. Di Po Ka Nobed Saa. Di po ka nobed saa ma wan'chien'opilre, Kama ler oketho mudho mar otieno, Ma Yesu nobi koa polo gi duon'e Ni mon'okaw joge e piny.  Chorus: Nyaka karan' RuothYesu, eka wanakogi; Alleluya! Yesu biro! Alleluya, Amin! Alleluya, Amin!  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Di Po Ka Nobed Saa, Di po ka nobed saa ma wang` chieng` opilre, Kama ler oketho mudho mar otieno,. Nyaka karang`o RuothYesu, eka wanakogi;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Di Po Ka Nobed Saa, Di po ka nobed saa ma wan'chien'opilre, Kama ler oketho mudho mar otieno,. Nyaka karan' RuothYesu, eka wanakogi;
     author: Brian Onang'o
 ---
 
@@ -15,19 +15,19 @@ metadata:
 
 ```txt
 1
-Di po ka nobed saa ma wang` chieng` opilre,
+Di po ka nobed saa ma wan'chien'opilre,
 Kama ler oketho mudho mar otieno,
-Ma Yesu nobi koa polo gi duong`ne
-Ni mond` okaw joge e piny.
+Ma Yesu nobi koa polo gi duon'e
+Ni mon'okaw joge e piny.
 
 Chorus:
-Nyaka karang`o RuothYesu, eka wanakogi;
+Nyaka karan' RuothYesu, eka wanakogi;
 Alleluya! Yesu biro!
 Alleluya, Amin! Alleluya, Amin!
 
 2
-Koso odiechieng`, koso ka piny oyuso, koso odiewuor,
-Ma mudho chieng` noturnwa, kod lerno malich;
+Koso odiechien' koso ka piny oyuso, koso odiewuor,
+Ma mudho chien'noturnwa, kod lerno malich;
 Ma norieny a e polo,
 Ka Ruoth Yesu omo joge.
 
@@ -39,7 +39,7 @@ Ka Ruoth Yesu omo joge.
 4
 Nikech wan wakiya ndalo ma nobie,
 Onego warit chunywa mondo waikre,
-Chieng`no kik powa, kendo bura kik lowa,
+Chien'o kik powa, kendo bura kik lowa,
 Ka Ruoth Yesu omo joge.
 
 
@@ -52,8 +52,8 @@ Ka Ruoth Yesu omo joge.
 -------------|------------|
 Title | Di Po Ka Nobed Saa |
 Key |  |
-Titles | Nyaka karang`o RuothYesu, eka wanakogi; |
-First Line | Di po ka nobed saa ma wang` chieng` opilre, Kama ler oketho mudho mar otieno, |
+Titles | Nyaka karan' RuothYesu, eka wanakogi; |
+First Line | Di po ka nobed saa ma wan'chien'opilre, Kama ler oketho mudho mar otieno, |
 Author | 
 Year | 
 Composer| |

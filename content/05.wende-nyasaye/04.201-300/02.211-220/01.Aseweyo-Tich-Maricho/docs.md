@@ -24,13 +24,13 @@ Pith adieri ni e chunya; Ruoth mar polo ni Ruodha.
 Kata ji duto oriemba, Ji duto noweyo En;
 Chuny marach owuondo pile, En kende e mageno.
 Ka da herane bet koda, Kuyo ok donyal maka.
-Ok danwang` mor e piny kae, Ka da onge herano.
+Ok danwan'mor e piny kae, Ka da onge herano.
 
 3
-Yesu kende e moroma, Muche mond` orit chunya;
+Yesu kende e moroma, Muche mon'orit chunya;
 Eka tichne anamaki, Enopuonja kindane.
-Pinywani otimo mudho; Chieng` mudho nolal chutho,
-Konya! mond` achungi chieng`no E pinyruodhi mosiko.
+Pinywani otimo mudho; Chien'mudho nolal chutho,
+Konya! mon'achungi chien'o E pinyruodhi mosiko.
 
 
 

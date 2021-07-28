@@ -23,8 +23,8 @@ Kuwe oonge e i chunywa, eka wan wachandore.
 2
 Ka Satani dwaro temwa, ka masira makowa,
 Chunywa kik oa kuom Yesu, ber kwanyiso Yesu wach;
-Ere ng`ato ma dikonywa kuom masira manie piny?
-Yesu emong`eyo nyawowa, ber kwanyiso Yesu wach.
+Ere n'to ma dikonywa kuom masira manie piny?
+Yesu emon'yo nyawowa, ber kwanyiso Yesu wach.
 
 3
 Wan wanyap, wajony to pile, richowa ohingowa;

@@ -27,13 +27,13 @@ Yesu obiro kendo.
 2
 Landuru wachno e gode gi pap:
 Yesu obiro kendo!
-Nobi gi duong`, Nyarombo ma notho;
+Nobi gi duon' Nyarombo ma notho;
 Yesu obiro kendo!
 
 3
 Landuru wachni e pinje duto:
 Yesu obiro kendo!
-Dho wedhe duto mond` owinj wachni:
+Dho wedhe duto mon'owinj wachni:
 Yesu obiro kendo!
 
 4

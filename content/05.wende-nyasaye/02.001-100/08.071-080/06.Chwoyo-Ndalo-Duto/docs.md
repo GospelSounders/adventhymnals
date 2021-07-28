@@ -3,9 +3,9 @@ title: |
     076. Chwoyo Ndalo Duto - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 076. Chwoyo Ndalo Duto. Chwoyo pinje duto, kata tek ahinya, Yesu e mochiko mond` wadhi kode; Wan gi kinde tinde, kik wanindi koro, Mondo wadhiuru chwoyo wach maber.  
+        Wende Nyasaye (Nyagendia) 076. Chwoyo Ndalo Duto. Chwoyo pinje duto, kata tek ahinya, Yesu e mochiko mon'wadhi kode; Wan gi kinde tinde, kik wanindi koro, Mondo wadhiuru chwoyo wach maber.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Chwoyo Ndalo Duto, Chwoyo pinje duto, kata tek ahinya, Yesu e mochiko mond` wadhi kode;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Chwoyo Ndalo Duto, Chwoyo pinje duto, kata tek ahinya, Yesu e mochiko mon'wadhi kode;. 
     author: Brian Onang'o
 ---
 
@@ -15,7 +15,7 @@ metadata:
 
 ```txt
 Chwoyo ndalo duto, chwoyo koth Injili,
-Chwoyo wach adiera nyaka chieng` watho.
+Chwoyo wach adiera nyaka chien'watho.
 Keyo biro chopo, piny ochiek gilala,
 Wanamor ahinya, wanamor maber.
 
@@ -27,7 +27,7 @@ Wanamor gilala keyo biro wuok.
 
 2
 Chwoyo pinje duto, kata tek ahinya,
-Yesu e mochiko mond` wadhi kode;
+Yesu e mochiko mon'wadhi kode;
 Wan gi kinde tinde, kik wanindi koro,
 Mondo wadhiuru chwoyo wach maber.
 
@@ -44,7 +44,7 @@ Keyo biro chopo, wanamor maber.
 Title | Chwoyo Ndalo Duto |
 Key |  |
 Titles | undefined |
-First Line | Chwoyo pinje duto, kata tek ahinya, Yesu e mochiko mond` wadhi kode; |
+First Line | Chwoyo pinje duto, kata tek ahinya, Yesu e mochiko mon'wadhi kode; |
 Author | 
 Year | 
 Composer| |

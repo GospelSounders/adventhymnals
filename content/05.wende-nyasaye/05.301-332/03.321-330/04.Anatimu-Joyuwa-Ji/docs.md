@@ -3,9 +3,9 @@ title: |
     324. Anatimu Joyuwa Ji - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 324. Anatimu Joyuwa Ji. Anatimu joyuwa ji, joyuwa ji, joyuwa ji; Anatimu joyuwa ji, ka ulu bang`a; Ka ulu bang`a, ka ulu bang`a; Anatimu joyuwa ji, Ka ulu bang`a.   
+        Wende Nyasaye (Nyagendia) 324. Anatimu Joyuwa Ji. Anatimu joyuwa ji, joyuwa ji, joyuwa ji; Anatimu joyuwa ji, ka ulu ban'; Ka ulu ban', ka ulu ban'; Anatimu joyuwa ji, Ka ulu ban'.   
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Anatimu Joyuwa Ji, Anatimu joyuwa ji, joyuwa ji, joyuwa ji; Anatimu joyuwa ji, ka ulu bang`a;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Anatimu Joyuwa Ji, Anatimu joyuwa ji, joyuwa ji, joyuwa ji; Anatimu joyuwa ji, ka ulu ban';. 
     author: Brian Onang'o
 ---
 
@@ -15,9 +15,9 @@ metadata:
 
 ```txt
 Anatimu joyuwa ji, joyuwa ji, joyuwa ji;
-Anatimu joyuwa ji, ka ulu bang`a;
-Ka ulu bang`a, ka ulu bang`a;
-Anatimu joyuwa ji, Ka ulu bang`a.
+Anatimu joyuwa ji, ka ulu ban';
+Ka ulu ban', ka ulu ban';
+Anatimu joyuwa ji, Ka ulu ban'.
 
 
 
@@ -28,7 +28,7 @@ Anatimu joyuwa ji, Ka ulu bang`a.
 Title | Anatimu Joyuwa Ji |
 Key |  |
 Titles | undefined |
-First Line | Anatimu joyuwa ji, joyuwa ji, joyuwa ji; Anatimu joyuwa ji, ka ulu bang`a; |
+First Line | Anatimu joyuwa ji, joyuwa ji, joyuwa ji; Anatimu joyuwa ji, ka ulu ban'; |
 Author | 
 Year | 
 Composer| |

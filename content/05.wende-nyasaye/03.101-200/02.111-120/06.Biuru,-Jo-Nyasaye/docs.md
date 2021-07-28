@@ -3,7 +3,7 @@ title: |
     116. Biuru, Jo Nyasaye - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 116. Biuru, Jo Nyasaye. Biuru, jo Nyasaye, Mohero En adier; Weruruwa gi chuny achiel, Weruruwa gi chuny achiel, Kwachokre nyim Nyasaye, Kwachokre nyim Nyasaye.  	Chorus: 	Wadhiyo (e) piny Ruodhwa, 	Dala maber mar Nyasachwa; 	Wachiko wang`wa ni Zayun (maler) 	En dala maber mar Nyasaye.  
+        Wende Nyasaye (Nyagendia) 116. Biuru, Jo Nyasaye. Biuru, jo Nyasaye, Mohero En adier; Weruruwa gi chuny achiel, Weruruwa gi chuny achiel, Kwachokre nyim Nyasaye, Kwachokre nyim Nyasaye.  	Chorus: 	Wadhiyo (e) piny Ruodhwa, 	Dala maber mar Nyasachwa; 	Wachiko wan'a ni Zayun (maler) 	En dala maber mar Nyasaye.  
     keywords:  |
         Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Biuru, Jo Nyasaye, Biuru, jo Nyasaye, Mohero En adier; Weruruwa gi chuny achiel,. Wadhiyo (e) piny Ruodhwa,
     author: Brian Onang'o
@@ -24,7 +24,7 @@ Kwachokre nyim Nyasaye.
 	Chorus:
 	Wadhiyo (e) piny Ruodhwa,
 	Dala maber mar Nyasachwa;
-	Wachiko wang`wa ni Zayun (maler)
+	Wachiko wan'a ni Zayun (maler)
 	En dala maber mar Nyasaye.
 
 2
@@ -35,7 +35,7 @@ Kwapako Ruodh polo,
 Kwapako Ruodh polo.
 
 3
-Nyithindo mag Nyasaye, Gimor ma nyaka chieng`;
+Nyithindo mag Nyasaye, Gimor ma nyaka chien'
 Ka pok gitundo par Nyasaye,
 Ka pok gitundo par Nyasaye,
 Ka pod giwuotho ka
@@ -43,8 +43,8 @@ Ka pod giwuotho ka.
 
 4
 Kata wayud chandruok E piny ma mwalo ni,
-Watego wang`wa kuomi, Ruoth,
-Watego wang`wa kuomi, Ruoth,
+Watego wan'a kuomi, Ruoth,
+Watego wan'a kuomi, Ruoth,
 Kwachiko dalani
 Kwachiko dalani.
 

@@ -3,9 +3,9 @@ title: |
     300. Yesu Analu Bang'i - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 300. Yesu Analu Bang'i. Yesu analu bang`i, Asewinji kiluonga; Adwaro mond` itelna, Inyisa wang`yori.  Chorus: Analu bang`i, analu bang`i, Analu bang`i ka ma itelona.  
+        Wende Nyasaye (Nyagendia) 300. Yesu Analu Bang'i. Yesu analu ban', Asewinji kiluonga; Adwaro mon'itelna, Inyisa wan'ori.  Chorus: Analu ban', analu ban', Analu ban' ka ma itelona.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Yesu Analu Bang'i, Yesu analu bang`i, Asewinji kiluonga; Adwaro mond` itelna, Inyisa wang`yori.. Analu bang`i, analu bang`i,
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Yesu Analu Bang'i, Yesu analu ban', Asewinji kiluonga; Adwaro mon'itelna, Inyisa wan'ori.. Analu ban', analu ban',
     author: Brian Onang'o
 ---
 
@@ -15,16 +15,16 @@ metadata:
 
 ```txt
 1
-Yesu analu bang`i, Asewinji kiluonga;
-Adwaro mond` itelna, Inyisa wang`yori.
+Yesu analu ban', Asewinji kiluonga;
+Adwaro mon'itelna, Inyisa wan'ori.
 
 Chorus:
-Analu bang`i, analu bang`i,
-Analu bang`i ka ma itelona.
+Analu ban', analu ban',
+Analu ban' ka ma itelona.
 
 2
 Yesu, mak itelona, An abiro bayo yo;
-Ok ang`eyo wang`yori, In mondo itelna.
+Ok an'yo wan'ori, In mondo itelna.
 
 3
 An kenda nanyap chutho, To di po kaol e yo;
@@ -39,8 +39,8 @@ An ageno tekoni, Adwaro itelna.
 -------------|------------|
 Title | Yesu Analu Bang'i |
 Key |  |
-Titles | Analu bang`i, analu bang`i, |
-First Line | Yesu analu bang`i, Asewinji kiluonga; Adwaro mond` itelna, Inyisa wang`yori. |
+Titles | Analu ban', analu ban', |
+First Line | Yesu analu ban', Asewinji kiluonga; Adwaro mon'itelna, Inyisa wan'ori. |
 Author | 
 Year | 
 Composer| |

@@ -3,9 +3,9 @@ title: |
     095. Jarit Go Tung Mar Injili - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 095. Jarit Go Tung Mar Injili. Jarit, go tung` mar Injili, Mond` inyis ji duto wach; Ma ka ng`ato osewinjo, Olokre ni mond` okwo.  Chorus: Jarit, go tung` mar Injili, Ka igoye gi teko; Nyasachi e mosechiki, Jo motwe giyud thuolo.  
+        Wende Nyasaye (Nyagendia) 095. Jarit Go Tung Mar Injili. Jarit, go tun'mar Injili, Mon'inyis ji duto wach; Ma ka n'to osewinjo, Olokre ni mon'okwo.  Chorus: Jarit, go tun'mar Injili, Ka igoye gi teko; Nyasachi e mosechiki, Jo motwe giyud thuolo.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Jarit Go Tung Mar Injili, Jarit, go tung` mar Injili, Mond` inyis ji duto wach; Ma ka ng`ato osewinjo, Olokre ni mond` okwo.. Jarit, go tung` mar Injili, Ka igoye gi teko;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Jarit Go Tung Mar Injili, Jarit, go tun'mar Injili, Mon'inyis ji duto wach; Ma ka n'to osewinjo, Olokre ni mon'okwo.. Jarit, go tun'mar Injili, Ka igoye gi teko;
     author: Brian Onang'o
 ---
 
@@ -17,23 +17,23 @@ metadata:
 Watchman,Blow The Gospel Horn
 
 1
-Jarit, go tung` mar Injili, Mond` inyis ji duto wach;
-Ma ka ng`ato osewinjo, Olokre ni mond` okwo.
+Jarit, go tun'mar Injili, Mon'inyis ji duto wach;
+Ma ka n'to osewinjo, Olokre ni mon'okwo.
 
 Chorus:
-Jarit, go tung` mar Injili, Ka igoye gi teko;
+Jarit, go tun'mar Injili, Ka igoye gi teko;
 Nyasachi e mosechiki, Jo motwe giyud thuolo.
 
 2
-Mond` igoye e wi gode, Kendo e pewe duto;
+Mon'igoye e wi gode, Kendo e pewe duto;
 Kwonde duto, e ru ler duto, Mondo giwinj Injili.
 
 3
-Kendo igoye e gwenge, Kod wang`yore duto te;
-Mond` iland wach ni ji duto, Kaka Wuoro luongogi.
+Kendo igoye e gwenge, Kod wan'ore duto te;
+Mon'iland wach ni ji duto, Kaka Wuoro luongogi.
 
 4
-Jogo be ma ting` ohewo, Magombo yudo thuolo;
+Jogo be ma tin'ohewo, Magombo yudo thuolo;
 Nyisgi kaka Ruoth Jawarwa, Wacho, "Biuru ira."
 
 
@@ -44,8 +44,8 @@ Nyisgi kaka Ruoth Jawarwa, Wacho, "Biuru ira."
 -------------|------------|
 Title | Jarit Go Tung Mar Injili |
 Key |  |
-Titles | Jarit, go tung` mar Injili, Ka igoye gi teko; |
-First Line | Jarit, go tung` mar Injili, Mond` inyis ji duto wach; Ma ka ng`ato osewinjo, Olokre ni mond` okwo. |
+Titles | Jarit, go tun'mar Injili, Ka igoye gi teko; |
+First Line | Jarit, go tun'mar Injili, Mon'inyis ji duto wach; Ma ka n'to osewinjo, Olokre ni mon'okwo. |
 Author | 
 Year | 
 Composer| |

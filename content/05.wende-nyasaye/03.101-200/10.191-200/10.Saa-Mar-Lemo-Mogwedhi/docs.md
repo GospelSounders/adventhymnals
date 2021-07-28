@@ -26,14 +26,14 @@ Wanayud yueyo kanyo, kik yudwa kwaonge.
 
 2
 Saa mar lemo mogwedhi, ma Jawar sudonwa;
-Chunye ng`won bende oyie winjo nyithinde;
+Chunye n'on bende oyie winjo nyithinde;
 Parruok machando chunywa, waweuru kuome;
 Wanayud yueyo kanyo, wanayud kuwe mar chuny.
 
 3
 Saa mar lemo mogwedhi, kwasudo nyim Jawar;
 Jo ma temruok oloyo noyud kuwe mar chuny;
-En gi chuny makecho ngang` wanyise masichwa;
+En gi chuny makecho ngan'wanyise masichwa;
 Wanayud yueyo kanyo, wanayud kuwe mar chuny.
 
 4

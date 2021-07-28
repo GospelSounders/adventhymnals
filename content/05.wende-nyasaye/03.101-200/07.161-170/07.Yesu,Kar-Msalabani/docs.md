@@ -24,11 +24,11 @@ Nyaka chunya noyudi, Yueyo e par Nyasaye.
 
 2
 Kanyo e kar msalaba, Herani noyuda; 
-An naluor, to In ing`won, Nimenya gi lerni.
+An naluor, to In in'on, Nimenya gi lerni.
 
 3
 Miya paro thoni, Ruoth, Kod rembi mochwerna; 
-Konya bed buti pile, Ni mond` ichik wuodha.
+Konya bed buti pile, Ni mon'ichik wuodha.
 
 4
 Ruodha, mond asiki Kanyo but msalaba, 

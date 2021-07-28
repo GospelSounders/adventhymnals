@@ -3,9 +3,9 @@ title: |
     143. Yesu Oluongowa Koro - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 143. Yesu Oluongowa Koro. Yesu oluongowa koro gi ng`wono, Oluongo in kod an be; Ochungo oko e dhoranga chunywa, Korito in kod an be.  	Chorus: 	Mondo ibi....ibi....Un jo mojony mond` ubi; 	Yesu oluongowa ire kod ng`wono, 	Jaketh mond` ibi ira.  
+        Wende Nyasaye (Nyagendia) 143. Yesu Oluongowa Koro. Yesu oluongowa koro gi n'ono, Oluongo in kod an be; Ochungo oko e dhoranga chunywa, Korito in kod an be.  	Chorus: 	Mondo ibi....ibi....Un jo mojony mon'ubi; 	Yesu oluongowa ire kod n'ono, 	Jaketh mon'ibi ira.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Yesu Oluongowa Koro, Yesu oluongowa koro gi ng`wono, Oluongo in kod an be;. Mondo ibi....ibi....Un jo mojony mond` ubi;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Yesu Oluongowa Koro, Yesu oluongowa koro gi n'ono, Oluongo in kod an be;. Mondo ibi....ibi....Un jo mojony mon'ubi;
     author: Brian Onang'o
 ---
 
@@ -15,21 +15,21 @@ metadata:
 
 ```txt
 1
-Yesu oluongowa koro gi ng`wono,
+Yesu oluongowa koro gi n'ono,
 Oluongo in kod an be;
 Ochungo oko e dhoranga chunywa,
 Korito in kod an be.
 
 	Chorus:
-	Mondo ibi....ibi....Un jo mojony mond` ubi;
-	Yesu oluongowa ire kod ng`wono,
-	Jaketh mond` ibi ira.
+	Mondo ibi....ibi....Un jo mojony mon'ubi;
+	Yesu oluongowa ire kod n'ono,
+	Jaketh mon'ibi ira.
 
 2
-Yesu osayo, marang`o wakedo?
+Yesu osayo, maran' wakedo?
 Osayo in kod an be;
-Wadeko nang`o kwachako ng`wonone?
-Ong`wonone kod an be.
+Wadeko nan' kwachako n'onone?
+On'onone kod an be.
 
 3
 Ndalo okadho, okadho mapiyo,
@@ -38,7 +38,7 @@ Pinyo biro rumo, tho chikowa koro,
 Ochiko in kod an be.
 
 4
-Paruru hera maduong` ma osingo,
+Paruru hera maduon'ma osingo,
 mosingoni kod an be;
 Kata waketho, oyie wenwa kethwa,
 Oyie weni kod an be.
@@ -52,8 +52,8 @@ Oyie weni kod an be.
 -------------|------------|
 Title | Yesu Oluongowa Koro |
 Key |  |
-Titles | Mondo ibi....ibi....Un jo mojony mond` ubi; |
-First Line | Yesu oluongowa koro gi ng`wono, Oluongo in kod an be; |
+Titles | Mondo ibi....ibi....Un jo mojony mon'ubi; |
+First Line | Yesu oluongowa koro gi n'ono, Oluongo in kod an be; |
 Author | 
 Year | 
 Composer| |

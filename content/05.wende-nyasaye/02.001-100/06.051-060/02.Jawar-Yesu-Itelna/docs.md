@@ -3,9 +3,9 @@ title: |
     052. Jawar Yesu Itelna - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 052. Jawar Yesu Itelna. Kat` apaka gingore, Inyalo kueyo yamo. Apaka mager winji kichiko mondo gikwe. In Jaloch maduong` mar nam, Jawar Yesu itelna.  
+        Wende Nyasaye (Nyagendia) 052. Jawar Yesu Itelna. Ka'apaka gingore, Inyalo kueyo yamo. Apaka mager winji kichiko mondo gikwe. In Jaloch maduon'mar nam, Jawar Yesu itelna.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Jawar Yesu Itelna, Kat` apaka gingore, Inyalo kueyo yamo. Apaka mager winji kichiko mondo gikwe.. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Jawar Yesu Itelna, Ka'apaka gingore, Inyalo kueyo yamo. Apaka mager winji kichiko mondo gikwe.. 
     author: Brian Onang'o
 ---
 
@@ -16,12 +16,12 @@ metadata:
 ```txt
 Jawar Yesu itelna e ngimana mar chandruok
 Gapaka mogingore, masiche be mopondo
-In Jaloch maduong` mar nam, Jawar Yesu itelna.
+In Jaloch maduon'mar nam, Jawar Yesu itelna.
 
 2
-Kat` apaka gingore, Inyalo kueyo yamo.
+Ka'apaka gingore, Inyalo kueyo yamo.
 Apaka mager winji kichiko mondo gikwe.
-In Jaloch maduong` mar nam, Jawar Yesu itelna.
+In Jaloch maduon'mar nam, Jawar Yesu itelna.
 
 3
 Ka achiegni gi chopo, ka yembe malich kudho
@@ -36,7 +36,7 @@ Awinji kiwachona, "Kik iluor anatelni."
 Title | Jawar Yesu Itelna |
 Key |  |
 Titles | undefined |
-First Line | Kat` apaka gingore, Inyalo kueyo yamo. Apaka mager winji kichiko mondo gikwe. |
+First Line | Ka'apaka gingore, Inyalo kueyo yamo. Apaka mager winji kichiko mondo gikwe. |
 Author | 
 Year | 
 Composer| |

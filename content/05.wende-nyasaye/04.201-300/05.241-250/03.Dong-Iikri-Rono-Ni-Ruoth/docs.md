@@ -27,8 +27,8 @@ Nobi mapiyo! Nobi mapiyo!
 Ikri mar romo ni Ruoth kobiro.
 
 2
-Ni mond` une ka teche liel kobiro, kobiro;
-Ni mond` une ka teche liel kobiro, kobiro.
+Ni mon'une ka teche liel kobiro, kobiro;
+Ni mon'une ka teche liel kobiro, kobiro.
 Nobi mapiyo! Nobi mapiyo!
 Ikri mar romo ni Ruoth kobiro.
 

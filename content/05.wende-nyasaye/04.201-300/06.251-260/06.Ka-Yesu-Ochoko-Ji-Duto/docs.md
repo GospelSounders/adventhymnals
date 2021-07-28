@@ -3,9 +3,9 @@ title: |
     256. Ka Yesu Ochoko Ji Duto - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 256. Ka Yesu Ochoko Ji Duto. Ka Yesu ochoko ji duto, kokelogi duto nyime; Eka wanabedi manade, Kwachokore winjo buchwa?  Chorus: Enool bende duto e deche, kendo lito duto enowang`; Eka wanabedi manade, ndalono mang`ongo mar chier?  
+        Wende Nyasaye (Nyagendia) 256. Ka Yesu Ochoko Ji Duto. Ka Yesu ochoko ji duto, kokelogi duto nyime; Eka wanabedi manade, Kwachokore winjo buchwa?  Chorus: Enool bende duto e deche, kendo lito duto enowan' Eka wanabedi manade, ndalono man'ngo mar chier?  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ka Yesu Ochoko Ji Duto, Ka Yesu ochoko ji duto, kokelogi duto nyime; Eka wanabedi manade, Kwachokore winjo buchwa?. Enool bende duto e deche, kendo lito duto enowang`;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ka Yesu Ochoko Ji Duto, Ka Yesu ochoko ji duto, kokelogi duto nyime; Eka wanabedi manade, Kwachokore winjo buchwa?. Enool bende duto e deche, kendo lito duto enowan'
     author: Brian Onang'o
 ---
 
@@ -19,8 +19,8 @@ Ka Yesu ochoko ji duto, kokelogi duto nyime;
 Eka wanabedi manade, Kwachokore winjo buchwa?
 
 Chorus:
-Enool bende duto e deche, kendo lito duto enowang`;
-Eka wanabedi manade, ndalono mang`ongo mar chier?
+Enool bende duto e deche, kendo lito duto enowan'
+Eka wanabedi manade, ndalono man'ngo mar chier?
 
 2
 Wanawinj dwond Yesu Jawarwa, kowacho:
@@ -36,7 +36,7 @@ Kobiro noyiewa ni rombe, ok nowitwa oko ka diek.
 
 5
 Ber waritre kwakiyo Ruodhwa, teche mondo siki kaliel;
-Ka wuodhwa e pinyni orumo, wamor gi Ruodhwa nyaka chieng`.
+Ka wuodhwa e pinyni orumo, wamor gi Ruodhwa nyaka chien'
 
 
 
@@ -46,7 +46,7 @@ Ka wuodhwa e pinyni orumo, wamor gi Ruodhwa nyaka chieng`.
 -------------|------------|
 Title | Ka Yesu Ochoko Ji Duto |
 Key |  |
-Titles | Enool bende duto e deche, kendo lito duto enowang`; |
+Titles | Enool bende duto e deche, kendo lito duto enowan' |
 First Line | Ka Yesu ochoko ji duto, kokelogi duto nyime; Eka wanabedi manade, Kwachokore winjo buchwa? |
 Author | 
 Year | 

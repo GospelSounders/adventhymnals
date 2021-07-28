@@ -21,7 +21,7 @@ Akwano mwandu ka nono,
 Anego sunga mar chunya.
 
 2
-Ruoth, kik iyie mond` apakra
+Ruoth, kik iyie mon'apakra
 Mak kuom tho Kristo Nyasacha;
 Gik ma nono maywayoa
 Achiwogi kuom remb Yesu.
@@ -30,12 +30,12 @@ Achiwogi kuom remb Yesu.
 Kuom wiye, luetene, tiende,
 Rembe nochwer koherowa;
 Noyie malit nikech jopiny,
-Notho mond` omiwa ngima.
+Notho mon'omiwa ngima.
 
 4
 Da piny duto obed mara,
 Dobed mich ma ok dak nyal rom;
-Hera maduong` kama noyud chunya, 
+Hera maduon'kama noyud chunya, 
 Ringra, ngima duto.
 
 ```

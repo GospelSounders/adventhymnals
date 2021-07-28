@@ -3,9 +3,9 @@ title: |
     060. Much Nyasaye Iler Chutho - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 060. Much Nyasaye Iler Chutho. Much Nyasaye, ahombi ngang`, Mi chunya bedo maler; Nyaka a ndalo mang`eny Kethruok oseloyoa.  
+        Wende Nyasaye (Nyagendia) 060. Much Nyasaye Iler Chutho. Much Nyasaye, ahombi ngan' Mi chunya bedo maler; Nyaka a ndalo man'ny Kethruok oseloyoa.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Much Nyasaye Iler Chutho, Much Nyasaye, ahombi ngang`, Mi chunya bedo maler;. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Much Nyasaye Iler Chutho, Much Nyasaye, ahombi ngan' Mi chunya bedo maler;. 
     author: Brian Onang'o
 ---
 
@@ -15,14 +15,14 @@ metadata:
 
 ```txt
 Much Nyasaye, Iler chutho;
-Lerni mond` omeny chunya;
+Lerni mon'omeny chunya;
 Kibedo koda Jakony,
 Mudhona duto norum.
 
 2
-Much Nyasaye, ahombi ngang`,
+Much Nyasaye, ahombi ngan'
 Mi chunya bedo maler;
-Nyaka a ndalo mang`eny
+Nyaka a ndalo man'ny
 Kethruok oseloyoa.
 
 3
@@ -41,7 +41,7 @@ Changi chunya man gi tuo.
 Title | Much Nyasaye Iler Chutho |
 Key |  |
 Titles | undefined |
-First Line | Much Nyasaye, ahombi ngang`, Mi chunya bedo maler; |
+First Line | Much Nyasaye, ahombi ngan' Mi chunya bedo maler; |
 Author | 
 Year | 
 Composer| |

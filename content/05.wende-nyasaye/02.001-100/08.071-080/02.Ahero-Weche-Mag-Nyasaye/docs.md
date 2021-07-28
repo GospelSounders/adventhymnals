@@ -3,9 +3,9 @@ title: |
     072. Ahero Weche Mag Nyasaye - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 072. Ahero Weche Mag Nyasaye. Weche mamit monyisa ka Kaka Yesu yande otho; Ee, notho kara ni mondo Anwang` ngima mochwere.  
+        Wende Nyasaye (Nyagendia) 072. Ahero Weche Mag Nyasaye. Weche mamit monyisa ka Kaka Yesu yande otho; Ee, notho kara ni mondo Anwan'ngima mochwere.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ahero Weche Mag Nyasaye, Weche mamit monyisa ka Kaka Yesu yande otho; Ee, notho kara ni mondo Anwang` ngima mochwere.. 
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Ahero Weche Mag Nyasaye, Weche mamit monyisa ka Kaka Yesu yande otho; Ee, notho kara ni mondo Anwan'ngima mochwere.. 
     author: Brian Onang'o
 ---
 
@@ -15,11 +15,11 @@ metadata:
 
 ```txt
 Ahero wache mag Nyasaye, To gin weche mamiya mor;
-Gin to ginyisa yo maber, Kendo mond` awe tim marach.
+Gin to ginyisa yo maber, Kendo mon'awe tim marach.
 
 2
 Weche mamit monyisa ka Kaka Yesu yande otho;
-Ee, notho kara ni mondo Anwang` ngima mochwere.
+Ee, notho kara ni mondo Anwan'ngima mochwere.
 
 3
 Adwaro yie weche duto ma Nyasaye osewenwa ka;
@@ -27,10 +27,10 @@ Mondo agen hera Nyasaye, Mondo an bende ahere.
 
 4
 Kaketho weche mag Nyasaye, Koro atieko chwanyora;
-Ka chunya tek, kadagi yie, Koro asemiyo wang`a.
+Ka chunya tek, kadagi yie, Koro asemiyo wan'.
 
 5
-Weche Nyasaye gin ler mar piny, Onego kik ami wang`a;
+Weche Nyasaye gin ler mar piny, Onego kik ami wan';
 To ni mondo ane lerne, Ni mondo kik achwanyora.
 
 ```
@@ -40,7 +40,7 @@ To ni mondo ane lerne, Ni mondo kik achwanyora.
 Title | Ahero Weche Mag Nyasaye |
 Key |  |
 Titles | undefined |
-First Line | Weche mamit monyisa ka Kaka Yesu yande otho; Ee, notho kara ni mondo Anwang` ngima mochwere. |
+First Line | Weche mamit monyisa ka Kaka Yesu yande otho; Ee, notho kara ni mondo Anwan'ngima mochwere. |
 Author | 
 Year | 
 Composer| |

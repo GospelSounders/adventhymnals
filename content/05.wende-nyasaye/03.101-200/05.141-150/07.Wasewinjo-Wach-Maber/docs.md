@@ -35,8 +35,8 @@ E momiyo mudho tur, Yesu ni Jawarwa.
 4
 Yaluru e piny ma ka, Yesu ni Jawarwa 
 Yaluru e pinje te, Yesu ni Jawarwa; 
-Kik wadeki, kik waling`, nyaka Yesu oduogi, 
-Nyaka ji duto ong`e, Yesu ni Jawarwa.
+Kik wadeki, kik walin' nyaka Yesu oduogi, 
+Nyaka ji duto on', Yesu ni Jawarwa.
 
 
 

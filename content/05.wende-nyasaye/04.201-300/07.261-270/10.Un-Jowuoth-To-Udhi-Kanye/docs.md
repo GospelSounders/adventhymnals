@@ -24,13 +24,13 @@ Wan wadhiyo piny mar Ruodhwa, Piny moloyo pinje te.
 Nyiswa gi mudwaro yudo, Kusetundo piny maber.
 Wanayudi gik moloyo, Yesu madhi miyowa.
 Wanane Jakonywa kucha, Gi Nyasaye to wanabedi;
-Nyaka chieng` to wanasiki, Kwasetundo piny maber.
+Nyaka chien'to wanasiki, Kwasetundo piny maber.
 
 3
 Un jowuoth to un uyie Mondo wan wadhi kodu?
 Ee, biuru, kik udeki, Ber udhi kachiel kodwa.
 Biuru, to kik uwewa, Yesu e moruako duto;
-Enoyie mondo udonji, Mond` usiki piny maber.
+Enoyie mondo udonji, Mon'usiki piny maber.
 
 
 

@@ -29,7 +29,7 @@ Kasomo wach mar Ruoth Yesu Kaka nosethona.
 
 3
 Yesu Ruodha man gi hera, Oluongoa mondo 
-Adhi e skul mar Sabato Mond` achiwne chunya.
+Adhi e skul mar Sabato Mon'achiwne chunya.
 
 
 

@@ -3,9 +3,9 @@ title: |
     286. Winjuru Tinde Dwond Jakwath - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Wende Nyasaye (Nyagendia) 286. Winjuru Tinde Dwond Jakwath. Winjuru tinde dwond Jakwath, Otieko dhi e thim malich; Ni mond` oluong rombe molal; Chunye nomor konwang`ogi.  Chorus: Keluru, keluru Rombe Yesu, moserwenyo; Keluru, keluru, Kelgiuru kak` ochiko.  
+        Wende Nyasaye (Nyagendia) 286. Winjuru Tinde Dwond Jakwath. Winjuru tinde dwond Jakwath, Otieko dhi e thim malich; Ni mon'oluong rombe molal; Chunye nomor konwan'gi.  Chorus: Keluru, keluru Rombe Yesu, moserwenyo; Keluru, keluru, Kelgiuru ka'ochiko.  
     keywords:  |
-        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Winjuru Tinde Dwond Jakwath, Winjuru tinde dwond Jakwath, Otieko dhi e thim malich; Ni mond` oluong rombe molal; Chunye nomor konwang`ogi.. Keluru, keluru Rombe Yesu, moserwenyo;
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, Winjuru Tinde Dwond Jakwath, Winjuru tinde dwond Jakwath, Otieko dhi e thim malich; Ni mon'oluong rombe molal; Chunye nomor konwan'gi.. Keluru, keluru Rombe Yesu, moserwenyo;
     author: Brian Onang'o
 ---
 
@@ -17,19 +17,19 @@ metadata:
 
 1
 Winjuru tinde dwond Jakwath, Otieko dhi e thim malich;
-Ni mond` oluong rombe molal; Chunye nomor konwang`ogi.
+Ni mon'oluong rombe molal; Chunye nomor konwan'gi.
 
 Chorus:
 Keluru, keluru Rombe Yesu, moserwenyo;
-Keluru, keluru, Kelgiuru kak` ochiko.
+Keluru, keluru, Kelgiuru ka'ochiko.
 
 2
 Koro giyuak marach e thim, To gik maricho ni kuno;
-Ng`a ma nodhi konyo Jakwath Ni mond` omany duto molal?
+N' ma nodhi konyo Jakwath Ni mon'omany duto molal?
 
 3
 Yesu noa polo malo, Nochandore marach e piny;
-Rembe nochwer mond` owarwa, Wan rombe Yesu molal.
+Rembe nochwer mon'owarwa, Wan rombe Yesu molal.
 
 4
 Rombe mamagi pod olal, Ma pok odonjo e kwedhe;
@@ -44,7 +44,7 @@ Winjuru wach Yesu tinde, "Dhiuru manyo rombega."
 Title | Winjuru Tinde Dwond Jakwath |
 Key |  |
 Titles | Keluru, keluru Rombe Yesu, moserwenyo; |
-First Line | Winjuru tinde dwond Jakwath, Otieko dhi e thim malich; Ni mond` oluong rombe molal; Chunye nomor konwang`ogi. |
+First Line | Winjuru tinde dwond Jakwath, Otieko dhi e thim malich; Ni mon'oluong rombe molal; Chunye nomor konwan'gi. |
 Author | 
 Year | 
 Composer| |
