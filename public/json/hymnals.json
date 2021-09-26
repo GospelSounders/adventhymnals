@@ -1,4 +1,15 @@
 {
+  "HfPF": {
+    "name": "Hymns for the Poor of the Flock",
+    "abbvr": "HfPF",
+    "year": "1838",
+    "numSongs": "267",
+    "lang": "en",
+    "compiler": "Unknown",
+    "siteName": "Hymns for the Poor of the Flock",
+    "link":"hymns-for-the-poor-of-the-flock",
+    "gtLink": "GospelSounders/adventhymnals/master/content/08.hymns-for-the-poor-of-the-flock"
+  },
   "MH1843": {
     "name": "Millenial Harp. Designed for Meetings on the Second Coming of Christ",
     "abbvr": "MH1843",
@@ -55,7 +66,10 @@
     "lang": "en",
     "compiler": "Belden, F. E. (Franklin Edson)",
     "link":"",
-    "gtLink": "GospelSounders/adventhymnals/master/content/02.christ-in-song"
+    "gtLink": "GospelSounders/adventhymnals/master/content/02.christ-in-song",
+    "sheets": {
+      "pdf": "https://raw.githubusercontent.com/GospelSounders/christ-in-song-pdfs/master/splitFiles"
+    }
   },
   "CH1941": {
     "name": "Church Hymnal",
@@ -65,7 +79,14 @@
     "lang": "en",
     "compiler": "The General Conference Committee",
     "link":"",
-    "gtLink": "GospelSounders/adventhymnals/master/content/03.church-hymnal"
+    "gtLink": "GospelSounders/adventhymnals/master/content/03.church-hymnal",
+    "sheets":{
+      "html": "https://raw.githubusercontent.com/GospelSounders/ch1941.adh/master/splitOriginalFiles"
+    },
+    "music":{
+      "mid":"https://raw.githubusercontent.com/GospelSounders/CHData/master/ChurchHymnalMID",
+      "mp3":"https://raw.githubusercontent.com/GospelSounders/CHData/master/ChurchHymnalMP3"
+    }
   },
   "SDAH": {
     "name": "Seventh-day Adventist Hymnal",
@@ -75,7 +96,13 @@
     "lang": "en",
     "compiler": "The Hymnal Committee",
     "link":"",
-    "gtLink": "GospelSounders/adventhymnals/master/content/04.seventh-day-adventist-hymnal"
+    "gtLink": "GospelSounders/adventhymnals/master/content/04.seventh-day-adventist-hymnal",
+    "sheets": {
+      "img": "https://raw.githubusercontent.com/GospelSounders/SDAHData/master/SDAHymnalsPhotos"
+    },
+    "music":{
+      "mid":["https://raw.githubusercontent.com/GospelSounders/SDAHData/master/SDAHymnalsMidiExtracted"]
+    }
   },
   "NZK": {
     "name": "Nyimbo za Kristo",
