@@ -1,9 +1,15 @@
 {
-  "HfPF": {
+  "HfPF1838": {
     "name": "Hymns for the Poor of the Flock",
-    "abbvr": "HfPF",
+    "abbvr": "HfPF1838",
     "year": "1838",
-    "numSongs": "267",
+    "numSongs": "453",
+    "parts": {
+      "main": { "type": "hymnal", "numSongs":377},
+      "special occassions": { "type": "hymnal", "numSongs":75},
+      "prayer": { "type": "prayer", "numSongs":1}
+    },
+    "separateParts": 1,
     "lang": "en",
     "compiler": "Unknown",
     "siteName": "Hymns for the Poor of the Flock",
@@ -42,12 +48,24 @@
     "siteName": "Hymns for Second Advent Believers"
   },
   "HT1869": {
-    "name": "Hymns and Tunes",
+    "name": "Hymns and Tunes for Those who Keep the Commandments of God and the Faith of Jesus",
+    "siteName": "Hymns and Tunes 1869",
     "abbvr": "HT1869",
     "year": "1869",
-    "numSongs": "",
+    "numSongs": "526",
     "lang": "en",
-    "compiler": ""
+    "compiler": "",
+    "link":"hymns-and-tunes-1869"
+  },
+  "HT1876": {
+    "name": "Hymns and Tunes for Those who Keep the Commandments of God and the Faith of Jesus",
+    "siteName": "Hymns and Tunes 1876",
+    "abbvr": "HT1876",
+    "year": "1876",
+    "numSongs": "526",
+    "lang": "en",
+    "compiler": "",
+    "link":"hymns-and-tunes-1876"
   },
   "HT1886": {
     "name": "The Seventh-day Adventist Hymn and Tune Book (Hymns and Tunes)",
