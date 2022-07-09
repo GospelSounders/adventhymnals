@@ -15,25 +15,23 @@ metadata:
 
 ```txt
 1.
-Wapaki,nyasaye,In miherowa ngang'!
+Wapaki, Nyasaye, In miherowa ngang'!
 Nioro Wuodi mond' othonwa e yath.
 
 Chorus:
-Alleluya! wanapaki; Alleluya! Amin.
-Alleluya!Wanapaki; Igwedhawa koro.
+Alleluya! Wanapaki; Alleluya! Amin.
+Alleluya! Wanapaki; Igwedhawa koro.
 
 2.
 Wapaki, Nyasaye, nikech Roho Maler
 Osefwenyonwa hera mar Jawarwa.
 
 3.
-Pak duto obed ni Nyasaye,
-Nyarombo Nyasaye, Ma noting'o kethwa,
-rembe nochwernwa.
+Pak duto obed ni Nyarombo Nyasaye, 
+Ma noting'o kethwa, rembe nochwernwa.
 
 4.
-Pak duto obed ni Nyasaye,
-Wuon ng'wono,
+Pak duto obed ni Nyasaye, Wuon ng'wono,
 Ma noresowa kendo oritowa.
 
 5.
