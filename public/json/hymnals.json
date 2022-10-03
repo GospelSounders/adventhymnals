@@ -1,4 +1,20 @@
 {
+  "CM2000": {
+    "name": "Campus Melodies",
+    "abbvr": "CM2000",
+    "year": "2000",
+    "numSongs": "219",
+    "parts": {
+      "main": { "type": "hymnal", "numSongs":217},
+      "anthems": { "type": "hymnal", "numSongs":2}
+    },
+    "separateParts": 1,
+    "lang": "en",
+    "compiler": "Eunice Nyakundi",
+    "siteName": "Campus Melodies",
+    "link":"campus-melodies",
+    "gtLink": "GospelSounders/adventhymnals/master/content/11.campus-melodies"
+  },
   "HfPF1838": {
     "name": "Hymns for the Poor of the Flock",
     "abbvr": "HfPF1838",
