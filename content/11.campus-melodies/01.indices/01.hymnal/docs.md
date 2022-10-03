@@ -236,64 +236,85 @@ Blessed be the name of the Lord.
 His blood can make the foulest clean, 
 Blessed be the name of the Lord.
 
-11 BEFORE JEHOVAH'S AWFUL THRONE Isaac Watts Before Jehovah's awful throne, Ye nations bow with sacred joy, Know that the Lord is God alone, He can create and He destroy.
+### 11. BEFORE JEHOVAH'S AWFUL THRONE 
+#### Author: Isaac Watts 
 
+_1 Before Jehovah's awful throne, 
+Ye nations bow with sacred joy, 
+Know that the Lord is God alone, 
+He can create and He destroy.
 
+_2 His sovereign power without our aid, 
+Made us of clay, and formed us men; 
+And when like wandering sheep we strayed, 
+He brought us to His fold again
 
+_3 We will crowd His gates with thankful songs, 
+High as the heavens our voices raise; 
+And earth with her ten thousand tongues, 
+Shall fill His courts with sounding praise.
 
+_4 Wide as the world is His command, 
+Vast as Eternity His love; 
+Firm as a rock His truth shall stand, 
+When rolling years shall cease to move.
 
+### 12. BLESSED ASSURANCE, JESUS IS MINE 
+#### Author: Fanny J. Crosby 
 
+_1 Blessed assurance, Jesus is mine! 
+O what a fore taste of glory divine! 
+Heir of salvation, purchase of God, 
+Born of his spirit, Washed in' His blood.
 
+_CHORUS
+This is my story this my song, 
+Praising my Savior all the day long,
+This is my story this is my song, 
+Praising my Savior, all the day long
 
-His sovereign power without our aid, Made us of clay, and formed us men; And when like wandering sheep we strayed, He brought us to His fold again
-
-We will crowd His gates with thankful songs, High as the heavens our voices raise; And earth with her ten thousand tongues, Shall fill His courts with sounding praise.
-
-Wide as the world is His command, Vast as Eternity His love; Firm as a rock His truth shall stand, When rolling years shall cease to move.
-
-12 BLESSED ASSURANCE,M JESUS IS MINE Fanny J. Crosby Blessed assurance, Jesus is mine! O what a fore taste of glory divine! Heir of salvation, purchase of God, Born of his spirit,
-
-Washed in' His blood.
-
-This is my story this my song, Praising my
-
-Savior all the day long, This is my story this is my song, Praising my Savior, all the day long
-
-Perfect submission, perfect delight, Visions of rapture
-
-Now burst on my sight, Angels descending, bring from above,
-
+_2 Perfect submission, perfect delight, 
+Visions of rapture, Now burst on my sight, 
+Angels descending, bring from above,
 Echoes of mercy, whispers of love.
 
-Perfect submission, all is at rest, I in my Savior am happy and blest, Watching and waiting, looking above, Filled with his goodness
+_3 Perfect submission, all is at rest, 
+I in my Savior am happy and blest, 
+Watching and waiting, looking above, 
+Filled with his goodness, Lost in his love.
 
-Lost in his love.
+### 13. BEAUTIFUL ROBES
+#### Author: E.E. Hewitt
 
-13 BEAUTIFUL ROBES
+_1 We shall walk with him in white. 
+In that country pure and bright, 
+Where shall enter naught that may defile, 
+Where the day beam ne'er declines, 
+For the blessed light that shines, 
+Is the glory of the Savior's smile.
 
-We shall walk with him in white. In that country pure and bright, Where shall enter naught that may defile, Where the day beam ne'er declines, For the blessed light that shines, is the glory of the Savior's smile.
+_CHORUS
+Beautiful robes, beautiful robes, 
+Beautiful robes, We then shall wear, 
+Garments of light, Lovely and bright, 
+Walking with Jesus in white, 
+Beautiful robes, we shall wear.
 
-Beautiful robes, beautiful robes, Beautiful robes, We then shall wear, Garments of light, Lovely and bright, Walking with Jesus in white, Beautiful robes, we shall wear.
+_2 We shall walk with him in white, 
+Where faith yields to blissful sight, 
+When the beauty of the king we see; 
+Holding converse full and sweet, 
+In a fellowship complete; 
+Waking songs of holy melody
 
-We shall walk with him in white, Where faith yields to blissful sight, When the beauty of the king we see; Holding converse full and sweet, In a fellowship complete; Waking songs of holy melody
+_3 We shall walk with Him in white,
+By the fountains of delight, 
+Where the Lamb His ransomed ones shall lead,
+For His blood shall wash each stain, 
+Till no spot of sin remain,
+And the soul forevermore is freed 
 
-8
-
-a
-
-E.E. Hewitt
-
-
-
-
-
-
-
-
-
-and sweet,In a fellowship complete; Waking songs of holy melody.
-
-We shall walk with Him in white,By the fountains of delight, Where the Lamb His ransomed ones shall lead,For His blood shall wash each stain, Till no spot of sin remain,And the soul forevermore is freed 14 SIDE BY SIDE
+14 SIDE BY SIDE
 
 Side by side we stand awaiting God's command, Worshiping the saving King.Living by His grace and moving on in faith; Jesus Himself will see us through.
 
