@@ -1,121 +1,233 @@
+# Campus Melodies
 
-1. A FEW MORE YEARS SHALL ROLL 
+### 1. A FEW MORE YEARS SHALL ROLL 
 
-A few more years shall roll, A few more seasons come, And we shall be with those that rest Asleep within the tomb: Then, O my Lord, prepare My soul for that great day; O wash me in thy precious blood, And take my sins away.
+_1 A few more years shall roll, A few more seasons come, 
+And we shall be with those that rest Asleep within the tomb: 
+Then, O my Lord, prepare My soul for that great day; 
+O wash me in thy precious blood, And take my sins away.
 
-A few more storms shall beat On this wild rocky shore, And we shall be where tempests cease, And surges swell no more: Then, O my Lord, prepare My soul for that great day; O wash me in thy precious blood, And take my sins away.
+_2 A few more storms shall beat On this wild rocky shore, 
+And we shall be where tempests cease, And surges swell no more: 
+Then, O my Lord, prepare My soul for that great day; (&c)
+O wash me in thy precious blood, And take my sins away. (&c)
 
-A few more struggle here, a few more partings sore, a few more tears and we shall weep no more: Then, O my Lord, prepare My soul for that great day; O wash me in thy precious blood, And take my sins away.
+_3 A few more struggle here, A few more partings sore, 
+A few more tears, a few more toils, And we shall weep no more: 
+Then, O my Lord, prepare My soul for that great day; (&c)
+O wash me in thy precious blood, And take my sins away.(&c)
 
-2 ABIDE WITH ME Henry F. Lyte Abide with me, fast falls the eventide; The darkness deepens; Lord, with me abide! When other helpers fail, and comforts flee, Help of the helpless, O abide with me!
+### 2. ABIDE WITH ME 
+#### Author: Henry F. Lyte 
 
-Swift to its close ebbs out life's little day Earth's joys grow dim, its glories pass away Change and decay in all around I see; O Thou, who changest not, abide with me! I need Thy presence every passing hour; What but Thy grace can foil the tempter's power? Who like Thyself my guide and stay can be? Through cloud and sunshine, O abide with me!
+_1 Abide with me, fast falls the eventide; 
+The darkness deepens; Lord, with me abide! 
+When other helpers fail, and comforts flee, 
+Help of the helpless, O abide with me!
 
-I fear no foe, with Thee at hand to bless; Ills have no weight,and tears no bitterness: Where is death's sting? where, grave, thy victory? I triumph still if Thou abide with me!
+_2 Swift to its close ebbs out life's little day 
+Earth's joys grow dim, its glories pass away 
+Change and decay in all around I see; 
+O Thou, who changest not, abide with me! 
 
-3. ALL HAIL THE POWER OF JESUS' NAME 
-Edward Perronet 
+_3 I need Thy presence every passing hour; 
+What but Thy grace can foil the tempter's power? 
+Who like Thyself my guide and stay can be? 
+Through cloud and sunshine, O abide with me!
 
-All hail the power of Jesus' name! Let angels prostrate fall; Bring forth the royal diadem, and crown Him Lord of all. Bring forth the royal diadem, and crown Him Lord of all.
+_4 I fear no foe, with Thee at hand to bless; 
+Ills have no weight,and tears no bitterness: 
+Where is death's sting? where, grave, thy victory? 
+I triumph still if Thou abide with me!
 
-Ye chosen seed of Israel's race, ye ransomed from the fall, Hail Him who saves you by His grace, and crown Him Lord of all. Hail Him who saves you by His grace, and crown Him Lord of all.
+### 3. ALL HAIL THE POWER OF JESUS' NAME 
+#### Author: Edward Perronet 
 
-Let every kindred, every tribe on this terrestrial ball To Him all majesty ascribe, and crown Him Lord of all. To Him all majesty ascribe, and crown Him Lord of all. 4-ALL THE WAY
+_1 All hail the power of Jesus' name! Let angels prostrate fall; 
+Bring forth the royal diadem, and crown Him Lord of all. 
+Bring forth the royal diadem, and crown Him Lord of all. (&c_l)
 
-Fanny J. Crosby
+_2 Ye chosen seed of Israel's race, ye ransomed from the fall, 
+Hail Him who saves you by His grace, and crown Him Lord of all. 
+Hail Him who saves you by His grace, and crown Him Lord of all. (&c_l)
 
-All the way my Savior leads me; What have I to ask beside? Can I doubt His tender mercy, Who through life has been my guide? Heavenly peace, divinest comfort, Here by faith in Him to dwell; For I know whate'er befall me, Jesus doeth all things well; For I know whate'er befall me, Jesus doeth all things well.
+_3 Let every kindred, every tribe on this terrestrial ball 
+To Him all majesty ascribe, and crown Him Lord of all. 
+To Him all majesty ascribe, and crown Him Lord of all. (&c_l)
 
-All the way my Savior leads me; Cheers each winding path I
+### 4. ALL THE WAY
+#### Author: Fanny J. Crosby
 
-tread; Gives me grace for every trial, Feeds me with the living bread; Though my weary steps may falter, And my soul athirst may be, Gushing from the Rock before me, Lo, a spring of joy I see; Gushing from the Rock before me, Lo, a spring of joy I see.
+_1 All the way my Savior leads me; 
+ What have I to ask beside? 
+Can I doubt His tender mercy, 
+Who through life has been my guide? 
+Heavenly peace, divinest comfort, 
+Here by faith in Him to dwell; 
+For I know whate'er befall me, 
+Jesus doeth all things well; 
+For I know whate'er befall me, 
+Jesus doeth all things well. (&c_l)
 
-All the way my Savior leads me; O the fullness of His love! Perfect rest to me is promised In my Father's house above; When I wake to life immortal,
+_2 All the way my Savior leads me; 
+Cheers each winding path I tread; 
+Gives me grace for every trial, 
+Feeds me with the living bread; 
+Though my weary steps may falter, 
+And my soul athirst may be, 
+Gushing from the Rock before me, 
+Lo, a spring of joy I see; 
+Gushing from the Rock before me, 
+Lo, a spring of joy I see. (&c_l)
 
-5 AMAZING GRACE!
+_3 All the way my Savior leads me; O the fullness of His love! 
+Perfect rest to me is promised In my Father's house above; 
+When I wake to life immortal,
+Wing my flight to realms of day,
+This my song thro’ endless ages
+Jesus led me all the way;
+This my song thro’ endless ages (&c_l)
+Jesus led me all the way. (&c_l)
 
-.Amazing grace! how sweet the sound, That saved a wretch like me! I once was lost, but now am found, Was blind, but now I see.
+### 5. AMAZING GRACE!
+#### Author: John Newton
 
-"Twas grace that taught my heart to fear And grace my fears relieved How precious did that grace appear The hour I first believed
+_1 Amazing grace! how sweet the sound, 
+That saved a wretch like me! 
+I once was lost, but now am found, 
+Was blind, but now I see.
 
-Through many dangers, toils, and snares, I have already come; *Tis grace that brought me save thus far, And grace will lead me home.
+_2 'Twas grace that taught my heart to fear 
+And grace my fears relieved 
+How precious did that grace appear 
+The hour I first believed
 
-6. ANYWHERE WITH JESUS
+_3 Through many dangers, toils, and snares, 
+I have already come; 
+'Tis grace that brought me save thus far, 
+And grace will lead me home.
 
-Anywhere with Jesus I can safely go, Anywhere He leads me in this world below; Anywhere without Him dearest joys would fade; Anywhere with Jesus I am not afraid.
+### 6. ANYWHERE WITH JESUS
+#### Author: Jessie H Brown
 
-5
+_1 Anywhere with Jesus I can safely go, 
+Anywhere He leads me in this world below; 
+Anywhere without Him dearest joys would fade; 
+Anywhere with Jesus I am not afraid.
 
-Jessie H brown
-
-John newton
-
-******
-
+_CHORUS
 Anywhere, anywhere! Fear I cannot know;
-
 Anywhere with Jesus I can safely go.
 
-Anywhere with Jesus I am not alone;Other friends may fail me, He is still my own; Though His hand may lead me over drearen ways, Anywhere with Jesus is a house of praise.
+_2 Anywhere with Jesus I am not alone;
+Other friends may fail me, He is still my own; 
+Though His hand may lead me over drearest ways, 
+Anywhere with Jesus is a house of praise.
 
-Anywhere with Jesus I can go to sleep, When the darkening shadows round about me creep, Knowing I shall waken nevermore to roam; Anywhere with Jesus will be home, sweet home.
+_3 Anywhere with Jesus I can go to sleep, 
+When the darkening shadows round about me creep, 
+Knowing I shall waken nevermore to roam; 
+Anywhere with Jesus will be home, sweet home.
 
-7- A SHELTER IN THE TIME OF STORM Vernon j.
+### 7. A SHELTER IN THE TIME OF STORM 
+#### Author: Vernon J.
 
-The Lord's our Rock, in Him we hide, A shelter in the time of storm; Secure whatever ill betide, A shelter in the time of storm. Mighty Rock in a weary land, Cooling shade on the burning sand Faithful guide for the pilgrim band-A shelter in the time of storm.
+_1 The Lord's our Rock, in Him we hide, 
+A shelter in the time of storm; 
+Secure whatever ill betide, 
+A shelter in the time of storm. 
 
-A shade by day, defense by night, A shelter in the time of storm No fears alarm, no foes afright, A shelter in the time of storm. The raging storms may round us beat, A shelter in the time of storm We'll never leave our safe retreat, A shelter in the time of storm.
+_CHORUS
+Mighty Rock in a weary land, 
+Cooling shade on the burning sand 
+Faithful guide for the pilgrim band
+A shelter in the time of storm.
 
-O Rock divine, O Refuge dear, A Shelter in the time of storm; Be Thou our helper ever near, A Shelter in the time of storm.
+_2 A shade by day, defense by night, 
+A shelter in the time of storm 
+No fears alarm, no foes afright, 
+A shelter in the time of storm. 
 
-8. AT THE DOOR
+_3 The raging storms may round us beat, 
+A shelter in the time of storm 
+We'll never leave our safe retreat, 
+A shelter in the time of storm.
 
-The coming King is at the door, Who once the cross for sinners bore, But now the righteous ones alone, He comes to gather home.
+_4 O Rock divine, O Refuge dear, 
+A Shelter in the time of storm; 
+Be Thou our helper ever near, 
+A Shelter in the time of storm.
 
-At the door, at the door, At the door, yes, even at the door, He is coming, He is coming, He is even at the door.
+### 8. AT THE DOOR
 
-The signs that show His coming near Are fast fulfilling year by year, And soon we'll hail the glorious dawn Of heaven's eternal morn.
+_1 The coming King is at the door, 
+Who once the cross for sinners bore, 
+But now the righteous ones alone, 
+He comes to gather home.
 
+_CHORUS
+At the door, at the door, 
+At the door, yes, even at the door, 
+He is coming, He is coming, 
+He is even at the door.
 
+_2 The signs that show His coming near 
+Are fast fulfilling year by year, 
+And soon we'll hail the glorious dawn 
+Of heaven's eternal morn.
 
+_3 Look not on earth for strife to cease, 
+Look not below for joy and peace, 
+Until the Savior comes again, 
+To banish death and sin.
 
+_4 Then in the glorious earth made new, 
+We'll dwell the countless ages through. 
+This mortal shall immortal be, 
+And time, eternity. 
 
+### 9. BAPTIZE US A NEW
+#### Author: W. A. Ogden
+_1 Baptize us anew with power from on high, 
+With love, O refresh us! Dear Savior, draw nigh.
 
-Look not on earth for strife to cease, Look not below for joy and peace, Until the Savior comes again, To banish death and sin.
+_2 We humbly beseech Thee, Lord Jesus, we pray,
+With love and the spirit baptize us today.
 
-Then in the glorious earth made new, We'll dwell the countless ages through. This mortal shall immortal be, And time, e-ter-ni-ty. BAPTIZE US A NEW
-
-W. A. Ogden
-
-Baptize us anew with power from on high, With love, O refresh us! Dear Savior, draw nigh.
-
-We humbly beseech Thee, Lord Jesus, we play,
-
-With love and the, spirit baptize us today.
-
-Unworthy we cry, Un-holy, unclean,
-
+_3 Unworthy we cry, Unholy, unclean,
 O wash us and cleanse us From sin's guilty stain
 
-O heavenly Dove, Descend from on high!
-
+_4 O heavenly Dove, Descend from on high!
 We plead Thy rich blessing, In mercy draw nigh.
 
-O list the glad voice! From heaven it came,
-
+_5 O list the glad voice! From heaven it came,
 Thou art my beloved, Well pleased I am.
 
-Charles Wesley
 
-10 BLESSED BE THE NAME
 
-O for a thousand tongues to sing, Blessed je the name of the Lord! The glories of my God and King, Blessed be the name of the Lord!
+### 10. BLESSED BE THE NAME
+#### Author: Charles Wesley
 
-Blessed be the name, Bled the name. 1.
+_1 O for a thousand tongues to sing, 
+Blessed be the name of the Lord! 
+The glories of my God and King, 
+Blessed be the name of the Lord!
 
-Blessed be the name, of the Lord Blessed be the name Blessed be the name, Blessed be the name of the Lord.
+_CHORUS
+Blessed be the name, Blessed the name.
+Blessed be the name of the Lord 
+Blessed be the name, Blessed be the name, (&c_s)
+Blessed be the name of the Lord.
 
-Jesus, the name that charms our fears, Blessed be the name of the Lord. Tis music in the sinner's ears, Blessed be the name of the Lord He breaks the power of cancelled sin, Blessed be the name of the Lord. His blood can make the foulest clean, Blessed be the name of the Lord.
+_2 Jesus the name that charms our fears, 
+Blessed be the name of the Lord. 
+'Tis music in the sinner's ears, 
+Blessed be the name of the Lord 
+
+_3 He breaks the power of cancelled sin, 
+Blessed be the name of the Lord. 
+His blood can make the foulest clean, 
+Blessed be the name of the Lord.
 
 11 BEFORE JEHOVAH'S AWFUL THRONE Isaac Watts Before Jehovah's awful throne, Ye nations bow with sacred joy, Know that the Lord is God alone, He can create and He destroy.
 
